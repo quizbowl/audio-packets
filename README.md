@@ -23,3 +23,20 @@ To play packet 1 from Imaginary Landscape No. 1, for example:
 cd il1
 ../play_il_packet.bash 1
 ```
+
+The script is controlled by the following commands:
+
+* Press <kbd>Space</kbd> to play/pause a question
+* Press <kbd>Ctrl-C</kbd> to stop a question early
+* Press <kbd>Ctrl-C</kbd> again to exit
+
+The script can be configured by enabling the following flags:
+
+* `ANSWERPLEASE`: waits and says "Answer please?" and "Time" after the question finishes
+* `ENTER`: must press enter to continue to the next question
+* `SAYANSWER`: says the answer after the question finishes
+
+The script has the following requirements:
+
+* `say`: text-to-speech Mac built-in, for speaking the question prompts and answers
+* `mplayer`: open-source media player, for playing the audio files
