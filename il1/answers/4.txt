@@ -1,0 +1,85 @@
+﻿Imaginary Landscape no. 1
+Packet 4
+
+
+5, 18, 17, 14, 11, 9, 4, 6, 2, 16, 15, 12, 1, 13, 3, 10, 19, 8, 7, 20 
+
+
+1. Name the work.
+ANSWER: Der Freischütz [or The Freeshooter]
+
+
+2. Name the composer.
+ANSWER: Franz Joseph Haydn [prompt on “Haydn”]
+
+
+3. Name the composer.
+ANSWER: Maurice Ravel
+
+
+4. Name the composer.
+ANSWER: Gabriel Fauré
+
+
+5. Name the work.
+ANSWER: Also sprach Zarathustra [or Thus Spake Zarathustra; or Thus Spoke Zarathustra]
+
+
+6. Name the work.
+ANSWER: Goldberg Variations
+
+
+7. Name the country the composers of these pieces hail from.
+ANSWER: Brazil
+
+
+8. Name the work.
+ANSWER: Swan Lake [or Lebedinoye ozero]
+
+
+9. Name the work.
+ANSWER: Show Boat
+
+
+10. Name the composer.
+ANSWER: Scott Joplin
+
+
+11. Name the composer.
+ANSWER: Arvo Pärt
+
+
+12. Name the work.
+ANSWER: Appalachian Spring
+
+
+13. Name the movie the work.
+ANSWER: The Empire Strikes Back [be generous, and prompt on “Star Wars”] 
+
+
+14. Name the work.
+ANSWER: Giuseppe Verdi’s Messa da Requiem [accept obvious equivalents such as “Verdi’s Requiem Mass”]
+
+
+15. Name the jazz artist.
+ANSWER: Glenn Miller
+
+
+16. Name the work.
+ANSWER: Sergei Rachmaninoff’s Piano Concerto No. 3 in D minor, Op. 30 [accept obvious equivalents, such as “Rachmaninoff’s 3rd Piano Concerto”]
+
+
+17. Name the composer.
+ANSWER: Giovanni Pierluigi da Palestrina
+
+
+18. Name the work.
+ANSWER: Pictures at an Exhibition [or Kartinki s vystavki – Vospominaniye o Viktore Gartmane]
+
+
+19. Name the work.
+ANSWER: Peter Grimes
+
+
+20. Name the composer.
+ANSWER: Giacomo Rossini

@@ -1,0 +1,59 @@
+Imaginary Landscape No. 3 
+Round 7 
+ 
+1. Name the work. 
+ANSWER: Jupiter Symphony
+[or Symphony No. 41 by Wolfgang Amadeus Mozart; prompt on partial answer] 
+2. Name the composer. 
+ANSWER: Johann Nepomuk Hummel 
+3. Name the composer. 
+ANSWER: Sergei Prokofiev
+[or Sergei Sergeyevich Prokofiev] 
+4. Name the composer. 
+ANSWER: Joaquín Rodrigo
+[or Joaquín Rodrigo Vidre] 
+5. Name the genre. 
+ANSWER: toccata
+[prompt on organ symphony; prompt on toccata and fugue by asking "Which of the two is it?"] 
+6. Name the work. 
+ANSWER: La forza del destino
+[or The Force of Destiny] 
+7. Name the composer. 
+ANSWER: Maurice Jarre
+[or Maurice-Alexis Jarre] 
+8. Name the work. 
+ANSWER: The Sleeping Beauty
+[or Spyashchaya krasavitsa] 
+9. Name the composer. 
+ANSWER: Andrew Lloyd Webber
+[do NOT prompt on partial answer] 
+10. Name the common event depicted in these works. 
+ANSWER: the creation of the world
+[do NOT accept "the creation of man"] 
+11. Name the genre. 
+ANSWER: octet
+[accept wind octet; accept string octet] 
+12. Name the composer. 
+ANSWER: Charles Ives
+[or Charles Edward Ives] 
+13. Name the work. 
+ANSWER: the requiem of Gabriel Fauré
+[or the requiem of Gabriel Urbain Fauré; prompt on partial answer] 
+14. Name the country of origin of the composers of these works. 
+ANSWER: Australia
+[or Commonwealth of Australia] 
+15. Name the album. 
+ANSWER: Mingus Ah Um
+[accept Mingus Mingus Mingus Mingus Mingus] 
+16. Name the album. 
+ANSWER: Bad 
+17. Name the genre. 
+ANSWER: flute concerto
+[prompt on partial answer] 
+18. Name the composer. 
+ANSWER: Carl Maria von Weber
+[or Carl Maria Friedrich Ernst von Weber] 
+19. Name the composer. 
+ANSWER: Johannes Brahms 
+20. Name the composer. 
+ANSWER: Richard Strauss

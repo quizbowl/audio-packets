@@ -1,0 +1,65 @@
+Imaginary Landscape no. 2
+
+Packet 8
+
+1. Name the composer.
+ANSWER: Dmitri Shostakovich
+
+2. Name the work.
+ANSWER: Der Rosenkavalier [or The Knight of the Rose]
+
+3. Name the composer.
+ANSWER: Johann Sebastian Bach [prompt on Bach]
+
+4. Name the work.
+ANSWER: The Light in the Piazza
+
+5. Name the type of work and composer.
+ANSWER: Piano sonatas by Ludwig van Beethoven
+
+6. Name the composer.
+ANSWER: Emmanuel Chabrier
+
+7. Name the work.
+ANSWER: Symphony No. 4 in F Minor by Pyotr Tchaikovsky
+[prompt on partial answer]
+
+8. Name the work.
+ANSWER: Elijah
+
+9. Name the work.
+ANSWER: The Merry Widow [or Die Lustige Witwe]
+
+10. Name the album.
+ANSWER: Graceland
+
+11. Name the composer.
+ANSWER: Gustav Holst
+
+12. Name the work.
+ANSWER: Peter and the Wolf
+[or Petya i volk]
+
+13. Name the work.
+ANSWER: Robocop
+
+14. Name the type of work and the composer.
+ANSWER: Bela Bartok’s string quartets
+
+15. Name the type of music these passages are imitating.
+ANSWER: Turkish style [or “alla Turca”; prompt on Oriental]
+
+16. Name the composer.
+ANSWER: Thomas Adès
+
+17. Name the work.
+ANSWER: Boris Godunov
+
+18. Name the work.
+ANSWER: The English Folk Song Suite
+
+19. Name the composer.
+ANSWER: John “Dizzy” Gillespie
+
+20. Name the country these composers are from.
+ANSWER: The United States of America [accept USA]

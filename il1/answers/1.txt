@@ -1,0 +1,82 @@
+﻿Imaginary Landscape no. 1 
+Packet 1
+
+
+1. Name the composer.
+ANSWER: Manuel de Falla
+
+
+2. Name the country the composers of these pieces are from.
+ANSWER: France
+
+
+3. Name the composer.
+ANSWER: Johann Strauss II [prompt on Strauss; accept any answer indicating the younger Strauss]
+
+
+4. Name the composer.
+ANSWER: Kurt Weill
+
+
+5. Name the composer.
+ANSWER: Bela Bartok
+
+
+6. Name the type of work.
+ANSWER: Ave Marias
+
+
+7. Name the both the type of work and their composer. 
+ANSWER: The piano sonatas of Wolfgang Amadeus Mozart [prompt on partial answer]
+
+
+8. Name the work.
+ANSWER: Psycho: A Suite for Strings
+
+
+9. Name the composer.
+ANSWER: Franz Liszt
+
+
+10. Name the work.
+ANSWER: Messiah
+
+
+11. Name the work.
+ANSWER: Emperor concerto [or Ludwig van Beethoven’s piano concerto no. 5 in E flat major; or Ludwig van Beethoven’s Opus 73] 
+
+
+12. Name the composer.
+ANSWER: Gaetano Donizetti
+
+
+13. Name the work.
+ANSWER: 1812 Overture [or The Year 1812, Festival Overture in E Flat Major]
+
+
+14. Name the composer.
+ANSWER: Max Bruch
+
+
+15. Name the composer.
+ANSWER: Alexander Borodin
+
+
+16. Name the composer.
+ANSWER: Philip Glass
+
+
+17. Name the work.
+ANSWER: Lulu
+
+
+18. Name the composer.
+ANSWER: Thelonious Monk
+
+
+19. Name the work.
+ANSWER: South Pacific
+
+
+20. Name the type of work.
+ANSWER: caprices [or capriccios]

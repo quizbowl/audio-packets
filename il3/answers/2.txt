@@ -1,0 +1,54 @@
+Imaginary Landscape No. 3 
+Round 2 
+ 
+1. Name the album. 
+ANSWER: The Marshall Mathers LP
+[or MMLP; do NOT accept " The Marshall Mathers LP 2 "; do NOT accept " MMLP2 "] 
+2. Name BOTH the genre and the composer. 
+ANSWER: the symphonies of Dmitri Shostakovich
+[or the symphonies of Dmitri Dmitriyevich Shostakovich] 
+3. Name the work. 
+ANSWER: Bye Bye Birdie 
+4. Name the composer, who is NOT John Williams. 
+ANSWER: Erich Wolfgang Korngold 
+5. Name the genre. 
+ANSWER: partita
+[prompt on "chaconne" by asking "What larger piece is it part of?"] 
+6. Name the work. 
+ANSWER: The Flying Dutchman
+[or Der fliegende Holländer] 
+7. Name the composer. 
+ANSWER: Ottorino Respighi 
+8. Name the work. 
+ANSWER: the violin concerto of Jean Sibelius
+[or the violin concerto of Johan Julius Christian Sibelius; prompt on partial answer] 
+9. Name the country of origin of the composers of these works. 
+ANSWER: Russia
+[or Rossija; or Russian Federation; or Rossijskaja Federacija] 
+10. Name the work. 
+ANSWER: Cinderella 
+11. Name BOTH the genre and the composer. 
+ANSWER: the symphonies of Antonín Dvořák
+[or the symphonies of Antonín Leopold Dvořák; prompt on partial answer] 
+12. Name the composer. 
+ANSWER: Edward Elgar
+[or Edward William Elgar] 
+13. Name the work. 
+ANSWER: Twin Peaks 
+14. Name the composer. 
+ANSWER: Miles Davis
+[or Miles Dewey Davis III] 
+15. Name the composer. 
+ANSWER: Arcangelo Corelli 
+16. Name the work. 
+ANSWER: Hammerklavier Sonata
+[or Piano Sonata No. 29 by Ludwig van Beethoven; prompt on partial answer] 
+17. Name the text that is set to music in these passages. 
+ANSWER: Kyrie eleison 
+18. Name the composer. 
+ANSWER: John Carpenter
+[or John Howard Carpenter; accept Alan Howarth] 
+19. Name the composer. 
+ANSWER: Wolfgang Amadeus Mozart 
+20. Name the composer. 
+ANSWER: Ferde Grofé 
