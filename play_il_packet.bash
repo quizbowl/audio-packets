@@ -26,7 +26,7 @@ SAYANSWER=""
 # and Built-in Microphone if needed.
 # This should be set to the ID of the Multi-Audio Output,
 # which splits into Soundflower (2ch) and to Default Output.
-OUTPUTDEVICE=40
+OUTPUTDEVICE=41
 
 SAYOD=""
 MPLAYEROD=""
@@ -45,7 +45,7 @@ function mplay {
 	eval mplayer $MPLAYEROD -msglevel all=0:statusline=9 $1 2>/dev/null
 }
 
-dir=$1
+dir=${1%/}
 index=0
 IFS=$'\n'
 questions=($(grep -E '^[0-9]+\.' answers/$dir.txt))
@@ -72,6 +72,8 @@ for file in $dir/*.mp3; do
 	FOO=$?
 	echo "${JUSTBOLD}Audio finished.                         ${REG}"
 	echo
+
+	echo ${answers[index]} | sed 's/_\([^_]*\)_/__**\1**__/g' | pbcopy
 
 	if [ $ANSWERPLEASE ]; then
 		if [ $FOO -ne 1 ]; then
