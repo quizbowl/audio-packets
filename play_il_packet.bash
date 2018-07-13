@@ -55,6 +55,7 @@ answers=($(grep -E '^ANSWER' answers/$dir.txt))
 # Fonts
 BOLD=`tput bold``tput setaf 4`
 JUSTBOLD=`tput bold`
+BU=`tput bold``tput smul`
 REG=`tput sgr0`
 
 echo -en '\nCommands:\n'
@@ -66,7 +67,7 @@ echo
 for file in $dir/*.mp3; do
 	echo "**${questions[index]}**" | pbcopy
 	echosay "${questions[index]}"      1
-	echo ${answers[index]}
+	echo ${answers[index]} | sed "s/_\([^_]*\)_/${BU}\1${REG}/g"
 	echo
 	mplay $file
 	FOO=$?
@@ -88,7 +89,9 @@ for file in $dir/*.mp3; do
 	fi
 
 	if [ $SAYANSWER ]; then
-		echosay ${answers[index]}      3
+		saidanswer=`echo ${answers[index]} | sed "s/_\([^_]*\)_/[[emph 100]]\1/g"`
+		say $SAYOD $saidanswer
+		sleep 3
 	fi
 
 	echo '————————————————————'
