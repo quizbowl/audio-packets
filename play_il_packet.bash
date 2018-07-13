@@ -26,7 +26,10 @@ SAYANSWER=""
 # and Built-in Microphone if needed.
 # This should be set to the ID of the Multi-Audio Output,
 # which splits into Soundflower (2ch) and to Default Output.
-OUTPUTDEVICE=41
+OUTPUTDEVICE=40
+
+# Skip questions whose filename contains the string "Hard"
+SKIPHARD=1
 
 SAYOD=""
 MPLAYEROD=""
@@ -65,33 +68,39 @@ echo -e "  • Press ${BOLD}Ctrl-C${REG} again to exit"
 echo
 
 for file in $dir/*.mp3; do
-	echo "**${questions[index]}**" | pbcopy
-	echosay "${questions[index]}"      1
-	echo ${answers[index]} | sed "s/_\([^_]*\)_/${BU}\1${REG}/g"
-	echo
-	mplay $file
-	FOO=$?
-	echo "${JUSTBOLD}Audio finished.                         ${REG}"
-	echo
+	# skip hard
+	if [[ $SKIPHARD && $file = *"Hard"* ]]; then
+		echo "${BOLD}Skipping ${file##*/}${REG}"
+	else
 
-	echo ${answers[index]} | sed 's/_\([^_]*\)_/__**\1**__/g' | pbcopy
+		echo "**${questions[index]}**" | pbcopy
+		echosay "${questions[index]}"      1
+		echo ${answers[index]} | sed "s/_\([^_]*\)_/${BU}\1${REG}/g"
+		echo
+		mplay $file
+		FOO=$?
+		echo "${JUSTBOLD}Audio finished.                         ${REG}"
+		echo
 
-	if [ $ANSWERPLEASE ]; then
-		if [ $FOO -ne 1 ]; then
-			sleep 4
-			echosay "Answer please?"   2
-			echosay "Time."            1
+		echo ${answers[index]} | sed 's/_\([^_]*\)_/__**\1**__/g' | pbcopy
+
+		if [ $ANSWERPLEASE ]; then
+			if [ $FOO -ne 1 ]; then
+				sleep 4
+				echosay "Answer please?"   2
+				echosay "Time."            1
+			fi
 		fi
-	fi
 
-	if [ $ENTER ]; then
-		read -p $'Press enter to continue\n'
-	fi
+		if [ $ENTER ]; then
+			read -p $'Press enter to continue\n'
+		fi
 
-	if [ $SAYANSWER ]; then
-		saidanswer=`echo ${answers[index]} | sed "s/_\([^_]*\)_/[[emph 100]]\1/g"`
-		say $SAYOD $saidanswer
-		sleep 3
+		if [ $SAYANSWER ]; then
+			saidanswer=`echo ${answers[index]} | sed "s/_\([^_]*\)_/[[emph 100]]\1/g"`
+			say $SAYOD $saidanswer
+			sleep 3
+		fi
 	fi
 
 	echo '————————————————————'

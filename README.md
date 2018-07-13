@@ -35,6 +35,7 @@ The script can be configured by enabling the following flags:
 * `ANSWERPLEASE`: waits and says "Answer please?" and "Time" after the question finishes
 * `ENTER`: must press enter to continue to the next question
 * `SAYANSWER`: says the answer after the question finishes
+* `SKIPHARD`: skips questions whose filename contains the string "Hard"
 
 The script has the following requirements:
 
