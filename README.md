@@ -4,9 +4,10 @@
 
 Currently rehosted without explicit permission. Links to sources (which may not work anymore):
 
-* [Imaginary Landscape No. 1](http://hsquizbowl.org/forums/viewtopic.php?f=21&t=11623&p=219113#p219113)
-* [Imaginary Landscape No. 2](http://hsquizbowl.org/forums/viewtopic.php?f=21&t=16234&p=289863#p289863)
-* [Imaginary Landscape No. 3](http://hsquizbowl.org/forums/viewtopic.php?f=21&t=18117&p=318076#p318076)
+* [Imaginary Landscape No. 1](http://hsquizbowl.org/forums/viewtopic.php?f=21&t=11623&p=219113#p219113) (2011)
+* [Imaginary Landscape No. 2](http://hsquizbowl.org/forums/viewtopic.php?f=21&t=16234&p=289863#p289863) (2014)
+* [Imaginary Landscape No. 3](http://hsquizbowl.org/forums/viewtopic.php?f=21&t=18117&p=318076#p318076) (2016)
+* [Guerilla Imaginary Landscape](http://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=21409) (2018)
 * other sets may be added later
 
 The audio files have been renamed to avoid spoilers.
