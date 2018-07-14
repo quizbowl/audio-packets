@@ -1,0 +1,69 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	L_sKMxjmCRE	1317.8	9.5	https://www.youtube.com/watch?v=L_sKMxjmCRE&start=1317&end=1327   	Makrokosmos Part 3: Voices from "Corona Borealis" (Aquarius)
+1	2	NDqBLlRqOJQ	1422.5	8.5	https://www.youtube.com/watch?v=NDqBLlRqOJQ&start=1422&end=1431   	Vox Balaenae: 3. Sea-Nocturne (...for the end of time)
+1	3	a-L_AxJU0dg	19.4	10.5	https://www.youtube.com/watch?v=a-L_AxJU0dg&start=19&end=29       	Solo Cello Sonata: I.
+1	4	yagtwfsBADw	149.1	8.9	https://www.youtube.com/watch?v=yagtwfsBADw&start=149&end=158     	Ancient Voices of Children: I. El niño busca su voz
+1	5	mknVnEB3pho	802	13.8	https://www.youtube.com/watch?v=mknVnEB3pho&start=802&end=815     	Black Angels: X. God-Music
+1	6	NDqBLlRqOJQ	171.4	10.2	https://www.youtube.com/watch?v=NDqBLlRqOJQ&start=171&end=181     	Vox Balaenae: 1. Vocalise (...for the beginning of time)
+1	7	BLRyj1Tx4rY	0.4	6	https://www.youtube.com/watch?v=BLRyj1Tx4rY&start=0&end=6         	Black Angels: I. Threnody I: Night of the Electric Insects
+						
+2	1	j_JkZs1Ku9c	299.25	9.4	https://www.youtube.com/watch?v=j_JkZs1Ku9c&start=299&end=308     	Takemitsu: Toward the sea
+2	2	JoxttGAQX-E	107.8	8.7	https://www.youtube.com/watch?v=JoxttGAQX-E&start=107&end=116     	John Ireland: Sea Fever
+2	3	GauIMo8Manc	35.25	12.75	https://www.youtube.com/watch?v=GauIMo8Manc&start=35&end=48       	Elgar: Sea pictures: I. Sea slumber-song
+2	4	dGva1NVWRXk	61	10.2	https://www.youtube.com/watch?v=dGva1NVWRXk&start=61&end=71       	John Luther Adams: Become Ocean
+2	5	5O5wMctUSAM	25.8	8.1	https://www.youtube.com/watch?v=5O5wMctUSAM&start=25&end=33       	Ravel: Miroirs: III. Un Barque sur l'ocean
+2	6	dgo-IzDdVeo	249.25	9.25	https://www.youtube.com/watch?v=dgo-IzDdVeo&start=249&end=258     	Rimsky-Korsakov: Scheherazade: The Sea and Sinbad's Ship
+2	7	KUFpcPEcwTo	489	9.4	https://www.youtube.com/watch?v=KUFpcPEcwTo&start=489&end=498     	Debussy: La mer
+						
+3	1	uj7E8u5PGac	13	10	https://www.youtube.com/watch?v=uj7E8u5PGac&start=13&end=23       	Kalevi Aho: Symphony No. 7, "Hyonteissinfonia" (Insect Symphony): III. The Dung Beetles
+3	2	A15DUjwoong	468.75	8.75	https://www.youtube.com/watch?v=A15DUjwoong&start=468&end=477     	Roussel: The Spider's Feast: Entrance of the Dung-Beetles
+3	3	EpJ_M4SZ5aI	1	13.5	https://www.youtube.com/watch?v=EpJ_M4SZ5aI&start=1&end=14        	Britten: 2 Insect Pieces: No. 2. The Wasp
+3	4	Hj3kkdwiGdA	2.2	8	https://www.youtube.com/watch?v=Hj3kkdwiGdA&start=2&end=10        	Bartók: Mikrokosmos Book 6 No. 142: From the Diary of a Fly
+3	5	6Txsa6ublDU	2	11	https://www.youtube.com/watch?v=6Txsa6ublDU&start=2&end=13        	Chopin: Etude Op. 25 No. 2 "The Bees"
+3	6	OI-bQ0RkArA	3	9.5	https://www.youtube.com/watch?v=OI-bQ0RkArA&start=3&end=12        	Josquin: El Grillo
+3	7	aYAJopwEYv8	0.7	6.6	https://www.youtube.com/watch?v=aYAJopwEYv8&start=0&end=7         	Rimsky-Korsakov: Flight of the Bumblebee
+						
+4	1	a2CiLSsLS2o	487.6	14.4	https://www.youtube.com/watch?v=a2CiLSsLS2o&start=487&end=502     	Ornstein: 9 Arabesques, No. 7 "Passion"
+4	2	LLauHTwfy9k	2.3	10	https://www.youtube.com/watch?v=LLauHTwfy9k&start=2&end=12        	Chaminade: Arabesque Op. 61 
+4	3	ZeAf_Sdw2ow	0.5	11.8	https://www.youtube.com/watch?v=ZeAf_Sdw2ow&start=0&end=12        	Schumann: Arabesque in C major, Op. 18
+4	4	FfuAXryggUE	179.8	9.7	https://www.youtube.com/watch?v=FfuAXryggUE&start=179&end=189     	Debussy 2
+4	5	FfuAXryggUE	1	8.4	https://www.youtube.com/watch?v=FfuAXryggUE&start=1&end=9         	Debussy 2
+4	6	Yh36PaE-Pf0	4	8.8	https://www.youtube.com/watch?v=Yh36PaE-Pf0&start=4&end=12        	Debussy 1
+						
+5	1	vlB1HR4BgUg	1440.2	10	https://www.youtube.com/watch?v=vlB1HR4BgUg&start=1440&end=1450   	
+5	2	vlB1HR4BgUg	611.4	9.8	https://www.youtube.com/watch?v=vlB1HR4BgUg&start=611&end=621     	
+5	3	vlB1HR4BgUg	1150.5	10.7	https://www.youtube.com/watch?v=vlB1HR4BgUg&start=1150&end=1161   	
+5	4	vlB1HR4BgUg	439.4	7.4	https://www.youtube.com/watch?v=vlB1HR4BgUg&start=439&end=446     	
+5	5	vlB1HR4BgUg	218	12	https://www.youtube.com/watch?v=vlB1HR4BgUg&start=218&end=230     	
+5	6	vlB1HR4BgUg	4.7	11.2	https://www.youtube.com/watch?v=vlB1HR4BgUg&start=4&end=15        	
+						
+6	1	uEWmmHdKPT4	170	7	https://www.youtube.com/watch?v=uEWmmHdKPT4&start=170&end=177     	
+6	2	lzStDHlZDyM	99	15	https://www.youtube.com/watch?v=lzStDHlZDyM&start=99&end=114      	
+6	3	GfNJsDm5Di8	205	10	https://www.youtube.com/watch?v=GfNJsDm5Di8&start=205&end=215     	
+6	4	Q5Q_OUThjHE	5	8	https://www.youtube.com/watch?v=Q5Q_OUThjHE&start=5&end=13        	
+6	5	WHrsaXBz5NY	0	10	https://www.youtube.com/watch?v=WHrsaXBz5NY&start=0&end=10        	
+6	6	QCg6hGi2hWA	0	9	https://www.youtube.com/watch?v=QCg6hGi2hWA&start=0&end=9         	
+						
+7	1	ryy2LzZgXpw	1675.2	6.3	https://www.youtube.com/watch?v=ryy2LzZgXpw&start=1675&end=1681   	Dvořák: Symphony No. 1 in C minor "The Bells of Zlonice"
+7	2	KE4aMSjrXeY	539	8.2	https://www.youtube.com/watch?v=KE4aMSjrXeY&start=539&end=547     	Castelnuovo-Tedesco: Capriccio Diabolico ("Omaggio a Paganini"), Op. 85
+7	3	gAn5cEpcnns	58.65	9.7	https://www.youtube.com/watch?v=gAn5cEpcnns&start=58&end=68       	Mompou: Paisajes: La fuente y la campana (La font i la campana, The fountain and the bell) – repeated low G as midnight bells
+7	4	ryy2LzZgXpw	78	10.3	https://www.youtube.com/watch?v=ryy2LzZgXpw&start=78&end=88       	Dvořák: Symphony No. 1 in C minor "The Bells of Zlonice"
+7	5	fvy0nN5t0Po	942.15	11.45	https://www.youtube.com/watch?v=fvy0nN5t0Po&start=942&end=953     	Rachmaninoff: The Bells, Op. 35
+7	6	0VdZR3deNdI	1473.1	9.1	https://www.youtube.com/watch?v=0VdZR3deNdI&start=1473&end=1482   	Ravel: Miroirs: V. La vallée des cloches
+7	7	Jk8P9C3hdgw	11.25	10.7	https://www.youtube.com/watch?v=Jk8P9C3hdgw&start=11&end=21       	Rachmaninoff: The Bells, Op. 35
+7	8	JpfbDLFSZb4	8.5	6.5	https://www.youtube.com/watch?v=JpfbDLFSZb4&start=8&end=15        	Liszt: Paganini Etude S. 161 No. 3 "La Campanella"
+7	9	sp2oxWdRMuk	1	5.5	https://www.youtube.com/watch?v=sp2oxWdRMuk&start=1&end=6         	Pärt: Cantus in memoriam Benjamin Britten
+						
+8	1	uS5-A61Ow4s	2277	12	https://www.youtube.com/watch?v=uS5-A61Ow4s&start=2277&end=2289   	
+8	2	uS5-A61Ow4s	1095	9	https://www.youtube.com/watch?v=uS5-A61Ow4s&start=1095&end=1104   	
+8	3	uS5-A61Ow4s	6474	8	https://www.youtube.com/watch?v=uS5-A61Ow4s&start=6474&end=6482   	
+8	4	uS5-A61Ow4s	4750	12	https://www.youtube.com/watch?v=uS5-A61Ow4s&start=4750&end=4762   	
+8	5	uS5-A61Ow4s	595	10	https://www.youtube.com/watch?v=uS5-A61Ow4s&start=595&end=605     	
+8	6	uS5-A61Ow4s	25	9	https://www.youtube.com/watch?v=uS5-A61Ow4s&start=25&end=34       	
+						
+9	1	ZlxDCXTqmeQ	336	10	https://www.youtube.com/watch?v=ZlxDCXTqmeQ&start=336&end=346     	
+9	2	ZlxDCXTqmeQ	347	10	https://www.youtube.com/watch?v=ZlxDCXTqmeQ&start=347&end=357     	
+9	3	ZlxDCXTqmeQ	65	10	https://www.youtube.com/watch?v=ZlxDCXTqmeQ&start=65&end=75       	
+9	4	ZlxDCXTqmeQ	1470	10	https://www.youtube.com/watch?v=ZlxDCXTqmeQ&start=1470&end=1480   	
+9	5	ZlxDCXTqmeQ	2213	11	https://www.youtube.com/watch?v=ZlxDCXTqmeQ&start=2213&end=2224   	
+9	6	ZlxDCXTqmeQ	2253	13	https://www.youtube.com/watch?v=ZlxDCXTqmeQ&start=2253&end=2266   	

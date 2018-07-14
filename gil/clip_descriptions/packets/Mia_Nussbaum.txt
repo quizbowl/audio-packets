@@ -1,0 +1,138 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	DdTh4plaV9E	360.4	13.8	https://www.youtube.com/watch?v=DdTh4plaV9E&start=360&end=374     	No. 1 Courante on clarinet
+1	2	wrOMrTFY5Sk	0.15	12	https://www.youtube.com/watch?v=wrOMrTFY5Sk&start=0&end=12        	No. 2 Prelude on flute
+1	3	l6g6nJFIah4	741.1	7.1	https://www.youtube.com/watch?v=l6g6nJFIah4&start=741&end=748     	No. 3 Bourrée on guitar
+1	4	ZZ8H1_oMX-w	3	14.1	https://www.youtube.com/watch?v=ZZ8H1_oMX-w&start=3&end=17        	No. 3 Prelude on bassoon
+1	5	lyJNccEoq2c	486.7	6.9	https://www.youtube.com/watch?v=lyJNccEoq2c&start=486&end=493     	No. 1 mvt. 6 on saxophone
+1	6	mhfxM5FOzjQ	4.4	8	https://www.youtube.com/watch?v=mhfxM5FOzjQ&start=4&end=12        	No. 1 Prelude on piano
+						
+2	1	pb37dJFPoFg	434	10.2	https://www.youtube.com/watch?v=pb37dJFPoFg&start=434&end=444     	mvt. 1 drop the needle
+2	2	pb37dJFPoFg	1357	15	https://www.youtube.com/watch?v=pb37dJFPoFg&start=1357&end=1372   	mvt. 3 best piccolo solo
+2	3	pb37dJFPoFg	769.6	6.3	https://www.youtube.com/watch?v=pb37dJFPoFg&start=769&end=775     	mvt. 2 brass
+2	4	pb37dJFPoFg	1703.5	7	https://www.youtube.com/watch?v=pb37dJFPoFg&start=1703&end=1710   	mvt. 5 opening
+2	5	pb37dJFPoFg	615.7	11.2	https://www.youtube.com/watch?v=pb37dJFPoFg&start=615&end=626     	mvt. 2 opening bassoons
+2	6	pb37dJFPoFg	589	10.3	https://www.youtube.com/watch?v=pb37dJFPoFg&start=589&end=599     	mvt. 1 end
+						
+3	1	p-dUa_OOH3U	11	10	https://www.youtube.com/watch?v=p-dUa_OOH3U&start=11&end=21       	Rautavaara: "Tulen"
+3	2	d5uMzy3C3Mw	36.5	12	https://www.youtube.com/watch?v=d5uMzy3C3Mw&start=36&end=48       	En saa rakastaa (Hercules "I Can't Say I'm In Love")
+3	3	BsT1Tm4IK2E	146	14	https://www.youtube.com/watch?v=BsT1Tm4IK2E&start=146&end=160     	Eppu Normaali: Murheellisten laulujen maa
+3	4	8_cwVUor0ac	19	17	https://www.youtube.com/watch?v=8_cwVUor0ac&start=19&end=36       	Kardemimmit: Tuonen tyttö
+3	5	hDzor0VXy0M	1825	11	https://www.youtube.com/watch?v=hDzor0VXy0M&start=1825&end=1836   	Sibelius: Kullervo
+3	6	9PBGPdYAG0c	12	10	https://www.youtube.com/watch?v=9PBGPdYAG0c&start=12&end=22       	Sibelius: Finlandia hymn with lyrics
+						
+4	1	iMx6qCXj07Y	35.2	15	https://www.youtube.com/watch?v=iMx6qCXj07Y&start=35&end=50       	Massenet: Cendrillon Prince
+4	2	S741JngUOig	18	12	https://www.youtube.com/watch?v=S741JngUOig&start=18&end=30       	Handel: Giulio Cesare "La giustizia ha gia sull'arco"
+4	3	gpXBOQFbnig	83	11	https://www.youtube.com/watch?v=gpXBOQFbnig&start=83&end=94       	Ravel: L'enfant et les sortileges
+4	4	1SCr_E6rNMo	4	16	https://www.youtube.com/watch?v=1SCr_E6rNMo&start=4&end=20        	Strauss: Rosenkavalier "Wie du warst"
+4	5	P-cKw6vTWb0	114	16	https://www.youtube.com/watch?v=P-cKw6vTWb0&start=114&end=130     	Mozart: Cherubino "Non so più"
+						
+5	1	34NThn0cZE8	165	9.5	https://www.youtube.com/watch?v=34NThn0cZE8&start=165&end=174     	2nd Essay
+5	2	m6mFePpMDKM	199	12	https://www.youtube.com/watch?v=m6mFePpMDKM&start=199&end=211     	Summer Music
+5	3	9_bgIOfobCo	9	8.3	https://www.youtube.com/watch?v=9_bgIOfobCo&start=9&end=17        	Hermit Songs
+5	4	cWUl9dMFfXY	66	22.3	https://www.youtube.com/watch?v=cWUl9dMFfXY&start=66&end=88       	Piano Concerto Canzone
+5	5	izQsgE0L450	1.6	20.6	https://www.youtube.com/watch?v=izQsgE0L450&start=1&end=22        	Adagio for Strings
+						
+6	1	-eFCCkToZdI	139	9	https://www.youtube.com/watch?v=-eFCCkToZdI&start=139&end=148     	de Meij: Gollum
+6	2	690OiCByWRc	2065	15	https://www.youtube.com/watch?v=690OiCByWRc&start=2065&end=2080   	Swann
+6	3	Q9unz2AczY4	1	14	https://www.youtube.com/watch?v=Q9unz2AczY4&start=1&end=15        	de Meij: Gandalf
+6	4	NJVxEaGrHS4	3	12.3	https://www.youtube.com/watch?v=NJVxEaGrHS4&start=3&end=15        	Enya
+6	5	Ha-FS_CHmGw	14	13	https://www.youtube.com/watch?v=Ha-FS_CHmGw&start=14&end=27       	film soundtrack
+6	6	1iYEwFDLVnM	132	14	https://www.youtube.com/watch?v=1iYEwFDLVnM&start=132&end=146     	more film soundtrack
+						
+7	1	pJEUqzFcLkQ	358	11	https://www.youtube.com/watch?v=pJEUqzFcLkQ&start=358&end=369     	Florestan aria
+7	2	g5pJLfIiRLo	10	8	https://www.youtube.com/watch?v=g5pJLfIiRLo&start=10&end=18       	Welch ein Augenblick
+7	3	cXIfW02f3jo	4	7	https://www.youtube.com/watch?v=cXIfW02f3jo&start=4&end=11        	Rocco gold aria
+7	4	T5lrq3d67es	142	18.9	https://www.youtube.com/watch?v=T5lrq3d67es&start=142&end=160     	Mir ist so wunderbar
+7	5	gQpe2Pyty9Q	23	10	https://www.youtube.com/watch?v=gQpe2Pyty9Q&start=23&end=33       	Namenlose Freude
+						
+8	1	-sBKW7jMyLM	9	14	https://www.youtube.com/watch?v=-sBKW7jMyLM&start=9&end=23        	Romance
+8	2	WyADlfFSFC0	1400.7	9	https://www.youtube.com/watch?v=WyADlfFSFC0&start=1400&end=1409   	Piano Concerto No. 1
+8	3	DwoFHGkYN8w	5.5	10.5	https://www.youtube.com/watch?v=DwoFHGkYN8w&start=5&end=16        	Piano Quintet
+8	4	XKXQzs6Y5BY	2006	11.2	https://www.youtube.com/watch?v=XKXQzs6Y5BY&start=2006&end=2017   	Symphony No. 10 DSCH
+8	5	YarFI7r2shY	3	13.2	https://www.youtube.com/watch?v=YarFI7r2shY&start=3&end=16        	Symphony No. 5
+						
+9	1	2HJRogZ7puY	55	9	https://www.youtube.com/watch?v=2HJRogZ7puY&start=55&end=64       	Spekkio remix
+9	2	mEoN_Xe-B-s	3424.2	8.1	https://www.youtube.com/watch?v=mEoN_Xe-B-s&start=3424&end=3432   	End of Time
+9	3	va2cs3VDOA8	30	12	https://www.youtube.com/watch?v=va2cs3VDOA8&start=30&end=42       	Forest remix
+9	4	JtKCt8Afk9s	10	7.3	https://www.youtube.com/watch?v=JtKCt8Afk9s&start=10&end=17       	Smooth McGroove: Zeal
+9	5	jNIoWgrAxMo	58	15	https://www.youtube.com/watch?v=jNIoWgrAxMo&start=58&end=73       	Frog theme
+9	6	mEoN_Xe-B-s	48	7	https://www.youtube.com/watch?v=mEoN_Xe-B-s&start=48&end=55       	Main theme
+9	7	mEoN_Xe-B-s	2	10.3	https://www.youtube.com/watch?v=mEoN_Xe-B-s&start=2&end=12        	very beginning
+						
+10	1	96F5CgEIIbs	479	20.4	https://www.youtube.com/watch?v=96F5CgEIIbs&start=479&end=499     	Alto Rhapsody
+10	2	w1E77EGpgrk	525.1	9.5	https://www.youtube.com/watch?v=w1E77EGpgrk&start=525&end=534     	Clarinet Sonata No. 2
+10	3	Hg9iXypvP_k	196	15.1	https://www.youtube.com/watch?v=Hg9iXypvP_k&start=196&end=211     	Symphony No. 4
+10	4	ORvvsRawgDo	1452	6.5	https://www.youtube.com/watch?v=ORvvsRawgDo&start=1452&end=1458   	Horn Trio
+10	5	POW-u-RGspY	1892.9	8	https://www.youtube.com/watch?v=POW-u-RGspY&start=1892&end=1900   	Symphony No. 1
+						
+11	1	DdLlVISoBoY	84	8	https://www.youtube.com/watch?v=DdLlVISoBoY&start=84&end=92       	Jealous Torment
+11	2	LhZ99dGRUEs	83	8	https://www.youtube.com/watch?v=LhZ99dGRUEs&start=83&end=91       	A laughing boy but yesterday
+11	3	3g_8j48p-X8	197	18	https://www.youtube.com/watch?v=3g_8j48p-X8&start=197&end=215     	Elsie's aria
+11	4	V9mCuv9c8o8	1.3	10.7	https://www.youtube.com/watch?v=V9mCuv9c8o8&start=1&end=12        	Overture
+11	5	Fjo1iENmCt8	13	7	https://www.youtube.com/watch?v=Fjo1iENmCt8&start=13&end=20       	Private Buffoon
+11	6	yImDO8CjG94	44.5	11	https://www.youtube.com/watch?v=yImDO8CjG94&start=44&end=55       	I have a song to sing, O
+						
+12	1	zytC91LZAvw	15	10	https://www.youtube.com/watch?v=zytC91LZAvw&start=15&end=25       	Et exultavit
+12	2	Tyu3MPIW9do	247	9	https://www.youtube.com/watch?v=Tyu3MPIW9do&start=247&end=256     	Goldfinch
+12	3	_O3H3PU8f7M	308.2	14	https://www.youtube.com/watch?v=_O3H3PU8f7M&start=308&end=322     	Recorder Concerto, RV 443
+12	4	cgaOVV4JQHA	23	6.4	https://www.youtube.com/watch?v=cgaOVV4JQHA&start=23&end=29       	Gloria
+12	5	DYvkVqpLX_E	2701	8	https://www.youtube.com/watch?v=DYvkVqpLX_E&start=2701&end=2709   	Winter
+12	6	DYvkVqpLX_E	750.8	15.3	https://www.youtube.com/watch?v=DYvkVqpLX_E&start=750&end=766     	Spring
+						
+13	1	6l-GPMd0KEk	3	11.3	https://www.youtube.com/watch?v=6l-GPMd0KEk&start=3&end=14        	Trois beaux oiseaux du paradis
+13	2	bBm1w8J63mg	467.25	9	https://www.youtube.com/watch?v=bBm1w8J63mg&start=467&end=476     	Introduction et allegro
+13	3	3QzLA5se4co	20.75	10	https://www.youtube.com/watch?v=3QzLA5se4co&start=20&end=30       	Piano Trio
+13	4	gjiSSWubIuU	168	12	https://www.youtube.com/watch?v=gjiSSWubIuU&start=168&end=180     	Concerto for the Left Hand
+13	5	ieRQyyPowH0	6.5	15.5	https://www.youtube.com/watch?v=ieRQyyPowH0&start=6&end=22        	String Quartet
+13	6	r30D3SW4OVw	384	11	https://www.youtube.com/watch?v=r30D3SW4OVw&start=384&end=395     	Boléro
+						
+14	1	Jam-MgKnBew	39	14	https://www.youtube.com/watch?v=Jam-MgKnBew&start=39&end=53       	Winter's on the Wing
+14	2	JhHURWFUXHQ	106	12	https://www.youtube.com/watch?v=JhHURWFUXHQ&start=106&end=118     	Lily's Eyes
+14	3	FiJ7CLu3zDI	140	12	https://www.youtube.com/watch?v=FiJ7CLu3zDI&start=140&end=152     	Hold On
+14	4	zzbiXCj1k44	11	11	https://www.youtube.com/watch?v=zzbiXCj1k44&start=11&end=22       	I Heard Someone Crying
+14	5	rdkzH_3etZM	100	10	https://www.youtube.com/watch?v=rdkzH_3etZM&start=100&end=110     	Mistress Mary
+14	6	ioGrc3o6t_Q	12	5	https://www.youtube.com/watch?v=ioGrc3o6t_Q&start=12&end=17       	Mary Lennox
+14	7	2Wq9pT36KlQ	203	7	https://www.youtube.com/watch?v=2Wq9pT36KlQ&start=203&end=210     	Come To My Garden
+						
+15	1	41recak3XZc	2.1	10.3	https://www.youtube.com/watch?v=41recak3XZc&start=2&end=12        	Wind Serenade
+15	2	HXEZmkOyNz0	1.9	7.4	https://www.youtube.com/watch?v=HXEZmkOyNz0&start=1&end=9         	Slavonic Dance No. 4
+15	3	DJEBk3zCdSU	305.8	9.4	https://www.youtube.com/watch?v=DJEBk3zCdSU&start=305&end=315     	Symphony No. 8 finale
+15	4	rkmhfqEvM2E	250.8	15.7	https://www.youtube.com/watch?v=rkmhfqEvM2E&start=250&end=266     	Cello Concerto
+15	5	9opcAg3dJEc	709.2	11.6	https://www.youtube.com/watch?v=9opcAg3dJEc&start=709&end=720     	New World mvt. 1
+15	6	p9OBf8f55tU	15.7	7.2	https://www.youtube.com/watch?v=p9OBf8f55tU&start=15&end=22       	New World finale
+						
+16	1	GVxe43HPZy8	33.6	10.6	https://www.youtube.com/watch?v=GVxe43HPZy8&start=33&end=44       	Mahler: St. Anthony
+16	2	bK1R4ZSjteQ	12.3	10.6	https://www.youtube.com/watch?v=bK1R4ZSjteQ&start=12&end=22       	Debussy: Poissons d'or
+16	3	XCBDlC0N8Rc	7.3	18.7	https://www.youtube.com/watch?v=XCBDlC0N8Rc&start=7&end=26        	Saint-Saëns: Aquarium
+16	4	RMr4pDGo0KE	1532.3	7.9	https://www.youtube.com/watch?v=RMr4pDGo0KE&start=1532&end=1540   	Schubert: Trout Quintet
+16	5	A9QTSyLwd4w	36	10.2	https://www.youtube.com/watch?v=A9QTSyLwd4w&start=36&end=46       	Jaws
+						
+17	1	VEIfV7Vo4fM	11	7	https://www.youtube.com/watch?v=VEIfV7Vo4fM&start=11&end=18       	Serenade
+17	2	hK0UqLINyHc	143	18	https://www.youtube.com/watch?v=hK0UqLINyHc&start=143&end=161     	Commendatore
+17	3	4EQdbRjwM5o	195	7.5	https://www.youtube.com/watch?v=4EQdbRjwM5o&start=195&end=202     	La ci darem la mano end
+17	4	eVoPmfa9Ndk	113.7	4.7	https://www.youtube.com/watch?v=eVoPmfa9Ndk&start=113&end=118     	Mil e tre
+17	5	4EQdbRjwM5o	100.6	10.8	https://www.youtube.com/watch?v=4EQdbRjwM5o&start=100&end=111     	La ci darem la mano
+17	6	jyjVCbTo5F0	0.3	13.2	https://www.youtube.com/watch?v=jyjVCbTo5F0&start=0&end=13        	Overture
+						
+18	1	mIzIE1IcBng	128	10.2	https://www.youtube.com/watch?v=mIzIE1IcBng&start=128&end=138     	Bassoon Sonata
+18	2	Kd3bNuYEQkE	46	10.5	https://www.youtube.com/watch?v=Kd3bNuYEQkE&start=46&end=56       	Harmonie der Welt
+18	3	yj2ALeNYxCk	1.1	6	https://www.youtube.com/watch?v=yj2ALeNYxCk&start=1&end=7         	Trumpet Sonata
+18	4	FfegCvpSM5g	10	7.4	https://www.youtube.com/watch?v=FfegCvpSM5g&start=10&end=17       	Flute Sonata
+18	5	BhyQH8inhH0	1	4	https://www.youtube.com/watch?v=BhyQH8inhH0&start=1&end=5         	Clarinet Sonata
+18	6	TsyOuyNh6oQ	60	9.4	https://www.youtube.com/watch?v=TsyOuyNh6oQ&start=60&end=69       	Mathis der Maler
+18	7	TsyOuyNh6oQ	570	19.6	https://www.youtube.com/watch?v=TsyOuyNh6oQ&start=570&end=589     	Mathis: Entombment
+						
+19	1	uwAOc4g3K-g	214	7.3	https://www.youtube.com/watch?v=uwAOc4g3K-g&start=214&end=221     	Proust in his first book
+19	2	5aVI60i4z0w	3	9	https://www.youtube.com/watch?v=5aVI60i4z0w&start=3&end=12        	Lemming of the BDA
+19	3	Dvp4fZyhZZ8	87.2	8.8	https://www.youtube.com/watch?v=Dvp4fZyhZZ8&start=87&end=96       	And did those teeth
+19	4	l9SqQNgDrgg	40	10	https://www.youtube.com/watch?v=l9SqQNgDrgg&start=40&end=50       	Drunk philosophers
+19	5	sZa26_esLBE	71	6	https://www.youtube.com/watch?v=sZa26_esLBE&start=71&end=77       	Lumberjack
+19	6	anwy2MPT5RE	66	6	https://www.youtube.com/watch?v=anwy2MPT5RE&start=66&end=72       	Spam
+19	7	Tq37WSg9ESg	58	8	https://www.youtube.com/watch?v=Tq37WSg9ESg&start=58&end=66       	Liberty Bell/foot
+						
+20	1	-xk7TVPyboY	786	11	https://www.youtube.com/watch?v=-xk7TVPyboY&start=786&end=797     	Symphony in C
+20	2	utQi3axTBak	193	10	https://www.youtube.com/watch?v=utQi3axTBak&start=193&end=203     	L'Arlésienne saxophone
+20	3	PV5zUa4zMnw	132	15.4	https://www.youtube.com/watch?v=PV5zUa4zMnw&start=132&end=147     	Au fond du temple saint
+20	4	WNScAdFSak4	177	10.7	https://www.youtube.com/watch?v=WNScAdFSak4&start=177&end=187     	Farandole
+20	5	2MXVncJmEGA	3	6.2	https://www.youtube.com/watch?v=2MXVncJmEGA&start=3&end=9         	Danse bohème
+20	6	Zoqpn_7I7Dw	592.2	5	https://www.youtube.com/watch?v=Zoqpn_7I7Dw&start=592&end=597     	Toreadors

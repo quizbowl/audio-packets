@@ -1,0 +1,107 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	Aw44PzSQAZg	980.2	11.8	https://www.youtube.com/watch?v=Aw44PzSQAZg&start=980&end=992     	Husa: Music for Prague 1968
+1	2	WtEQsOSVkbM	0.2	15.2	https://www.youtube.com/watch?v=WtEQsOSVkbM&start=0&end=15        	Suk: Serenade for Strings (opening)
+1	3	d3B9zquVeMA	0.5	8.7	https://www.youtube.com/watch?v=d3B9zquVeMA&start=0&end=9         	Dvořák: Slavonic Dance Op. 46 No. 4
+1	4	wkGQivw-2eY	1425.4	10.9	https://www.youtube.com/watch?v=wkGQivw-2eY&start=1425&end=1436   	Janáček: String Quartet No. 2 "Intimate Letters" (ending)
+1	5	llB7NaWLUc4	2257.08	10	https://www.youtube.com/watch?v=llB7NaWLUc4&start=2257&end=2267   	Dvořák: Cello Concerto finale
+1	6	3G4NKzmfC-Q	60.2	15.2	https://www.youtube.com/watch?v=3G4NKzmfC-Q&start=60&end=75       	Smetana: The Moldau from Má Vlast
+						
+2	1	Wk0oZ9JdTe0	470.6	14.6	https://www.youtube.com/watch?v=Wk0oZ9JdTe0&start=470&end=485     	Haydn: Violin Concerto No. 4
+2	2	8fRZRl4JQWg	13.1	11.7	https://www.youtube.com/watch?v=8fRZRl4JQWg&start=13&end=24       	Barber: Violin Concerto
+2	3	7_DOViAUbWg	0.3	9.1	https://www.youtube.com/watch?v=7_DOViAUbWg&start=0&end=9         	Elgar: Violin Concerto
+2	4	v4s_laQS3Vo	9.6	8.4	https://www.youtube.com/watch?v=v4s_laQS3Vo&start=9&end=18        	Brahms: Violin Concerto
+2	5	Jg0D8wrNwsU	13.3	7.9	https://www.youtube.com/watch?v=Jg0D8wrNwsU&start=13&end=21       	Tchaikovsky: Violin Concerto
+						
+3	1	17ozSeGw-fY	55	12.1	https://www.youtube.com/watch?v=17ozSeGw-fY&start=55&end=67       	Sweet Nothing
+3	2	DkeiKbqa02g	68	9.8	https://www.youtube.com/watch?v=DkeiKbqa02g&start=68&end=77       	One Kiss
+3	3	kOkQ4T5WO9E	62	11.8	https://www.youtube.com/watch?v=kOkQ4T5WO9E&start=62&end=73       	This is What You Came For
+3	4	EgqUJOudrcM	78	13	https://www.youtube.com/watch?v=EgqUJOudrcM&start=78&end=91       	How Deep is You Love
+						
+4	1	yC7v4O9kLyU	2164	10.2	https://www.youtube.com/watch?v=yC7v4O9kLyU&start=2164&end=2174   	Pli Selon Pli
+4	2	NK3YoFSQp08	1975	14.9	https://www.youtube.com/watch?v=NK3YoFSQp08&start=1975&end=1989   	Repons
+4	3	PHG3FCAM1-Y	385	11.9	https://www.youtube.com/watch?v=PHG3FCAM1-Y&start=385&end=396     	Sur Incises
+4	4	zW2YkmeeBaI	8.3	16.6	https://www.youtube.com/watch?v=zW2YkmeeBaI&start=8&end=24        	Piano Sonata No. 2
+4	5	4uxwxOdb8P0	1.1	10	https://www.youtube.com/watch?v=4uxwxOdb8P0&start=1&end=11        	La Marteau Sans Maître
+						
+5	1	3JVJiXwbL14	2.8	10	https://www.youtube.com/watch?v=3JVJiXwbL14&start=2&end=12        	Vitebsk
+5	2	i1-vIw_M-Qg	469.6	7.4	https://www.youtube.com/watch?v=i1-vIw_M-Qg&start=469&end=477     	Piano Variations
+5	3	wdhE0R4qGX0	988	10.3	https://www.youtube.com/watch?v=wdhE0R4qGX0&start=988&end=998     	Billy the Kid (Billy's Death)
+5	4	0dW1pFvbnNk	647	8.2	https://www.youtube.com/watch?v=0dW1pFvbnNk&start=647&end=655     	Lincoln Portrait
+5	5	GSQVZXPcnUo	612.3	7	https://www.youtube.com/watch?v=GSQVZXPcnUo&start=612&end=619     	El Salon Mexico
+5	6	FMtCh0VuoKg	0.3	13.6	https://www.youtube.com/watch?v=FMtCh0VuoKg&start=0&end=13        	Appalachian Spring ("Simple Gifts")
+						
+6	1	lb-gcOzZOG8	0	15.1	https://www.youtube.com/watch?v=lb-gcOzZOG8&start=0&end=15        	Look down at the Earth ("I come from a poor family")
+6	2	AzCnNLKN_ng	37	12.2	https://www.youtube.com/watch?v=AzCnNLKN_ng&start=37&end=49       	I am old and I cannot sleep ("When I put down my work and go to bed")
+6	3	UL4WpdoG6Ok	132	9.2	https://www.youtube.com/watch?v=UL4WpdoG6Ok&start=132&end=141     	I am the wife of Mao Tse-Tung ("Let me be a grain of sand")
+6	4	0cM_lSJOGbs	0	10	https://www.youtube.com/watch?v=0cM_lSJOGbs&start=0&end=10        	The people are the heroes now
+6	5	avV762ZnOv8	18.3	10	https://www.youtube.com/watch?v=avV762ZnOv8&start=18&end=28       	News has a kind of mystery
+6	6	QIXgfmOEcek	17	17	https://www.youtube.com/watch?v=QIXgfmOEcek&start=17&end=34       	I am the wife of Mao Tse-Tung
+						
+7	1	DPtIrsO_E2w	103.1	10.3	https://www.youtube.com/watch?v=DPtIrsO_E2w&start=103&end=113     	Song without words Op. 109
+7	2	AqdcnNYROLo	89.3	11.7	https://www.youtube.com/watch?v=AqdcnNYROLo&start=89&end=101      	Reformation Symphony, finale (theme is "Ein feste burg")
+7	3	mZCNl4y7_0k	192	11.3	https://www.youtube.com/watch?v=mZCNl4y7_0k&start=192&end=203     	Scottish Symphony first movement
+7	4	KrITNrgQHuE	605.2	11.6	https://www.youtube.com/watch?v=KrITNrgQHuE&start=605&end=616     	Octet
+7	5	hHTV3GFyHfM	4.6	8.9	https://www.youtube.com/watch?v=hHTV3GFyHfM&start=4&end=13        	Scherzo from A Midsummer Night's Dream
+7	6	KhstAEaWBl4	2.4	8.2	https://www.youtube.com/watch?v=KhstAEaWBl4&start=2&end=10        	Italian Symphony opening
+						
+8	1	QWI8xrbbOQk	4.3	9.6	https://www.youtube.com/watch?v=QWI8xrbbOQk&start=4&end=13        	Horn Concerto No. 2
+8	2	4EWA2_1iwgU	293	10.5	https://www.youtube.com/watch?v=4EWA2_1iwgU&start=293&end=303     	Ein Heldenleben – depiction of Strauss's critics
+8	3	CcBGsjPky0c	636.8	8.6	https://www.youtube.com/watch?v=CcBGsjPky0c&start=636&end=645     	Don Juan
+8	4	esMGHRm68_c	492	13.5	https://www.youtube.com/watch?v=esMGHRm68_c&start=492&end=505     	Der Rosenkavalier waltzes
+8	5	amKwgP5CYQM	6.8	9	https://www.youtube.com/watch?v=amKwgP5CYQM&start=6&end=15        	Salome
+8	6	IFPwm0e_K98	19.4	14	https://www.youtube.com/watch?v=IFPwm0e_K98&start=19&end=33       	Also Sprach Zarathustra – fanfare
+						
+9	1	qZ6OrrkeVFo	82.4	13.8	https://www.youtube.com/watch?v=qZ6OrrkeVFo&start=82&end=96       	I've been loving you too long
+9	2	NyMg-EhZ1Es	11	11.8	https://www.youtube.com/watch?v=NyMg-EhZ1Es&start=11&end=22       	Cigarettes and Coffee
+9	3	UnPMoAb4y8U	162	14.2	https://www.youtube.com/watch?v=UnPMoAb4y8U&start=162&end=176     	Try a little tenderness
+9	4	rTVjnBo96Ug	11.3	16.7	https://www.youtube.com/watch?v=rTVjnBo96Ug&start=11&end=28       	Sittin' on the dock of the bay
+						
+10	1	UC_T4_HxTb4	2.3	12.6	https://www.youtube.com/watch?v=UC_T4_HxTb4&start=2&end=14        	Toru Takemitsu - November Steps
+10	2	3bNITQR4Uso	10	10.8	https://www.youtube.com/watch?v=3bNITQR4Uso&start=10&end=20       	Mariya Takeuchi - Plastic Love
+10	3	tuyZ9f6mHZk	22.8	7.6	https://www.youtube.com/watch?v=tuyZ9f6mHZk&start=22&end=30       	Utada Hikaru - Traveling
+10	4	TYRDgd3Tb44	40	11	https://www.youtube.com/watch?v=TYRDgd3Tb44&start=40&end=51       	Nujabes - Aruarian Dance
+10	5	aXjIy0XQGi4	19	9.8	https://www.youtube.com/watch?v=aXjIy0XQGi4&start=19&end=28       	Japan Coast Guard Band - A Cruel Angel's Thesis
+10	6	zSkcW5w_L1o	7.9	6.1	https://www.youtube.com/watch?v=zSkcW5w_L1o&start=7&end=14        	Nanae Yoshimura - Rokudan (instrument: koto)
+						
+11	1	abZlsz4b4Yo	872	10.4	https://www.youtube.com/watch?v=abZlsz4b4Yo&start=872&end=882     	String Quartet Op. 121, mvt. 3
+11	2	4_BX8e4ZXwc	0	6	https://www.youtube.com/watch?v=4_BX8e4ZXwc&start=0&end=6         	Piano Quintet No. 1 in D minor, Op. 89, mvt. 3
+11	3	7n8zsxygheg	8	14.2	https://www.youtube.com/watch?v=7n8zsxygheg&start=8&end=22        	Les berceaux
+11	4	dFkBk7hEPhQ	1.3	9	https://www.youtube.com/watch?v=dFkBk7hEPhQ&start=1&end=10        	Piano Quartet No. 1 in C minor, Op. 15, mvt. 1
+11	5	PJanc3-a320	5	12.4	https://www.youtube.com/watch?v=PJanc3-a320&start=5&end=17        	Requiem, Pie Jesu
+11	6	wQDoN40-_C4	143.1	11.7	https://www.youtube.com/watch?v=wQDoN40-_C4&start=143&end=154     	Pavane
+						
+12	1	lpsEpeirAhw	27.6	10	https://www.youtube.com/watch?v=lpsEpeirAhw&start=27&end=37       	"Alt Wien" (No. 11 from Triakontameron)
+12	2	R_VejmeFoCk	445.1	14.3	https://www.youtube.com/watch?v=R_VejmeFoCk&start=445&end=459     	Hari Besaar (The Great Day) from Java Suite
+12	3	lDahvLh-460	501.1	10.4	https://www.youtube.com/watch?v=lDahvLh-460&start=501&end=511     	Symphonic Metamorphosis on Strauss's Die Fledermaus
+12	4	3SK9w1aSXxE	93.4	11	https://www.youtube.com/watch?v=3SK9w1aSXxE&start=93&end=104      	53 Studies on Chopin's Etudes: No. 47 in G-flat major, 'Badinage'
+12	5	f0nlJXooIVc	97.75	11.4	https://www.youtube.com/watch?v=f0nlJXooIVc&start=97&end=109      	Passacaglia in B minor on Schubert's Unfinished Symphony
+						
+13	1	DTYEOPbzEy8	18	12.2	https://www.youtube.com/watch?v=DTYEOPbzEy8&start=18&end=30       	Mohammed Rafi sings Ek Hi Baat by Sudarshan Faakir
+13	2	TK3gv-CeGq4	192	13.3	https://www.youtube.com/watch?v=TK3gv-CeGq4&start=192&end=205     	Habeeb wali Muhammad sings Na kisi ki aankh ka noor hoon 
+13	3	Sg4EQcmeBl0	4	16.6	https://www.youtube.com/watch?v=Sg4EQcmeBl0&start=4&end=20        	Mohammed Rafi sings Lagta nahi hai dil mera ujde dayyar mein (lyrics by the last Mughal emperor, who wrote the poem as his own epitaph)
+						
+14	1	ZT7weHi6oSw	4183.6	6.4	https://www.youtube.com/watch?v=ZT7weHi6oSw&start=4183&end=4190   	Chi voler fiore
+14	2	ZT7weHi6oSw	10402	9	https://www.youtube.com/watch?v=ZT7weHi6oSw&start=10402&end=10411 	Caro voi siete all'alma
+14	3	7VA6S-OJ7fU	0.7	12.3	https://www.youtube.com/watch?v=7VA6S-OJ7fU&start=0&end=13        	Va godendo vezzoso e bello
+14	4	VHi6PEKxSUg	28	17.3	https://www.youtube.com/watch?v=VHi6PEKxSUg&start=28&end=45       	Crude furie degl'orridi abissi
+14	5	ZT7weHi6oSw	404	11.4	https://www.youtube.com/watch?v=ZT7weHi6oSw&start=404&end=415     	Ombra mai fu
+						
+15	1	-sNBgRObwW8	30	16	https://www.youtube.com/watch?v=-sNBgRObwW8&start=30&end=46       	Turin Brakes - Rain City
+15	2	oJUGp2cCuu8	27	7	https://www.youtube.com/watch?v=oJUGp2cCuu8&start=27&end=34       	Joseph Arthur - Honey and the Moon
+15	3	REg8NhIjKgY	113	12.8	https://www.youtube.com/watch?v=REg8NhIjKgY&start=113&end=125     	Finley Quaye and William Orbit - Dice
+15	4	UYIAfiVGluk	172	14.6	https://www.youtube.com/watch?v=UYIAfiVGluk&start=172&end=186     	Imogen Heap - Hide and Seek
+15	5	gt1pRLtmA8M	0.6	19.6	https://www.youtube.com/watch?v=gt1pRLtmA8M&start=0&end=20        	Phantom Planet - California
+						
+16	1	mXFbsZjeHTg	940.7	5	https://www.youtube.com/watch?v=mXFbsZjeHTg&start=940&end=945     	Presto, end
+16	2	mXFbsZjeHTg	951.1	9.1	https://www.youtube.com/watch?v=mXFbsZjeHTg&start=951&end=960     	Andante, intro
+16	3	mXFbsZjeHTg	2897.3	11	https://www.youtube.com/watch?v=mXFbsZjeHTg&start=2897&end=2908   	Finale
+16	4	mXFbsZjeHTg	1337.5	8.2	https://www.youtube.com/watch?v=mXFbsZjeHTg&start=1337&end=1345   	Alla danza tedesca
+16	5	mXFbsZjeHTg	2649	15	https://www.youtube.com/watch?v=mXFbsZjeHTg&start=2649&end=2664   	Grosse Fugue, middle
+16	6	mXFbsZjeHTg	1706	12	https://www.youtube.com/watch?v=mXFbsZjeHTg&start=1706&end=1718   	Cavatina
+16	7	mXFbsZjeHTg	2070	11	https://www.youtube.com/watch?v=mXFbsZjeHTg&start=2070&end=2081   	Grosse Fugue
+						
+17	1	wYLasmJdeEg	565.5	8.7	https://www.youtube.com/watch?v=wYLasmJdeEg&start=565&end=574     	Suite No. 2 for two pianos - mvt. 3, Romance
+17	2	d-cG0N94LPw	150	13	https://www.youtube.com/watch?v=d-cG0N94LPw&start=150&end=163     	All-night vigil - mvt. 2
+17	3	YrXMpfwnbQ4	1525	10	https://www.youtube.com/watch?v=YrXMpfwnbQ4&start=1525&end=1535   	Cello Sonata - mvt. 4, Allegro mosso
+17	4	Zg4tYjG4MVA	1840	16	https://www.youtube.com/watch?v=Zg4tYjG4MVA&start=1840&end=1856   	Symphony No. 2 - mvt. 3, Adagio
+17	5	wDFCCHjLzjs	2.9	9.1	https://www.youtube.com/watch?v=wDFCCHjLzjs&start=2&end=12        	Prelude Op. 23 No. 5 in G minor

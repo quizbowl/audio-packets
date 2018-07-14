@@ -1,0 +1,26 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	FcnYbpJhpN4	4667.9	7	https://www.youtube.com/watch?v=FcnYbpJhpN4&start=4667&end=4674   	Feux d'artifice
+1	2	FcnYbpJhpN4	2274.8	11.1	https://www.youtube.com/watch?v=FcnYbpJhpN4&start=2274&end=2285   	La danse de Puck
+1	3	FcnYbpJhpN4	3576	8	https://www.youtube.com/watch?v=FcnYbpJhpN4&start=3576&end=3584   	Général Lavine, eccentric
+1	4	FcnYbpJhpN4	1204	10	https://www.youtube.com/watch?v=FcnYbpJhpN4&start=1204&end=1214   	Des pas sur la neige
+1	5	FcnYbpJhpN4	1851.2	10	https://www.youtube.com/watch?v=FcnYbpJhpN4&start=1851&end=1861   	La cathédrale engloutie
+1	6	FcnYbpJhpN4	1629.05	12	https://www.youtube.com/watch?v=FcnYbpJhpN4&start=1629&end=1641   	La fille aux cheveux du lin
+						
+2	1	fGZWwRBEWIs	365	15	https://www.youtube.com/watch?v=fGZWwRBEWIs&start=365&end=380     	Rameau Hippolyte et Aricie 
+2	2	A7T_IRIkm20	385	12	https://www.youtube.com/watch?v=A7T_IRIkm20&start=385&end=397     	Monteverdi Il Ballo delle Ingrate
+2	3	rdlTv8Q5nL4	2	11	https://www.youtube.com/watch?v=rdlTv8Q5nL4&start=2&end=13        	Monteverdi Orfeo
+2	4	Z7YrRRFimKI	4481.1	11.8	https://www.youtube.com/watch?v=Z7YrRRFimKI&start=4481&end=4492   	Offenbach Orphée
+2	5	8sQ8R54C53o	45	10	https://www.youtube.com/watch?v=8sQ8R54C53o&start=45&end=55       	Why We Build the Wall Hadestown
+						
+3	1	OcHWvl16mpg	24	15	https://www.youtube.com/watch?v=OcHWvl16mpg&start=24&end=39       	Aulos
+3	2	4hOK7bU0S1Y	691	12	https://www.youtube.com/watch?v=4hOK7bU0S1Y&start=691&end=703     	Athenaeus Paean
+3	3	4hOK7bU0S1Y	795	13	https://www.youtube.com/watch?v=4hOK7bU0S1Y&start=795&end=808     	Orestes
+3	4	4hOK7bU0S1Y	457	13.95	https://www.youtube.com/watch?v=4hOK7bU0S1Y&start=457&end=470     	Iliad Book 1
+3	5	YEKRE2uamyg	0.3	11.6	https://www.youtube.com/watch?v=YEKRE2uamyg&start=0&end=11        	Civ 5 Epitaph of Seikilos
+						
+4	1	buzTXFcjK7c	22	10	https://www.youtube.com/watch?v=buzTXFcjK7c&start=22&end=32       	Canto Popolare
+4	2	K55d9a8j8WE	3039	8	https://www.youtube.com/watch?v=K55d9a8j8WE&start=3039&end=3047   	Dream of Gerontius
+4	3	M18dApHK5Go	13	12	https://www.youtube.com/watch?v=M18dApHK5Go&start=13&end=25       	Romance for Bassoon
+4	4	3mcU89l2r38	1166	12.3	https://www.youtube.com/watch?v=3mcU89l2r38&start=1166&end=1178   	Violin Concerto
+4	5	OPhkZW_jwc0	9	9.3	https://www.youtube.com/watch?v=OPhkZW_jwc0&start=9&end=18        	Cello Concerto
+4	6	gLKSDT_2zPA	220.5	9.7	https://www.youtube.com/watch?v=gLKSDT_2zPA&start=220&end=230     	Land of Hope and Glory

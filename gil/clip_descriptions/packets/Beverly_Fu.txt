@@ -1,0 +1,79 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	G3Es3BnT-w4	774	10.6	https://www.youtube.com/watch?v=G3Es3BnT-w4&start=774&end=784     	Billy the Kid: Gun Battle
+1	2	zcsMhuREKbw	8	12.4	https://www.youtube.com/watch?v=zcsMhuREKbw&start=8&end=20        	The Cat and the Mouse
+1	3	VSNw9r83v6g	275	8.4	https://www.youtube.com/watch?v=VSNw9r83v6g&start=275&end=283     	Tender Land Suite: Finale
+1	4	Vu_Q9ijKx8c	32.6	12	https://www.youtube.com/watch?v=Vu_Q9ijKx8c&start=32&end=44       	Saturday Night Waltz
+1	5	RTIRe_65trY	16.2	5.4	https://www.youtube.com/watch?v=RTIRe_65trY&start=16&end=21       	Billy the Kid: Celebration Dance
+1	6	8e3rVcSy3IQ	1056.4	7	https://www.youtube.com/watch?v=8e3rVcSy3IQ&start=1056&end=1063   	Appalachian Spring: Shaker Hymn
+1	7	4NjssV8UuVA	22.9	10.4	https://www.youtube.com/watch?v=4NjssV8UuVA&start=22&end=33       	Fanfare for the Common Man
+						
+2	1	wZIG80RIflU	280.9	10	https://www.youtube.com/watch?v=wZIG80RIflU&start=280&end=290     	16 Waltzes Op. 39 No. 5
+2	2	1EIE78D0m1g	49.9	8	https://www.youtube.com/watch?v=1EIE78D0m1g&start=49&end=57       	Variations on a Theme by Paganini: Var. 2
+2	3	wfF2tznp0xs	8.6	12.6	https://www.youtube.com/watch?v=wfF2tznp0xs&start=8&end=21        	Violin Sonata No. 3 in D Minor, Mvt. 1
+2	4	w_28Bm_GOAY	32	10	https://www.youtube.com/watch?v=w_28Bm_GOAY&start=32&end=42       	Piano Concerto No. 1, Mvt. 1
+2	5	POW-u-RGspY	1892.9	8	https://www.youtube.com/watch?v=POW-u-RGspY&start=1892&end=1900   	Symphony No. 1, Mvt. 4
+2	6	EBIKYRXGz2k	6	11	https://www.youtube.com/watch?v=EBIKYRXGz2k&start=6&end=17        	Lullaby
+						
+3	1	96aapx3DFdM	55	8	https://www.youtube.com/watch?v=96aapx3DFdM&start=55&end=63       	Saint-Saens: Le Rouet d'Omphale
+3	2	a7d8DXb1kbI	242.6	11.1	https://www.youtube.com/watch?v=a7d8DXb1kbI&start=242&end=253     	Ravel: Tzigane
+3	3	F2YKkBiQpzI	8.9	11.5	https://www.youtube.com/watch?v=F2YKkBiQpzI&start=8&end=20        	Saint-Saens: Cello Concerto in A minor, Mvt. 1
+3	4	7IC20Awt6PY	11	10	https://www.youtube.com/watch?v=7IC20Awt6PY&start=11&end=21       	Lalo: Symphonie Espagnole, Mvt. 1
+3	5	8Qx2lMaMsl8	0	12	https://www.youtube.com/watch?v=8Qx2lMaMsl8&start=0&end=12        	Delibes: Lakmé: Flower Duet
+3	6	TEdSdtztfLQ	33.2	12	https://www.youtube.com/watch?v=TEdSdtztfLQ&start=33&end=45       	Debussy: The Girl with the Flaxen Hair
+						
+4	1	KU1X3Wut-k0	666	9	https://www.youtube.com/watch?v=KU1X3Wut-k0&start=666&end=675     	.
+4	2	KU1X3Wut-k0	283	8.3	https://www.youtube.com/watch?v=KU1X3Wut-k0&start=283&end=291     	.
+4	3	KU1X3Wut-k0	765	9.4	https://www.youtube.com/watch?v=KU1X3Wut-k0&start=765&end=774     	2nd Trumpet solo
+4	4	KU1X3Wut-k0	410	10	https://www.youtube.com/watch?v=KU1X3Wut-k0&start=410&end=420     	Violin solo
+4	5	KU1X3Wut-k0	464.5	10	https://www.youtube.com/watch?v=KU1X3Wut-k0&start=464&end=474     	1st Trumpet solo
+4	6	KU1X3Wut-k0	30	8.3	https://www.youtube.com/watch?v=KU1X3Wut-k0&start=30&end=38       	Taxi horns
+4	7	KU1X3Wut-k0	4	8	https://www.youtube.com/watch?v=KU1X3Wut-k0&start=4&end=12        	Beginning
+						
+5	1	ertt3o1x65c	40	8	https://www.youtube.com/watch?v=ertt3o1x65c&start=40&end=48       	Spanish Bombs
+5	2	qsrEAWcAvRg	26	12	https://www.youtube.com/watch?v=qsrEAWcAvRg&start=26&end=38       	Lost in the Supermarket
+5	3	MwzMuuGOsVI	42	10	https://www.youtube.com/watch?v=MwzMuuGOsVI&start=42&end=52       	Death or Glory
+5	4	wqcizZebcaU	98	12	https://www.youtube.com/watch?v=wqcizZebcaU&start=98&end=110      	Guns of Brixton
+5	5	4vHvzybkqfo	54	13	https://www.youtube.com/watch?v=4vHvzybkqfo&start=54&end=67       	London Calling
+						
+6	1	wqryZ-p1xBY	105	9.3	https://www.youtube.com/watch?v=wqryZ-p1xBY&start=105&end=114     	Rienzi: Overture
+6	2	dytT5OnXU0A	99	11	https://www.youtube.com/watch?v=dytT5OnXU0A&start=99&end=110      	Tannhauser: Grand March
+6	3	4IkQU5jco3E	226.6	8	https://www.youtube.com/watch?v=4IkQU5jco3E&start=226&end=234     	Die Walkure: Wintersturme
+6	4	fuPDMhyGKB8	921	12	https://www.youtube.com/watch?v=fuPDMhyGKB8&start=921&end=933     	Tristan und Isolde: Liebestod
+6	5	SRmCEGHt-Qk	159	10	https://www.youtube.com/watch?v=SRmCEGHt-Qk&start=159&end=169     	Tannhauser: Overture
+6	6	GGU1P6lBW6Q	15	13	https://www.youtube.com/watch?v=GGU1P6lBW6Q&start=15&end=28       	Ride of the Valkyries
+						
+7	1	L8CcgGLm408	56	11.3	https://www.youtube.com/watch?v=L8CcgGLm408&start=56&end=67       	Pari siamo
+7	2	O50YveN3TL0	144.5	12	https://www.youtube.com/watch?v=O50YveN3TL0&start=144&end=156     	Parmi veder le lagrime
+7	3	RybU-no7VEM	157	9	https://www.youtube.com/watch?v=RybU-no7VEM&start=157&end=166     	Possente amor mi chiama
+7	4	WT92QQyRfT0	91	11	https://www.youtube.com/watch?v=WT92QQyRfT0&start=91&end=102      	Caro nome
+7	5	0xDkYkOHj20	78	9	https://www.youtube.com/watch?v=0xDkYkOHj20&start=78&end=87       	Bella figlia dell'amore
+7	6	8A3zetSuYRg	11.6	10	https://www.youtube.com/watch?v=8A3zetSuYRg&start=11&end=21       	La donna e mobile
+						
+8	1	PTKJ3A2AIps	0.4	11	https://www.youtube.com/watch?v=PTKJ3A2AIps&start=0&end=11        	Cage: Summer
+8	2	TusBlSJs8lo	54	9	https://www.youtube.com/watch?v=TusBlSJs8lo&start=54&end=63       	Glazunov: L'Automne: Bacchanale
+8	3	XOVndSdAq2Q	1645	12	https://www.youtube.com/watch?v=XOVndSdAq2Q&start=1645&end=1657   	Tchaikovsky: September: The Hunt
+8	4	pByceAzSjqw	1921	13	https://www.youtube.com/watch?v=pByceAzSjqw&start=1921&end=1934   	Glazunov: L'Automne: Petit adage
+8	5	XOVndSdAq2Q	4841.6	14	https://www.youtube.com/watch?v=XOVndSdAq2Q&start=4841&end=4855   	Tchaikovsky: November: Troika
+8	6	XOVndSdAq2Q	1047.2	11.5	https://www.youtube.com/watch?v=XOVndSdAq2Q&start=1047&end=1058   	Tchaikovsky: June: Barcarolle
+						
+9	1	zdD_QygwRuY	0.3	12	https://www.youtube.com/watch?v=zdD_QygwRuY&start=0&end=12        	Bach: Prelude in C-sharp minor WTC II
+9	2	13UlKWgwdZI	2.5	14	https://www.youtube.com/watch?v=13UlKWgwdZI&start=2&end=16        	Rachmaninoff: Prelude in G-sharp minor, Op. 32 No. 12
+9	3	71SqlSco97U	29	9	https://www.youtube.com/watch?v=71SqlSco97U&start=29&end=38       	Debussy: Les Collines d'Anacapri
+9	4	3_pfI1k_DjQ	61	12	https://www.youtube.com/watch?v=3_pfI1k_DjQ&start=61&end=73       	Gershwin: 3 Preludes: 1. Allegro ben ritmato e deciso
+9	5	tmXjrkdQatw	1	9	https://www.youtube.com/watch?v=tmXjrkdQatw&start=1&end=10        	Chopin: Raindrop Prelude
+9	6	eujpw5VUuB0	136.2	10	https://www.youtube.com/watch?v=eujpw5VUuB0&start=136&end=146     	Bach: Prelude in C major WTC I
+						
+10	1	EW7k2T2dxCk	151.3	10	https://www.youtube.com/watch?v=EW7k2T2dxCk&start=151&end=161     	Jeux d'enfants: Impromptu - La Toupie
+10	2	MQd63bUAxbU	5	12	https://www.youtube.com/watch?v=MQd63bUAxbU&start=5&end=17        	The Pearl Fishers: Prelude
+10	3	2y09pD1r-Qs	0.5	10	https://www.youtube.com/watch?v=2y09pD1r-Qs&start=0&end=10        	L'Arlésienne Suite No. 2: Farandole
+10	4	4IkQU5jco3E	676	13	https://www.youtube.com/watch?v=4IkQU5jco3E&start=676&end=689     	Carmen: Votre Toast
+10	5	pmuFOuh3QHs	1	9	https://www.youtube.com/watch?v=pmuFOuh3QHs&start=1&end=10        	Carmen: Overture
+10	6	tSsNFPk2vNA	4	11	https://www.youtube.com/watch?v=tSsNFPk2vNA&start=4&end=15        	Carmen: Habanera
+						
+11	1	VZjv4l9IUuw	520	12	https://www.youtube.com/watch?v=VZjv4l9IUuw&start=520&end=532     	Chôros No. 10
+11	2	kUA5EJKxY5o	41.8	9	https://www.youtube.com/watch?v=kUA5EJKxY5o&start=41&end=50       	Rudepoema
+11	3	kUA5EJKxY5o	62	5.2	https://www.youtube.com/watch?v=kUA5EJKxY5o&start=62&end=67       	Rudepoema
+11	4	G3Mj6HBbvXM	228.6	9.4	https://www.youtube.com/watch?v=G3Mj6HBbvXM&start=228&end=238     	Bachianas Brasileiras No. 9 Fugue
+11	5	r21WDZ4-eUI	0.4	12	https://www.youtube.com/watch?v=r21WDZ4-eUI&start=0&end=12        	Etude No. 11
+11	6	XUrugDn2g6s	2.6	13	https://www.youtube.com/watch?v=XUrugDn2g6s&start=2&end=15        	Prelude No. 1
+11	7	j3xbvTjMOkk	14	11.7	https://www.youtube.com/watch?v=j3xbvTjMOkk&start=14&end=25       	Bachianas Brasileiras No. 5 Aria

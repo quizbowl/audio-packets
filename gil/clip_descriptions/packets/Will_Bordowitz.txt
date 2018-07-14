@@ -1,0 +1,76 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	zpUV1Mo7llo	17	7	https://www.youtube.com/watch?v=zpUV1Mo7llo&start=17&end=24       	Pat Metheny's solo on "Video Games" from Song X
+1	2	LHv0VWPAIjU	14	11	https://www.youtube.com/watch?v=LHv0VWPAIjU&start=14&end=25       	"What Reason Could I Give" from Science Fiction
+1	3	7dA5qoTOa3Q	53	7.2	https://www.youtube.com/watch?v=7dA5qoTOa3Q&start=53&end=60       	"Times Square" from Of Human Feelings
+1	4	9nGDRpdgAGs	0.3	11.7	https://www.youtube.com/watch?v=9nGDRpdgAGs&start=0&end=12        	"The Blessing" from Something Else!!!
+1	5	23QVY94tAj0	15	8.5	https://www.youtube.com/watch?v=23QVY94tAj0&start=15&end=23       	Dancing in your Head
+1	6	DNbD1JIH344	19	12	https://www.youtube.com/watch?v=DNbD1JIH344&start=19&end=31       	"Lonely Woman" from The Shape of Jazz to Come
+						
+2	1	t2Hy0lK9lqE	95	12	https://www.youtube.com/watch?v=t2Hy0lK9lqE&start=95&end=107      	Cantata Para America Magica Op. 27
+2	2	VLVgwW1NUt8	519.8	8.4	https://www.youtube.com/watch?v=VLVgwW1NUt8&start=519&end=528     	Guitar Sonata Op. 47, mvt. 3
+2	3	vETsXy7Og7Q	30	11	https://www.youtube.com/watch?v=vETsXy7Og7Q&start=30&end=41       	Guitar Sonata Op. 47, mvt. 2
+2	4	hT3XiVsH64g	27.6	8.8	https://www.youtube.com/watch?v=hT3XiVsH64g&start=27&end=36       	Piano Sonata No. 1, Op. 22, mvt. 1
+2	5	UaM3p-_PYFE	1069.2	13.6	https://www.youtube.com/watch?v=UaM3p-_PYFE&start=1069&end=1082   	Harp Concerto Op. 25, mvt. 3
+2	6	LunXZJtfgJQ	120.3	12.1	https://www.youtube.com/watch?v=LunXZJtfgJQ&start=120&end=132     	Danzas argentinas, Op. 2: III. Danza del gaucho matrero
+2	7	uhFpd0fDmZ4	101	7.6	https://www.youtube.com/watch?v=uhFpd0fDmZ4&start=101&end=108     	Estancia Op. 8, mvt. 3
+						
+3	1	MuGThtyz9pI	3.2	8.8	https://www.youtube.com/watch?v=MuGThtyz9pI&start=3&end=12        	The hornpipe
+3	2	PJt9w13Jor0	20.5	14.5	https://www.youtube.com/watch?v=PJt9w13Jor0&start=20&end=35       	Bridesmaids chorus
+3	3	cEil_UcVbU8	37.7	8.2	https://www.youtube.com/watch?v=cEil_UcVbU8&start=37&end=45       	There Grew a Flower
+3	4	1e0OtWYNfXo	31.4	11.6	https://www.youtube.com/watch?v=1e0OtWYNfXo&start=31&end=43       	When the night wind howls
+3	5	FOPLVTawCdY	6	8	https://www.youtube.com/watch?v=FOPLVTawCdY&start=6&end=14        	My eyes are fully open
+3	6	M7jU_J9fqfU	95.3	10.9	https://www.youtube.com/watch?v=M7jU_J9fqfU&start=95&end=106      	I once was as meek
+						
+4	1	4u14_yotoaY	5.2	9.6	https://www.youtube.com/watch?v=4u14_yotoaY&start=5&end=14        	Buxtehude: BuxWV 157, Toccata in F Major
+4	2	PV4VRPIwbYw	26.7	11.3	https://www.youtube.com/watch?v=PV4VRPIwbYw&start=26&end=38       	Frescobaldi: Toccata Terza F 2.03
+4	3	UORxpTn-pOE	47	9	https://www.youtube.com/watch?v=UORxpTn-pOE&start=47&end=56       	Ravel: Le Tombeau de Couperin, mvt. 6
+4	4	mjpFi9bn1do	2.5	9	https://www.youtube.com/watch?v=mjpFi9bn1do&start=2&end=11        	Monteverdi: Toccata from L'Orfeo
+4	5	EUHobIa3TL0	24.5	9	https://www.youtube.com/watch?v=EUHobIa3TL0&start=24&end=33       	Schumann Op. 7
+4	6	SGKfqSJbeAg	21.1	10.9	https://www.youtube.com/watch?v=SGKfqSJbeAg&start=21&end=32       	Bach: Toccata and Fugue in D minor, BWV 565
+						
+5	1	dvB6MDTdhFU	22	10	https://www.youtube.com/watch?v=dvB6MDTdhFU&start=22&end=32       	Gubaidulina: Trio For Three Trumpets
+5	2	h4rKh2JvC-I	0.2	11.8	https://www.youtube.com/watch?v=h4rKh2JvC-I&start=0&end=12        	Schnittke: Sketches
+5	3	yaaRk0c-780	7	10	https://www.youtube.com/watch?v=yaaRk0c-780&start=7&end=17        	Schnittke: Concerto Grosso No. 1: I. Preludio
+5	4	jkWA_Bom79A	4	6.7	https://www.youtube.com/watch?v=jkWA_Bom79A&start=4&end=10        	Kapustin: 8 Concert Etudes, Op. 40 No. 3: Toccatina
+5	5	o8TCEJy6P0g	2.4	6	https://www.youtube.com/watch?v=o8TCEJy6P0g&start=2&end=8         	Prokofiev: The Love for Three Oranges: I. The Clowns
+5	6	Zwji3k0v_AM	62.4	8.6	https://www.youtube.com/watch?v=Zwji3k0v_AM&start=62&end=71       	Prokofiev: Piano Sonata No. 7, Op. 83: III. Precipitato
+5	7	tby5aMrMu6Q	1120	13	https://www.youtube.com/watch?v=tby5aMrMu6Q&start=1120&end=1133   	Shostakovich: String Quartet No. 8: V. Largo
+5	8	L__jruvYuCg	1994.8	11	https://www.youtube.com/watch?v=L__jruvYuCg&start=1994&end=2005   	Shostakovich: Symphony No. 5: IV.
+						
+6	1	6WX3Kc9yeJo	5.2	12	https://www.youtube.com/watch?v=6WX3Kc9yeJo&start=5&end=17        	Genesis XXI from The Cave
+6	2	fU6qDeJPT-w	80.6	5.6	https://www.youtube.com/watch?v=fU6qDeJPT-w&start=80&end=86       	Pendulum Music
+6	3	I5lgAUHVFC4	91	9	https://www.youtube.com/watch?v=I5lgAUHVFC4&start=91&end=100      	Proverb
+6	4	g0WVh1D0N50	80	8	https://www.youtube.com/watch?v=g0WVh1D0N50&start=80&end=88       	Come Out
+6	5	1E4Bjt_zVJc	230	8	https://www.youtube.com/watch?v=1E4Bjt_zVJc&start=230&end=238     	Different Trains
+6	6	ZXJWO2FQ16c	145	10	https://www.youtube.com/watch?v=ZXJWO2FQ16c&start=145&end=155     	Music for 18 Musicians
+6	7	lzkOFJMI5i8	205	6.8	https://www.youtube.com/watch?v=lzkOFJMI5i8&start=205&end=211     	Clapping Music
+						
+7	1	rqj2xzANQ7M	18.1	10	https://www.youtube.com/watch?v=rqj2xzANQ7M&start=18&end=28       	Ngogorombe music
+7	2	P0GbuYjgB7k	20	8	https://www.youtube.com/watch?v=P0GbuYjgB7k&start=20&end=28       	Compound Muradzikwa plays the Chipendani Mouth-bow
+7	3	9tq1x-dg4-s	36	8.4	https://www.youtube.com/watch?v=9tq1x-dg4-s&start=36&end=44       	Soul Jah Love Yeke Yeke
+7	4	o-mw9U5Fq4g	40	11	https://www.youtube.com/watch?v=o-mw9U5Fq4g&start=40&end=51       	Thomas Mapfumo: Shumba
+7	5	32GFjUkNRao	24	12	https://www.youtube.com/watch?v=32GFjUkNRao&start=24&end=36       	Chartwell Dutiro: Changamire
+7	6	gYfuqCl19U8	15	14	https://www.youtube.com/watch?v=gYfuqCl19U8&start=15&end=29       	Traditional Mbira music
+						
+8	1	w6SVrHxGLsA	55	10	https://www.youtube.com/watch?v=w6SVrHxGLsA&start=55&end=65       	Chronochromie intro
+8	2	0xXSoogzRP4	85	15	https://www.youtube.com/watch?v=0xXSoogzRP4&start=85&end=100      	Cantéyodjayâ
+8	3	icCQu1FCtfQ	355	9.2	https://www.youtube.com/watch?v=icCQu1FCtfQ&start=355&end=364     	L'Ascension, mvt. 2
+8	4	iBRTJMKyvV0	165	9	https://www.youtube.com/watch?v=iBRTJMKyvV0&start=165&end=174     	Des canyons aux étoiles...
+8	5	UeSVu1zbF94	1236	8.4	https://www.youtube.com/watch?v=UeSVu1zbF94&start=1236&end=1244   	Quartet for the End of Time, mvt. 5
+8	6	Tv67YkOWJNA	158	8.2	https://www.youtube.com/watch?v=Tv67YkOWJNA&start=158&end=166     	Turangalîla-Symphonie, mvt. 5
+8	7	UeSVu1zbF94	12	12	https://www.youtube.com/watch?v=UeSVu1zbF94&start=12&end=24       	Quartet for the End of Time, mvt. 1
+						
+9	1	z9tEKXIYMjI	162	8	https://www.youtube.com/watch?v=z9tEKXIYMjI&start=162&end=170     	Symphony No. 2, mvt. 5
+9	2	oep5Rude4mQ	114	3	https://www.youtube.com/watch?v=oep5Rude4mQ&start=114&end=117     	Symphony No. 6, mvt. 1
+9	3	z9tEKXIYMjI	1994	14.3	https://www.youtube.com/watch?v=z9tEKXIYMjI&start=1994&end=2008   	Symphony No. 2, mvt. 5 Climax
+9	4	pRhQhUtOpPI	2.1	14	https://www.youtube.com/watch?v=pRhQhUtOpPI&start=2&end=16        	Symphony No. 3, mvt. 1 Opening
+9	5	nO0nytFsumo	1.9	14.6	https://www.youtube.com/watch?v=nO0nytFsumo&start=1&end=16        	Symphony No. 5, mvt. 1
+9	6	oep5Rude4mQ	4328	8	https://www.youtube.com/watch?v=oep5Rude4mQ&start=4328&end=4336   	Symphony No. 6, mvt. 4 HAMMER
+9	7	e7WgXhUBrps	1.6	7.8	https://www.youtube.com/watch?v=e7WgXhUBrps&start=1&end=9         	Symphony No. 8, Veni Creator Spiritus
+						
+10	1	vIMg8an9Erg	39	9	https://www.youtube.com/watch?v=vIMg8an9Erg&start=39&end=48       	Flight of the Foo Birds (Basie Orchestra)
+10	2	DgogfoM4mqI	36	9	https://www.youtube.com/watch?v=DgogfoM4mqI&start=36&end=45       	Duke Ellington: Bluebird of Delhi (Far east suite)
+10	3	DAsUNTHRjaM	4	10	https://www.youtube.com/watch?v=DAsUNTHRjaM&start=4&end=14        	John Coltrane: Lazy Bird
+10	4	QMsVHHwNrTA	11	10	https://www.youtube.com/watch?v=QMsVHHwNrTA&start=11&end=21       	Fats Navarro: Lady Bird (Tadd Dameron)
+10	5	pqashW66D7o	106	12	https://www.youtube.com/watch?v=pqashW66D7o&start=106&end=118     	Weather Report: Birdland
+10	6	HmroWIcCNUI	9	12	https://www.youtube.com/watch?v=HmroWIcCNUI&start=9&end=21        	Charlie Parker: Yardbird Suite

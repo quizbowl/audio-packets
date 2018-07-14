@@ -1,0 +1,73 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	gjbbxg3YzCs	1.5	11.6	https://www.youtube.com/watch?v=gjbbxg3YzCs&start=1&end=13        	Longing
+1	2	PZRfEJREoJ0	0.9	8.3	https://www.youtube.com/watch?v=PZRfEJREoJ0&start=0&end=9         	Anger
+1	3	s42xVtDHPro	3	12	https://www.youtube.com/watch?v=s42xVtDHPro&start=3&end=15        	Forging song
+1	4	a53s4jyCqqU	83.4	13.8	https://www.youtube.com/watch?v=a53s4jyCqqU&start=83&end=97       	Funeral
+1	5	8UtqAwUVl00	0.4	9	https://www.youtube.com/watch?v=8UtqAwUVl00&start=0&end=9         	Horn call
+1	6	h5GxoFy5Q9E	0.8	12.6	https://www.youtube.com/watch?v=h5GxoFy5Q9E&start=0&end=13        	Leitmotif
+						
+2	1	F89fz09pbHs	239	8.5	https://www.youtube.com/watch?v=F89fz09pbHs&start=239&end=247     	Carl Vine
+2	2	BBztbOmxHQk	1082	13	https://www.youtube.com/watch?v=BBztbOmxHQk&start=1082&end=1095   	Barber
+2	3	mJBnHCPOal4	0.7	16	https://www.youtube.com/watch?v=mJBnHCPOal4&start=0&end=16        	Medtner: Night Wind
+2	4	-FAXLyB6Zto	1845	15	https://www.youtube.com/watch?v=-FAXLyB6Zto&start=1845&end=1860   	Schubert: Piano Sonata No. 21
+2	5	uDpQhvOQ-DU	21	10	https://www.youtube.com/watch?v=uDpQhvOQ-DU&start=21&end=31       	Prokofiev: Piano Sonata No. 7
+2	6	XXIu0MRuIQU	42	11	https://www.youtube.com/watch?v=XXIu0MRuIQU&start=42&end=53       	Mozart: Piano Sonata No. 16
+						
+3	1	Mcg-iCBivbw	91	10.3	https://www.youtube.com/watch?v=Mcg-iCBivbw&start=91&end=101      	Subtheme
+3	2	Mcg-iCBivbw	443	11	https://www.youtube.com/watch?v=Mcg-iCBivbw&start=443&end=454     	Singing
+3	3	Mcg-iCBivbw	1508	11	https://www.youtube.com/watch?v=Mcg-iCBivbw&start=1508&end=1519   	Finale
+3	4	Mcg-iCBivbw	365.3	11	https://www.youtube.com/watch?v=Mcg-iCBivbw&start=365&end=376     	Cheyenne
+3	5	Mcg-iCBivbw	8	9	https://www.youtube.com/watch?v=Mcg-iCBivbw&start=8&end=17        	Main theme
+3	6	Mcg-iCBivbw	221	13.5	https://www.youtube.com/watch?v=Mcg-iCBivbw&start=221&end=234     	Harmonica
+						
+4	1	I9LvDatOFyw	1130	9.2	https://www.youtube.com/watch?v=I9LvDatOFyw&start=1130&end=1139   	String Quartet No. 6: Fuga
+4	2	Kj6QFnWWbNE	900	12	https://www.youtube.com/watch?v=Kj6QFnWWbNE&start=900&end=912     	Piano Concerto No. 1
+4	2	Kj6QFnWWbNE	49.5	7.1	https://www.youtube.com/watch?v=Kj6QFnWWbNE&start=49&end=56       	Piano Concerto No. 1
+4	3	O_uPCzXldtA	2.6	8.5	https://www.youtube.com/watch?v=O_uPCzXldtA&start=2&end=11        	Songs Without Words, Op. 67 No. 2 in F-sharp minor
+4	4	KrITNrgQHuE	6.9	13	https://www.youtube.com/watch?v=KrITNrgQHuE&start=6&end=19        	Octet
+4	5	SEkcP8lZvZA	70.5	10.7	https://www.youtube.com/watch?v=SEkcP8lZvZA&start=70&end=81       	Overture to A Midsummer Night's Dream
+4	6	4pO7_IxbDsU	3.5	8	https://www.youtube.com/watch?v=4pO7_IxbDsU&start=3&end=11        	Italian Symphony
+						
+5	1	4hIqwh7j0TI	443.5	11.5	https://www.youtube.com/watch?v=4hIqwh7j0TI&start=443&end=455     	Dances of the Dolls: Waltz - Joke
+5	2	Qe1vF0bgmb4	9.5	12	https://www.youtube.com/watch?v=Qe1vF0bgmb4&start=9&end=21        	Fugue No. 7 in A major
+5	3	q615yStySdM	2.8	12.2	https://www.youtube.com/watch?v=q615yStySdM&start=2&end=15        	Violin Concerto No. 1: IV. Burleske
+5	4	u8pDi5lV2Bo	16.6	10.7	https://www.youtube.com/watch?v=u8pDi5lV2Bo&start=16&end=27       	Symphony No. 10, mvt. 2
+5	5	mmCnQDUSO4I	54.1	12.6	https://www.youtube.com/watch?v=mmCnQDUSO4I&start=54&end=66       	Waltz
+5	6	hFJvUwl8lcw	0.9	10.5	https://www.youtube.com/watch?v=hFJvUwl8lcw&start=0&end=11        	Symphony No. 5: I.
+						
+6	1	v_gItTGNsVw	841	12.2	https://www.youtube.com/watch?v=v_gItTGNsVw&start=841&end=853     	Feste Romane: III. L'Ottobrata
+6	2	v_gItTGNsVw	0.8	11	https://www.youtube.com/watch?v=v_gItTGNsVw&start=0&end=11        	Feste Romane: I. Circenses
+6	3	bwMwaePtEmo	390	10	https://www.youtube.com/watch?v=bwMwaePtEmo&start=390&end=400     	Fountains of Rome: III. Trevi
+6	4	bwMwaePtEmo	3.5	12.2	https://www.youtube.com/watch?v=bwMwaePtEmo&start=3&end=15        	Fountains of Rome: I. Valle Giulia
+6	5	BsgAIg-ltTg	543	12	https://www.youtube.com/watch?v=BsgAIg-ltTg&start=543&end=555     	Pines of Rome: IV. Via Appia
+6	6	BsgAIg-ltTg	0.4	10	https://www.youtube.com/watch?v=BsgAIg-ltTg&start=0&end=10        	Pines of Rome: I. Villa Borghese
+						
+7	1	Xdt_uVehf9U	13.2	12.3	https://www.youtube.com/watch?v=Xdt_uVehf9U&start=13&end=25       	Vere languores
+7	2	ldNcKpAbo30	2	12	https://www.youtube.com/watch?v=ldNcKpAbo30&start=2&end=14        	O quam gloriosam
+7	3	JzYBAuNt4JQ	1.4	12.6	https://www.youtube.com/watch?v=JzYBAuNt4JQ&start=1&end=14        	O vos omnes
+7	4	JmKpSwYlTSY	3.4	12.1	https://www.youtube.com/watch?v=JmKpSwYlTSY&start=3&end=15        	Taedat
+7	5	MRPEJkoEstc	19.8	10.8	https://www.youtube.com/watch?v=MRPEJkoEstc&start=19&end=30       	O magnum mysterium
+7	6	MRPEJkoEstc	4.9	10	https://www.youtube.com/watch?v=MRPEJkoEstc&start=4&end=14        	O magnum mysterium
+						
+8	1	c8Ux0jiXODI	24	11	https://www.youtube.com/watch?v=c8Ux0jiXODI&start=24&end=35       	Rockhouse
+8	2	ToBJ5VzEhNw	19	13	https://www.youtube.com/watch?v=ToBJ5VzEhNw&start=19&end=32       	Mary Ann
+8	3	v-JsqKlVVGk	0.6	10.7	https://www.youtube.com/watch?v=v-JsqKlVVGk&start=0&end=11        	Hallelujah I love her so
+8	4	xTIP_FOdq24	0.5	10.5	https://www.youtube.com/watch?v=xTIP_FOdq24&start=0&end=11        	What'd I say
+8	5	xTIP_FOdq24	110	13	https://www.youtube.com/watch?v=xTIP_FOdq24&start=110&end=123     	What'd I say
+8	6	CnI_LuCJ4Ek	22	10	https://www.youtube.com/watch?v=CnI_LuCJ4Ek&start=22&end=32       	I got a woman
+						
+9	1	jweLoMVMdf8	537.8	12.2	https://www.youtube.com/watch?v=jweLoMVMdf8&start=537&end=550     	
+9	2	jweLoMVMdf8	384.8	10.2	https://www.youtube.com/watch?v=jweLoMVMdf8&start=384&end=395     	
+9	3	jweLoMVMdf8	311.1	10.3	https://www.youtube.com/watch?v=jweLoMVMdf8&start=311&end=321     	
+9	4	jweLoMVMdf8	81.6	9.3	https://www.youtube.com/watch?v=jweLoMVMdf8&start=81&end=90       	
+9	5	jweLoMVMdf8	845	9.3	https://www.youtube.com/watch?v=jweLoMVMdf8&start=845&end=854     	
+9	6	jweLoMVMdf8	974	12	https://www.youtube.com/watch?v=jweLoMVMdf8&start=974&end=986     	
+						
+10	1	5JH_-caeazs	7.2	13.4	https://www.youtube.com/watch?v=5JH_-caeazs&start=7&end=20        	Liszt: Orpheus, symphonic poem
+10	2	yeZi4PFw0V0	0.2	8.2	https://www.youtube.com/watch?v=yeZi4PFw0V0&start=0&end=8         	Glass: Orphée Suite: IV. Orphée and the Princess
+10	3	y4hs7vW8SV0	285	12	https://www.youtube.com/watch?v=y4hs7vW8SV0&start=285&end=297     	Offenbach: Orpheus in the Underworld Overture
+10	4	Ac4HEs6cAvo	574.9	10.4	https://www.youtube.com/watch?v=Ac4HEs6cAvo&start=574&end=585     	Monteverdi: L'Orfeo
+10	5	y4hs7vW8SV0	3.4	5.8	https://www.youtube.com/watch?v=y4hs7vW8SV0&start=3&end=9         	Offenbach: Orpheus in the Underworld Overture
+10	6	mjpFi9bn1do	2.5	9	https://www.youtube.com/watch?v=mjpFi9bn1do&start=2&end=11        	Monteverdi: L'Orfeo
+10	7	y4hs7vW8SV0	455	6.3	https://www.youtube.com/watch?v=y4hs7vW8SV0&start=455&end=461     	Offenbach: Orpheus in the Underworld Overture
+10	8	y4hs7vW8SV0	494.2	4.6	https://www.youtube.com/watch?v=y4hs7vW8SV0&start=494&end=498     	Offenbach: Orpheus in the Underworld Overture

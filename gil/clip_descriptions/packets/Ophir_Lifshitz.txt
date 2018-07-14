@@ -1,0 +1,149 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	Dd7iXOEljAo	3606.25	10.05	https://www.youtube.com/watch?v=Dd7iXOEljAo&start=3606&end=3616   	arr. Casella: Mahler Symphony No. 7
+1	2	JeRdJDwohxc	311.65	10.55	https://www.youtube.com/watch?v=JeRdJDwohxc&start=311&end=322     	arr. Casella: Balakirev Islamey
+1	3	EHfAkmLMnOw	838.6	12.25	https://www.youtube.com/watch?v=EHfAkmLMnOw&start=838&end=850     	arr. Respighi: Bach Passacaglia and Fugue in C minor, BWV 582
+1	4	UqWP7lxJ6Gk	685.5	9.8	https://www.youtube.com/watch?v=UqWP7lxJ6Gk&start=685&end=695     	arr. Respighi: Bach Tre Corali: III. "Wachet auf"
+1	5	jf7xarpGMIo	84.8	8	https://www.youtube.com/watch?v=jf7xarpGMIo&start=84&end=92       	arr. Respighi: Overture, La boutique fantasque
+1	6	Fu-9frVpssg	619.4	8.9	https://www.youtube.com/watch?v=Fu-9frVpssg&start=619&end=628     	arr. Busoni: Bach Chaconne in D minor
+1	7	ZdWoExjLyro	440.9	5.2	https://www.youtube.com/watch?v=ZdWoExjLyro&start=440&end=446     	arr. Respighi: Rossini Tarantella, La boutique fantasque
+1	8	YNq23SLzEKg	557.2	11.4	https://www.youtube.com/watch?v=YNq23SLzEKg&start=557&end=568     	arr. Respighi: Rachmaninoff Étude-Tableaux Op. 33 No. 4
+1	9	208g0WW_8zA	94.9	9.9	https://www.youtube.com/watch?v=208g0WW_8zA&start=94&end=104      	arr. Respighi: Ancient Airs and Dances Suite No. 3: III. Siciliana
+						
+2	1	Ny8jnk674Ps	0.2	6.6	https://www.youtube.com/watch?v=Ny8jnk674Ps&start=0&end=6         	String Quartet No. 14 in G major, K. 387 "Spring": II. Minuet
+2	2	vIhp5rgUzqQ	1.1	8.1	https://www.youtube.com/watch?v=vIhp5rgUzqQ&start=1&end=9         	String Quintet No. 4 in G minor, K. 516: I.
+2	3	-JScFkE-Arw	1.1	9	https://www.youtube.com/watch?v=-JScFkE-Arw&start=1&end=10        	String Quintet No. 2 in C minor, K. 406: I.
+2	4	D4jdFz2AK6I	1.4	15.6	https://www.youtube.com/watch?v=D4jdFz2AK6I&start=1&end=17        	Clarinet Quintet in A major K. 581 – opening
+2	5	lHAa3vUmqIc	0.9	9.7	https://www.youtube.com/watch?v=lHAa3vUmqIc&start=0&end=10        	String Quartet No. 23 in F major, K. 590 "Prussian 3": III. Minuet
+2	6	o5Ie4AkwBSk	1.6	8.2	https://www.youtube.com/watch?v=o5Ie4AkwBSk&start=1&end=9         	String Quintet No. 3 in C major, K. 515: I. – 5-bar phrases, Mannheim rocket
+2	7	D7YhMtQf3sI	1.5	9.6	https://www.youtube.com/watch?v=D7YhMtQf3sI&start=1&end=11        	String Quartet No. 17 in B-flat major, K. 458 "Hunt": I.
+2	8	afvtnZodkfc	8	13	https://www.youtube.com/watch?v=afvtnZodkfc&start=8&end=21        	String Quartet No. 19 in C major, K. 465 "Dissonance": I.
+2	9	eA8vQBReELM	1.3	5.2	https://www.youtube.com/watch?v=eA8vQBReELM&start=1&end=6         	Divertimento in D major, K. 136 "Salzburg Symphony No. 1": I.
+						
+3	1	QrvvkW2blw0	75	7	https://www.youtube.com/watch?v=QrvvkW2blw0&start=75&end=82       	Buoy Base Galaxy
+3	2	GurdjJOhsQs	69	12.3	https://www.youtube.com/watch?v=GurdjJOhsQs&start=69&end=81       	Good Egg Galaxy
+3	3	yu4TmMOArWA	77.8	11.1	https://www.youtube.com/watch?v=yu4TmMOArWA&start=77&end=88       	Space Junk Galaxy
+3	4	DbyqMdRS09w	5.5	11.7	https://www.youtube.com/watch?v=DbyqMdRS09w&start=5&end=17        	Rosalina's Comet Observatory
+3	5	bcZhJDUFb58	98.8	16.2	https://www.youtube.com/watch?v=bcZhJDUFb58&start=98&end=115      	Gusty Garden Galaxy – climax and recapitulation
+3	6	cU7IZRGnJeQ	1.3	11.1	https://www.youtube.com/watch?v=cU7IZRGnJeQ&start=1&end=12        	Main Theme
+3	6	EmzUzy7kG6U	0	1.8	https://www.youtube.com/watch?v=EmzUzy7kG6U&start=0&end=1         	"Super Mario Galaxy"
+						
+4	1	BjGwIwmv-lY	364.95	10.05	https://www.youtube.com/watch?v=BjGwIwmv-lY&start=364&end=375     	Piano Sonata in F-sharp minor (1904) – theme
+4	2	6IByKvAa90Q	668.7	11.2	https://www.youtube.com/watch?v=6IByKvAa90Q&start=668&end=679     	Divertimento from "The Fairy's Kiss" – end of horn solo
+4	3	72V_OTSiAkM	349.9	13	https://www.youtube.com/watch?v=72V_OTSiAkM&start=349&end=362     	Symphonies of Wind Instruments (Symphonies d'instruments à vent) – snippet of chorale in memory of Debussy
+4	4	21zLwrC9uCk	8	9.3	https://www.youtube.com/watch?v=21zLwrC9uCk&start=8&end=17        	Histoire du Soldat (The Soldier’s Tale): Marche Royale
+4	5	6IByKvAa90Q	832	10.3	https://www.youtube.com/watch?v=6IByKvAa90Q&start=832&end=842     	Divertimento from "The Fairy's Kiss" – bassoon
+4	6	MHmk7yccvws	107.6	9.5	https://www.youtube.com/watch?v=MHmk7yccvws&start=107&end=117     	Firebird – string harmonic glissando at end of introduction
+4	7	MHmk7yccvws	2676	7.6	https://www.youtube.com/watch?v=MHmk7yccvws&start=2676&end=2683   	Firebird – brass in 7/4 coda
+						
+5	1	-MG6R5wHt9A	1.1	11	https://www.youtube.com/watch?v=-MG6R5wHt9A&start=1&end=12        	Guastavino: Tres Romances: I. Las Niñas de Santa Fe
+5	2	-MG6R5wHt9A	179.8	5.9	https://www.youtube.com/watch?v=-MG6R5wHt9A&start=179&end=185     	Guastavino: Tres Romances: I. Las Niñas de Santa Fe – climax
+5	3	SwviwEemifE	12.8	7.3	https://www.youtube.com/watch?v=SwviwEemifE&start=12&end=20       	Guastavino: Se Equivocó la Paloma
+5	4	9OtjgjKJnxI	7.1	11.5	https://www.youtube.com/watch?v=9OtjgjKJnxI&start=7&end=18        	Guastavino: Doce Canciones Populares: Pampamapa, Aire de Huella – features Rioplatense dialect, huella chord progression and rhythm
+5	5	gbI_m43xpWE	78.6	8.5	https://www.youtube.com/watch?v=gbI_m43xpWE&start=78&end=87       	Ginastera: Piano Sonata No. 1: I.
+5	6	YoECX-sjoZ8	62.2	11.8	https://www.youtube.com/watch?v=YoECX-sjoZ8&start=62&end=74       	Ginastera: Argentine Dance No. 1 – ending with signature open guitar chord
+5	7	0fczl3D4XUY	0.8	6.8	https://www.youtube.com/watch?v=0fczl3D4XUY&start=0&end=7         	Piazzolla: Primavera Porteña – opening with chicharra technique
+5	8	RUAPf_ccobc	100.3	9.8	https://www.youtube.com/watch?v=RUAPf_ccobc&start=100&end=110     	Piazzolla: Libertango – bandoneón
+						
+6	1	goY8Q_nfZWU	131.3	6	https://www.youtube.com/watch?v=goY8Q_nfZWU&start=131&end=137     	Étude Op. 52 No. 2: Pour l'indépendance des doigts: Allegro malinconico
+6	2	ZZcfu1arU58	669.4	12	https://www.youtube.com/watch?v=ZZcfu1arU58&start=669&end=681     	Piano Trio No. 2 in E minor, Op. 92: I. – coda with wave of double triads
+6	3	jX_KdGsg294	101.8	5.7	https://www.youtube.com/watch?v=jX_KdGsg294&start=101&end=107     	Violin Sonata in D minor, op. 75: I.
+6	4	aC22f2buNLw	111.5	9.4	https://www.youtube.com/watch?v=aC22f2buNLw&start=111&end=120     	Violin Concerto No. 3 in B minor, Op. 61: I.
+6	5	OIqqC8mBXXs	580.4	5.3	https://www.youtube.com/watch?v=OIqqC8mBXXs&start=580&end=585     	Piano Concerto No. 2 in G minor, Op. 22: I. Andante sostenuto – end of cadenza
+6	6	OIqqC8mBXXs	592.8	11.7	https://www.youtube.com/watch?v=OIqqC8mBXXs&start=592&end=604     	Piano Concerto No. 2 in G minor, Op. 22: I. Andante sostenuto – coda
+6	7	F2YKkBiQpzI	1055.8	6.8	https://www.youtube.com/watch?v=F2YKkBiQpzI&start=1055&end=1062   	Cello Concerto No. 1 in A minor, Op. 33 – coda tutti
+6	8	F2YKkBiQpzI	1035	5.4	https://www.youtube.com/watch?v=F2YKkBiQpzI&start=1035&end=1040   	Cello Concerto No. 1 in A minor, Op. 33 – end of cadenza
+6	9	P2wNAWBPFiI	1709	8	https://www.youtube.com/watch?v=P2wNAWBPFiI&start=1709&end=1717   	Organ Symphony
+6	10	wGfqhpAvZEY	7	9.3	https://www.youtube.com/watch?v=wGfqhpAvZEY&start=7&end=16        	Carnival of the Animals: Finale
+						
+7	1	Q8qhXkgSxCc	213.7	9.3	https://www.youtube.com/watch?v=Q8qhXkgSxCc&start=213&end=223     	Aunt Marge's Waltz – coda, homage to Rossini's Thieving Magpie
+7	2	Q8qhXkgSxCc	95.6	9.8	https://www.youtube.com/watch?v=Q8qhXkgSxCc&start=95&end=105      	Aunt Marge's Waltz – theme
+7	3	Q8qhXkgSxCc	333	7.6	https://www.youtube.com/watch?v=Q8qhXkgSxCc&start=333&end=340     	Knight Bus
+7	4	Q8qhXkgSxCc	710.1	9.1	https://www.youtube.com/watch?v=Q8qhXkgSxCc&start=710&end=719     	Buckbeak's Flight
+7	5	Q8qhXkgSxCc	2803.9	6.9	https://www.youtube.com/watch?v=Q8qhXkgSxCc&start=2803&end=2810   	Forward To Time Past – Time Turner
+7	6	Q8qhXkgSxCc	3222	8.1	https://www.youtube.com/watch?v=Q8qhXkgSxCc&start=3222&end=3230   	Finale – Expecto Patronum
+7	7	Q8qhXkgSxCc	532.9	8.4	https://www.youtube.com/watch?v=Q8qhXkgSxCc&start=532&end=541     	Double Trouble
+7	8	Q8qhXkgSxCc	819.8	10	https://www.youtube.com/watch?v=Q8qhXkgSxCc&start=819&end=829     	A Window to the Past
+						
+8	1	eoAqVaRWWvE	126.9	6.6	https://www.youtube.com/watch?v=eoAqVaRWWvE&start=126&end=133     	Beethoven: Piano Trio No. 3 in C minor, Op. 1 No. 3: IV.
+8	2	TEpwAmeHnr8	389	7.2	https://www.youtube.com/watch?v=TEpwAmeHnr8&start=389&end=396     	Mendelssohn: Piano Trio No. 1 in D minor, Op. 49: I.
+8	3	2JFmkp91eKE	1.1	7.7	https://www.youtube.com/watch?v=2JFmkp91eKE&start=1&end=8         	Beethoven: Piano Trio No. 3 in C minor, Op. 1 No. 3: I.
+8	4	wKPHjzX7ykE	156.4	10.3	https://www.youtube.com/watch?v=wKPHjzX7ykE&start=156&end=166     	Piano Trio No. 4 in E minor, Op. 90 "Dumky": IV. – transition to Allegretto scherzando
+8	5	9zEpJAo3tUQ	119.8	7.9	https://www.youtube.com/watch?v=9zEpJAo3tUQ&start=119&end=127     	Piano Trio No. 4 in E minor, Op. 90 "Dumky": I. – Allegro
+8	6	g_vWDEvpf1s	0.5	9	https://www.youtube.com/watch?v=g_vWDEvpf1s&start=0&end=9         	Beethoven: Piano Trio No. 7 in B-flat major, Op. 97 "Archduke": I. – solo piano intro
+8	7	9zEpJAo3tUQ	1.5	5.5	https://www.youtube.com/watch?v=9zEpJAo3tUQ&start=1&end=7         	Piano Trio No. 4 in E minor, Op. 90 "Dumky": I. Lento maestoso
+8	8	rnB-ioRa9cY	52.5	11.3	https://www.youtube.com/watch?v=rnB-ioRa9cY&start=52&end=63       	Piano Trio No. 4 in E minor, Op. 90 "Dumky": VI. – Vivace
+8	9	2kN3SVrDkPg	0.4	5.7	https://www.youtube.com/watch?v=2kN3SVrDkPg&start=0&end=6         	Beethoven: Piano Trio No. 5 in D major, Op. 70 No. 1 "Ghost": I.
+8	10	TEpwAmeHnr8	0.9	7.7	https://www.youtube.com/watch?v=TEpwAmeHnr8&start=0&end=8         	Mendelssohn: Piano Trio No. 1 in D minor, Op. 49: I.
+						
+9	1	sln9D7funb0	24.9	8.1	https://www.youtube.com/watch?v=sln9D7funb0&start=24&end=33       	Hamelin: Toccata on "L'homme armé"
+9	2	3N1przkk5tA	528.8	8.1	https://www.youtube.com/watch?v=3N1przkk5tA&start=528&end=536     	Hamelin: Variations on a Theme of Paganini: Var. 14 – La Campanella quote
+9	3	66884-01-19-VBR-X	37.1	8		Grainger: In Dahomey
+9	4	67789-01-04-VBR-X	0	10.4		Hamelin: 12 Études in all the minor keys No. 4 in C minor: Étude à mouvement perpétuellement semblable, after Alkan
+9	5	jNVvxM5vg5c	126.75	7	https://www.youtube.com/watch?v=jNVvxM5vg5c&start=126&end=133     	Hamelin: cadenza for Liszt's Hungarian Rhapsody No. 2
+9	6	3N1przkk5tA	437.3	8.8	https://www.youtube.com/watch?v=3N1przkk5tA&start=437&end=446     	Hamelin: Variations on a Theme of Paganini: Var. ~~18~~ 13 – Rachmaninoff Rhapsody on a Theme of Paganini quote
+9	7	67411-02-25-VBR-X	15.5	8.4		Chopin/Godowsky: 53 Studies on Chopin's Études No. 47: G-flat major "Badinage"
+9	8	3N1przkk5tA	3.6	8.4	https://www.youtube.com/watch?v=3N1przkk5tA&start=3&end=12        	Hamelin: Variations on a Theme of Paganini: Theme
+9	9	-AUrsDLCY0o	18.3	10.6	https://www.youtube.com/watch?v=-AUrsDLCY0o&start=18&end=28       	Hamelin: Circus Galop
+9	10	q34Q7T-GuDw	92.9	8.9	https://www.youtube.com/watch?v=q34Q7T-GuDw&start=92&end=101      	Hamelin: Valse Irritation d'aprés Nokia (Ringtone Waltz) – "at the time I wrote it, which was about 2001, 2002"
+						
+10	1	qWGEPZlbtX4	31.3	4.2	https://www.youtube.com/watch?v=qWGEPZlbtX4&start=31&end=35       	"Don't Cross the Street in the Middle of the Block"
+10	2	N53ESi5HXFo	6.37	6.5	https://www.youtube.com/watch?v=N53ESi5HXFo&start=6&end=12        	Ajax: "Stronger than Dirt"
+10	3	apD9_hLxqE0	1.9	5.1	https://www.youtube.com/watch?v=apD9_hLxqE0&start=1&end=7         	"Winston Tastes Good"
+10	4	QWQkf0w5JR4	18	6.4	https://www.youtube.com/watch?v=QWQkf0w5JR4&start=18&end=24       	Pepsi: "Come Alive" / "You're in the Pepsi Generation" Joanie Sommers
+10	5	4BcaNvksvHU	27.15	8.3	https://www.youtube.com/watch?v=4BcaNvksvHU&start=27&end=35       	"See the USA in Your Chevrolet"
+10	6	ExSlyoVTX3I	1.2	5.7	https://www.youtube.com/watch?v=ExSlyoVTX3I&start=1&end=6         	Good & Plenty: "Choo Choo Charlie"
+10	7	RFDOI24RRAE	56.4	3.5	https://www.youtube.com/watch?v=RFDOI24RRAE&start=56&end=59       	Chiquita Bananas
+10	8	jvCTaccEkMI	5.65	7.2	https://www.youtube.com/watch?v=jvCTaccEkMI&start=5&end=12        	Dr. Pepper: "I'm a Pepper"
+10	9	1VM2eLhvsSM	15.3	7.4	https://www.youtube.com/watch?v=1VM2eLhvsSM&start=15&end=22       	Coke: "Buy the World a Coke" / "I'd Like to Teach the World to Sing (In Perfect Harmony)"
+10	10	po0jY4WvCIc	43.65	5.7	https://www.youtube.com/watch?v=po0jY4WvCIc&start=43&end=49       	Pepsi: "Pepsi Generation" Michael Jackson
+10	11	bfBj0AXiBuA	0.8	6.4	https://www.youtube.com/watch?v=bfBj0AXiBuA&start=0&end=7         	Old Spice: whistle
+10	12	7JSIRo9DjBA	1.8	4.3	https://www.youtube.com/watch?v=7JSIRo9DjBA&start=1&end=6         	Almond Joy/Mounds: "Sometimes You Feel Like a Nut"
+10	13	XIOzcjzWBQQ	21.1	3.4	https://www.youtube.com/watch?v=XIOzcjzWBQQ&start=21&end=24       	Kit Kat: "Give me a Break"
+10	14	ZG9ip5ZOO9s	3.4	3.6	https://www.youtube.com/watch?v=ZG9ip5ZOO9s&start=3&end=7         	Coke: "It's the Real Thing"
+						
+11	1	LigCsoWE3dY	1036.2	8.5	https://www.youtube.com/watch?v=LigCsoWE3dY&start=1036&end=1044   	Leo Ornstein: Piano Sonata No. 4: IV. – recap (piano is shifted up a semitone for some reason)
+11	2	XUrXKi4VSzs	270	12.8	https://www.youtube.com/watch?v=XUrXKi4VSzs&start=270&end=282     	Miklós Rózsa: Piano Sonata, Op. 20: I.
+11	3	9E3reaOoLA0	4.3	6.7	https://www.youtube.com/watch?v=9E3reaOoLA0&start=4&end=11        	Medtner: Sonata-Ballade in F-sharp major, Op. 27
+11	4	9E3reaOoLA0	37	6	https://www.youtube.com/watch?v=9E3reaOoLA0&start=37&end=43       	Medtner: Sonata-Ballade in F-sharp major, Op. 27
+11	5	aqE5By_69OY	257.2	8.2	https://www.youtube.com/watch?v=aqE5By_69OY&start=257&end=265     	Berg: Piano Sonata, Op. 1 – Quasi adagio
+11	6	BJZdZF4afB4	3	8	https://www.youtube.com/watch?v=BJZdZF4afB4&start=3&end=11        	Dukas: Piano Sonata in E-flat minor: I.
+11	7	aqE5By_69OY	93	8.1	https://www.youtube.com/watch?v=aqE5By_69OY&start=93&end=101      	Berg: Piano Sonata, Op. 1
+11	8	XoKyoQVbD3o	251.1	10.8	https://www.youtube.com/watch?v=XoKyoQVbD3o&start=251&end=261     	Scriabin: Piano Sonata No. 2 in G-sharp minor, Op. 19
+11	9	2Au2QQy1wVQ	51.1	9.1	https://www.youtube.com/watch?v=2Au2QQy1wVQ&start=51&end=60       	Liszt: Piano Sonata in B minor: Allegro energico
+						
+12	1	kyHfOFiUJbw	226.5	14.5	https://www.youtube.com/watch?v=kyHfOFiUJbw&start=226&end=241     	Alone: On a Clear Day – signature tempo change
+12	2	SYcsSZl8-_s	1	15.8	https://www.youtube.com/watch?v=SYcsSZl8-_s&start=1&end=16        	Conversations with Myself: Love Theme from "Spartacus"
+12	3	r-Z8KuwI7Gc	332.2	9.8	https://www.youtube.com/watch?v=r-Z8KuwI7Gc&start=332&end=342     	Portrait in Jazz: Autumn Leaves – coda
+12	4	3QwiTYBzU68	90	9.4	https://www.youtube.com/watch?v=3QwiTYBzU68&start=90&end=99       	'Round Midnight
+12	5	ylXk1LBvIqU	11	14	https://www.youtube.com/watch?v=ylXk1LBvIqU&start=11&end=25       	Kind of Blue: So What – intro
+12	6	dH3GSrCmzC8	77	11.6	https://www.youtube.com/watch?v=dH3GSrCmzC8&start=77&end=88       	Waltz for Debby
+						
+13	1	0L5ihXoFqYU	37.85	5.9	https://www.youtube.com/watch?v=0L5ihXoFqYU&start=37&end=43       	Yo-Ya (1973)
+13	2	RXnLHgEL3Es	147.6	6.3	https://www.youtube.com/watch?v=RXnLHgEL3Es&start=147&end=153     	Hora (Eurovision 1982)
+13	3	fZ5B6w-Baxs	95.9	6.3	https://www.youtube.com/watch?v=fZ5B6w-Baxs&start=95&end=102      	Diva (Eurovision 1998 winner)
+13	4	XuygeNGxoRo	51	8.1	https://www.youtube.com/watch?v=XuygeNGxoRo&start=51&end=59       	Kan (Eurovision 1980)
+13	5	pOH-sojmLJY	93.9	7.6	https://www.youtube.com/watch?v=pOH-sojmLJY&start=93&end=101      	A-Ba-Ni-Bi (Eurovision 1978 winner)
+13	6	CziHrYYSyPc	67	8.6	https://www.youtube.com/watch?v=CziHrYYSyPc&start=67&end=75       	Toy (Eurovision 2018 winner)
+13	7	gP6PS-poyMg	30	5.6	https://www.youtube.com/watch?v=gP6PS-poyMg&start=30&end=35       	Ani v'ata (Arik Einstein, Hebrew words)
+13	8	C33kO3fvjkI	108	8.3	https://www.youtube.com/watch?v=C33kO3fvjkI&start=108&end=116     	Hallelujah (Eurovision 1979 winner)
+13	9	O2RoCNeM9B0	62.1	7.3	https://www.youtube.com/watch?v=O2RoCNeM9B0&start=62&end=69       	Yerushalayim Shel Zahav (Jerusalem of Gold)
+13	10	1DPqNHkm1bM	71.8	9.36	https://www.youtube.com/watch?v=1DPqNHkm1bM&start=71&end=81       	Hatikvah (Israeli national anthem)
+						
+14	1	_XviEtIcYJg	317	8.3	https://www.youtube.com/watch?v=_XviEtIcYJg&start=317&end=325     	Une barque sur l'océan (orch.)
+14	2	jr0m5cr_LdY	184	5	https://www.youtube.com/watch?v=jr0m5cr_LdY&start=184&end=189     	Alborada del Gracioso (orch.)
+14	3	_XviEtIcYJg	95.2	16.6	https://www.youtube.com/watch?v=_XviEtIcYJg&start=95&end=111      	Une barque sur l'océan (orch.)
+14	4	jr0m5cr_LdY	155	10.2	https://www.youtube.com/watch?v=jr0m5cr_LdY&start=155&end=165     	Alborada del Gracioso (orch.) – bassoon
+14	5	jr0m5cr_LdY	42.2	4.9	https://www.youtube.com/watch?v=jr0m5cr_LdY&start=42&end=47       	Alborada del Gracioso (orch.)
+14	6	jr0m5cr_LdY	347.4	7.9	https://www.youtube.com/watch?v=jr0m5cr_LdY&start=347&end=355     	Alborada del Gracioso (orch.)
+14	7	0VdZR3deNdI	290.9	6	https://www.youtube.com/watch?v=0VdZR3deNdI&start=290&end=296     	Oiseaux tristes (piano)
+14	8	0VdZR3deNdI	16.1	7.3	https://www.youtube.com/watch?v=0VdZR3deNdI&start=16&end=23       	Noctuelles (piano)
+14	9	0VdZR3deNdI	1501.1	6.9	https://www.youtube.com/watch?v=0VdZR3deNdI&start=1501&end=1508   	La vallée des cloches (piano)
+14	10	5O5wMctUSAM	25.8	8.1	https://www.youtube.com/watch?v=5O5wMctUSAM&start=25&end=33       	Une barque sur l'océan (piano)
+						
+15	1	l0onFjNTePg	16.9	8.4	https://www.youtube.com/watch?v=l0onFjNTePg&start=16&end=25       	Turina: Piano Trio No. 2, Op. 76: I.
+15	2	pszPCIoB_Cg	150.4	8.4	https://www.youtube.com/watch?v=pszPCIoB_Cg&start=150&end=158     	Turina: Violin Sonata No. 1: I.
+15	3	vPLjxg8z-3A	163.8	16.1	https://www.youtube.com/watch?v=vPLjxg8z-3A&start=163&end=179     	Turina: Sanlucar de Barrameda: I.
+15	4	GfYeNMb5foY	412.3	14.4	https://www.youtube.com/watch?v=GfYeNMb5foY&start=412&end=426     	Turina: Poema en forma de canciónes: IV. Los dos miedos
+15	5	jxMSbAtN5H8	27.8	8.1	https://www.youtube.com/watch?v=jxMSbAtN5H8&start=27&end=35       	Turina: Fandanguillo
+15	6	dh5ZXLJTV3U	23.1	5.7	https://www.youtube.com/watch?v=dh5ZXLJTV3U&start=23&end=28       	Turina: Danzas fantásticas: III. Orgia
+15	7	dh5ZXLJTV3U	0.8	10.7	https://www.youtube.com/watch?v=dh5ZXLJTV3U&start=0&end=11        	Turina: Danzas fantásticas: III. Orgia

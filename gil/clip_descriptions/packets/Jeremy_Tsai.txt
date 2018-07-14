@@ -1,0 +1,100 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	JJuTRlG_I1o	177.25	9.2	https://www.youtube.com/watch?v=JJuTRlG_I1o&start=177&end=186     	3rd mvt (Allegro)
+1	2	3v0B1HFa4mI	97	9	https://www.youtube.com/watch?v=3v0B1HFa4mI&start=97&end=106      	2nd mvt (Largo ma non tanto)
+1	3	JJuTRlG_I1o	73.4	9.6	https://www.youtube.com/watch?v=JJuTRlG_I1o&start=73&end=83       	3rd mvt (Allegro)
+1	4	4Z4yn6-dY_8	180	9	https://www.youtube.com/watch?v=4Z4yn6-dY_8&start=180&end=189     	1st mvt (Vivace)
+1	5	3v0B1HFa4mI	3	9	https://www.youtube.com/watch?v=3v0B1HFa4mI&start=3&end=12        	2nd mvt (Largo ma non tanto)
+1	6	4Z4yn6-dY_8	93.15	9	https://www.youtube.com/watch?v=4Z4yn6-dY_8&start=93&end=102      	1st mvt (Vivace)
+1	7	4Z4yn6-dY_8	0.9	10.2	https://www.youtube.com/watch?v=4Z4yn6-dY_8&start=0&end=11        	1st mvt (Vivace)
+						
+2	1	sQyxkHdO4PQ	62	7	https://www.youtube.com/watch?v=sQyxkHdO4PQ&start=62&end=69       	Nick Cave and the Bad Seeds, "Plain Gold Ring"
+2	2	6i1mr9amqeg	107	7	https://www.youtube.com/watch?v=6i1mr9amqeg&start=107&end=114     	Kimbra, "Plain Gold Ring"
+2	3	2xQYFaIrqqA	66	7	https://www.youtube.com/watch?v=2xQYFaIrqqA&start=66&end=73       	Xiu Xiu, "Don't Smoke in Bed"
+2	4	MVkqlngs3zw	203	8	https://www.youtube.com/watch?v=MVkqlngs3zw&start=203&end=211     	Ms. Lauryn Hill, "Black Is the Color of My True Love's Hair"
+2	5	utEu0wylJBo	144	7	https://www.youtube.com/watch?v=utEu0wylJBo&start=144&end=151     	16 Horsepower, "Sinnerman"
+2	6	Tbm-XMSTK2A	143	8	https://www.youtube.com/watch?v=Tbm-XMSTK2A&start=143&end=151     	Muse, "Feeling Good"
+2	7	Tbm-XMSTK2A	101	10	https://www.youtube.com/watch?v=Tbm-XMSTK2A&start=101&end=111     	Muse, "Feeling Good"
+2	8	Edwsf-8F3sI	175	8	https://www.youtube.com/watch?v=Edwsf-8F3sI&start=175&end=183     	Michael Bublé, "Feeling Good"
+						
+3	1	m6357vL9TPg	705.1	8	https://www.youtube.com/watch?v=m6357vL9TPg&start=705&end=713     	Eight Songs for a Mad King, pt 3 "The Lady-In-Waiting"
+3	2	m6357vL9TPg	1057	8	https://www.youtube.com/watch?v=m6357vL9TPg&start=1057&end=1065   	Eight Songs for a Mad King, pt 5 "The Phantom Queen" 
+3	3	-aJF5uoU7fI	265	8	https://www.youtube.com/watch?v=-aJF5uoU7fI&start=265&end=273     	Partita for 8 voices, mvt 2 "Sarabande" 
+3	4	xxTF2umRtqY	403	8	https://www.youtube.com/watch?v=xxTF2umRtqY&start=403&end=411     	Partita for 8 voices, mvt 3 "Courante" 
+3	5	m6357vL9TPg	193	8	https://www.youtube.com/watch?v=m6357vL9TPg&start=193&end=201     	Eight Songs for a Mad King, pt 1 "The Sentry" (opening)
+3	6	1LlE41gvNcw	273	8	https://www.youtube.com/watch?v=1LlE41gvNcw&start=273&end=281     	Partita for 8 voices, mvt 4 "Passacaglia"
+3	7	m6357vL9TPg	1328	8	https://www.youtube.com/watch?v=m6357vL9TPg&start=1328&end=1336   	Eight Songs for a Mad King, pt 7 "Country Dance" (where the violin is smashed)
+3	8	2mukrVsKqTs	111	8	https://www.youtube.com/watch?v=2mukrVsKqTs&start=111&end=119     	Partita for 8 voices, mvt 1 "Allemande" (opening)
+						
+4	1	mVhtWfC7RF4	60	8	https://www.youtube.com/watch?v=mVhtWfC7RF4&start=60&end=68       	Zdob Si Zdub, "Boonika Bate Toba" (Eurovision 2005)
+4	2	l2JHQdGm7VI	27	8	https://www.youtube.com/watch?v=l2JHQdGm7VI&start=27&end=35       	Natalia Barbu, "Suflet Gol"
+4	3	pKLKeVC-9Y4	37	8	https://www.youtube.com/watch?v=pKLKeVC-9Y4&start=37&end=45       	DoReDos, "My Lucky Day" (Eurovision 2018)
+4	4	mvaLAs9cex4	129	9	https://www.youtube.com/watch?v=mvaLAs9cex4&start=129&end=138     	Sunstroke Project, "Hey Mamma" (Eurovision 2017)
+4	5	pLgO62n_7B8	127	8	https://www.youtube.com/watch?v=pLgO62n_7B8&start=127&end=135     	Sunstroke Project & Olia Tira, "Run Away" (Eurovision 2010)
+4	6	pLgO62n_7B8	34	8	https://www.youtube.com/watch?v=pLgO62n_7B8&start=34&end=42       	Sunstroke Project & Olia Tira, "Run Away" (Eurovision 2010)
+4	7	ezQA_8icC1g	80	9	https://www.youtube.com/watch?v=ezQA_8icC1g&start=80&end=89       	O-Zone, "Dragostea Din Tei"
+						
+5	1	ymeNfb06B54	17	9.4	https://www.youtube.com/watch?v=ymeNfb06B54&start=17&end=26       	"Zitti, zitti"
+5	2	zP2qQ85k6t8	50	8.8	https://www.youtube.com/watch?v=zP2qQ85k6t8&start=50&end=58       	"Ella mi fu rapita"
+5	3	HKAH8VbvPEs	64	7.3	https://www.youtube.com/watch?v=HKAH8VbvPEs&start=64&end=71       	"E il sol dell'anima"
+5	4	odB0LJEYVRY	32	7.2	https://www.youtube.com/watch?v=odB0LJEYVRY&start=32&end=39       	"Riedo! Perché?"
+5	5	l6S_kx0gDzc	5	9.2	https://www.youtube.com/watch?v=l6S_kx0gDzc&start=5&end=14        	"Bella diglia dell'amore"
+5	6	l6S_kx0gDzc	183	8.3	https://www.youtube.com/watch?v=l6S_kx0gDzc&start=183&end=191     	"Bella diglia dell'amore"
+5	7	uvhUmzBP_aI	57	10.7	https://www.youtube.com/watch?v=uvhUmzBP_aI&start=57&end=67       	"La donna è mobile"
+						
+6	1	BRQr0KyUjgM	26	8	https://www.youtube.com/watch?v=BRQr0KyUjgM&start=26&end=34       	Kids & Explosions, "Use Your Words" (Emily Haines, "The Maid Needs a Maid" + Massive Attack, "Teardrop")
+6	2	mPVuG-kQJm4	44	8	https://www.youtube.com/watch?v=mPVuG-kQJm4&start=44&end=52       	Truxton, "Hellfire Hounds Invade the Earth" (Porter Robinson, "Spitfire" + Infected Mushroom, "Smashing the Opponent")
+6	3	RBmoQSHfO2U	0.2	5	https://www.youtube.com/watch?v=RBmoQSHfO2U&start=0&end=5         	Neil Cicierga, "Annoyed Grunt" 
+6	4	lTx3G6h2xyA	165	8	https://www.youtube.com/watch?v=lTx3G6h2xyA&start=165&end=173     	Madeon, "Pop Culture" (interlude)
+6	5	XLaZ-8IMtt0	20	8	https://www.youtube.com/watch?v=XLaZ-8IMtt0&start=20&end=28       	DJ Earworm, "Viva la Pop" (Coldplay, "Viva la Vida" + Rihanna, "Disturbia" + Natasha Bedingfield, "Pocket Full of Sunshine" + OneRepublic ft. Timbaland, "Apologize")
+6	6	4bMM7tGV9MI	78	9	https://www.youtube.com/watch?v=4bMM7tGV9MI&start=78&end=87       	Girl Talk, "Oh No" (Black Sabbath, "War Pigs" + Ludacris, "Move Bitch" + Jay-Z ft. Alicia Keys, "Empire State of Mind")
+6	7	wEmJH7JsKgM	15	8	https://www.youtube.com/watch?v=wEmJH7JsKgM&start=15&end=23       	Neil Cicierga, "Modest Mouth" (Modest Mouse, "Float On" + Smash Mouth, "All Star")
+						
+7	1	p6pBEHBXmKk	102	9	https://www.youtube.com/watch?v=p6pBEHBXmKk&start=102&end=111     	Miserere mei Deus
+7	2	vlB1HR4BgUg	580	9	https://www.youtube.com/watch?v=vlB1HR4BgUg&start=580&end=589     	Missa Pangue Lingua
+7	3	vlB1HR4BgUg	23.15	8.1	https://www.youtube.com/watch?v=vlB1HR4BgUg&start=23&end=31       	Missa Pangue Lingua
+7	4	LUAgAF4Khmg	108	8.3	https://www.youtube.com/watch?v=LUAgAF4Khmg&start=108&end=116     	Ave Maria
+7	5	LUAgAF4Khmg	6	8.3	https://www.youtube.com/watch?v=LUAgAF4Khmg&start=6&end=14        	Ave Maria
+7	6	OI-bQ0RkArA	50	8.2	https://www.youtube.com/watch?v=OI-bQ0RkArA&start=50&end=58       	El Grillo
+7	7	OI-bQ0RkArA	10	10.5	https://www.youtube.com/watch?v=OI-bQ0RkArA&start=10&end=20       	El Grillo
+						
+8	1	ol2qde1FNR8	13	8	https://www.youtube.com/watch?v=ol2qde1FNR8&start=13&end=21       	Sketch "Two Musical Acts"
+8	2	5PYwweG3zdg	16	7	https://www.youtube.com/watch?v=5PYwweG3zdg&start=16&end=23       	Kraft Punk segment theme (Sam Padrul, "All I Do")
+8	3	h58BN-w-lxg	17	5	https://www.youtube.com/watch?v=h58BN-w-lxg&start=17&end=22       	Sketch "Rapper Warrior Ninja" (Danny Brown's verse)
+8	4	jU6cpMEdu18	10	6	https://www.youtube.com/watch?v=jU6cpMEdu18&start=10&end=16       	Tyler the Creator interview (Billy, "Calypso")
+8	5	xnDNZ1WWWmQ	86	9	https://www.youtube.com/watch?v=xnDNZ1WWWmQ&start=86&end=95       	T-Pain, "The Star-Spangled Banner"
+8	6	BE6Lj05cVlI	14	8	https://www.youtube.com/watch?v=BE6Lj05cVlI&start=14&end=22       	theme (Mathieu Blossier, "Happy Happening")
+8	7	r9B7BQWnZJs	13	7.3	https://www.youtube.com/watch?v=r9B7BQWnZJs&start=13&end=20       	the iconic Morpheus Buress segment
+8	8	e53q3NrX2HI	0.6	3.5	https://www.youtube.com/watch?v=e53q3NrX2HI&start=0&end=4         	We'll Be Right Back jingle (Rolf Anton Krueger, "Oregan Spirit")
+						
+9	1	dbbtmskCRUY	930	8	https://www.youtube.com/watch?v=dbbtmskCRUY&start=930&end=938     	
+9	2	dbbtmskCRUY	392	9	https://www.youtube.com/watch?v=dbbtmskCRUY&start=392&end=401     	
+9	3	dbbtmskCRUY	294	9	https://www.youtube.com/watch?v=dbbtmskCRUY&start=294&end=303     	
+9	4	dbbtmskCRUY	662.5	8	https://www.youtube.com/watch?v=dbbtmskCRUY&start=662&end=670     	
+9	5	dbbtmskCRUY	143	8	https://www.youtube.com/watch?v=dbbtmskCRUY&start=143&end=151     	
+9	6	dbbtmskCRUY	779	7	https://www.youtube.com/watch?v=dbbtmskCRUY&start=779&end=786     	
+9	7	dbbtmskCRUY	540.4	10.8	https://www.youtube.com/watch?v=dbbtmskCRUY&start=540&end=551     	
+						
+10	1	nHWuQD3X7XE	0	7	https://www.youtube.com/watch?v=nHWuQD3X7XE&start=0&end=7         	Alpine, "Lovers 2"
+10	2	VHzUO17XRHo	0	7	https://www.youtube.com/watch?v=VHzUO17XRHo&start=0&end=7         	PNAU, "Nothing In The World"
+10	3	KQH2Kq1QXaI	180	7	https://www.youtube.com/watch?v=KQH2Kq1QXaI&start=180&end=187     	Tame Impala, "Apocalypse Dreams"
+10	4	-U70dLy5des	22	8	https://www.youtube.com/watch?v=-U70dLy5des&start=22&end=30       	The Avalanches, "If I Was A Folkstar"
+10	5	sBzrzS1Ag_g	82	6	https://www.youtube.com/watch?v=sBzrzS1Ag_g&start=82&end=88       	Tame Impala, "The Less I Know The Better"
+10	6	5olpKkUaF4k	191	7	https://www.youtube.com/watch?v=5olpKkUaF4k&start=191&end=198     	The Avalanches, "Frontier Psychiatrist" 
+10	7	DwSZtrc7idM	8	7	https://www.youtube.com/watch?v=DwSZtrc7idM&start=8&end=15        	INXS, "Need You Tonight"
+10	8	JLwIKCLPoeM	8	8	https://www.youtube.com/watch?v=JLwIKCLPoeM&start=8&end=16        	AC/DC, "Thunderstruck"
+						
+11	1	hNQohQBFnwI	13	9	https://www.youtube.com/watch?v=hNQohQBFnwI&start=13&end=22       	WaWa, "Across the Ocean to See You" (娃娃, "飄洋過海來看你") (my singular favorite song in the world)
+11	2	_sQSXwdtxlY	17	8	https://www.youtube.com/watch?v=_sQSXwdtxlY&start=17&end=25       	Hebe Tien, "A Little Happiness" (田馥甄 , "小幸運")
+11	3	7_gROA3h3DQ	19	8	https://www.youtube.com/watch?v=7_gROA3h3DQ&start=19&end=27       	Sodagreen, "Little Love Song" (蘇打綠, "小情歌")
+11	6	wr-6wwt8RXk	44	8	https://www.youtube.com/watch?v=wr-6wwt8RXk&start=44&end=52       	Jay Chou, "Fearless" (周杰倫, "霍元甲")
+11	4	_5QUFeEoJkU	45	8	https://www.youtube.com/watch?v=_5QUFeEoJkU&start=45&end=53       	Wu-Bai, "Go to the Graveyard" (伍佰, "墓仔埔也敢去") (Taiwanese vocals for ling fraud)
+11	5	c86t8hoVw8E	27	8	https://www.youtube.com/watch?v=c86t8hoVw8E&start=27&end=35       	Jolin Tsai, "Play" (蔡依林,"我呸") (Mandadin vocal rap for ling fraud)
+11	7	bv_cEeDlop0	12	9	https://www.youtube.com/watch?v=bv_cEeDlop0&start=12&end=21       	Teresa Teng, "The Moon Represents My Heart" (鄧麗君, "月亮代表我的心") (clear Mandarin for ling fraud+singular most famous Mandarin song)
+						https://www.newyorker.com/culture/cultural-comment/the-melancholy-pop-idol-who-haunts-china
+12	1	__OSyznVDOY	320	8	https://www.youtube.com/watch?v=__OSyznVDOY&start=320&end=328     	Charles Mingus, "Moanin'"
+12	2	8TdY6iqV2k0	330	7	https://www.youtube.com/watch?v=8TdY6iqV2k0&start=330&end=337     	Art Blakey & the Jazz Messengers, "Moanin'"
+12	3	ldXi8bs6PSw	74.4	8	https://www.youtube.com/watch?v=ldXi8bs6PSw&start=74&end=82       	Lambert, Hendricks & Ross, "Moanin'" (cover of Art Blakey version)
+12	4	__OSyznVDOY	390	8	https://www.youtube.com/watch?v=__OSyznVDOY&start=390&end=398     	Charles Mingus, "Moanin'"
+12	5	ldXi8bs6PSw	134	9	https://www.youtube.com/watch?v=ldXi8bs6PSw&start=134&end=143     	Lambert, Hendricks & Ross, "Moanin'"
+12	6	__OSyznVDOY	38	8.4	https://www.youtube.com/watch?v=__OSyznVDOY&start=38&end=46       	Charles Mingus, "Moanin'"
+12	7	8TdY6iqV2k0	0.5	8.2	https://www.youtube.com/watch?v=8TdY6iqV2k0&start=0&end=8         	Art Blakey & the Jazz Messengers, "Moanin'"

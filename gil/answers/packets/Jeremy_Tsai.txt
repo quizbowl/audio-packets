@@ -1,0 +1,39 @@
+Guerilla Imaginary Landscape
+Questions submitted by Jeremy Tsai
+
+1. Name the piece.
+ANSWER: _Double Violin Concerto_ in D minor by Johann Sebastian _Bach_ [accept _Concerto for Two Violins_ by _Bach_; accept _BWV 1043_; prompt on "Bach Double"; prompt on "Bach Violin Concerto"; prompt on "Bach Violin Concerto in D minor"; prompt on partial answer]
+
+2. Name the artist that these songs are tributes to or covers of.
+ANSWER: Nina _Simone_ [or Eunice Kathleen _Waymon_]
+
+3. Name the number in the titles of these pieces.
+ANSWER: _eight_ [or _8_; accept _Eight_ Songs for a Mad King (by Peter Maxwell Davies); accept Partita for _8_ Voices (by Caroline Shaw)]
+
+4. Name the country of these artists.
+ANSWER: _Moldova_ [or Republic of _Moldova_]
+
+5. Name the opera.
+ANSWER: _Rigoletto_
+
+6. Name the genre.
+ANSWER: _mashup_ [or _plunderphonics_; or _sound collage_; or anything _sample_ based; prompt on "remix" or "electronic" or "EDM"]
+
+7. Name the composer.
+ANSWER: _Josquin_ des Prez [or Josquin _Desprez_]
+
+8. Name the TV show.
+ANSWER: The _Eric Andre_ Show
+
+9. Name the piece. 
+ANSWER: The _Isle of the Dead_ [or _Ostrov myortvykh_] (by Sergei Rachmaninoff)
+
+10. Name the country of these artists.
+ANSWER: _Australia_ [or Commonwealth of _Australia_]
+
+11. Name the country of these artists.
+ANSWER: _Taiwan_ [or the _Republic of China_; or _ROC_]
+
+12. Name the common title of these pieces.
+ANSWER: _"Moanin’"_
+

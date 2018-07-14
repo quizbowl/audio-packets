@@ -1,0 +1,71 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	CQ3HreNp98o	5.8	9.4	https://www.youtube.com/watch?v=CQ3HreNp98o&start=5&end=15        	Prelude Op. 28 No. 18 in F minor
+1	2	SKPkeX6Uc8Y	30	7.5	https://www.youtube.com/watch?v=SKPkeX6Uc8Y&start=30&end=37       	Prelude Op. 28 No. 5 in D major
+1	3	XeX4X_1_lo0	109.5	9.5	https://www.youtube.com/watch?v=XeX4X_1_lo0&start=109&end=119     	Prelude Op. 28 No. 20 in C minor
+1	4	QHcEH2Rliko	112.7	11	https://www.youtube.com/watch?v=QHcEH2Rliko&start=112&end=123     	Prelude Op. 28 No. 24 in D minor
+1	5	KHGHhYZCIQI	0.6	11.2	https://www.youtube.com/watch?v=KHGHhYZCIQI&start=0&end=11        	Prelude Op. 28 No. 4 in E minor
+1	6	6OFHXmiZP38	233.3	10.3	https://www.youtube.com/watch?v=6OFHXmiZP38&start=233&end=243     	Prelude Op. 28 No. 15 in D-flat major
+						
+2	1	nNUNNddnG6k	0.4	10	https://www.youtube.com/watch?v=nNUNNddnG6k&start=0&end=10        	Pete Townshend's Classic Quadrophenia 5:15
+2	2	0Wa8q59JBno	768.5	13.5	https://www.youtube.com/watch?v=0Wa8q59JBno&start=768&end=782     	The Punk And The Godfather
+2	3	gDbAtWpoA6k	56.5	12.5	https://www.youtube.com/watch?v=gDbAtWpoA6k&start=56&end=69       	Love reign over me
+2	4	8yuOw5k5_OM	8	10	https://www.youtube.com/watch?v=8yuOw5k5_OM&start=8&end=18        	Eminence Front
+2	5	UFrDpx7zLtA	16	8.1	https://www.youtube.com/watch?v=UFrDpx7zLtA&start=16&end=24       	Pinball Wizard
+2	6	jr92gsj31nM	41	8.9	https://www.youtube.com/watch?v=jr92gsj31nM&start=41&end=49       	Baba O'Riley
+						
+3	1	2Kp38BUjPNI	872.8	14.1	https://www.youtube.com/watch?v=2Kp38BUjPNI&start=872&end=886     	Clarinet Sonata in F minor Op. 120 No. 1: III.
+3	2	aJTxsbGWYik	270	11.8	https://www.youtube.com/watch?v=aJTxsbGWYik&start=270&end=281     	String Quartet Op. 51 No. 2 in A minor: IV.
+3	3	tWoFaPwbzqE	114	8.2	https://www.youtube.com/watch?v=tWoFaPwbzqE&start=114&end=122     	Piano Concerto No. 2 in B-flat major, Op. 83: I.
+3	4	qI1vYHT43a4	1950.2	15.2	https://www.youtube.com/watch?v=qI1vYHT43a4&start=1950&end=1965   	Symphony No. 2 in D major, Op. 73: III.
+3	5	Hg9iXypvP_k	6.6	10.2	https://www.youtube.com/watch?v=Hg9iXypvP_k&start=6&end=16        	Symphony No. 4 in E minor: IV.
+3	6	2tB2SLLnPZg	27	10.5	https://www.youtube.com/watch?v=2tB2SLLnPZg&start=27&end=37       	Symphony No. 3 in F minor: III.
+						
+4	1	xr0Tfng9SP0	994	11	https://www.youtube.com/watch?v=xr0Tfng9SP0&start=994&end=1005    	Spiral
+4	2	xr0Tfng9SP0	1156	10	https://www.youtube.com/watch?v=xr0Tfng9SP0&start=1156&end=1166   	Syeeda's Song Flute
+4	3	xr0Tfng9SP0	287.6	10	https://www.youtube.com/watch?v=xr0Tfng9SP0&start=287&end=297     	Cousin Mary
+4	4	xr0Tfng9SP0	176	10	https://www.youtube.com/watch?v=xr0Tfng9SP0&start=176&end=186     	Giant Steps
+4	5	xr0Tfng9SP0	1271	13	https://www.youtube.com/watch?v=xr0Tfng9SP0&start=1271&end=1284   	Syeeda's Song Flute
+4	6	xr0Tfng9SP0	26.4	10.8	https://www.youtube.com/watch?v=xr0Tfng9SP0&start=26&end=37       	Giant Steps
+						
+5	1	4QrGJoWy6sc	0	8	https://www.youtube.com/watch?v=4QrGJoWy6sc&start=0&end=8         	Clap Your Hands
+5	2	WILyWmT2A-Q	10	9.8	https://www.youtube.com/watch?v=WILyWmT2A-Q&start=10&end=19       	I Left My Wallet In El Segundo
+5	3	kQaSDJYwdh4	0	9	https://www.youtube.com/watch?v=kQaSDJYwdh4&start=0&end=9         	Dis Generation
+5	4	d4TKddYmeeM	0	13	https://www.youtube.com/watch?v=d4TKddYmeeM&start=0&end=13        	The Donald
+5	5	DvzOfm0ZhS8	100.1	10.1	https://www.youtube.com/watch?v=DvzOfm0ZhS8&start=100&end=110     	Jazz (We've Got)
+5	6	vO2Su3erRIA	15.7	8.4	https://www.youtube.com/watch?v=vO2Su3erRIA&start=15&end=24       	We The People
+5	7	O3pyCGnZzYA	10	7.8	https://www.youtube.com/watch?v=O3pyCGnZzYA&start=10&end=17       	Can I Kick It?
+						
+6	1	H0HsOKN3ly4	10	12.3	https://www.youtube.com/watch?v=H0HsOKN3ly4&start=10&end=22       	NEU! - Hero
+6	2	KwVfXkchDKo	121	7.3	https://www.youtube.com/watch?v=KwVfXkchDKo&start=121&end=128     	Faust - Why Don't You Eat Carrots
+6	3	YmN9oHa3ZIQ	26	11	https://www.youtube.com/watch?v=YmN9oHa3ZIQ&start=26&end=37       	CAN - Vitamin C
+6	4	Cq1taMdHGp4	31	11.2	https://www.youtube.com/watch?v=Cq1taMdHGp4&start=31&end=42       	Kraftwerk - The Model 
+6	5	W3q8Od5qJio	184	9.8	https://www.youtube.com/watch?v=W3q8Od5qJio&start=184&end=193     	Rammstein - Du Hast
+6	6	V2zxHuze_Gw	162.8	10.1	https://www.youtube.com/watch?v=V2zxHuze_Gw&start=162&end=172     	Nena - 99 Red Balloons
+						
+7	1	1oYrMCYLdNs	128	10.3	https://www.youtube.com/watch?v=1oYrMCYLdNs&start=128&end=138     	Praise God
+7	2	TS-G4UQTfUo	125	9	https://www.youtube.com/watch?v=TS-G4UQTfUo&start=125&end=134     	Caravan (Whiplash soundtrack)
+7	3	DaVowYipTW0	0	9.3	https://www.youtube.com/watch?v=DaVowYipTW0&start=0&end=9         	Sophisticated Lady
+7	4	uUcEGOLfUTE	0.9	9.5	https://www.youtube.com/watch?v=uUcEGOLfUTE&start=0&end=10        	Jeep's Blues
+7	5	m3x8ryiWU4c	272	15.2	https://www.youtube.com/watch?v=m3x8ryiWU4c&start=272&end=287     	Mood Indigo – "mike-tone"
+7	6	ftzaQYj3KDo	105	11	https://www.youtube.com/watch?v=ftzaQYj3KDo&start=105&end=116     	Take the "A" Train
+						
+8	1	Bx4aK-YsPeU	0.4	8	https://www.youtube.com/watch?v=Bx4aK-YsPeU&start=0&end=8         	Bernard Herrmann: Taxi Driver (theme)
+8	2	Bx4aK-YsPeU	54	12.2	https://www.youtube.com/watch?v=Bx4aK-YsPeU&start=54&end=66       	Bernard Herrmann: Taxi Driver (theme)
+8	3	nFvRvSxsW-I	129	7.8	https://www.youtube.com/watch?v=nFvRvSxsW-I&start=129&end=136     	Isaac Hayes: Shaft
+8	4	PPskYVBqdNw	1.9	7.6	https://www.youtube.com/watch?v=PPskYVBqdNw&start=1&end=9         	Nino Rota: The Godfather - Main Title (The Godfather Waltz)
+8	5	F9vA7L8H4nc	0.7	13.2	https://www.youtube.com/watch?v=F9vA7L8H4nc&start=0&end=13        	Nino Rota: The Godfather - Theme Song
+8	6	EUrUfJW1JGk	174	13	https://www.youtube.com/watch?v=EUrUfJW1JGk&start=174&end=187     	Frank Sinatra: New York, New York
+						
+9	1	YWlsLJlpyPU	283	12	https://www.youtube.com/watch?v=YWlsLJlpyPU&start=283&end=295     	Bassoon Concerto in E minor, RV 484
+9	2	ajJRuGBDeb8	8.4	7.9	https://www.youtube.com/watch?v=ajJRuGBDeb8&start=8&end=16        	Chamber Concerto in G minor RV 107
+9	3	gSPOwYTQgQ8	0.8	12.2	https://www.youtube.com/watch?v=gSPOwYTQgQ8&start=0&end=13        	Recorder Concerto in C minor RV 441
+9	4	NzCL9uLkQSI	3	8	https://www.youtube.com/watch?v=NzCL9uLkQSI&start=3&end=11        	Violin Concerto No. 4 in F minor ("Winter"), Op. 8 No. 4, RV 297: I.
+9	5	ygpf6mxTUeY	1436	8.6	https://www.youtube.com/watch?v=ygpf6mxTUeY&start=1436&end=1444   	Violin Concerto No. 3 in F major ("Autumn"), Op. 8 No. 3, RV 293: I.
+9	6	DpeFVzEWkCI	0.3	12.2	https://www.youtube.com/watch?v=DpeFVzEWkCI&start=0&end=12        	Violin Concerto No. 2 in G minor ("Summer"), Op. 8 No. 2, RV 315: III.
+						
+10	1	pAV4KlD86E8	20	11.5	https://www.youtube.com/watch?v=pAV4KlD86E8&start=20&end=31       	Wizkid feat. Femi Kuti - Jaiye Jaiye
+10	2	IQBC5URoF0s	0.4	8	https://www.youtube.com/watch?v=IQBC5URoF0s&start=0&end=8         	Fela Kuti - Water no get enemy
+10	3	Qj5x6pbJMyU	1	7	https://www.youtube.com/watch?v=Qj5x6pbJMyU&start=1&end=8         	Fela Kuti - Zombie
+10	4	Q7QiLceJSLQ	28	10.2	https://www.youtube.com/watch?v=Q7QiLceJSLQ&start=28&end=38       	Wizkid - Ojuelegba
+10	5	IQBC5URoF0s	331	12	https://www.youtube.com/watch?v=IQBC5URoF0s&start=331&end=343     	Fela Kuti - Water no get enemy
+10	6	Qj5x6pbJMyU	320	11.3	https://www.youtube.com/watch?v=Qj5x6pbJMyU&start=320&end=331     	Fela Kuti - Zombie

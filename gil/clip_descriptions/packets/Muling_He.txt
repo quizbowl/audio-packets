@@ -1,0 +1,69 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	sZJjL1sTBp0	990	8.3	https://www.youtube.com/watch?v=sZJjL1sTBp0&start=990&end=998     	mvt. 2
+1	2	sZJjL1sTBp0	1483	11	https://www.youtube.com/watch?v=sZJjL1sTBp0&start=1483&end=1494   	mvt. 3
+1	3	sZJjL1sTBp0	451	10	https://www.youtube.com/watch?v=sZJjL1sTBp0&start=451&end=461     	mvt. 1
+1	4	sZJjL1sTBp0	270.8	13.5	https://www.youtube.com/watch?v=sZJjL1sTBp0&start=270&end=284     	mvt. 1
+1	5	sZJjL1sTBp0	237	7	https://www.youtube.com/watch?v=sZJjL1sTBp0&start=237&end=244     	Second Theme, mvt. 1
+1	6	sZJjL1sTBp0	0.9	7	https://www.youtube.com/watch?v=sZJjL1sTBp0&start=0&end=7         	First Theme, mvt. 1
+						
+2	1	jeoFfK0iAAI	780	6.3	https://www.youtube.com/watch?v=jeoFfK0iAAI&start=780&end=786     	Kind im Einschlummern (Child Falling Asleep) 
+2	2	jeoFfK0iAAI	896	10.3	https://www.youtube.com/watch?v=jeoFfK0iAAI&start=896&end=906     	Der Dichter spricht (The Poet Speaks)
+2	3	jeoFfK0iAAI	95.4	11	https://www.youtube.com/watch?v=jeoFfK0iAAI&start=95&end=106      	Kuriose Geschichte (A Curious Story)
+2	4	jeoFfK0iAAI	537	11	https://www.youtube.com/watch?v=jeoFfK0iAAI&start=537&end=548     	Am Kamin (At the Fireside)
+2	5	jeoFfK0iAAI	7.1	13	https://www.youtube.com/watch?v=jeoFfK0iAAI&start=7&end=20        	Von fremden Ländern und Menschen (Of Foreign Lands and Peoples)
+2	6	jeoFfK0iAAI	334.3	8	https://www.youtube.com/watch?v=jeoFfK0iAAI&start=334&end=342     	Träumerei (Dreaming)
+						
+3	1	iB4JtY-bPzI	206	8.4	https://www.youtube.com/watch?v=iB4JtY-bPzI&start=206&end=214     	
+3	2	iB4JtY-bPzI	154	11	https://www.youtube.com/watch?v=iB4JtY-bPzI&start=154&end=165     	
+3	3	iB4JtY-bPzI	118	6	https://www.youtube.com/watch?v=iB4JtY-bPzI&start=118&end=124     	
+3	4	iB4JtY-bPzI	29	10.5	https://www.youtube.com/watch?v=iB4JtY-bPzI&start=29&end=39       	
+3	5	iB4JtY-bPzI	53.4	13.1	https://www.youtube.com/watch?v=iB4JtY-bPzI&start=53&end=66       	
+3	6	iB4JtY-bPzI	1	10.2	https://www.youtube.com/watch?v=iB4JtY-bPzI&start=1&end=11        	Opening
+						
+4	1	k0BIu9aWB0Q	240.6	8.6	https://www.youtube.com/watch?v=k0BIu9aWB0Q&start=240&end=249     	Les Cinq Doigts: Moderato
+4	2	RnJZX-BT1C4	331.5	9.5	https://www.youtube.com/watch?v=RnJZX-BT1C4&start=331&end=341     	Concerto for Two Pianos: Notturno: Adagietto
+4	3	Hc-nf9f-rsk	888	6.3	https://www.youtube.com/watch?v=Hc-nf9f-rsk&start=888&end=894     	Violin Cncerto: Capriccio
+4	4	6wI40oNpP6A	4.8	7.3	https://www.youtube.com/watch?v=6wI40oNpP6A&start=4&end=12        	Trois Mouvements de Pétrouchka: Danse russe. Allegro giusto
+4	5	IMljALeHMq0	0.2	12.8	https://www.youtube.com/watch?v=IMljALeHMq0&start=0&end=13        	The Rite of Spring: I. Spring Rounds
+4	6	4wZFdbg7d9U	0	7.4	https://www.youtube.com/watch?v=4wZFdbg7d9U&start=0&end=7         	The Firebird: Infernal Dance
+						
+5	1	aCyJjRvIeJA	390.1	10	https://www.youtube.com/watch?v=aCyJjRvIeJA&start=390&end=400     	
+5	2	aCyJjRvIeJA	70	6	https://www.youtube.com/watch?v=aCyJjRvIeJA&start=70&end=76       	
+5	4	aCyJjRvIeJA	257	15	https://www.youtube.com/watch?v=aCyJjRvIeJA&start=257&end=272     	Titania's theme
+5	3	aCyJjRvIeJA	3	21	https://www.youtube.com/watch?v=aCyJjRvIeJA&start=3&end=24        	
+5	5	aCyJjRvIeJA	179.4	12	https://www.youtube.com/watch?v=aCyJjRvIeJA&start=179&end=191     	Main theme, Oberon's theme
+						
+6	1	I5lgAUHVFC4	34	10	https://www.youtube.com/watch?v=I5lgAUHVFC4&start=34&end=44       	Proverb
+6	2	wRN_jUrJSnE	47	10	https://www.youtube.com/watch?v=wRN_jUrJSnE&start=47&end=57       	2x5
+6	3	HUWalsKk_RA	34	10	https://www.youtube.com/watch?v=HUWalsKk_RA&start=34&end=44       	Different Trains: mvt. 3
+6	4	7P_9hDzG1i0	95	10	https://www.youtube.com/watch?v=7P_9hDzG1i0&start=95&end=105      	Piano Phase
+6	5	ZXJWO2FQ16c	40	16	https://www.youtube.com/watch?v=ZXJWO2FQ16c&start=40&end=56       	Music for 18 Musicians
+6	6	lzkOFJMI5i8	34	10	https://www.youtube.com/watch?v=lzkOFJMI5i8&start=34&end=44       	Clapping Music
+						
+7	1	jRVtJBDCz68	294	10	https://www.youtube.com/watch?v=jRVtJBDCz68&start=294&end=304     	
+7	2	eOd1RvwqTps	227	13	https://www.youtube.com/watch?v=eOd1RvwqTps&start=227&end=240     	
+7	3	eOd1RvwqTps	555	10	https://www.youtube.com/watch?v=eOd1RvwqTps&start=555&end=565     	
+7	4	jRVtJBDCz68	409	12	https://www.youtube.com/watch?v=jRVtJBDCz68&start=409&end=421     	opening of variation
+7	5	eOd1RvwqTps	3	15	https://www.youtube.com/watch?v=eOd1RvwqTps&start=3&end=18        	opening
+						
+8	1	9LwMMz8gIVg	255	7	https://www.youtube.com/watch?v=9LwMMz8gIVg&start=255&end=262     	Ballade No. 3 in A-flat major
+8	2	kYVT1rxr9K4	361.7	8.3	https://www.youtube.com/watch?v=kYVT1rxr9K4&start=361&end=370     	Ballade No. 4 in F minor
+8	3	kYVT1rxr9K4	573	12	https://www.youtube.com/watch?v=kYVT1rxr9K4&start=573&end=585     	Ballade No. 4 in F minor
+8	4	sAnGekvttbs	134.8	11.6	https://www.youtube.com/watch?v=sAnGekvttbs&start=134&end=146     	Ballade No. 2 in F major, second theme
+8	5	4Kcpu3JkJdU	483	10	https://www.youtube.com/watch?v=4Kcpu3JkJdU&start=483&end=493     	Ballade No. 1 in G minor, coda
+8	6	4Kcpu3JkJdU	3.2	12	https://www.youtube.com/watch?v=4Kcpu3JkJdU&start=3&end=15        	Ballade No. 1 in G minor, opening
+						
+9	1	ikTkMaPyZWM	815	15	https://www.youtube.com/watch?v=ikTkMaPyZWM&start=815&end=830     	Piano Concerto No. 1, second movement
+9	2	ikTkMaPyZWM	1050	7	https://www.youtube.com/watch?v=ikTkMaPyZWM&start=1050&end=1057   	Piano Concerto No. 1, third movement
+9	3	ts3Q4VIkLv0	15	10	https://www.youtube.com/watch?v=ts3Q4VIkLv0&start=15&end=25       	Piano Concerto No. 1, first movement
+9	4	5fzGXaFQloc	1395	7	https://www.youtube.com/watch?v=5fzGXaFQloc&start=1395&end=1402   	Piano Concerto No. 2, third movement
+9	5	fDblE1CcrR4	480.8	8	https://www.youtube.com/watch?v=fDblE1CcrR4&start=480&end=488     	Piano Concerto No. 3, ossia cadenza
+9	6	fDblE1CcrR4	7	6	https://www.youtube.com/watch?v=fDblE1CcrR4&start=7&end=13        	Piano Concerto No. 3, opening
+						
+10	1	EFcd3XxRkFg	77	8	https://www.youtube.com/watch?v=EFcd3XxRkFg&start=77&end=85       	18 Pieces, Op. 72 No. 15: "Un poco di Chopin"
+10	2	53zJ8lzRFUk	27	13	https://www.youtube.com/watch?v=53zJ8lzRFUk&start=27&end=40       	Valse Scherzo Op. 34
+10	3	Vgu8JCxWvAQ	16	6	https://www.youtube.com/watch?v=Vgu8JCxWvAQ&start=16&end=22       	Piano Concerto No. 2 in G, first movement
+10	4	6qROema2MDI	1457	11	https://www.youtube.com/watch?v=6qROema2MDI&start=1457&end=1468   	Piano Concerto No. 1 in B-flat minor, second movement
+10	5	eYlFxCA--i0	35	10	https://www.youtube.com/watch?v=eYlFxCA--i0&start=35&end=45       	Violin Concerto in D, Op. 35: second movement
+10	6	FqZfoK25lnY	1.8	7	https://www.youtube.com/watch?v=FqZfoK25lnY&start=1&end=8         	Swan Lake, Op. 20, opening
+10	7	FqZfoK25lnY	4529.7	10.3	https://www.youtube.com/watch?v=FqZfoK25lnY&start=4529&end=4540   	Swan Lake, Op. 20, theme

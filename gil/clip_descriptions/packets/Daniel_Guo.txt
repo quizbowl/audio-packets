@@ -1,0 +1,182 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	MFSm5_4afro	11.3	11.7	https://www.youtube.com/watch?v=MFSm5_4afro&start=11&end=23       	Fazıl Say: Black Earth
+1	2	qj1luIOQHLw	13.8	13.2	https://www.youtube.com/watch?v=qj1luIOQHLw&start=13&end=27       	Scriabin: Piano Sonata No. 9 "Black Mass"
+1	3	clDtiewclmg	1.7	13.3	https://www.youtube.com/watch?v=clDtiewclmg&start=1&end=15        	Bach: "Black Pearl" from the Goldberg Variations
+1	4	2gg-IqHtnak	2.4	9	https://www.youtube.com/watch?v=2gg-IqHtnak&start=2&end=11        	Handel: "Harmonious Blacksmith" which is technically not cheating given the prompt
+1	5	BLRyj1Tx4rY	0.4	6	https://www.youtube.com/watch?v=BLRyj1Tx4rY&start=0&end=6         	Crumb: Black Angels
+1	6	ve5tfzJINaY	49	12.8	https://www.youtube.com/watch?v=ve5tfzJINaY&start=49&end=61       	Chopin: "Black Key" Etude
+						
+2	1	jTCol3eIF24	497	10	https://www.youtube.com/watch?v=jTCol3eIF24&start=497&end=507     	Piano Concerto No. 2, I.
+2	2	jTCol3eIF24	1682.3	9.7	https://www.youtube.com/watch?v=jTCol3eIF24&start=1682&end=1692   	Piano Concerto No. 2, III. some secondary theme
+2	3	MkrwU5Pd93c	2116.8	10.2	https://www.youtube.com/watch?v=MkrwU5Pd93c&start=2116&end=2127   	Piano Concerto No. 1, III.
+2	4	jTCol3eIF24	176	11	https://www.youtube.com/watch?v=jTCol3eIF24&start=176&end=187     	Piano Concerto No. 2, I. pianist entrance
+2	5	MkrwU5Pd93c	1150	11	https://www.youtube.com/watch?v=MkrwU5Pd93c&start=1150&end=1161   	Piano Concerto No. 1, I. coda
+2	6	MkrwU5Pd93c	42.7	12.3	https://www.youtube.com/watch?v=MkrwU5Pd93c&start=42&end=55       	Piano Concerto No. 1, I. beginning
+						
+3	1	fzzCpL_i7K8	263	10	https://www.youtube.com/watch?v=fzzCpL_i7K8&start=263&end=273     	Alkan: "Song of the Mad Woman on the Seashore"
+3	2	GauIMo8Manc	35.25	12.75	https://www.youtube.com/watch?v=GauIMo8Manc&start=35&end=48       	Elgar: "Sea Slumber Song" from Sea Pictures
+3	3	VTd2aXLTA84	726.1	15	https://www.youtube.com/watch?v=VTd2aXLTA84&start=726&end=741     	Britten: Four Sea Interludes, IV. Storm
+3	4	FOCucJw7iT8	489	14	https://www.youtube.com/watch?v=FOCucJw7iT8&start=489&end=503     	Debussy: La Mer, somewhere in the middle
+3	5	_WsW5UPNIxM	11.7	14.6	https://www.youtube.com/watch?v=_WsW5UPNIxM&start=11&end=26       	Vaughan Williams A Sea Symphony beginning
+						
+4	1	X0g9JlHg5Kw	911.5	12	https://www.youtube.com/watch?v=X0g9JlHg5Kw&start=911&end=923     	Piano Quartet No. 3, III.
+4	2	w4nnjhHe15U	974	13	https://www.youtube.com/watch?v=w4nnjhHe15U&start=974&end=987     	Op. 117 No. 3 ending
+4	3	40NsFKuskH0	1673	14	https://www.youtube.com/watch?v=40NsFKuskH0&start=1673&end=1687   	Piano Concerto No. 2, III. cello solo
+4	4	EGRqIGOAPcE	56.8	10	https://www.youtube.com/watch?v=EGRqIGOAPcE&start=56&end=66       	Symphony No. 1 beginning
+4	5	t894eGoymio	8	13	https://www.youtube.com/watch?v=t894eGoymio&start=8&end=21        	Lullaby
+						
+5	1	EuW2WJFFh4c	557.9	6.4	https://www.youtube.com/watch?v=EuW2WJFFh4c&start=557&end=564     	Piano Sonata No. 1, II.
+5	2	5BWOHlEyHcs	505	8.6	https://www.youtube.com/watch?v=5BWOHlEyHcs&start=505&end=513     	String Sextet No. 1, I.
+5	3	OZ5Z_xU2JVk	1006.3	9.7	https://www.youtube.com/watch?v=OZ5Z_xU2JVk&start=1006&end=1016   	Piano Trio No. 2, II.
+5	4	Qrbom9k_gqk	43.5	8.4	https://www.youtube.com/watch?v=Qrbom9k_gqk&start=43&end=51       	String Sextet No. 2, I.
+5	5	DLBCGF73cHE	1295	8.9	https://www.youtube.com/watch?v=DLBCGF73cHE&start=1295&end=1303   	Piano Trio No. 1, III.
+5	6	DLBCGF73cHE	287.8	6.7	https://www.youtube.com/watch?v=DLBCGF73cHE&start=287&end=294     	Piano Trio No. 1, I.
+5	7	DLBCGF73cHE	10.3	11.9	https://www.youtube.com/watch?v=DLBCGF73cHE&start=10&end=22       	Piano Trio No. 1, I.
+5	8	47Ed6zsHioU	81.2	5.9	https://www.youtube.com/watch?v=47Ed6zsHioU&start=81&end=87       	Academic Festival Overture
+						
+6	1	GLtLakFjkhg	167	14	https://www.youtube.com/watch?v=GLtLakFjkhg&start=167&end=181     	Act III: Addio dolce svegliare alla mattina
+6	2	rIZ2yLcpnzM	1.9	9.2	https://www.youtube.com/watch?v=rIZ2yLcpnzM&start=1&end=11        	Act IV: Vecchia zimarra, senti
+6	3	IDvE8uKWznc	137	11	https://www.youtube.com/watch?v=IDvE8uKWznc&start=137&end=148     	Act II: Quando m'en vo
+6	4	1zjDh0Hkb3E	35	15.4	https://www.youtube.com/watch?v=1zjDh0Hkb3E&start=35&end=50       	Act I: O soave fancuilla
+6	5	OkHGUaB1Bs8	9.4	8.8	https://www.youtube.com/watch?v=OkHGUaB1Bs8&start=9&end=18        	Act I: Che gelida manina
+6	6	UgaN3vIqJUY	0.5	10.2	https://www.youtube.com/watch?v=UgaN3vIqJUY&start=0&end=10        	Act I: Mi chiamano mimi
+						
+7	1	XNfIvOkjJeE	808	15.4	https://www.youtube.com/watch?v=XNfIvOkjJeE&start=808&end=823     	D. 946, Drei Klavierstücke, Allegretto I think
+7	2	cEL5pCQjPpI	3.4	14.7	https://www.youtube.com/watch?v=cEL5pCQjPpI&start=3&end=18        	String Quintet beginning
+7	3	aO5fLLHj55k	2.8	10.2	https://www.youtube.com/watch?v=aO5fLLHj55k&start=2&end=13        	Fantasy in F minor for piano 4 hands, D. 940
+7	4	e52IMaE-3As	7.6	11.4	https://www.youtube.com/watch?v=e52IMaE-3As&start=7&end=19        	Piano Trio No. 2, II. Andante con moto
+7	5	NF9DrUXowBo	4.6	7.4	https://www.youtube.com/watch?v=NF9DrUXowBo&start=4&end=12        	Die Forelle
+7	6	ZpA0l2WB86E	12.6	12	https://www.youtube.com/watch?v=ZpA0l2WB86E&start=12&end=24       	Serenade
+						
+8	1	CDSeqqEN9Rg	339	12.4	https://www.youtube.com/watch?v=CDSeqqEN9Rg&start=339&end=351     	Jazz Suite No. 1 Foxtrot
+8	2	4hIqwh7j0TI	16	8.8	https://www.youtube.com/watch?v=4hIqwh7j0TI&start=16&end=24       	Dances of the Dolls: No. 1 Lyric Waltz
+8	3	O9w-zZGI2ao	27	10	https://www.youtube.com/watch?v=O9w-zZGI2ao&start=27&end=37       	Violin Concerto No. 1 beginning
+8	4	vRHZu5xoIe0	729.6	12.4	https://www.youtube.com/watch?v=vRHZu5xoIe0&start=729&end=742     	Leningrad invasion theme
+8	5	-0nKJoZY64A	7.8	10.5	https://www.youtube.com/watch?v=-0nKJoZY64A&start=7&end=18        	String Quartet No. 8 DSCH motif
+8	6	mmCnQDUSO4I	3.4	9	https://www.youtube.com/watch?v=mmCnQDUSO4I&start=3&end=12        	Waltz No. 2 from Suite for Variety Orchestra
+						
+9	1	77z_J0JL6ps	172	12	https://www.youtube.com/watch?v=77z_J0JL6ps&start=172&end=184     	Torna a surriento
+9	2	wa1FZwPURlw	15.5	12	https://www.youtube.com/watch?v=wa1FZwPURlw&start=15&end=27       	Neapolitan Dance from Swan Lake (Tchaikovsky)
+9	3	iDEdZfnULIg	22	14	https://www.youtube.com/watch?v=iDEdZfnULIg&start=22&end=36       	Caruso
+9	4	be2ZHZuiC18	0.5	8	https://www.youtube.com/watch?v=be2ZHZuiC18&start=0&end=8         	Tarentella Napolitana from The Godfather
+9	5	yTSAZAHiOa8	60.3	9	https://www.youtube.com/watch?v=yTSAZAHiOa8&start=60&end=69       	Funiculì Funiculà
+9	6	d_mLFHLSULw	173	11.4	https://www.youtube.com/watch?v=d_mLFHLSULw&start=173&end=184     	O sole mio
+9	7	wAmkg6wtAc4	154	4.4	https://www.youtube.com/watch?v=wAmkg6wtAc4&start=154&end=158     	Neapolitan sixth chord
+						
+10	1	BFYkyW1Palg	138.4	11.7	https://www.youtube.com/watch?v=BFYkyW1Palg&start=138&end=150     	Et in terra pax
+10	2	BFYkyW1Palg	632	10.3	https://www.youtube.com/watch?v=BFYkyW1Palg&start=632&end=642     	Domine Deus
+10	3	DxGgjCtQGWc	34	12.3	https://www.youtube.com/watch?v=DxGgjCtQGWc&start=34&end=46       	Domine Deus, Agnus Dei
+10	4	BFYkyW1Palg	886	10.3	https://www.youtube.com/watch?v=BFYkyW1Palg&start=886&end=896     	Domine fili unigenite
+10	5	BFYkyW1Palg	4	10	https://www.youtube.com/watch?v=BFYkyW1Palg&start=4&end=14        	Gloria in excelsis Deo
+10	6	BFYkyW1Palg	30	5.3	https://www.youtube.com/watch?v=BFYkyW1Palg&start=30&end=35       	"Gloria"
+						
+11	1	xa7GhdVLg1c	1497	10	https://www.youtube.com/watch?v=xa7GhdVLg1c&start=1497&end=1507   	3rd movement
+11	2	xa7GhdVLg1c	1700	10	https://www.youtube.com/watch?v=xa7GhdVLg1c&start=1700&end=1710   	3rd movement
+11	3	xa7GhdVLg1c	498	10	https://www.youtube.com/watch?v=xa7GhdVLg1c&start=498&end=508     	1st movement
+11	4	xa7GhdVLg1c	356	7.7	https://www.youtube.com/watch?v=xa7GhdVLg1c&start=356&end=363     	1st movement doublet / triplet octave thingy
+11	5	xa7GhdVLg1c	725	9.5	https://www.youtube.com/watch?v=xa7GhdVLg1c&start=725&end=734     	2nd movement piano entrance
+11	6	xa7GhdVLg1c	24.2	12	https://www.youtube.com/watch?v=xa7GhdVLg1c&start=24&end=36       	Beginning
+						
+12	1	-r5EK19sf34	16	14	https://www.youtube.com/watch?v=-r5EK19sf34&start=16&end=30       	Vierne: Arabesque No. 15
+12	2	1MPXDoB6jc8	672	10	https://www.youtube.com/watch?v=1MPXDoB6jc8&start=672&end=682     	Sibelius: 13 Pieces, Op. 76 No. 9 Arabesque
+12	3	ZeAf_Sdw2ow	0.5	11.8	https://www.youtube.com/watch?v=ZeAf_Sdw2ow&start=0&end=12        	Schumann
+12	4	aREB2y9ow_s	1.5	8.5	https://www.youtube.com/watch?v=aREB2y9ow_s&start=1&end=10        	Burgmüller: Arabesque in A minor, Op. 100, No. 2
+12	5	FfuAXryggUE	45.2	11	https://www.youtube.com/watch?v=FfuAXryggUE&start=45&end=56       	Debussy 2
+12	6	Yh36PaE-Pf0	89	8	https://www.youtube.com/watch?v=Yh36PaE-Pf0&start=89&end=97       	Debussy 1
+12	7	Yh36PaE-Pf0	239	6.4	https://www.youtube.com/watch?v=Yh36PaE-Pf0&start=239&end=245     	Debussy 1
+						
+13	1	2yxaWuwSwjE	92	18	https://www.youtube.com/watch?v=2yxaWuwSwjE&start=92&end=110      	Elgar: Dream of Gerontius that fffz part
+13	2	XTOkWD6xvTI	4.1	14	https://www.youtube.com/watch?v=XTOkWD6xvTI&start=4&end=18        	Fauré: Après un rêve
+13	3	m0gHTNJVFtA	65.2	10.2	https://www.youtube.com/watch?v=m0gHTNJVFtA&start=65&end=75       	Mendelssohn: Midsummer Night's Dream Overture
+13	4	6z82w0l6kwE	129	15.2	https://www.youtube.com/watch?v=6z82w0l6kwE&start=129&end=144     	Schumann: Träumerei
+13	5	KpOtuoHL45Y	0.4	10.6	https://www.youtube.com/watch?v=KpOtuoHL45Y&start=0&end=11        	Liszt: Liebesträume No. 3
+						
+14	1	PZfTnXgNr6w	6.5	13	https://www.youtube.com/watch?v=PZfTnXgNr6w&start=6&end=19        	Ave Maria
+14	2	PZfTnXgNr6w	1076	17.3	https://www.youtube.com/watch?v=PZfTnXgNr6w&start=1076&end=1093   	Christus factus est, a little after the beginning
+14	3	UgDBhcF8mus	9	9	https://www.youtube.com/watch?v=UgDBhcF8mus&start=9&end=18        	Te Deum
+14	4	5LPvoppqOLk	4.8	10	https://www.youtube.com/watch?v=5LPvoppqOLk&start=4&end=14        	Virga Jesse
+14	5	ov-OAmpcRfw	35	13	https://www.youtube.com/watch?v=ov-OAmpcRfw&start=35&end=48       	Os Justi
+14	6	-MiYzU8HQZQ	3475.5	9.2	https://www.youtube.com/watch?v=-MiYzU8HQZQ&start=3475&end=3484   	near end of Symphony No. 4 in E-flat ("Romantic"), iconic E♭ → C♭ and triplets (though not quite Bruckner rhythm)
+						
+15	1	qqKYgRFk8x4	1216	8	https://www.youtube.com/watch?v=qqKYgRFk8x4&start=1216&end=1224   	Arabian Dance
+15	2	qqKYgRFk8x4	1705.75	13	https://www.youtube.com/watch?v=qqKYgRFk8x4&start=1705&end=1718   	Solveig's Song
+15	3	qqKYgRFk8x4	276	16	https://www.youtube.com/watch?v=qqKYgRFk8x4&start=276&end=292     	Death of Åse
+15	4	qqKYgRFk8x4	589	9	https://www.youtube.com/watch?v=qqKYgRFk8x4&start=589&end=598     	Anitra's Dance
+15	5	qqKYgRFk8x4	2.1	10	https://www.youtube.com/watch?v=qqKYgRFk8x4&start=2&end=12        	Morning Mood
+15	6	qqKYgRFk8x4	910	7	https://www.youtube.com/watch?v=qqKYgRFk8x4&start=910&end=917     	In the Hall of the Mountain King
+						
+16	1	tPXZtbHjWe0	2	9	https://www.youtube.com/watch?v=tPXZtbHjWe0&start=2&end=11        	"Salome, komm, trink Wein mit mir"
+16	2	YLwaw_MJIGk	0.5	13.5	https://www.youtube.com/watch?v=YLwaw_MJIGk&start=0&end=14        	"Du bist verflucht"
+16	3	MRYNHOiEFBs	196.7	9	https://www.youtube.com/watch?v=MRYNHOiEFBs&start=196&end=205     	"The most sickening chord in all opera"
+16	4	v42vY5geyZ8	37	13.5	https://www.youtube.com/watch?v=v42vY5geyZ8&start=37&end=50       	"Ah! Ich habe deinen Mund geküsst, Jochanaan"
+16	5	C14LfoE8G14	265	11	https://www.youtube.com/watch?v=C14LfoE8G14&start=265&end=276     	Dance of the Seven Veils
+16	6	C14LfoE8G14	502	6	https://www.youtube.com/watch?v=C14LfoE8G14&start=502&end=508     	Dance of the Seven Veils w/ Salome motif
+						
+17	1	--Itmj6SFBY	59	10	https://www.youtube.com/watch?v=--Itmj6SFBY&start=59&end=69       	Quiet City
+17	2	JBh1X7yLuJ8	106	14	https://www.youtube.com/watch?v=JBh1X7yLuJ8&start=106&end=120     	Red Pony, I Morning on the Red Ranch
+17	3	JBh1X7yLuJ8	10	14	https://www.youtube.com/watch?v=JBh1X7yLuJ8&start=10&end=24       	Red Pony, I Morning on the Red Ranch
+17	4	0dW1pFvbnNk	451	11.7	https://www.youtube.com/watch?v=0dW1pFvbnNk&start=451&end=462     	Lincoln Portrait
+17	5	fYi9Vr8bHJY	2	10.2	https://www.youtube.com/watch?v=fYi9Vr8bHJY&start=2&end=12        	Simple Gifts
+17	6	4NjssV8UuVA	22.9	10.4	https://www.youtube.com/watch?v=4NjssV8UuVA&start=22&end=33       	Fanfare for the Common Man
+						
+18	1	5XlVyXA8zNo	11	10	https://www.youtube.com/watch?v=5XlVyXA8zNo&start=11&end=21       	V: Europe, Field of Poppies
+18	2	5mH2p-iOr_Y	2	8	https://www.youtube.com/watch?v=5mH2p-iOr_Y&start=2&end=10        	II: Harvest of the Nile
+18	3	AyqTPqVRoBk	8.2	12	https://www.youtube.com/watch?v=AyqTPqVRoBk&start=8&end=20        	III: Stars
+18	4	PtK388b9drE	55	11.2	https://www.youtube.com/watch?v=PtK388b9drE&start=55&end=66       	I: Intro theme
+18	5	WQYN2P3E06s	18	12.6	https://www.youtube.com/watch?v=WQYN2P3E06s&start=18&end=30       	VI: Intro, Sogno di Volare
+18	6	IJiHDmyhE1A	21	12.4	https://www.youtube.com/watch?v=IJiHDmyhE1A&start=21&end=33       	IV: Intro, Baba Yetu
+						
+19	1	lzITOctshNQ	11.75	8.25	https://www.youtube.com/watch?v=lzITOctshNQ&start=11&end=20       	FFIX: Bran Bal, the Soulless Village
+19	2	NJhVLvQTfq0	106	8	https://www.youtube.com/watch?v=NJhVLvQTfq0&start=106&end=114     	Lightning Returns: FFXIII: Snow's Theme
+19	3	UFs3Pt0La4o	32	12	https://www.youtube.com/watch?v=UFs3Pt0La4o&start=32&end=44       	FFVIII: Love Grows
+19	4	uxroCu2FSQU	49.5	12	https://www.youtube.com/watch?v=uxroCu2FSQU&start=49&end=61       	Lightning Returns: FFXIII: Lightning's Theme, Distant Light
+19	5	x20TtbnUJ3E	19	12	https://www.youtube.com/watch?v=x20TtbnUJ3E&start=19&end=31       	FFVII: Tifa's Theme
+19	6	B_MW65XxS7s	11	5.8	https://www.youtube.com/watch?v=B_MW65XxS7s&start=11&end=16       	FFVII: One Winged Angel
+19	7	B_MW65XxS7s	80	5.8	https://www.youtube.com/watch?v=B_MW65XxS7s&start=80&end=85       	FFVII: One Winged Angel
+19	8	AgCrwvHPw-M	0.7	10.4	https://www.youtube.com/watch?v=AgCrwvHPw-M&start=0&end=11        	FFX: To Zanarkand
+						
+20	1	rSFXQ-oqvB8	2	9.3	https://www.youtube.com/watch?v=rSFXQ-oqvB8&start=2&end=11        	Werther: Act IV, "Noël! Noël! Noël!"
+20	2	HuRuL-pPyDk	0.4	8.2	https://www.youtube.com/watch?v=HuRuL-pPyDk&start=0&end=8         	El Cid Suite: Navarraise
+20	3	K4l29mMF_FA	315.25	9.7	https://www.youtube.com/watch?v=K4l29mMF_FA&start=315&end=324     	El Cid: Act III, "Pleurez mes yeux"
+20	4	4-CMHasmZiE	84.2	11.9	https://www.youtube.com/watch?v=4-CMHasmZiE&start=84&end=96       	Elégie
+20	5	MJnT53DrFoc	34	9	https://www.youtube.com/watch?v=MJnT53DrFoc&start=34&end=43       	Manon: Act II, "En fermant les yeux"
+20	6	PzKhikZ4oVE	23	9.4	https://www.youtube.com/watch?v=PzKhikZ4oVE&start=23&end=32       	Werther: "Pourquoi me Reveiller"
+20	7	NLhvMgucWns	40.7	15.2	https://www.youtube.com/watch?v=NLhvMgucWns&start=40&end=55       	Thaïs: Act II Meditation
+						
+21	1	FySi6xXkNqo	0	10.3	https://www.youtube.com/watch?v=FySi6xXkNqo&start=0&end=10        	The Truman Show: Truman Sleeps
+21	2	_4XMeY1RkWQ	142	9.2	https://www.youtube.com/watch?v=_4XMeY1RkWQ&start=142&end=151     	String Quartet No. 3, VI "Mishima"
+21	3	3y4pIYV6yh0	13.9	8.1	https://www.youtube.com/watch?v=3y4pIYV6yh0&start=13&end=22       	Etude No. 5
+21	4	6Stu7h7Qup8	744.7	10	https://www.youtube.com/watch?v=6Stu7h7Qup8&start=744&end=754     	Glassworks: Island
+21	5	8Q0G0-9E5SE	256	10	https://www.youtube.com/watch?v=8Q0G0-9E5SE&start=256&end=266     	Mad Rush
+21	6	iB0sXWwH_eA	41	9.3	https://www.youtube.com/watch?v=iB0sXWwH_eA&start=41&end=50       	Morning Passages
+						
+22	1	P2wNAWBPFiI	1301	10	https://www.youtube.com/watch?v=P2wNAWBPFiI&start=1301&end=1311   	Second movement somewhere
+22	2	P2wNAWBPFiI	1420	12.2	https://www.youtube.com/watch?v=P2wNAWBPFiI&start=1420&end=1432   	Second movement somewhere
+22	3	P2wNAWBPFiI	803	11.3	https://www.youtube.com/watch?v=P2wNAWBPFiI&start=803&end=814     	First movement somewhere
+22	4	P2wNAWBPFiI	715	15	https://www.youtube.com/watch?v=P2wNAWBPFiI&start=715&end=730     	Somewhere in the Poco Adagio
+22	5	P2wNAWBPFiI	64	10	https://www.youtube.com/watch?v=P2wNAWBPFiI&start=64&end=74       	First movement theme
+22	6	P2wNAWBPFiI	1643	9	https://www.youtube.com/watch?v=P2wNAWBPFiI&start=1643&end=1652   	Huge ass organ entrance at Maestoso
+						
+23	1	FytlbiyKXeM	109	7	https://www.youtube.com/watch?v=FytlbiyKXeM&start=109&end=116     	Fated to Love You (운명처럼 널 사랑해): Goodbye My Love
+23	2	sr3JaQ3h7YA	1	10	https://www.youtube.com/watch?v=sr3JaQ3h7YA&start=1&end=11        	I'm sorry, I love you (미안하다, 사랑한다): Snow Flower (눈의 꽃)
+23	3	VZ4xmgvf-iE	0	7	https://www.youtube.com/watch?v=VZ4xmgvf-iE&start=0&end=7         	Goblin (도깨비): Never Far Away
+23	4	SIia_g8O1Ng	61.5	8.5	https://www.youtube.com/watch?v=SIia_g8O1Ng&start=61&end=70       	Pinocchio (피노키오): Pinocchio
+23	5	vbhHQ-pDDd4	14	6.5	https://www.youtube.com/watch?v=vbhHQ-pDDd4&start=14&end=20       	Secret Garden (시크릿 가든): That Man (그 남자)
+23	6	uatNTPTwEmU	0	11.9	https://www.youtube.com/watch?v=uatNTPTwEmU&start=0&end=11        	Descendants of the Sun (태양의 후예): Everytime
+23	7	pcKR0LPwoYs	8	9.6	https://www.youtube.com/watch?v=pcKR0LPwoYs&start=8&end=17        	Goblin (도깨비): Stay With Me
+						
+24	1	1Ge9VCaoJoY	36.6	7.3	https://www.youtube.com/watch?v=1Ge9VCaoJoY&start=36&end=43       	K. 386
+24	2	zFKYy3eUcg4	75	5.35	https://www.youtube.com/watch?v=zFKYy3eUcg4&start=75&end=80       	K. 135
+24	3	wWnAD3C5Zzc	0.5	7.25	https://www.youtube.com/watch?v=wWnAD3C5Zzc&start=0&end=7         	K. 1
+24	4	Kui5OuWDy_Y	131.4	13.2	https://www.youtube.com/watch?v=Kui5OuWDy_Y&start=131&end=144     	K. 466
+24	5	wjghYFgt8Zk	55.1	7.6	https://www.youtube.com/watch?v=wjghYFgt8Zk&start=55&end=62       	K. 141
+24	6	tnWhE4kcWmc	0.6	12.4	https://www.youtube.com/watch?v=tnWhE4kcWmc&start=0&end=13        	K. 9
+24	7	fMeK9xt7VBk	14.55	8.55	https://www.youtube.com/watch?v=fMeK9xt7VBk&start=14&end=23       	K. 380
+						
+25	1	F734PyD3NAw	649.6	9.6	https://www.youtube.com/watch?v=F734PyD3NAw&start=649&end=659     	Piano Concerto, II
+25	2	ry5L3_0XVuk	1235	8.4	https://www.youtube.com/watch?v=ry5L3_0XVuk&start=1235&end=1243   	Prelude Op. 11 No. 14 ending
+25	3	JE-riazUvJE	0.6	7.8	https://www.youtube.com/watch?v=JE-riazUvJE&start=0&end=8         	Beginning of White Mass
+25	4	UIP1YoPAeyM	118	11.7	https://www.youtube.com/watch?v=UIP1YoPAeyM&start=118&end=129     	Étude Op. 42 No. 5
+25	5	NSsKJIzwapA	86.5	9.7	https://www.youtube.com/watch?v=NSsKJIzwapA&start=86&end=96       	Étude Op. 2 No. 1
+25	6	WlqGkVc29Gw	161.8	9.6	https://www.youtube.com/watch?v=WlqGkVc29Gw&start=161&end=171     	Vers la Flamme
+25	7	uz3TqZtAkeQ	0.15	11.9	https://www.youtube.com/watch?v=uz3TqZtAkeQ&start=0&end=12        	Étude Op. 8 No. 12

@@ -1,0 +1,33 @@
+Guerilla Imaginary Landscape
+Questions submitted by Chris Sims
+
+1. Name this set of pieces.
+ANSWER: _symphonies_ by Ludwig van _Beethoven_ as transcribed for piano by Franz Liszt
+
+2. Name the composer.
+ANSWER: Johannes _Brahms_
+
+3. Identify the kind of word or unit that prominently appears in the titles or subtitles of these pieces.
+ANSWER: _year_ [accept specific years, like _1917_ or _1905_ or _1812_; prompt on "numbers" or "dates"; prompt on "overture" or "symphony"]
+
+4. Name the country of origin of the composers of these pieces.
+ANSWER: _United Kingdom_ [or _UK_; or _England_; or Great _Britain_]
+
+5. Name the type of piece.
+ANSWER: _cello concerto_
+
+6. Name the opera.
+ANSWER: Die _Walküre_ [or The _Valkyrie_; prompt on "Der Ring des Nibelungen" or "The Ring of the Nibelung" or "The Ring Cycle" or "The Ring"]
+
+7. Name the composer.
+ANSWER: Claude _Debussy_
+
+8. Name the literary basis of these pieces.
+ANSWER: _Arabian Nights_ [or _One Thousand and One Nights_; or _1001_ Arabian _Nights_; prompt on "Aladdin" or "Scheherazade" or "Sinbad"]
+
+9. Name the family that these pieces were dedicated to.
+ANSWER: _Hohenzollern_ [prompt on the family of "Frederick II" or "Frederick the Great" or "Kings of Prussia"]
+
+10. Name the composer.
+ANSWER: Gustav _Mahler_
+

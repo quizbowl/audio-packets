@@ -1,0 +1,36 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	iornxDJpNj8	8	10	https://www.youtube.com/watch?v=iornxDJpNj8&start=8&end=18        	From the Steeples and the Mountains
+1	2	zPOVCquB2jM	1	10	https://www.youtube.com/watch?v=zPOVCquB2jM&start=1&end=11        	Piano Trio, mvt. 2
+1	3	R4UISshBAK4	1.1	10	https://www.youtube.com/watch?v=R4UISshBAK4&start=1&end=11        	Tone Roads No. 1
+1	4	mYmC0Z6x7KQ	1.5	8.5	https://www.youtube.com/watch?v=mYmC0Z6x7KQ&start=1&end=10        	Concord Sonata, mvt. 2
+1	5	yahZSp0dgYI	548	11	https://www.youtube.com/watch?v=yahZSp0dgYI&start=548&end=559     	Symphony No. 2, mvt. 5
+1	6	vXD4tIp59L0	93	10.5	https://www.youtube.com/watch?v=vXD4tIp59L0&start=93&end=103      	The Unanswered Question
+						
+2	1	_gXiQou1dIc	295	8	https://www.youtube.com/watch?v=_gXiQou1dIc&start=295&end=303     	The Wolf that Lives in Lindsey
+2	2	JMKWLIFNZS4	12	11	https://www.youtube.com/watch?v=JMKWLIFNZS4&start=12&end=23       	Paprika Plains
+2	3	5AfPR_B8s-A	11	10	https://www.youtube.com/watch?v=5AfPR_B8s-A&start=11&end=21       	Hejira
+2	4	RTef-VeJLY8	9	9	https://www.youtube.com/watch?v=RTef-VeJLY8&start=9&end=18        	You Turn Me On, I'm a Radio
+2	5	NhxZ8ok3Z2o	6	10	https://www.youtube.com/watch?v=NhxZ8ok3Z2o&start=6&end=16        	Big Yellow Taxi
+2	6	nAK9Pj5-QXY	20	11	https://www.youtube.com/watch?v=nAK9Pj5-QXY&start=20&end=31       	River
+						
+3	1	zf-R3FtWGnM	567	9.5	https://www.youtube.com/watch?v=zf-R3FtWGnM&start=567&end=576     	
+3	2	zf-R3FtWGnM	1508	10	https://www.youtube.com/watch?v=zf-R3FtWGnM&start=1508&end=1518   	
+3	3	zf-R3FtWGnM	341	11	https://www.youtube.com/watch?v=zf-R3FtWGnM&start=341&end=352     	
+3	4	zf-R3FtWGnM	409	10	https://www.youtube.com/watch?v=zf-R3FtWGnM&start=409&end=419     	
+3	5	zf-R3FtWGnM	1714.6	11.4	https://www.youtube.com/watch?v=zf-R3FtWGnM&start=1714&end=1726   	
+3	6	zf-R3FtWGnM	3.7	9.3	https://www.youtube.com/watch?v=zf-R3FtWGnM&start=3&end=13        	
+						
+4	1	i0dY8-lHK6c	9	10	https://www.youtube.com/watch?v=i0dY8-lHK6c&start=9&end=19        	Liebermann Op. 131 No. 1
+4	2	c6NHwiamFGc	5	10	https://www.youtube.com/watch?v=c6NHwiamFGc&start=5&end=15        	Fauré No. 3
+4	3	sUDiclB96t0	29	10.7	https://www.youtube.com/watch?v=sUDiclB96t0&start=29&end=39       	Sibelius Op. 5 No. 5
+4	4	NUOljsng5Og	1.6	9	https://www.youtube.com/watch?v=NUOljsng5Og&start=1&end=10        	Schubert Op. 142 No. 4
+4	5	KVjJRWtvGiU	1	12	https://www.youtube.com/watch?v=KVjJRWtvGiU&start=1&end=13        	Schubert Op. 142 No. 3
+4	6	CyzUc2vC4JI	3	10	https://www.youtube.com/watch?v=CyzUc2vC4JI&start=3&end=13        	Schubert Op. 90 No. 3
+4	7	75x6DncZDgI	3.5	9.9	https://www.youtube.com/watch?v=75x6DncZDgI&start=3&end=13        	Fantaisie-Impromptu
+						
+5	1	qAgHGmMGVns	8	8	https://www.youtube.com/watch?v=qAgHGmMGVns&start=8&end=16        	String Quartet No. 5, mvt. 4
+5	2	mMsMpRKOZ8Q	60	18.4	https://www.youtube.com/watch?v=mMsMpRKOZ8Q&start=60&end=78       	String Quartet No. 2, mvt. 1
+5	3	I9LvDatOFyw	39.4	10.3	https://www.youtube.com/watch?v=I9LvDatOFyw&start=39&end=49       	String Quartet No. 6, mvt. 1
+5	4	VbFwwnM8Sow	5	11.3	https://www.youtube.com/watch?v=VbFwwnM8Sow&start=5&end=16        	Octet, mvt. 2
+5	5	UcMnWBo1FTc	13	8	https://www.youtube.com/watch?v=UcMnWBo1FTc&start=13&end=21       	Octet, mvt. 4
+5	6	IPpi8X8UXBU	1.5	11	https://www.youtube.com/watch?v=IPpi8X8UXBU&start=1&end=12        	Octet, mvt. 1

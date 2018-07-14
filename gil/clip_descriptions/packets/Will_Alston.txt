@@ -1,0 +1,70 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	W8hQSMxa7gk	1625	12	https://www.youtube.com/watch?v=W8hQSMxa7gk&start=1625&end=1637   	Movement 2
+1	2	W8hQSMxa7gk	2430	10	https://www.youtube.com/watch?v=W8hQSMxa7gk&start=2430&end=2440   	Movement 3
+1	3	W8hQSMxa7gk	172	9	https://www.youtube.com/watch?v=W8hQSMxa7gk&start=172&end=181     	Movement 1
+1	4	W8hQSMxa7gk	905	10	https://www.youtube.com/watch?v=W8hQSMxa7gk&start=905&end=915     	Movement 1
+1	5	W8hQSMxa7gk	2100	13.5	https://www.youtube.com/watch?v=W8hQSMxa7gk&start=2100&end=2113   	Movement 3, opening
+1	6	W8hQSMxa7gk	1.4	12	https://www.youtube.com/watch?v=W8hQSMxa7gk&start=1&end=13        	Movement 1, opening
+						
+2	1	lkwluLsP364	1.6	12.7	https://www.youtube.com/watch?v=lkwluLsP364&start=1&end=14        	Mwandishi
+2	2	TikRSpQDr6I	1341	10	https://www.youtube.com/watch?v=TikRSpQDr6I&start=1341&end=1351   	Bubbles
+2	3	TikRSpQDr6I	1.1	9.5	https://www.youtube.com/watch?v=TikRSpQDr6I&start=1&end=10        	Hang Up Your Hang Ups
+2	4	iB2Z2DY17yQ	0.3	8	https://www.youtube.com/watch?v=iB2Z2DY17yQ&start=0&end=8         	Dolphin Dance
+2	5	8B1oIXGX0Io	0.5	10	https://www.youtube.com/watch?v=8B1oIXGX0Io&start=0&end=10        	Cantaloupe Island
+2	6	UbkqE4fpvdI	85	9.8	https://www.youtube.com/watch?v=UbkqE4fpvdI&start=85&end=94       	Chameleon
+						
+3	1	P4PI8ni5b3Q	5	15	https://www.youtube.com/watch?v=P4PI8ni5b3Q&start=5&end=20        	Gheychak (traditional instrument)
+3	2	WCpiD15zaYo	6.5	11.5	https://www.youtube.com/watch?v=WCpiD15zaYo&start=6&end=18        	Mohammad-Reza Lotfi plays kamancheh
+3	3	0OoZyzym3ps	9	12	https://www.youtube.com/watch?v=0OoZyzym3ps&start=9&end=21        	Current Iranian national anthem
+3	4	8p7KccSKDfY	832.6	12.2	https://www.youtube.com/watch?v=8p7KccSKDfY&start=832&end=844     	Shahram Nazeri (meant to put Farsi dialogue in)
+3	5	V_FQqHzcCak	55	15	https://www.youtube.com/watch?v=V_FQqHzcCak&start=55&end=70       	Hayedeh - Shabe Eshgh (w/ Farsi)
+3	6	tsBKYMSr3YI	98	10	https://www.youtube.com/watch?v=tsBKYMSr3YI&start=98&end=108      	Old Iranian national anthem (w/ Farsi)
+						
+4	1	TwfxWxz-frA	25	5	https://www.youtube.com/watch?v=TwfxWxz-frA&start=25&end=30       	Frank's Track
+4	2	GhHxrsPHHEY	148	10	https://www.youtube.com/watch?v=GhHxrsPHHEY&start=148&end=158     	Fade
+4	3	dlc_bQXbzR0	0	5	https://www.youtube.com/watch?v=dlc_bQXbzR0&start=0&end=5         	Feedback
+4	4	hrMBfNVf2-g	75	10.3	https://www.youtube.com/watch?v=hrMBfNVf2-g&start=75&end=85       	Highlight
+4	5	mT1LJFP7uJo	96	10	https://www.youtube.com/watch?v=mT1LJFP7uJo&start=96&end=106      	Part 2 (ending)
+4	6	cQG4Ro58pRw	111	11	https://www.youtube.com/watch?v=cQG4Ro58pRw&start=111&end=122     	Famous
+4	7	KE2o5AZclaQ	24	14	https://www.youtube.com/watch?v=KE2o5AZclaQ&start=24&end=38       	Ultralight Beam
+						
+5	1	9YowJ2d0tkE	7.9	10.4	https://www.youtube.com/watch?v=9YowJ2d0tkE&start=7&end=18        	Cantate Domino
+5	2	UjhYd9ztAz0	0.9	11.3	https://www.youtube.com/watch?v=UjhYd9ztAz0&start=0&end=12        	Missa Vidi Turbam Magnam
+5	3	36Y_ztEW1NE	870	10	https://www.youtube.com/watch?v=36Y_ztEW1NE&start=870&end=880     	Miserere
+5	4	36Y_ztEW1NE	800	10	https://www.youtube.com/watch?v=36Y_ztEW1NE&start=800&end=810     	Miserere
+5	5	36Y_ztEW1NE	59.4	9.6	https://www.youtube.com/watch?v=36Y_ztEW1NE&start=59&end=69       	Miserere
+5	6	36Y_ztEW1NE	0.7	19.6	https://www.youtube.com/watch?v=36Y_ztEW1NE&start=0&end=20        	Miserere
+						
+6	1	vhy-c5XMFks	13.2	7.8	https://www.youtube.com/watch?v=vhy-c5XMFks&start=13&end=21       	Vertigo (Eurovision 2007 Malta)
+6	2	ObbHRxvpLJ4	1.1	14.5	https://www.youtube.com/watch?v=ObbHRxvpLJ4&start=1&end=15        	Vertigo (film score): Scene D'Amour
+6	3	BxA5oGUPGuk	0.5	11.8	https://www.youtube.com/watch?v=BxA5oGUPGuk&start=0&end=12        	Vertigo (film score): Scotty Trails Madeline
+6	4	bVfhq1pe7nA	5	4.3	https://www.youtube.com/watch?v=bVfhq1pe7nA&start=5&end=9         	Vertigo (U2)
+6	5	bVfhq1pe7nA	27.9	11.1	https://www.youtube.com/watch?v=bVfhq1pe7nA&start=27&end=39       	Vertigo (U2)
+6	6	kC5AzFc3coo	0.4	9.6	https://www.youtube.com/watch?v=kC5AzFc3coo&start=0&end=10        	Vertigo (film score): Theme
+						
+7	1	2hYaL3mJl1E	524.6	19.1	https://www.youtube.com/watch?v=2hYaL3mJl1E&start=524&end=543     	Symphony No. 3, movement 1 (my fave part)
+7	2	qWE7_imNOzk	1614	9.3	https://www.youtube.com/watch?v=qWE7_imNOzk&start=1614&end=1623   	Symphony No. 1, movement 3 (opening)
+7	3	qWE7_imNOzk	5.1	8.4	https://www.youtube.com/watch?v=qWE7_imNOzk&start=5&end=13        	Symphony No. 1, movement 1 (opening)
+7	4	SAOf46CXaaw	66.25	11.4	https://www.youtube.com/watch?v=SAOf46CXaaw&start=66&end=77       	Symphony No. 2, movement 1 (first theme)
+7	5	FAFouzo3ZHQ	1466.9	13.4	https://www.youtube.com/watch?v=FAFouzo3ZHQ&start=1466&end=1480   	Symphony No. 5, movement 3 ("swan call")
+7	6	FXS2DabqBI8	15	15	https://www.youtube.com/watch?v=FXS2DabqBI8&start=15&end=30       	The Swan of Tuonela
+						
+8	1	7F7TVM8m95Y	4383	9	https://www.youtube.com/watch?v=7F7TVM8m95Y&start=4383&end=4392   	Et in spiritum sanctum (no lyrics)
+8	3	7F7TVM8m95Y	6362.6	9.8	https://www.youtube.com/watch?v=7F7TVM8m95Y&start=6362&end=6372   	Dona nobis pacem
+8	4	7F7TVM8m95Y	3951.1	13.8	https://www.youtube.com/watch?v=7F7TVM8m95Y&start=3951&end=3964   	Crucifixus
+8	2	7F7TVM8m95Y	43.8	14.2	https://www.youtube.com/watch?v=7F7TVM8m95Y&start=43&end=58       	Kyrie (no lyrics)
+8	5	7F7TVM8m95Y	3229	6	https://www.youtube.com/watch?v=7F7TVM8m95Y&start=3229&end=3235   	Credo
+8	6	7F7TVM8m95Y	6085	15	https://www.youtube.com/watch?v=7F7TVM8m95Y&start=6085&end=6100   	Agnus Dei
+						
+9	1	9ILKNPiFhtk	23.1	11.8	https://www.youtube.com/watch?v=9ILKNPiFhtk&start=23&end=34       	Anch'io dischiuso un giorno
+9	2	JEo2gXbJDWw	0	10	https://www.youtube.com/watch?v=JEo2gXbJDWw&start=0&end=10        	Salgo gia del trono aurato
+9	3	5UjZ5d9Q4xA	108	14.2	https://www.youtube.com/watch?v=5UjZ5d9Q4xA&start=108&end=122     	Overture
+9	4	-uo4I2gWotk	12.8	9	https://www.youtube.com/watch?v=-uo4I2gWotk&start=12&end=21       	Immenso Jehova
+9	5	XttF0vg0MGo	67	20	https://www.youtube.com/watch?v=XttF0vg0MGo&start=67&end=87       	Va, pensiero "Chorus of the Hebrew Slaves"
+						
+10	1	bkdNmuHUrd8	34	12	https://www.youtube.com/watch?v=bkdNmuHUrd8&start=34&end=46       	Lost in Las Vegas
+10	2	kmrmHEzUQRs	21	7	https://www.youtube.com/watch?v=kmrmHEzUQRs&start=21&end=28       	Nero
+10	3	d2hRTLdvdnk	252	7	https://www.youtube.com/watch?v=d2hRTLdvdnk&start=252&end=259     	To Glory
+10	4	z28lwyQjuTY	73	13	https://www.youtube.com/watch?v=z28lwyQjuTY&start=73&end=86       	Black Blade
+10	5	XYKUeZQbMF0	21	14	https://www.youtube.com/watch?v=XYKUeZQbMF0&start=21&end=35       	Heart of Courage
+10	6	ASj81daun5Q	9	11	https://www.youtube.com/watch?v=ASj81daun5Q&start=9&end=20        	Protectors of the Earth

@@ -1,0 +1,79 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	5w1Fn9_jQMk	612	11	https://www.youtube.com/watch?v=5w1Fn9_jQMk&start=612&end=623     	Trio on Popular Irish Melodies - Gigue
+1	2	5w1Fn9_jQMk	43	11	https://www.youtube.com/watch?v=5w1Fn9_jQMk&start=43&end=54       	Trio on Popular Irish Melodies - Allegro
+1	3	RcfyYfWenbs	453.3	12	https://www.youtube.com/watch?v=RcfyYfWenbs&start=453&end=465     	Mvt. 4 from Songs of Ariel
+1	4	fTrml2yKd0M	1207	10	https://www.youtube.com/watch?v=fTrml2yKd0M&start=1207&end=1217   	Mass for Double Choir (End of Sanctus)
+1	5	fTrml2yKd0M	82	12	https://www.youtube.com/watch?v=fTrml2yKd0M&start=82&end=94       	Mass for Double Choir (Kyrie)
+1	6	fTrml2yKd0M	1085	11	https://www.youtube.com/watch?v=fTrml2yKd0M&start=1085&end=1096   	Mass for Double Choir (Sanctus)
+						
+2	1	lIA8i8kOgDg	552	13	https://www.youtube.com/watch?v=lIA8i8kOgDg&start=552&end=565     	Trifono di Aphrodite
+2	2	rW_dhpxIPO0	23.6	17.2	https://www.youtube.com/watch?v=rW_dhpxIPO0&start=23&end=40       	Catulli Carmina ending Exodium
+2	3	N4z2Ey4PYT4	2393	10	https://www.youtube.com/watch?v=N4z2Ey4PYT4&start=2393&end=2403   	Carmina Burana (Amore Volat Undique)
+2	4	N4z2Ey4PYT4	344	12	https://www.youtube.com/watch?v=N4z2Ey4PYT4&start=344&end=356     	Carmina Burana (Veris Leta Facies)
+2	5	N4z2Ey4PYT4	701	7.2	https://www.youtube.com/watch?v=N4z2Ey4PYT4&start=701&end=708     	Carmina Burana (Ecce Gratum)
+2	6	N4z2Ey4PYT4	3488	7.4	https://www.youtube.com/watch?v=N4z2Ey4PYT4&start=3488&end=3495   	Carmina Burana (O fortuna)
+						
+3	1	aBFCXnaoMHs	17	11	https://www.youtube.com/watch?v=aBFCXnaoMHs&start=17&end=28       	Ave Maris Stella
+3	2	cyKIaEmIzOU	14	9	https://www.youtube.com/watch?v=cyKIaEmIzOU&start=14&end=23       	Children's song from Album for Men's Voices
+3	3	2SBap7zvkME	145	11	https://www.youtube.com/watch?v=2SBap7zvkME&start=145&end=156     	Holberg Suite (Rigaudon B Melody)
+3	4	I1Yoyz6_Los	354	10	https://www.youtube.com/watch?v=I1Yoyz6_Los&start=354&end=364     	Piano Concerto Mvt. 1 Cadenza
+3	5	YIk5oxSnrIw	3232.2	8.6	https://www.youtube.com/watch?v=YIk5oxSnrIw&start=3232&end=3240   	Death of Åse
+3	6	YIk5oxSnrIw	1497	10	https://www.youtube.com/watch?v=YIk5oxSnrIw&start=1497&end=1507   	In the Hall of the Mountain King
+						
+4	1	VUSfrgPQjRM	394	9	https://www.youtube.com/watch?v=VUSfrgPQjRM&start=394&end=403     	Mvt. 2 Mid-fugue
+4	2	VUSfrgPQjRM	1163	9	https://www.youtube.com/watch?v=VUSfrgPQjRM&start=1163&end=1172   	Mvt. 3 Laudate
+4	3	VUSfrgPQjRM	535	10	https://www.youtube.com/watch?v=VUSfrgPQjRM&start=535&end=545     	Mvt. 2 ending
+4	4	VUSfrgPQjRM	890	12	https://www.youtube.com/watch?v=VUSfrgPQjRM&start=890&end=902     	Mvt. 3 Faster section
+4	5	VUSfrgPQjRM	69	11	https://www.youtube.com/watch?v=VUSfrgPQjRM&start=69&end=80       	Mvt. 1
+4	6	VUSfrgPQjRM	1.8	9.2	https://www.youtube.com/watch?v=VUSfrgPQjRM&start=1&end=11        	Mvt. 1 Beginning
+						
+5	1	XLkd1NIw78A	2709	11	https://www.youtube.com/watch?v=XLkd1NIw78A&start=2709&end=2720   	End of Die Liebe Farbe
+5	2	XLkd1NIw78A	2587	10.6	https://www.youtube.com/watch?v=XLkd1NIw78A&start=2587&end=2597   	Voice at end of Die Liebe Farbe
+5	3	XLkd1NIw78A	1494	10	https://www.youtube.com/watch?v=XLkd1NIw78A&start=1494&end=1504   	Des Müllers Blumen
+5	4	XLkd1NIw78A	2384	12	https://www.youtube.com/watch?v=XLkd1NIw78A&start=2384&end=2396   	Der Jäger
+5	5	XLkd1NIw78A	1832	13	https://www.youtube.com/watch?v=XLkd1NIw78A&start=1832&end=1845   	Mein
+5	6	XLkd1NIw78A	521	10	https://www.youtube.com/watch?v=XLkd1NIw78A&start=521&end=531     	Am Feierabend (Gives answer at end.)
+						
+6	1	pW9kRl4x_wY	11	10	https://www.youtube.com/watch?v=pW9kRl4x_wY&start=11&end=21       	Amarok
+6	2	xLvdrzFcrio	1753	12	https://www.youtube.com/watch?v=xLvdrzFcrio&start=1753&end=1765   	Ommadawn
+6	3	xLvdrzFcrio	19	10	https://www.youtube.com/watch?v=xLvdrzFcrio&start=19&end=29       	Ommadawn
+6	4	bv_4sZCLlr0	2254	12	https://www.youtube.com/watch?v=bv_4sZCLlr0&start=2254&end=2266   	Tubular Bells
+6	5	bv_4sZCLlr0	1400	11	https://www.youtube.com/watch?v=bv_4sZCLlr0&start=1400&end=1411   	Tubular Bells (Theme to end Side 1)
+6	6	bv_4sZCLlr0	0.4	8	https://www.youtube.com/watch?v=bv_4sZCLlr0&start=0&end=8         	Tubular Bells (opening used as Exorcist theme)
+						
+7	1	08qM54vEvLw	2748	8	https://www.youtube.com/watch?v=08qM54vEvLw&start=2748&end=2756   	Soprano Solo, Mvt. 5
+7	2	08qM54vEvLw	689	10	https://www.youtube.com/watch?v=08qM54vEvLw&start=689&end=699     	March, Mvt. 2
+7	3	08qM54vEvLw	2354	10	https://www.youtube.com/watch?v=08qM54vEvLw&start=2354&end=2364   	How Lovely (towards end)
+7	4	08qM54vEvLw	1595	8	https://www.youtube.com/watch?v=08qM54vEvLw&start=1595&end=1603   	Bari solo, Mvt. 3
+7	5	08qM54vEvLw	2272	12	https://www.youtube.com/watch?v=08qM54vEvLw&start=2272&end=2284   	How Lovely First Choral entrance
+7	6	08qM54vEvLw	56	11	https://www.youtube.com/watch?v=08qM54vEvLw&start=56&end=67       	Selig Sind beginning w/theme
+						
+8	1	-81AEUqHPzU	345	10	https://www.youtube.com/watch?v=-81AEUqHPzU&start=345&end=355     	Ascension
+8	2	ryMLO7Ed4d8	207	11	https://www.youtube.com/watch?v=ryMLO7Ed4d8&start=207&end=218     	Kulu se Mama
+8	3	hSViN6lwGKU	69	10	https://www.youtube.com/watch?v=hSViN6lwGKU&start=69&end=79       	Africa/Brass - "India"
+8	4	M1vQ5KjLDZ4	41	10.3	https://www.youtube.com/watch?v=M1vQ5KjLDZ4&start=41&end=51       	Blue Train
+8	5	ll3CMgiUPuU	9	9	https://www.youtube.com/watch?v=ll3CMgiUPuU&start=9&end=18        	Love Supreme
+8	6	xr0Tfng9SP0	0	10	https://www.youtube.com/watch?v=xr0Tfng9SP0&start=0&end=10        	Giant Steps
+						
+9	1	GjNesTvOz84	3	11	https://www.youtube.com/watch?v=GjNesTvOz84&start=3&end=14        	Symphony in D
+9	2	MpMBLfkLmAQ	23	9	https://www.youtube.com/watch?v=MpMBLfkLmAQ&start=23&end=32       	German Military March
+9	3	hT5ixuzrX7E	2246	10	https://www.youtube.com/watch?v=hT5ixuzrX7E&start=2246&end=2256   	Concerto #3
+9	4	BzwKH286Ghw	622	10.5	https://www.youtube.com/watch?v=BzwKH286Ghw&start=622&end=632     	Concerto #4 Long flute solo
+9	5	hlxZlfe_OQ8	294	8	https://www.youtube.com/watch?v=hlxZlfe_OQ8&start=294&end=302     	Flute Quartet
+9	6	PcTVkOzrzQs	12	15	https://www.youtube.com/watch?v=PcTVkOzrzQs&start=12&end=27       	Theme for Bach's Musical Offering
+						
+10	1	VGi0IsYy7x0	459	7.3	https://www.youtube.com/watch?v=VGi0IsYy7x0&start=459&end=466     	Chansons gaillardes
+10	2	OGuaDWf1Ad0	415	11	https://www.youtube.com/watch?v=OGuaDWf1Ad0&start=415&end=426     	Chansons françaises 
+10	3	wt8SvRBpP2U	235	9.3	https://www.youtube.com/watch?v=wt8SvRBpP2U&start=235&end=244     	Stabat Mater
+10	4	h910zn0gtjc	39	10	https://www.youtube.com/watch?v=h910zn0gtjc&start=39&end=49       	Les Biches
+10	5	wiuFDCkFXGI	137.4	14.4	https://www.youtube.com/watch?v=wiuFDCkFXGI&start=137&end=151     	Dialogue of the Carmelites: Salve Regina (guillotine)
+10	6	ReqsEqKtyyA	25.2	10.1	https://www.youtube.com/watch?v=ReqsEqKtyyA&start=25&end=35       	Gloria
+						
+11	1	WK2Bmd78JxE	547	11	https://www.youtube.com/watch?v=WK2Bmd78JxE&start=547&end=558     	Ross Edwards - The Heart of Night
+11	2	Ywy0Gz8DXV4	0.5	12.2	https://www.youtube.com/watch?v=Ywy0Gz8DXV4&start=0&end=12        	John Carmichael - Concierto folklorico (Spain troll)
+11	3	g0MhMmO9jvw	97	10	https://www.youtube.com/watch?v=g0MhMmO9jvw&start=97&end=107      	Peter Sculthorpe - Earth Cry
+11	4	F89fz09pbHs	505	5.2	https://www.youtube.com/watch?v=F89fz09pbHs&start=505&end=510     	Carl Vine - Piano Sonata, Mvt. II
+11	5	F89fz09pbHs	25	5	https://www.youtube.com/watch?v=F89fz09pbHs&start=25&end=30       	Carl Vine - Piano Sonata, Mvt. II
+11	6	K1FDk8__Nv4	654	7.4	https://www.youtube.com/watch?v=K1FDk8__Nv4&start=654&end=661     	Percy Grainger - Lincolnshire Posy
+11	7	lxnb1A8ds0A	172	10	https://www.youtube.com/watch?v=lxnb1A8ds0A&start=172&end=182     	Percy Grainger - Irish Tune from County Derry
+11	8	oHwXkJbTuAY	1.1	4.7	https://www.youtube.com/watch?v=oHwXkJbTuAY&start=1&end=5         	Percy Grainger - Country Gardens

@@ -1,0 +1,39 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	4KLFH1YlAeI	1	7.9	https://www.youtube.com/watch?v=4KLFH1YlAeI&start=1&end=8         	Goldmark, mvt. 1
+1	2	DK3jRo6aTbQ	1248	10.4	https://www.youtube.com/watch?v=DK3jRo6aTbQ&start=1248&end=1258   	Butterfly Lovers
+1	3	A0yGO4EJGx0	73	11.2	https://www.youtube.com/watch?v=A0yGO4EJGx0&start=73&end=84       	Wieniawski No. 2, mvt. 1
+1	4	dzm1yUjaTz4	399	11.6	https://www.youtube.com/watch?v=dzm1yUjaTz4&start=399&end=410     	Saint-Saëns No. 3, mvt. 3
+1	5	ho3dD6Th64Q	227.7	10.2	https://www.youtube.com/watch?v=ho3dD6Th64Q&start=227&end=237     	Bruch No. 1, mvt. 3
+1	6	7RlWpa8Ggx4	7.3	10	https://www.youtube.com/watch?v=7RlWpa8Ggx4&start=7&end=17        	Sibelius, mvt. 1
+						
+2	1	rm-Y7hg6sOw	2	10.3	https://www.youtube.com/watch?v=rm-Y7hg6sOw&start=2&end=12        	Vaughan Williams: Romance for Harmonica, Strings, and Piano
+2	2	7kjvB1lzZyk	251.75	8.2	https://www.youtube.com/watch?v=7kjvB1lzZyk&start=251&end=259     	Finzi: Romance in E-flat major
+2	3	7kjvB1lzZyk	294.2	10.4	https://www.youtube.com/watch?v=7kjvB1lzZyk&start=294&end=304     	Finzi: Romance in E-flat major
+2	4	d2bdn2RIsVY	9.8	7.4	https://www.youtube.com/watch?v=d2bdn2RIsVY&start=9&end=17        	Schumann: Three Romances for Oboe: II. Einfach, innig
+2	5	qC0QKNav4OA	146.3	7.3	https://www.youtube.com/watch?v=qC0QKNav4OA&start=146&end=153     	Sarasate: Romanza Andaluza
+2	6	XZTeavJ9frA	108	12.5	https://www.youtube.com/watch?v=XZTeavJ9frA&start=108&end=120     	Dvořák: Romance in F minor
+2	7	GQC9UTvoVpU	1.4	8.8	https://www.youtube.com/watch?v=GQC9UTvoVpU&start=1&end=10        	Beethoven: Romance No. 2 in F major
+						
+3	1	_krJMxZfZcQ	825.15	15.2	https://www.youtube.com/watch?v=_krJMxZfZcQ&start=825&end=840     	Symphony No. 1, mvt. 2
+3	2	eDu5EvrWpss	690	9.8	https://www.youtube.com/watch?v=eDu5EvrWpss&start=690&end=699     	Romeo and Juliet Fantasy Overture (1st version)
+3	3	eDu5EvrWpss	761.6	10.2	https://www.youtube.com/watch?v=eDu5EvrWpss&start=761&end=771     	Romeo and Juliet Fantasy Overture (1st version) – Friar Laurence theme
+3	4	xfJMXUg2WI0	3.6	6.5	https://www.youtube.com/watch?v=xfJMXUg2WI0&start=3&end=10        	Souvenir de Florence
+3	5	_krJMxZfZcQ	2189.3	8	https://www.youtube.com/watch?v=_krJMxZfZcQ&start=2189&end=2197   	Symphony No. 1, mvt. 4
+3	6	01SEOm9oS-k	395.1	9.1	https://www.youtube.com/watch?v=01SEOm9oS-k&start=395&end=404     	Capriccio Italien
+3	7	hcTJIO_bprg	265.7	9.5	https://www.youtube.com/watch?v=hcTJIO_bprg&start=265&end=275     	Symphony No. 6, mvt. 1
+						
+4	1	TpZYctXCBdY	4.5	13.5	https://www.youtube.com/watch?v=TpZYctXCBdY&start=4&end=18        	Marais: La Reveuse
+4	2	4p2f3UTBcKI	290.5	8.8	https://www.youtube.com/watch?v=4p2f3UTBcKI&start=290&end=299     	Honegger: Pastorale d'été
+4	3	3EkmTRZ3v74	200.8	12	https://www.youtube.com/watch?v=3EkmTRZ3v74&start=200&end=212     	Pierné: Concertstuck for Harp and Orchestra
+4	4	mVUpKIFHqZk	144.98	6.4	https://www.youtube.com/watch?v=mVUpKIFHqZk&start=144&end=151     	Offenbach: Tales of Hoffmann: Les oiseaux dans la charmille
+4	5	amGl9Qmgu7E	176.1	7.8	https://www.youtube.com/watch?v=amGl9Qmgu7E&start=176&end=183     	Ravel: Daphnis et Chloé Suite No. 2
+4	6	vjRiLKSPbqc	41.5	10	https://www.youtube.com/watch?v=vjRiLKSPbqc&start=41&end=51       	Saint-Saëns: Bacchanale
+4	7	4K1q9Ntcr5g	30.8	8.5	https://www.youtube.com/watch?v=4K1q9Ntcr5g&start=30&end=39       	La Marseillaise
+						
+5	1	UiyFeT0Tpkk	13.5	12	https://www.youtube.com/watch?v=UiyFeT0Tpkk&start=13&end=25       	Departures (from Departures)
+5	2	c6_XPMK-jYQ	14	8.7	https://www.youtube.com/watch?v=c6_XPMK-jYQ&start=14&end=22       	Madness (from Porco Rosso)
+5	3	WDH_nJM3djc	28.6	10.4	https://www.youtube.com/watch?v=WDH_nJM3djc&start=28&end=39       	Summer (from Kikujiro)
+5	4	Yy8MEO_2AYo	25.5	14.8	https://www.youtube.com/watch?v=Yy8MEO_2AYo&start=25&end=40       	The Girl Who Fell from the Sky (from Castle in the Sky)
+5	5	E0Nl5E-cUQM	30	8.3	https://www.youtube.com/watch?v=E0Nl5E-cUQM&start=30&end=38       	The Legend of Ashitaka (from Princess Mononoke)
+5	6	HMGetv40FkI	53.3	8.6	https://www.youtube.com/watch?v=HMGetv40FkI&start=53&end=61       	Merry-Go-Round of Life (from Howl's Moving Castle)
+5	7	BEtJxfhxRh8	102.2	9.3	https://www.youtube.com/watch?v=BEtJxfhxRh8&start=102&end=111     	One Summer's Day (from Spirited Away)

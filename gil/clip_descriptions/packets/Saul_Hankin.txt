@@ -1,0 +1,34 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	YkQOjzghBfc	357	10	https://www.youtube.com/watch?v=YkQOjzghBfc&start=357&end=367     	Hovhaness: Fantasy on Japanese Woodprints (xylophone concerto)
+1	2	TGi3Mlh4esk	94.1	9	https://www.youtube.com/watch?v=TGi3Mlh4esk&start=94&end=103      	Arutiunian: Trumpet Concerto
+1	3	ejJkB9De8Ek	816	10	https://www.youtube.com/watch?v=ejJkB9De8Ek&start=816&end=826     	Khachaturian: Spartacus: Entrance of Spartacus
+1	4	LZLMKkEGFRo	377	10	https://www.youtube.com/watch?v=LZLMKkEGFRo&start=377&end=387     	Khachaturian: Spartacus: Adagio
+1	5	EB3IokHelRk	79	10	https://www.youtube.com/watch?v=EB3IokHelRk&start=79&end=89       	Khachaturian: Gayane: Adagio
+1	6	gqg3l3r_DRI	0.8	9.5	https://www.youtube.com/watch?v=gqg3l3r_DRI&start=0&end=10        	Khachaturian: Gayane: Sabre Dance
+						
+2	1	_hifk5F5uJM	81.9	10.3	https://www.youtube.com/watch?v=_hifk5F5uJM&start=81&end=92       	Suite Bergamasque: IV. Passepied
+2	2	wZIGLHae_P8	37.8	11.6	https://www.youtube.com/watch?v=wZIGLHae_P8&start=37&end=49       	Children's Corner: I. Doctor Gradus ad Parnassum
+2	3	TEdSdtztfLQ	92.25	10.7	https://www.youtube.com/watch?v=TEdSdtztfLQ&start=92&end=102      	Prelude No. 8: La fille aux cheveux de lin
+2	4	cVMGwPDP-Yk	155.03	11	https://www.youtube.com/watch?v=cVMGwPDP-Yk&start=155&end=166     	Prelude No. 10: La cathédrale engloutie
+2	5	aCLVB2tPY98	11	5	https://www.youtube.com/watch?v=aCLVB2tPY98&start=11&end=16       	Children's Corner: VI. Golliwog's Cakewalk
+2	6	FoD_AxKoJDs	109.1	5	https://www.youtube.com/watch?v=FoD_AxKoJDs&start=109&end=114     	Suite Bergamasque: III. Clair de lune
+						
+3	1	T-Oa5dazgHs	55	10	https://www.youtube.com/watch?v=T-Oa5dazgHs&start=55&end=65       	Departure of the Guests
+3	2	SR89ZbqQdfw	99.7	10	https://www.youtube.com/watch?v=SR89ZbqQdfw&start=99&end=109      	Arrival of Drosselmeyer
+3	3	k_2r6p6ZLj4	99	10	https://www.youtube.com/watch?v=k_2r6p6ZLj4&start=99&end=109      	The Battle
+3	4	gejVzWwp-T8	165	8.5	https://www.youtube.com/watch?v=gejVzWwp-T8&start=165&end=173     	Waltz of the Snowflakes
+3	5	obcBrUXgIGQ	13.4	6	https://www.youtube.com/watch?v=obcBrUXgIGQ&start=13&end=19       	Pas de deux
+3	6	k142jEajsw8	9.4	8	https://www.youtube.com/watch?v=k142jEajsw8&start=9&end=17        	Dance of the Sugar Plum Fairy
+						
+4	1	ymVZeWpmIC4	34	10	https://www.youtube.com/watch?v=ymVZeWpmIC4&start=34&end=44       	Tu, che di gel sei cinta
+4	2	tV8I9B83bDo	67.5	10.5	https://www.youtube.com/watch?v=tV8I9B83bDo&start=67&end=78       	Gelo che ti dà foco
+4	3	3jo4mFngwwg	205	11	https://www.youtube.com/watch?v=3jo4mFngwwg&start=205&end=216     	In questa reggia
+4	4	v9pusxyUU70	121	12	https://www.youtube.com/watch?v=v9pusxyUU70&start=121&end=133     	Non piangere liu
+4	5	Q_hLh4qCqpg	30	11	https://www.youtube.com/watch?v=Q_hLh4qCqpg&start=30&end=41       	Nessun dorma
+						
+5	1	4Ro8-NOiMBY	169	10	https://www.youtube.com/watch?v=4Ro8-NOiMBY&start=169&end=179     	Pick Up Sticks
+5	2	V3aqw0RY384	37	12	https://www.youtube.com/watch?v=V3aqw0RY384&start=37&end=49       	Everybody's Jumpin'
+5	3	M7FpW4dXznA	300	10	https://www.youtube.com/watch?v=M7FpW4dXznA&start=300&end=310     	Three To Get Ready
+5	4	M9mNTHaizm4	70	10	https://www.youtube.com/watch?v=M9mNTHaizm4&start=70&end=80       	Kathy's Waltz
+5	5	vKNZqM0d-xo	1.3	6	https://www.youtube.com/watch?v=vKNZqM0d-xo&start=1&end=7         	Blue Rondo à la Turk
+5	6	rqCUX3D3cnE	21.4	7	https://www.youtube.com/watch?v=rqCUX3D3cnE&start=21&end=28       	Take Five

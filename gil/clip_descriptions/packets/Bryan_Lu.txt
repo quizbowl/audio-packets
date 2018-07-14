@@ -1,0 +1,37 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	kaBnYOF384M	2447	10	https://www.youtube.com/watch?v=kaBnYOF384M&start=2447&end=2457   	Per sempre tua saro
+1	2	kaBnYOF384M	4277	11.3	https://www.youtube.com/watch?v=kaBnYOF384M&start=4277&end=4288   	Bravo!
+1	3	kaBnYOF384M	4123	12	https://www.youtube.com/watch?v=kaBnYOF384M&start=4123&end=4135   	Se il viso e pallido
+1	4	kaBnYOF384M	393.4	12.6	https://www.youtube.com/watch?v=kaBnYOF384M&start=393&end=406     	Considerate
+1	5	kaBnYOF384M	4439.6	4.2	https://www.youtube.com/watch?v=kaBnYOF384M&start=4439&end=4443   	La commedia è finita
+1	6	kaBnYOF384M	2747	12	https://www.youtube.com/watch?v=kaBnYOF384M&start=2747&end=2759   	Vesti la giubba
+						
+2	1	3m3qOD-hhrQ	2218.4	9.7	https://www.youtube.com/watch?v=3m3qOD-hhrQ&start=2218&end=2228   	Vein Melter
+2	2	3m3qOD-hhrQ	1914	9.8	https://www.youtube.com/watch?v=3m3qOD-hhrQ&start=1914&end=1923   	Sly
+2	3	3m3qOD-hhrQ	1190	11	https://www.youtube.com/watch?v=3m3qOD-hhrQ&start=1190&end=1201   	Watermelon Man
+2	4	3m3qOD-hhrQ	695.2	10.8	https://www.youtube.com/watch?v=3m3qOD-hhrQ&start=695&end=706     	Chameleon
+2	5	3m3qOD-hhrQ	1035.3	9.7	https://www.youtube.com/watch?v=3m3qOD-hhrQ&start=1035&end=1045   	Watermelon Man
+2	6	3m3qOD-hhrQ	88	10	https://www.youtube.com/watch?v=3m3qOD-hhrQ&start=88&end=98       	Chameleon
+						
+3	1	YV23NagLoj4	24	10.2	https://www.youtube.com/watch?v=YV23NagLoj4&start=24&end=34       	1900's Madness #2 - The Legend of 1900
+3	2	WSkyoyyvnAY	198.4	9	https://www.youtube.com/watch?v=WSkyoyyvnAY&start=198&end=207     	Love Theme - Cinema Paradiso
+3	3	EnFc7D0ZoCc	267	9	https://www.youtube.com/watch?v=EnFc7D0ZoCc&start=267&end=276     	Main Theme - The Thing
+3	4	TbBbJTlcvUE	304	9	https://www.youtube.com/watch?v=TbBbJTlcvUE&start=304&end=313     	Nocturne - The Lady Caliph
+3	5	t07kH0VjqQk	32.7	10.5	https://www.youtube.com/watch?v=t07kH0VjqQk&start=32&end=43       	Gabriel's Oboe - The Mission
+3	6	Mcg-iCBivbw	577	10.2	https://www.youtube.com/watch?v=Mcg-iCBivbw&start=577&end=587     	Man with a Harmonica - Once Upon a Time in the West
+3	7	nOr0na6mKJQ	120.1	14.1	https://www.youtube.com/watch?v=nOr0na6mKJQ&start=120&end=134     	The Ecstasy of Gold - The Good, the Bad, and the Ugly
+3	8	h1PfrmCGFnk	135.54	6.8	https://www.youtube.com/watch?v=h1PfrmCGFnk&start=135&end=142     	Whistle - Main Theme - The Good, the Bad, and the Ugly
+						
+4	1	e92zMFbDSQ4	379	10	https://www.youtube.com/watch?v=e92zMFbDSQ4&start=379&end=389     	Cello Concerto No. 2: Mvt. 1 Drone & Flourish
+4	2	i6rU9AYzCws	528	10	https://www.youtube.com/watch?v=i6rU9AYzCws&start=528&end=538     	Cello Concerto No. 1: Mvt. 2 Clarinet & Cello
+4	3	e92zMFbDSQ4	955	8.8	https://www.youtube.com/watch?v=e92zMFbDSQ4&start=955&end=963     	Cello Concerto No. 2: Mvt. 2 Glissando
+4	4	e92zMFbDSQ4	1685	10.2	https://www.youtube.com/watch?v=e92zMFbDSQ4&start=1685&end=1695   	Cello Concerto No. 2: Mvt. 3 Clapper
+4	5	i6rU9AYzCws	93	10.1	https://www.youtube.com/watch?v=i6rU9AYzCws&start=93&end=103      	Cello Concerto No. 1: Mvt. 1 High Cello
+4	6	i6rU9AYzCws	1561	11	https://www.youtube.com/watch?v=i6rU9AYzCws&start=1561&end=1572   	Cello Concerto No. 1: Mvt. 4 Horn & Cello DSCH
+						
+5	1	FsOoAYU24kM	196	11.5	https://www.youtube.com/watch?v=FsOoAYU24kM&start=196&end=207     	Uirapuru
+5	2	PZBd2K-TfCI	676	9.3	https://www.youtube.com/watch?v=PZBd2K-TfCI&start=676&end=685     	Rudepoêma
+5	3	E_KD0Cz_oak	1335	10.2	https://www.youtube.com/watch?v=E_KD0Cz_oak&start=1335&end=1345   	Momoprecoce
+5	4	jAg8VHuXNKU	94	13	https://www.youtube.com/watch?v=jAg8VHuXNKU&start=94&end=107      	Chôros No. 1
+5	5	VZjv4l9IUuw	453	10.3	https://www.youtube.com/watch?v=VZjv4l9IUuw&start=453&end=463     	Chôros No. 10
+5	6	j3xbvTjMOkk	18	11	https://www.youtube.com/watch?v=j3xbvTjMOkk&start=18&end=29       	Bachianas Brasileiras No. 5

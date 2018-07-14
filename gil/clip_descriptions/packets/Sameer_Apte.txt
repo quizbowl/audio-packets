@@ -1,0 +1,142 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	xcWW0TBhiaE	570	10	https://www.youtube.com/watch?v=xcWW0TBhiaE&start=570&end=580     	Original version of one of the finale's variations
+1	2	B3EB5aojrAY	1458	10	https://www.youtube.com/watch?v=B3EB5aojrAY&start=1458&end=1468   	Fast section in 2nd movement
+1	3	B3EB5aojrAY	1243.3	11.8	https://www.youtube.com/watch?v=B3EB5aojrAY&start=1243&end=1255   	Opening of 2nd movement
+1	4	B3EB5aojrAY	2023	11.2	https://www.youtube.com/watch?v=B3EB5aojrAY&start=2023&end=2034   	Grand theme at end of 3rd movement
+1	5	B3EB5aojrAY	266.4	10	https://www.youtube.com/watch?v=B3EB5aojrAY&start=266&end=276     	First theme of first movement
+1	6	B3EB5aojrAY	6.03	10.4	https://www.youtube.com/watch?v=B3EB5aojrAY&start=6&end=16        	Opening
+						
+2	1	79feDtl96Wg	493.45	10.5	https://www.youtube.com/watch?v=79feDtl96Wg&start=493&end=503     	Scherzo from Overture, Scherzo, and Finale
+2	2	3Jz1A-hgLEU	4932	10.4	https://www.youtube.com/watch?v=3Jz1A-hgLEU&start=4932&end=4942   	Symphony No. 2, ending
+2	3	fSY78CUVCtE	1499.2	16.3	https://www.youtube.com/watch?v=fSY78CUVCtE&start=1499&end=1515   	Symphony No. 4, fourth movement end of introduction
+2	4	3Jz1A-hgLEU	3973	10.7	https://www.youtube.com/watch?v=3Jz1A-hgLEU&start=3973&end=3983   	Symphony No. 2, second movement
+2	5	SOhl73QnZIA	9.9	10.5	https://www.youtube.com/watch?v=SOhl73QnZIA&start=9&end=20        	Symphony No. 1, first movement
+2	6	XwMFqm9XjNc	1.8	11	https://www.youtube.com/watch?v=XwMFqm9XjNc&start=1&end=12        	Symphony No. 3, fourth movement
+						
+3	1	0yQyjcpnx3g	112	10	https://www.youtube.com/watch?v=0yQyjcpnx3g&start=112&end=122     	Night Train (inner section)
+3	2	cCQtdLW2Wow	0.2	12	https://www.youtube.com/watch?v=cCQtdLW2Wow&start=0&end=12        	Somewhere
+3	3	QpCJ3fqtsws	182	10	https://www.youtube.com/watch?v=QpCJ3fqtsws&start=182&end=192     	Hymn to Freedom (inner section)
+3	4	QpCJ3fqtsws	0.6	11.3	https://www.youtube.com/watch?v=QpCJ3fqtsws&start=0&end=11        	Hymn to Freedom
+3	5	Uu9FfXQs4-A	79	10	https://www.youtube.com/watch?v=Uu9FfXQs4-A&start=79&end=89       	C Jam Blues (inner section)
+3	6	Uu9FfXQs4-A	8	9.8	https://www.youtube.com/watch?v=Uu9FfXQs4-A&start=8&end=17        	C Jam Blues
+						
+4	1	P0S26CzbsB4	4436	9.8	https://www.youtube.com/watch?v=P0S26CzbsB4&start=4436&end=4445   	Ein ernster Tag, ein grosser Tag
+4	2	iuKbgVHhZhQ	36	10.3	https://www.youtube.com/watch?v=iuKbgVHhZhQ&start=36&end=46       	Mir ist die Ehre wiederfahren
+4	3	P0S26CzbsB4	11460	11.3	https://www.youtube.com/watch?v=P0S26CzbsB4&start=11460&end=11471 	Last love duet
+4	4	P0S26CzbsB4	3.8	10.2	https://www.youtube.com/watch?v=P0S26CzbsB4&start=3&end=14        	Opening
+4	5	EXi8U1twwrc	137	11.3	https://www.youtube.com/watch?v=EXi8U1twwrc&start=137&end=148     	Final trio
+4	6	ahoZwPouYUE	1345	10	https://www.youtube.com/watch?v=ahoZwPouYUE&start=1345&end=1355   	Quick Waltz
+						
+5	1	GMG-YY4BHJY	6	10	https://www.youtube.com/watch?v=GMG-YY4BHJY&start=6&end=16        	The Wood Nymph, opening
+5	2	6zpXPq-lHSM	3253.7	6	https://www.youtube.com/watch?v=6zpXPq-lHSM&start=3253&end=3259   	Kullervo, brass section at end of fourth movement
+5	3	_rd8xHmAl88	43.2	9.2	https://www.youtube.com/watch?v=_rd8xHmAl88&start=43&end=52       	Symphony No. 3, second movement
+5	4	qWE7_imNOzk	1279.5	8	https://www.youtube.com/watch?v=qWE7_imNOzk&start=1279&end=1287   	Symphony No. 1, scherzo
+5	5	XHHfvdAqvn8	332	10.4	https://www.youtube.com/watch?v=XHHfvdAqvn8&start=332&end=342     	Symphony No. 7, Aino theme
+5	6	wWlzbT_CvqI	0	8.2	https://www.youtube.com/watch?v=wWlzbT_CvqI&start=0&end=8         	Symphony No. 2, finale
+5	7	KdARJ7W3DIo	144	10	https://www.youtube.com/watch?v=KdARJ7W3DIo&start=144&end=154     	Symphony No. 5, swan call
+						
+6	1	e-7dacohIdg	1570.2	10.1	https://www.youtube.com/watch?v=e-7dacohIdg&start=1570&end=1580   	String Quartet No. 15, second movement
+6	2	e-7dacohIdg	2833	10.6	https://www.youtube.com/watch?v=e-7dacohIdg&start=2833&end=2843   	String Quartet No. 15, virtuosic violin part
+6	3	ovEYC-mFjvU	1496	10	https://www.youtube.com/watch?v=ovEYC-mFjvU&start=1496&end=1506   	String Quartet No. 14, last movement
+6	4	e-7dacohIdg	607.3	8	https://www.youtube.com/watch?v=e-7dacohIdg&start=607&end=615     	String Quartet No. 15, opening
+6	5	ovEYC-mFjvU	689	10.3	https://www.youtube.com/watch?v=ovEYC-mFjvU&start=689&end=699     	String Quartet No. 14, second movement
+6	6	ovEYC-mFjvU	81.1	11.7	https://www.youtube.com/watch?v=ovEYC-mFjvU&start=81&end=92       	String Quartet No. 14, opening
+						
+7	1	pG26BMDVR9E	1410.5	10	https://www.youtube.com/watch?v=pG26BMDVR9E&start=1410&end=1420   	Elegia, Midsummer Night's Dream quote
+7	2	pG26BMDVR9E	199.2	10.9	https://www.youtube.com/watch?v=pG26BMDVR9E&start=199&end=210     	Introduction, trumpet call
+7	3	pG26BMDVR9E	2008	13.7	https://www.youtube.com/watch?v=pG26BMDVR9E&start=2008&end=2021   	Finale, fugue theme
+7	4	pG26BMDVR9E	762.05	10.9	https://www.youtube.com/watch?v=pG26BMDVR9E&start=762&end=772     	Giuoco delle coppie, trumpet variation
+7	5	pG26BMDVR9E	1627.6	15	https://www.youtube.com/watch?v=pG26BMDVR9E&start=1627&end=1642   	Intermezzo interrotto, Lehár mockery
+7	6	pG26BMDVR9E	1766	9.4	https://www.youtube.com/watch?v=pG26BMDVR9E&start=1766&end=1775   	Finale, opening
+7	6	pG26BMDVR9E	646.6	7.9	https://www.youtube.com/watch?v=pG26BMDVR9E&start=646&end=654     	Giuoco delle coppie, side drum and bassoon entrance
+						
+8	1	fjF-5AFqHgU	2207.7	10.4	https://www.youtube.com/watch?v=fjF-5AFqHgU&start=2207&end=2218   	The British Light Dragoons
+8	2	7IamwK75rKU	193	10	https://www.youtube.com/watch?v=7IamwK75rKU&start=193&end=203     	An die ferne geliebte: Wo die Berge so blau, nonmelodic part
+8	3	7IamwK75rKU	577.9	11.8	https://www.youtube.com/watch?v=7IamwK75rKU&start=577&end=589     	An die ferne geliebte: Nim sie hin denn, diese Lieder
+8	4	_lZopduJI20	979	10.3	https://www.youtube.com/watch?v=_lZopduJI20&start=979&end=989     	Choral Fantasy
+8	5	bz9JtMJm1hg	2998.4	10	https://www.youtube.com/watch?v=bz9JtMJm1hg&start=2998&end=3008   	Symphony No. 9, Seid umschlungen
+8	6	bz9JtMJm1hg	2945.3	9.5	https://www.youtube.com/watch?v=bz9JtMJm1hg&start=2945&end=2954   	Symphony No. 9, Ode to Joy
+						
+9	1	NyVrlin8Mtg	748.7	10.2	https://www.youtube.com/watch?v=NyVrlin8Mtg&start=748&end=758     	Barber: Cello Sonata, third movement opening
+9	2	GKyd_2T4jsM	1324.8	9.3	https://www.youtube.com/watch?v=GKyd_2T4jsM&start=1324&end=1334   	Shostakovich: Cello Sonata, fourth movement piano tutti
+9	3	VQV5RCgRgXc	205.3	10.7	https://www.youtube.com/watch?v=VQV5RCgRgXc&start=205&end=216     	Beethoven: Cello Sonata No. 1 in F major, first movement
+9	4	2eyhIAhU4Kw	7.3	10.8	https://www.youtube.com/watch?v=2eyhIAhU4Kw&start=7&end=18        	Debussy: Cello Sonata, first movement introduction
+9	5	-YmXptuK5mw	0.1	7.5	https://www.youtube.com/watch?v=-YmXptuK5mw&start=0&end=7         	Brahms: Cello Sonata No. 1 in E minor, third movement
+9	6	GFfGHUiuous	1.2	11.4	https://www.youtube.com/watch?v=GFfGHUiuous&start=1&end=12        	Beethoven: Cello Sonata No. 3 in A major (with cello)
+						
+10	1	XHmkl7GM_es	2296	10	https://www.youtube.com/watch?v=XHmkl7GM_es&start=2296&end=2306   	Section towards the end that sounds like Rach
+10	2	XHmkl7GM_es	1690	10	https://www.youtube.com/watch?v=XHmkl7GM_es&start=1690&end=1700   	Third movement, fast section
+10	3	XHmkl7GM_es	1140	9	https://www.youtube.com/watch?v=XHmkl7GM_es&start=1140&end=1149   	Second movement, middle section
+10	4	XHmkl7GM_es	1843.5	9.5	https://www.youtube.com/watch?v=XHmkl7GM_es&start=1843&end=1853   	Fourth movement, beginning
+10	5	XHmkl7GM_es	937.1	11.4	https://www.youtube.com/watch?v=XHmkl7GM_es&start=937&end=948     	Second movement, opening
+10	6	XHmkl7GM_es	177	12.2	https://www.youtube.com/watch?v=XHmkl7GM_es&start=177&end=189     	First movement, second theme
+						
+11	1	jJ2Y3EVnFpQ	2.6	9.6	https://www.youtube.com/watch?v=jJ2Y3EVnFpQ&start=2&end=12        	La Scandinavie, Varmelandsvisa
+11	2	SFvIyP631yE	1.2	8.8	https://www.youtube.com/watch?v=SFvIyP631yE&start=1&end=10        	The Warriors
+11	3	K1FDk8__Nv4	271.6	11.4	https://www.youtube.com/watch?v=K1FDk8__Nv4&start=271&end=283     	Lincolnshire Posy, Rufford Park Poachers
+11	4	GEg-M03tZDU	12.5	9.5	https://www.youtube.com/watch?v=GEg-M03tZDU&start=12&end=22       	In Dahomey
+11	5	Lb9_QyuBj2Q	2.8	11.2	https://www.youtube.com/watch?v=Lb9_QyuBj2Q&start=2&end=14        	Molly on the Shore
+11	6	T8cBGRiQwlU	0.5	9.5	https://www.youtube.com/watch?v=T8cBGRiQwlU&start=0&end=10        	Country Gardens
+						
+12	1	nXCKRJbEwIk	403.5	8	https://www.youtube.com/watch?v=nXCKRJbEwIk&start=403&end=411     	Piano Concerto No. 1, stride piano section
+12	2	nBdVg0BTf6M	769.4	10.2	https://www.youtube.com/watch?v=nBdVg0BTf6M&start=769&end=779     	Piano Concerto No. 2, third movement
+12	3	nXCKRJbEwIk	231.5	11.3	https://www.youtube.com/watch?v=nXCKRJbEwIk&start=231&end=242     	Piano Concerto No. 1, folk song in trumpet
+12	4	nBdVg0BTf6M	4.6	11.7	https://www.youtube.com/watch?v=nBdVg0BTf6M&start=4&end=16        	Piano Concerto No. 2, opening of 1st movement
+12	5	nBdVg0BTf6M	433.8	10.4	https://www.youtube.com/watch?v=nBdVg0BTf6M&start=433&end=444     	Piano Concerto No. 2, beginning of 2nd movement
+12	6	nBdVg0BTf6M	502	10.2	https://www.youtube.com/watch?v=nBdVg0BTf6M&start=502&end=512     	Piano Concerto No. 2, piano entrance in 2nd movement
+						
+13	1	VSTVVDdKgvY	3508	9	https://www.youtube.com/watch?v=VSTVVDdKgvY&start=3508&end=3517   	The Ways of the Force, opening
+13	2	VSTVVDdKgvY	3709	10	https://www.youtube.com/watch?v=VSTVVDdKgvY&start=3709&end=3719   	Scherzo for X Wings
+13	3	VSTVVDdKgvY	4411	10	https://www.youtube.com/watch?v=VSTVVDdKgvY&start=4411&end=4421   	Snoke theme in end credits
+13	4	VSTVVDdKgvY	4236	10	https://www.youtube.com/watch?v=VSTVVDdKgvY&start=4236&end=4246   	Jedi Steps
+13	5	VSTVVDdKgvY	2852	10	https://www.youtube.com/watch?v=VSTVVDdKgvY&start=2852&end=2862   	March of the Resistance
+13	6	VSTVVDdKgvY	1074.2	10	https://www.youtube.com/watch?v=VSTVVDdKgvY&start=1074&end=1084   	Rey's Theme
+						
+14	1	gKQH7NzPtxs	664	10	https://www.youtube.com/watch?v=gKQH7NzPtxs&start=664&end=674     	Berlioz: Lélio finale (obviously not the "Miranda" part)
+14	2	QK3Yovgf0OE	2	11	https://www.youtube.com/watch?v=QK3Yovgf0OE&start=2&end=13        	Sibelius
+14	3	KyID7dxY4qo	1354	12	https://www.youtube.com/watch?v=KyID7dxY4qo&start=1354&end=1366   	Tchaikovsky
+14	4	gKQH7NzPtxs	4.3	10.5	https://www.youtube.com/watch?v=gKQH7NzPtxs&start=4&end=14        	Berlioz: Lélio "Miranda, Miranda"
+14	5	hl_6lAvMsKE	1456	14.3	https://www.youtube.com/watch?v=hl_6lAvMsKE&start=1456&end=1470   	Beethoven 1st movement Largo and Allegro
+14	6	hl_6lAvMsKE	2408.5	10.9	https://www.youtube.com/watch?v=hl_6lAvMsKE&start=2408&end=2419   	Beethoven 2nd movement
+						
+15	1	7J5HFJPPHfE	21.65	10.3	https://www.youtube.com/watch?v=7J5HFJPPHfE&start=21&end=31       	Es ist ein Ros entsprungen
+15	2	LEx8haeIpQo	240	10	https://www.youtube.com/watch?v=LEx8haeIpQo&start=240&end=250     	In dulce jubilo
+15	3	LEx8haeIpQo	1.6	9.4	https://www.youtube.com/watch?v=LEx8haeIpQo&start=1&end=11        	In dulce jubilo
+15	4	H3U5aYluCVk	524.5	9.5	https://www.youtube.com/watch?v=H3U5aYluCVk&start=524&end=534     	Terpsichore
+15	5	H3U5aYluCVk	416.5	10	https://www.youtube.com/watch?v=H3U5aYluCVk&start=416&end=426     	Terpsichore
+15	6	H3U5aYluCVk	3	10.4	https://www.youtube.com/watch?v=H3U5aYluCVk&start=3&end=13        	Terpsichore
+						
+16	1	JHHqbtU7boU	1816	11	https://www.youtube.com/watch?v=JHHqbtU7boU&start=1816&end=1827   	Calm before the storm
+16	2	JHHqbtU7boU	429	10	https://www.youtube.com/watch?v=JHHqbtU7boU&start=429&end=439     	In the forest
+16	3	JHHqbtU7boU	1638	11.7	https://www.youtube.com/watch?v=JHHqbtU7boU&start=1638&end=1649   	Vision
+16	4	JHHqbtU7boU	207	14.6	https://www.youtube.com/watch?v=JHHqbtU7boU&start=207&end=221     	Sunrise
+16	5	JHHqbtU7boU	2345	14	https://www.youtube.com/watch?v=JHHqbtU7boU&start=2345&end=2359   	Storm, with wind machine
+16	6	JHHqbtU7boU	0.9	11	https://www.youtube.com/watch?v=JHHqbtU7boU&start=0&end=11        	Night, beginning
+						
+17	1	BxqubCY7msc	248.1	10	https://www.youtube.com/watch?v=BxqubCY7msc&start=248&end=258     	Dante Symphony, chorale at end
+17	2	EBITTCjsFY4	2.6	9.4	https://www.youtube.com/watch?v=EBITTCjsFY4&start=2&end=12        	Dante Symphony, beginning
+17	3	3ZUQ7yZTFco	1486.25	12.1	https://www.youtube.com/watch?v=3ZUQ7yZTFco&start=1486&end=1498   	Faust, heroic theme
+17	4	3ZUQ7yZTFco	4067	9	https://www.youtube.com/watch?v=3ZUQ7yZTFco&start=4067&end=4076   	Faust, chorus mysticus
+17	5	5j5zY-h7gOg	228	11.3	https://www.youtube.com/watch?v=5j5zY-h7gOg&start=228&end=239     	Les préludes, cello soli
+17	6	5j5zY-h7gOg	126	12.4	https://www.youtube.com/watch?v=5j5zY-h7gOg&start=126&end=138     	Les préludes, brass declamation
+						
+18	1	P2d3_p9yvhc	15.85	12.3	https://www.youtube.com/watch?v=P2d3_p9yvhc&start=15&end=28       	In the Mists, first movement
+18	2	WHEk9Iemd5s	508.95	10.9	https://www.youtube.com/watch?v=WHEk9Iemd5s&start=508&end=519     	On an Overgrown Path, The Madonna of Frydek
+18	3	WHEk9Iemd5s	1552.55	10	https://www.youtube.com/watch?v=WHEk9Iemd5s&start=1552&end=1562   	On an Overgrown Path, The Barn Owl Has Not Flown Away
+18	4	gbncXDimwbQ	183	10	https://www.youtube.com/watch?v=gbncXDimwbQ&start=183&end=193     	Sinfonietta, scherzo
+18	5	pts9N1iQ_cg	413.2	10.95	https://www.youtube.com/watch?v=pts9N1iQ_cg&start=413&end=424     	Taras Bulba, bass trombone solo
+18	6	gbncXDimwbQ	0.9	14	https://www.youtube.com/watch?v=gbncXDimwbQ&start=0&end=14        	Sinfonietta, first movement
+						
+19	1	PnP6-R4YYXQ	56.9	10	https://www.youtube.com/watch?v=PnP6-R4YYXQ&start=56&end=66       	Zemlinsky: Der Seejungfrau
+19	2	JJQpdoOm604	2306.2	13	https://www.youtube.com/watch?v=JJQpdoOm604&start=2306&end=2319   	Gulda: Concerto for Myself, end
+19	3	V8-ZOFCKZXA	79	10	https://www.youtube.com/watch?v=V8-ZOFCKZXA&start=79&end=89       	Webern: Im Sommerwind
+19	4	LFIwE0c-BOA	7	10	https://www.youtube.com/watch?v=LFIwE0c-BOA&start=7&end=17        	Schoenberg: Gurrelieder, end
+19	5	gd0dMs0MTg8	12.2	10.2	https://www.youtube.com/watch?v=gd0dMs0MTg8&start=12&end=22       	Berg: Violin Concerto
+19	6	yhT6afzke-c	23.3	11.8	https://www.youtube.com/watch?v=yhT6afzke-c&start=23&end=35       	Schoenberg: Verklarte Nacht
+						
+20	1	NOlT19KAX9U	0.9	10	https://www.youtube.com/watch?v=NOlT19KAX9U&start=0&end=10        	La pentola magica, opening
+20	2	nt11Y1z6ZiQ	452.8	9.3	https://www.youtube.com/watch?v=nt11Y1z6ZiQ&start=452&end=462     	Suite No. 2, campanae Parisienes
+20	3	nt11Y1z6ZiQ	995.9	10	https://www.youtube.com/watch?v=nt11Y1z6ZiQ&start=995&end=1005    	Suite No. 2, bergamasca
+20	4	r07dEOMMOd8	680.94	9.1	https://www.youtube.com/watch?v=r07dEOMMOd8&start=680&end=690     	Fountains of Rome, last movement
+20	5	r07dEOMMOd8	496.1	10.3	https://www.youtube.com/watch?v=r07dEOMMOd8&start=496&end=506     	Fountains of Rome, Trevi
+20	6	TQwGTe_MueM	269	10.4	https://www.youtube.com/watch?v=TQwGTe_MueM&start=269&end=279     	Pines of Rome, finale

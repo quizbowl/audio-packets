@@ -1,0 +1,54 @@
+Guerilla Imaginary Landscape
+Questions submitted by Natan Holtzman
+
+1. Name the nationality of the composers of these pieces. The composer of the first clue became an American citizen.
+ANSWER: _Czech_ [or _Czechoslovak_; or _Bohemian_; or _Moravian_]
+
+2. Name the type of piece.
+ANSWER: _violin concerto_ [prompt on "concerto"]
+
+3. Name the producer.
+ANSWER: Calvin _Harris_
+
+4. Name the composer.
+ANSWER: Pierre _Boulez_
+
+5. Name the composer.
+ANSWER: Aaron _Copland_
+
+6. Name the opera.
+ANSWER: _Nixon in China_ (by John Adams)
+
+7. Name the composer.
+ANSWER: Felix _Mendelssohn_
+
+8. Name the composer.
+ANSWER: _R_ichard _Strauss_
+
+9. Name the singer.
+ANSWER: Otis _Redding_
+
+10. Name the country. The answer is not Ukraine.
+ANSWER: _Japan_
+
+11. Name the composer.
+ANSWER: Gabriel _Fauré_
+
+12. Name the composer of these original pieces and transcriptions.
+ANSWER: Leopold _Godowsky_
+
+13. Name the genre or type of song or poem. Please give the specific one-word name.
+ANSWER: _ghazal_ [prompt on "ode"]
+
+14. Name the opera.
+ANSWER: _Serse_ [or _Xerxes_] (by G. F. Handel)
+
+15. Name the TV show.
+ANSWER: The _O.C._ [prompt on "Saturday Night Live" or "SNL" by asking "what show it was parodying with that song?"]
+
+16. Name the piece.
+ANSWER: _String Quartet_ No. _13_ in B-flat major by Ludwig van _Beethoven_ [or _Beet_hoven _SQ 13_; or _Beethoven Op. 130_; prompt on "Grosse Fugue"; prompt on "String Quartet in B-flat major by Beethoven"; prompt on partial answer]
+
+17. Name the composer.
+ANSWER: Sergei _Rachmaninoff_ [or _Rach_]
+
