@@ -89,6 +89,6 @@ Install something like [Cable](https://www.vb-audio.com/Cable/) to use virtual d
 
 ### Discord settings
 
-Your Discord voice settings should look similar to the following image. Make sure to turn off echo, silence, and noise detection (as these features are intended for conversational speech). Change the bitrate of the Discord voice channel to 96 kbps.
+Your Discord voice settings should look similar to the following image. Disable echo, silence, and noise detection (as these features are intended for conversational speech). Change the bitrate of the Discord voice channel to 96 kbps.
 
-![](discord-settings.png)
+<img src="discord-settings.png" width="614" />
