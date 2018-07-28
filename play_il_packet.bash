@@ -26,10 +26,10 @@ SAYANSWER=""
 # and Built-in Microphone if needed.
 # This should be set to the ID of the Multi-Audio Output,
 # which splits into Soundflower (2ch) and to Default Output.
-OUTPUTDEVICE=40
+OUTPUTDEVICE=41
 
 # Skip questions whose filename contains the string "Hard"
-SKIPHARD=1
+SKIPHARD=""
 
 SAYOD=""
 MPLAYEROD=""
@@ -45,7 +45,7 @@ function echosay {
 	sleep $2
 }
 function mplay {
-	eval mplayer $MPLAYEROD -msglevel all=0:statusline=9 $1 2>/dev/null
+	eval "mplayer $MPLAYEROD -msglevel all=0:statusline=9 \"$1\" 2>/dev/null"
 }
 
 dir=${1%/}
@@ -77,7 +77,7 @@ for file in $dir/*.mp3; do
 		echosay "${questions[index]}"      1
 		echo ${answers[index]} | sed "s/_\([^_]*\)_/${BU}\1${REG}/g"
 		echo
-		mplay $file
+		mplay "$file"
 		FOO=$?
 		echo "${JUSTBOLD}Audio finished.                         ${REG}"
 		echo
@@ -95,6 +95,8 @@ for file in $dir/*.mp3; do
 		if [ $ENTER ]; then
 			read -p $'Press enter to continue\n'
 		fi
+
+		# replay?
 
 		if [ $SAYANSWER ]; then
 			saidanswer=`echo ${answers[index]} | sed "s/_\([^_]*\)_/[[emph 100]]\1/g"`
