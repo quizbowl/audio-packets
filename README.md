@@ -63,3 +63,32 @@ The script has the following requirements:
 
 * `say`: text-to-speech Mac built-in, for speaking the question prompts and answers
 * `mplayer`: open-source media player, for playing the audio files
+
+---
+
+## How to play audio over Discord
+
+### Gist of these instructions
+
+Your computer can have multiple “audio devices,” such as a microphone, a speaker, or a virtual audio device that you might need to create anew.
+
+* Change the _output_ audio device in your _media player_ from “speaker” to the virtual device.
+  * If you also want to hear your media player’s audio through your speakers/headphones, you will need to create a “multi-output device” that outputs simultaneously to _both_ “speaker” (or default output) _and_ the virtual device. Then change the output audio device in your media player to this new multi-output device.
+* Change the _input_ audio device in your _Discord voice settings_ from “microphone” to the virtual device.
+  * If you also want to talk into your microphone while playing music, you will need to combine “microphone” and the virtual device by doing something more complicated.
+
+Search `how to play music through mic` on Google for more information on this topic.
+
+### Mac
+
+Install [Soundflower](https://rogueamoeba.com/freebies/soundflower/) (a Mac extension for interapplication audio routing) and use `Soundflower (2ch)` as the virtual device. Change the media player output to `Soundflower (2ch)` and the Discord input to `Soundflower (2ch)`.
+
+### Windows
+
+Install something like [Cable](https://www.vb-audio.com/Cable/) to use virtual devices.
+
+### Discord settings
+
+Your Discord voice settings should look similar to the following image. Make sure to turn off echo, silence, and noise detection (as these features are intended for conversational speech). Change the bitrate of the Discord voice channel to 96 kbps.
+
+![](discord-settings.png)
