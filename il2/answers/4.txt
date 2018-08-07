@@ -17,7 +17,7 @@ ANSWER: Alexander Scriabin
 5. Name the composer.
 ANSWER: Francois Couperin
 
-6. Name the common setting of these pieces. By setting, we mean the type of place where all the singers are located.  
+6. Name the common setting of these pieces. By setting, we mean the type of place where all the singers are located.
 ANSWER: prisons [or jails; or chain gangs]
 
 7. Name the work.
@@ -44,7 +44,6 @@ ANSWER: Kurt Weill
 14. Name the modern-day country the composers of these pieces are from.
 ANSWER: Czech Republic
 
-
 15. Name the common occasion at which these pieces were played.
 ANSWER: weddings
 
@@ -62,5 +61,3 @@ ANSWER: Hans Zimmer
 
 20. Name the composer.
 ANSWER: Richard Strauss
-
-

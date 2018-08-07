@@ -1,58 +1,77 @@
 Imaginary Landscape No. 3 
 Round 5 
- 
+
 1. Name the composer. 
 ANSWER: Joseph Haydn
 [or Franz Joseph Haydn] 
+
 2. Name the composer. 
 ANSWER: Terry Riley
 [or Terrence Mitchell Riley] 
+
 3. Name BOTH the genre and the composer. 
 ANSWER: the string quartets of Ludwig van Beethoven
 [prompt on partial answer; prompt on fugues of Ludwig van Beethoven by asking "What genre was it originally part of?"] 
+
 4. Name BOTH the genre and the composer. 
 ANSWER: the impromptus of Franz Schubert
 [or the impromptus of Franz Peter Schubert; prompt on partial answer] 
+
 5. Name the country of origin of the composers of these works. 
 ANSWER: United Kingdom of Great Britain and Northern Ireland
 [or U.K.; or England; accept any underlined portion] 
+
 6. Name the work. 
 ANSWER: Wicked
 [or Wicked: The Untold Story of the Witches of Oz] 
+
 7. Name the composer. 
 ANSWER: Charlie Parker
 [or Charles Parker, Jr.] 
+
 8. Name the composer. 
 ANSWER: William Byrd 
+
 9. Name the work. 
 ANSWER: Symphony No. 9 by Gustav Mahler
 [prompt on partial answer] 
+
 10. Name the composer. 
 ANSWER: Ennio Morricone 
+
 11. Name the genre. 
 ANSWER: serenade 
+
 12. Name the album. 
 ANSWER: Revolver 
+
 13. Name the composer. 
 ANSWER: Antonio Vivaldi
 [or Antonio Lucio Vivaldi] 
+
 14. Name the composer. 
 ANSWER: Igor Stravinsky
 [or Igor Fyodorovich Stravinsky] 
+
 15. Name the composer. 
 ANSWER: Maurice Duruflé 
+
 16. Name the country that serves as the setting of these works. 
 ANSWER: Egypt
 [or Misr; or Masr; or Arab Republic of Egypt] 
+
 17. Name the profession depicted in these passages. 
 ANSWER: hunting
 [or obvious equivalents; generously prompt on anything about shooting a gun] 
+
 18. Name the work. 
 ANSWER: The Valkyrie
-[or Die Walküre; prompt on Ring Cycle; prompt on The R ing of the Nibelung; prompt on Der R ing des Nibelungen] 
+[or Die Walküre; prompt on Ring Cycle; prompt on The Ring of the Nibelung; prompt on Der Ring des Nibelungen] 
+
 19. Name the composer. 
 ANSWER: Giocomo Puccini
 [or Giacomo Antonio Domenico Michele Secondo Maria Puccini] 
+
 20. Name the genre. 
 ANSWER: clarinet concerto
 [prompt on partial answer] 

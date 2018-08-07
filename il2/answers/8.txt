@@ -21,8 +21,7 @@ ANSWER: Piano sonatas by Ludwig van Beethoven
 ANSWER: Emmanuel Chabrier
 
 7. Name the work.
-ANSWER: Symphony No. 4 in F Minor by Pyotr Tchaikovsky
-[prompt on partial answer]
+ANSWER: Symphony No. 4 in F Minor by Pyotr Tchaikovsky [prompt on partial answer]
 
 8. Name the work.
 ANSWER: Elijah
@@ -37,8 +36,7 @@ ANSWER: Graceland
 ANSWER: Gustav Holst
 
 12. Name the work.
-ANSWER: Peter and the Wolf
-[or Petya i volk]
+ANSWER: Peter and the Wolf [or Petya i volk]
 
 13. Name the work.
 ANSWER: Robocop

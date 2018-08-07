@@ -1,57 +1,76 @@
 Imaginary Landscape No. 3 
 Round 6 
- 
+
 1. Name the work. 
 ANSWER: Lyric Pieces
 [or Lyriske stykker] 
+
 2. Name the country depicted in these works. 
 ANSWER: Scotland
 [or Alba] 
+
 3. Name the work. 
 ANSWER: The Pajama Game 
+
 4. Name the composer. 
 ANSWER: Karl Jenkins
 [or Karl William Pamp Jenkins] 
+
 5. Name the composer. 
 ANSWER: Camille Saint-Saëns
 [or Charles-Camille Saint-Saëns] 
+
 6. Name the genre. 
 ANSWER: magnificat 
+
 7. Name the composer. 
 ANSWER: John Williams
 [or John Towner Williams] 
+
 8. Name the composer. 
 ANSWER: Robert Schumann 
+
 9. Name the album. 
 ANSWER: Saxophone Colossus 
+
 10. Name the work. 
 ANSWER: Symphony No. 1 by Johannes Brahms
 [prompt on partial answer] 
+
 11. Name the lyricist. 
 ANSWER: Woody Guthrie
 [or Woodrow Wilson Guthrie] 
+
 12. Name the work. 
 ANSWER: Piano Concerto No. 4 by Ludwig van Beethoven
 [prompt on partial answer] 
+
 13. Name the work. 
 ANSWER: Werther 
+
 14. Name the composer. 
 ANSWER: Frédéric Chopin
 [or Frédéric François Chopin; or Fryderyk Franciszek Chopin] 
+
 15. Name the composer. 
 ANSWER: Eugène Ysaÿe
 [ee-ZAH-ee] 
+
 16. Name the common period of time that appears in the titles of these works. 
 ANSWER: night
 [or Nacht; or nuit; or obvious equivalents] 
+
 17. Name the band. 
 ANSWER: Iron Maiden 
+
 18. Name the work. 
 ANSWER: Symphony No. 8 by Anton Bruckner
 [prompt on partial answer] 
+
 19. Name the composer. 
 ANSWER: Giuseppe Verdi
 [or Giuseppe Fortunino Francesco Verdi] 
+
 20. Name the work. 
 ANSWER: Don Giovanni
 [or Il dissoluto punito, ossia il D on Giovanni] 
