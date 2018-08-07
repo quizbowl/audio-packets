@@ -38,6 +38,10 @@ The original answerline documents are included, and have also been converted to 
 ### Script
 
 A bash script is included to make playing the packets easier (either by yourself, or in a group).
+It merely reads each question prompt out loud before playing the corresponding audio file, and goes through a single directory in order.
+
+This section assumes that you already know how to use a command line interface to change the directory and run a simple program.
+It was written for my own personal use (on a Mac), so it may not work for you out of the box.
 
 To play packet 1 from Imaginary Landscape No. 1, for example:
 
