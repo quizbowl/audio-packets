@@ -70,6 +70,16 @@ The script has the following requirements:
 
 ---
 
+## How to download
+
+The options are listed with the most recommended one first.
+
+1. Use any git client (either command line or desktop) to clone the whole repository. This will keep all the packets in one place. Any updates can easily be downloaded with a simple `git pull`.
+2. Click the green `Clone or download` button above, then `Download ZIP` to download the whole repository.
+3. Using GitHub’s online interface, navigate to an audio file and click either `View Raw` or `Download`. You may need to use a browser like Firefox instead of Google Chrome. This is because GitHub intentionally serves all raw files as `plain/text`, regardless of the actual type. Firefox plays these audio files because it tries to detect the type of any file, instead of trusting what GitHub’s server says.
+
+---
+
 ## How to play audio over Discord
 
 ### Gist of these instructions
