@@ -26,6 +26,7 @@ Currently rehosted without explicit permission. Links to forum threads and sourc
 [8](https://app.box.com/s/wuhmam1jr4ayu8mkjq1g)
 * [Imaginary Landscape No. 3](http://hsquizbowl.org/forums/viewtopic.php?f=21&t=18117&p=318076#p318076) (2016)
   * Source: [All packets](https://app.box.com/s/2bjv3rmjdabi4a5whdh3g4zwmzlmvxub)
+* [Imaginary Landscape No. 4](http://hsquizbowl.org/forums/viewtopic.php?f=8&t=20394) (2018)
 * [Guerilla Imaginary Landscape](http://hsquizbowl.org/forums/viewtopic.php?f=8&t=21409) (2018)
 * [SOUNDTRACK](http://hsquizbowl.org/forums/viewtopic.php?f=19&t=20359) (2018)
   * Source: [All packets](http://trash.quizbowlpackets.com/2176/)
