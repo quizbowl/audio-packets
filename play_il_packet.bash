@@ -53,6 +53,7 @@ function mplay {
 
 dir=${1%/}
 index=0
+let "startat=$2 - 1"
 IFS=$'\n'
 questions=($(grep -E '^[0-9]+\.' answers/$dir.txt))
 # questions=($(grep -E '^(Question|TOSSUP|[0-9]+\.)' answers/$dir.txt))
@@ -72,7 +73,7 @@ echo
 
 for file in $dir/*.mp3; do
 	# skip hard
-	if [[ $SKIPHARD && $file = *"Hard"* ]]; then
+	if [[ $SKIPHARD && $file = *"Hard"* || $index -lt $startat ]]; then
 		echo "${BOLD}Skipping ${file##*/}${REG}"
 	else
 
