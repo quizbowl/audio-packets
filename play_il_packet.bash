@@ -2,23 +2,26 @@
 # $ cd il1
 # $ ../play_il_packet.bash 1
 
-# settings for manual discord
+# settings for manual discord / test / in person
 ENTER=1
 JUSTSLEEP=""
 ANSWERPLEASE=""
 SAYANSWER=""
+PRINTANSWER=1
 
-# # settings for auto discord
-# ENTER=""
-# JUSTSLEEP=1
-# ANSWERPLEASE=""
-# SAYANSWER=1
+# settings for auto discord
+ENTER=""
+JUSTSLEEP=1
+ANSWERPLEASE=""
+SAYANSWER=1
+PRINTANSWER=1
 
-# settings for test
-# ENTER=1
-# JUSTSLEEP=""
-# ANSWERPLEASE=""
-# SAYANSWER=""
+# settings for self playtest
+ENTER=1
+JUSTSLEEP=""
+ANSWERPLEASE=""
+SAYANSWER=""
+PRINTANSWER=""
 
 #OUTPUTDEVICE=""
 # Discord input device should be Loopback,
@@ -75,7 +78,12 @@ for file in $dir/*.mp3; do
 
 		echo "**${questions[index]}**" | pbcopy
 		echosay "${questions[index]}"      1
-		echo ${answers[index]} | sed "s/_\([^_]*\)_/${BU}\1${REG}/g"
+		answer=`echo ${answers[index]} | sed "s/_\([^_]*\)_/${BU}\1${REG}/g"`
+		if [ $PRINTANSWER ]; then
+			echo $answer
+		else
+			echo "<answer hidden>"
+		fi
 		echo
 		mplay "$file"
 		FOO=$?
@@ -97,6 +105,10 @@ for file in $dir/*.mp3; do
 		fi
 
 		# replay?
+
+		if [ -z $PRINTANSWER ]; then
+			echo $answer
+		fi
 
 		if [ $SAYANSWER ]; then
 			saidanswer=`echo ${answers[index]} | sed "s/_\([^_]*\)_/[[emph 100]]\1/g"`
