@@ -1,0 +1,108 @@
+Guerilla Imaginary Landscape
+Questions submitted by Muling He
+
+1. Name the piece.
+ANSWER: _Goyescas_ “Los majos enamorados” (by Enrique Granados)
+
+2. Name the composer.
+ANSWER: Sergei _Rachmaninoff_  [or _Rach_]
+
+3. Name the composer. [Warning: Loud]
+ANSWER: Aram _Khachaturian_ [or _Khach_]
+
+4. Name the objects that title these pieces.
+ANSWER: _tree_s [accept _forest_s or equivalents; accept pine _tree_s or _pine_s]
+
+5. Name the composer.
+ANSWER: Maurice _Ravel_
+
+6. Name the composer.
+ANSWER: Max _Richter_
+
+7. Name the piece.
+ANSWER: _Piano Concerto No. 1_ in G minor, Op. 25 by Felix _Mendelssohn_ [or _Mendelssohn PC 1_]
+
+8. Name the country.
+ANSWER: _Japan_
+
+9. Name the composer.
+ANSWER: César _Franck_
+
+10. Name the movie.
+ANSWER: _Amadeus_
+
+11. Name the conductor.
+ANSWER: Leonard _Bernstein_
+
+12. Name the soloist.
+ANSWER: Paco _de Lucía_ [prompt on _Paco_]
+
+13. Name the composer.
+ANSWER: Alberto _Ginastera_
+
+14. Name the genre of these pieces.
+ANSWER: _étude_ [or _study_; prompt on _Mikrokosmos_; prompt on _Bulgarian _dance_s by asking “can you be less specific?”; prompt on _pedagogical_ pieces or _exercise_s]
+
+15. Name the country.
+ANSWER: _China_ [or People’s Republic of _China_ or _PRC_; do not accept “Republic of China” or “ROC”]
+
+16. Name the activity that nicknames these pieces.
+ANSWER: _hunt_ing [or Die _Jagd_; accept _Jagd_sonate or _Jagd_kantate]
+
+17. Name the composer.
+ANSWER: Robert _Schumann_
+
+18. Name the genre of these pieces.
+ANSWER: _string octet_ [prompt on _octet_]
+
+19. Name both the composer and genre.
+ANSWER: _invention_s by Johann Sebastian _Bach_ [accept two-part _inventions_ or three-part _inventions_ or _sinfonias_ by _Bach_]
+
+20. Give the title of the collection.
+ANSWER: _Suite española_ No. 1 Op. 47 (by Isaac Albéniz) [or _Suite espagnole_;  or _Spanish Suite_; prompt on _Chants d’Espagne_, Op. 232 or _Cantos de España_ or on specific movements like _Asturias_ or _Leyenda_ by asking “What collection did the music first appear in?”]
+
+21. Name the video game.
+ANSWER: The _Witcher 3_ “Wild Hunt” [do not accept or prompt on “The Witcher”]
+
+22. Name the video game series.
+ANSWER: _Dark Souls_
+
+23. Name the original country of this music. [Warning: Loud]
+ANSWER: _Russia_ [accept _Soviet Union_ or _USSR_]
+
+24. Name the composer.
+ANSWER: Manuel Maria _Ponce_
+
+25. Name the genre of these movements.
+ANSWER: _toccata_ [prompt on _partita_ or _symphony_]
+
+26. Name the genre of these pieces.
+ANSWER: _ballade_ [prompt on _variations_]
+
+27. Name the video game series.
+ANSWER: Sid Meier’s _Civilization_ [or _Civ_]
+
+28. Name the country that inspired or that nicknames these pieces.
+ANSWER: _Italy_
+
+29. Name the composer.
+ANSWER: Louis _Spohr_
+
+30. Name the composer.
+ANSWER: Franz _Schubert_
+
+31. Name the piece.
+ANSWER: _Trio élégiaque No. 1_ in G minor by Sergei Rachmaninoff [or _Rach_maninoff Piano _Trio_ No. _1_; or _Rach_maninoff Piano _Trio_ in _G minor_; prompt on partial answers]
+
+32. Name the phenomenon depicted by these pieces.
+ANSWER: _snow_ [accept _neige_ or _Schnee_ or _Snow_drop]
+
+33. Name both the composer and genre.
+ANSWER: _prélude_s by Frédéric _Chopin_
+
+34. Name both the composer and genre.
+ANSWER: _violin concerto_s by Antonio _Vivaldi_ [or _Vivaldi VC_; prompt on partial answer; prompt on keyboard/piano _concerto_ by J. S. _Bach_ on the first clue by asking for the original work]
+
+35. Name both the composer and genre.
+ANSWER: _fantasia_s by Wolfgang Amadeus _Mozart_
+

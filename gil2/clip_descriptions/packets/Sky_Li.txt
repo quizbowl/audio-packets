@@ -1,0 +1,36 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	fc1-XscphGU	406.5	10	https://www.youtube.com/watch?v=fc1-XscphGU&start=406&end=416     	Symphony 1 Movement 2
+1	2	cCrGKQgFzDU	905	12	https://www.youtube.com/watch?v=cCrGKQgFzDU&start=905&end=917     	Symphony 4 Movement 3 Beginning Flute Solo
+1	3	F3sZQeU4O1U	216	10	https://www.youtube.com/watch?v=F3sZQeU4O1U&start=216&end=226     	Symphony 3 Movement 3
+1	4	ebK9FXU8R38	701	11	https://www.youtube.com/watch?v=ebK9FXU8R38&start=701&end=712     	Symphony 2 Movement 2
+1	5	dQxqoW52r-4	594	10	https://www.youtube.com/watch?v=dQxqoW52r-4&start=594&end=604     	Symphony 2 Movement 4 ending theme
+1	6	nkzrSZKA4cM	85	10	https://www.youtube.com/watch?v=nkzrSZKA4cM&start=85&end=95       	Symphony 5 Swan Theme
+						
+2	1	jYONTFkgXmo	610	10	https://www.youtube.com/watch?v=jYONTFkgXmo&start=610&end=620     	Variations on “Là ci darem la mano”
+2	2	1EIE78D0m1g	1337	7	https://www.youtube.com/watch?v=1EIE78D0m1g&start=1337&end=1344   	Variations on a Theme of Paganini
+2	3	q9tbCkACbGU	57	13	https://www.youtube.com/watch?v=q9tbCkACbGU&start=57&end=70       	Variations and Fugue on a Theme by Handel
+2	4	pAI4-9yc6kA	2128.75	8.25	https://www.youtube.com/watch?v=pAI4-9yc6kA&start=2128&end=2137   	Diabelli Variations
+2	5	Gv94m_S3QDo	2.25	8.75	https://www.youtube.com/watch?v=Gv94m_S3QDo&start=2&end=11        	Goldberg Variations
+2	6	G0mnPCi5lS8	152	7	https://www.youtube.com/watch?v=G0mnPCi5lS8&start=152&end=159     	Variations on “Ah, vous dirais-je maman”
+						
+3	1	BbzCuMJQTMk	0	11	https://www.youtube.com/watch?v=BbzCuMJQTMk&start=0&end=11        	Beginning of Blaník
+3	2	ILQ6Ik2sm-w	240	14	https://www.youtube.com/watch?v=ILQ6Ik2sm-w&start=240&end=254     	From Bohemia's Woods and Fields
+3	3	vAm8W3KnABs	344	10.5	https://www.youtube.com/watch?v=vAm8W3KnABs&start=344&end=354     	Šárka 
+3	4	ptrrMzmYy7E	5.5	6	https://www.youtube.com/watch?v=ptrrMzmYy7E&start=5&end=11        	Vltava - Wedding
+3	5	LUi9NeVmBsI	765	10	https://www.youtube.com/watch?v=LUi9NeVmBsI&start=765&end=775     	Vyšehrad
+3	6	BhAwqPBPIEM	5	9	https://www.youtube.com/watch?v=BhAwqPBPIEM&start=5&end=14        	Vltava River Theme
+						
+4	1	VsY6vZ8h000	111	6	https://www.youtube.com/watch?v=VsY6vZ8h000&start=111&end=117     	Liberty Fanfare
+4	2	TTIiPhMtq44	9	10	https://www.youtube.com/watch?v=TTIiPhMtq44&start=9&end=19        	For New York
+4	3	IChxOnw9-IM	11	14	https://www.youtube.com/watch?v=IChxOnw9-IM&start=11&end=25       	Horn Concerto – sounds like Sunrise, Sunset
+4	4	M2oZgotVIiQ	122.5	16	https://www.youtube.com/watch?v=M2oZgotVIiQ&start=122&end=138     	Air and Simple Gifts
+4	5	YWdOFgDQIn0	58	8	https://www.youtube.com/watch?v=YWdOFgDQIn0&start=58&end=66       	Olympic Fanfare
+4	6	xlYCxbBZUCY	0.4	13.6	https://www.youtube.com/watch?v=xlYCxbBZUCY&start=0&end=14        	Duel of the Fates
+						
+5	1	WIEq4Y6vXYE	239	12	https://www.youtube.com/watch?v=WIEq4Y6vXYE&start=239&end=251     	Rondo in G
+5	2	crYyypsMH6U	0	9	https://www.youtube.com/watch?v=crYyypsMH6U&start=0&end=9         	Rondo for Piano and Orchestra
+5	3	feIQ5_69aLI	80.5	10.5	https://www.youtube.com/watch?v=feIQ5_69aLI&start=80&end=91       	Rage over a Lost Penny
+5	4	-hde6-oAorQ	0	11	https://www.youtube.com/watch?v=-hde6-oAorQ&start=0&end=11        	Rondo in C
+5	5	feIQ5_69aLI	0	10	https://www.youtube.com/watch?v=feIQ5_69aLI&start=0&end=10        	Rage over a Lost Penny
+5	6	bh1fabHCN5g	16.5	9	https://www.youtube.com/watch?v=bh1fabHCN5g&start=16&end=25       	Rondo alla Turca
+						

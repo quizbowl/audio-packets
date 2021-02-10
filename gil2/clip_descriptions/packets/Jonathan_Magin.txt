@@ -1,0 +1,145 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	oR7KOncoYOc	4.5	9	https://www.youtube.com/watch?v=oR7KOncoYOc&start=4&end=13        	Rzewski: Les Moutons de Panurge
+1	2	eswKJ_EOdf8	105	12.4	https://www.youtube.com/watch?v=eswKJ_EOdf8&start=105&end=117     	Michael Nyman: “Chasing Sheep is Best Left to Shepherds”
+1	3	ag8Yqvs8h54	52.5	10.5	https://www.youtube.com/watch?v=ag8Yqvs8h54&start=52&end=63       	“Click Go the Shears,” traditional Australian bush song
+1	4	g799LFGqiv8	90.5	9	https://www.youtube.com/watch?v=g799LFGqiv8&start=90&end=99       	Handel: Messiah: “All We Like Sheep”
+1	5	QupxwtOmvp8	40	13	https://www.youtube.com/watch?v=QupxwtOmvp8&start=40&end=53       	Richard Strauss: Don Quixote: Variation II. The battle with the sheep
+1	6	g799LFGqiv8	38.5	10.5	https://www.youtube.com/watch?v=g799LFGqiv8&start=38&end=49       	Handel: Messiah: “All We Like Sheep”
+1	7	TYjqnlc7MRw	9.5	10	https://www.youtube.com/watch?v=TYjqnlc7MRw&start=9&end=19        	Bach: “Sheep May Safely Graze”
+						
+2	1	Lsqv-E9Vmyg	69	12.75	https://www.youtube.com/watch?v=Lsqv-E9Vmyg&start=69&end=81       	Chico Marx playing “All I Do is Dream of You”
+2	2	MfyzjhimSI8	101	11.6	https://www.youtube.com/watch?v=MfyzjhimSI8&start=101&end=112     	Allan Jones singing “Alone”
+2	3	W9Wt5gl6W9w	38	10	https://www.youtube.com/watch?v=W9Wt5gl6W9w&start=38&end=48       	Allan Jones singing “Cosi, Cosa”
+2	4	e1djDThK8e4	168	13	https://www.youtube.com/watch?v=e1djDThK8e4&start=168&end=181     	Chico and Harpo replace the sheet music to Il Trovatore with “Take Me Out to the Ball Game”
+2	5	PFu0KyrNAAA	175	14.3	https://www.youtube.com/watch?v=PFu0KyrNAAA&start=175&end=189     	Part of the famous crowded stateroom scene
+2	6	G_Sy6oiJbEk	249.5	8.3	https://www.youtube.com/watch?v=G_Sy6oiJbEk&start=249&end=257     	The “sanity clause” joke from the contract scene
+						
+3	1	gEQM7Dni_mY	20.5	13.5	https://www.youtube.com/watch?v=gEQM7Dni_mY&start=20&end=34       	Selim Palmgren: “Bird Song” prelude
+3	2	9MJUAzEo3UI	26	15	https://www.youtube.com/watch?v=9MJUAzEo3UI&start=26&end=41       	Kabalevsky: Op. 38 No. 9
+3	3	cV-e59MaVlI	45	9	https://www.youtube.com/watch?v=cV-e59MaVlI&start=45&end=54       	Messiaen: Prelude No. 1 “La colombe” (“The Dove”)
+3	4	XYst93FCuJg	23.5	9.5	https://www.youtube.com/watch?v=XYst93FCuJg&start=23&end=33       	Gershwin: Prelude No. 2 “Blue Lullaby”
+3	5	JcFHuUJE0mU	0.5	10.5	https://www.youtube.com/watch?v=JcFHuUJE0mU&start=0&end=11        	Bach: Well-Tempered Clavier Book 1: Prelude No. 2 in C minor
+3	6	6OFHXmiZP38	84.4	10.5	https://www.youtube.com/watch?v=6OFHXmiZP38&start=84&end=94       	Chopin: Raindrop Prelude
+						
+4	1	DHpmpGnBDIA	0.4	10.7	https://www.youtube.com/watch?v=DHpmpGnBDIA&start=0&end=11        	Traditional Mapuche music
+4	2	zxXwi2b35uM	77.5	16.3	https://www.youtube.com/watch?v=zxXwi2b35uM&start=77&end=93       	“Chile lindo” by Los Huasos Quincheros
+4	3	Xz6PJTGA-i8	0.8	14.8	https://www.youtube.com/watch?v=Xz6PJTGA-i8&start=0&end=15        	La Concentida, traditional cueca
+4	4	w67-hlaUSIs	37.5	11	https://www.youtube.com/watch?v=w67-hlaUSIs&start=37&end=48       	Violet Parra: “Gracias a la vida”
+4	5	GRmre8ggkcY	60.4	10.8	https://www.youtube.com/watch?v=GRmre8ggkcY&start=60&end=71       	Victor Jara: “Te recuerdo Amanda”
+4	6	7F_9FEx7ymg	71.4	14	https://www.youtube.com/watch?v=7F_9FEx7ymg&start=71&end=85       	The people united will never be defeated! (a cover I like by Inti Illimati)
+						
+5	1	3UmcLNn_iX0	149	10.5	https://www.youtube.com/watch?v=3UmcLNn_iX0&start=149&end=159     	Fourth movement
+5	2	K4XnrxNRc2Y	7.75	14.25	https://www.youtube.com/watch?v=K4XnrxNRc2Y&start=7&end=22        	Night
+5	3	sGVN6loPjSA	187	11.5	https://www.youtube.com/watch?v=sGVN6loPjSA&start=187&end=198     	Adoration of Veless and Ala
+5	4	sGVN6loPjSA	33	9.8	https://www.youtube.com/watch?v=sGVN6loPjSA&start=33&end=42       	Adoration of Veless and Ala
+5	5	Y4U7wNZu-CU	96	13.4	https://www.youtube.com/watch?v=Y4U7wNZu-CU&start=96&end=109      	Dance of the Pagan Monster
+5	6	Y4U7wNZu-CU	10	11	https://www.youtube.com/watch?v=Y4U7wNZu-CU&start=10&end=21       	Dance of the Pagan Monster
+						
+6	1	rPiad8I5hLY	19	11.3	https://www.youtube.com/watch?v=rPiad8I5hLY&start=19&end=30       	Pat Williams: “And on the Sixth Day” from Threshold
+6	2	IFvw1qw9q-A	585	12.6	https://www.youtube.com/watch?v=IFvw1qw9q-A&start=585&end=597     	Grace Williams: Fantasia on Welsh Nursery Tunes (climax of orchestra playing “Jim Cro”)
+6	3	F2eqX93umXo	22.5	13.3	https://www.youtube.com/watch?v=F2eqX93umXo&start=22&end=35       	Charles Williams: “Devil's Galop”
+6	4	mREi_Bb85Sk	72.25	12.25	https://www.youtube.com/watch?v=mREi_Bb85Sk&start=72&end=84       	Mason Williams: “Classical Gas” (brass instruments interlude)
+6	5	mREi_Bb85Sk	20	12	https://www.youtube.com/watch?v=mREi_Bb85Sk&start=20&end=32       	Mason Williams: “Classical Gas” (the pretty famous part)
+6	6	mREi_Bb85Sk	53	9	https://www.youtube.com/watch?v=mREi_Bb85Sk&start=53&end=62       	Mason Williams: “Classical Gas” (the really famous part)
+						
+7	1	i2eqBsSPM5A	83.8	12.7	https://www.youtube.com/watch?v=i2eqBsSPM5A&start=83&end=96       	Ninth variation on “La belle françoise” (K. 353)
+7	2	jWNrHB7vzH8	280	13	https://www.youtube.com/watch?v=jWNrHB7vzH8&start=280&end=293     	Third variation on a minuet by Duport (K. 573)
+7	3	tTeJbwM06c8	600	10	https://www.youtube.com/watch?v=tTeJbwM06c8&start=600&end=610     	Second to last variation on “Unser dummer Pöbel meint” by Gluck (K. 455)
+7	4	z-Uc3I9PcM4	289.3	13	https://www.youtube.com/watch?v=z-Uc3I9PcM4&start=289&end=302     	Final variation on “Salve, tu domine” (K. 398)
+7	5	G0mnPCi5lS8	245	9	https://www.youtube.com/watch?v=G0mnPCi5lS8&start=245&end=254     	Ah, vous dirais-je maman (in minor key)
+7	6	G0mnPCi5lS8	462	13.3	https://www.youtube.com/watch?v=G0mnPCi5lS8&start=462&end=475     	Ah, vous dirais-je maman (main theme)
+						
+8	1	g8UN_6AUgCw	109.5	16	https://www.youtube.com/watch?v=g8UN_6AUgCw&start=109&end=125     	“Freight Train” by Elizabeth Cotten
+8	2	-hPcO4pYxlo	96	8.5	https://www.youtube.com/watch?v=-hPcO4pYxlo&start=96&end=104      	“Freight Train Boogie” (played by Doc Watson)
+8	3	eCBdiutb-50	33	13	https://www.youtube.com/watch?v=eCBdiutb-50&start=33&end=46       	“Orange Blossom Special” (played by Lester Flatt and Earl Scruggs)
+8	4	lvGK76_hlY8	22	12.4	https://www.youtube.com/watch?v=lvGK76_hlY8&start=22&end=34       	“The Midnight Special” (by Leadbelly)
+8	5	nSrEcPdA0hE	34	14	https://www.youtube.com/watch?v=nSrEcPdA0hE&start=34&end=48       	“Wabash Cannonball” (cover by Boxcar Willie)
+8	6	FX1BPItDcDo	64	11.3	https://www.youtube.com/watch?v=FX1BPItDcDo&start=64&end=75       	“Rock Island Line” (cover by Johnny Cash)
+						
+9	1	9IHNT8sJ-VI	413	9	https://www.youtube.com/watch?v=9IHNT8sJ-VI&start=413&end=422     	Schumann: Manfred Overture
+9	2	9IHNT8sJ-VI	215	10	https://www.youtube.com/watch?v=9IHNT8sJ-VI&start=215&end=225     	Schumann: Manfred Overture
+9	3	5pqVyzza0mQ	178	11	https://www.youtube.com/watch?v=5pqVyzza0mQ&start=178&end=189     	Tchaikovsky: Manfred Symphony, third movement
+9	4	ag_wn7vXQyc	1038	17.3	https://www.youtube.com/watch?v=ag_wn7vXQyc&start=1038&end=1055   	Tchaikovsky: Manfred Symphony, final movement – entrance of the organ
+9	5	YbO9tqj2Xg4	203.5	17.5	https://www.youtube.com/watch?v=YbO9tqj2Xg4&start=203&end=221     	Tchaikovsky: Manfred Symphony, second movement
+9	6	Ush1Owo5fgQ	3	13	https://www.youtube.com/watch?v=Ush1Owo5fgQ&start=3&end=16        	Tchaikovsky: Manfred Symphony, opening theme
+						
+10	1	nY2A2psXFB8	0.5	14.5	https://www.youtube.com/watch?v=nY2A2psXFB8&start=0&end=15        	Grainger: Lincolnshire Posy: IV. The Brisk Young Sailor
+10	2	OYk6WQJb5Ik	55.5	8.6	https://www.youtube.com/watch?v=OYk6WQJb5Ik&start=55&end=64       	Purcell: Dido and Aeneas: “Come away fellow sailors”
+10	3	wE1NyYT31Tw	154.5	12.3	https://www.youtube.com/watch?v=wE1NyYT31Tw&start=154&end=166     	Wagner: The Flying Dutchman: Sailor's chorus
+10	4	0YohoOzkRiY	89	7.5	https://www.youtube.com/watch?v=0YohoOzkRiY&start=89&end=96       	Glière: The Red Poppy: Russian Sailor's Dance
+10	5	_1njy073MYE	60	10.5	https://www.youtube.com/watch?v=_1njy073MYE&start=60&end=70       	“Jack's the lad” Sailor's hornpipe
+10	6	qGyPuey-1Jw	28.5	11.5	https://www.youtube.com/watch?v=qGyPuey-1Jw&start=28&end=40       	“The Drunken Sailor”
+						
+11	1	FEl-eQctSOg	60	12	https://www.youtube.com/watch?v=FEl-eQctSOg&start=60&end=72       	“Rumba Mama”
+11	2	XlklUPUqSm4	208	11	https://www.youtube.com/watch?v=XlklUPUqSm4&start=208&end=219     	“The Juggler”
+11	3	boNCY0Ai44M	119	16	https://www.youtube.com/watch?v=boNCY0Ai44M&start=119&end=135     	“A Remark You Made”
+11	4	2QixVEoa598	30	11	https://www.youtube.com/watch?v=2QixVEoa598&start=30&end=41       	“Palladium”
+11	5	uh54qviNvh4	0.3	11.7	https://www.youtube.com/watch?v=uh54qviNvh4&start=0&end=12        	“Teen Town” opening
+11	6	Ae0nwSv6cTU	119	10	https://www.youtube.com/watch?v=Ae0nwSv6cTU&start=119&end=129     	“Birdland” melody
+11	7	Ae0nwSv6cTU	0.8	11.2	https://www.youtube.com/watch?v=Ae0nwSv6cTU&start=0&end=12        	“Birdland” famous opening Jaco Pastorius bass line
+						
+12	1	pvrE9fd2vPI	0.8	11.95	https://www.youtube.com/watch?v=pvrE9fd2vPI&start=0&end=12        	Théophile Ysaÿe: Piano Quintet, Op. 5: I.
+12	2	3miMR92im1c	8.7	8.3	https://www.youtube.com/watch?v=3miMR92im1c&start=8&end=17        	Eugène Ysaÿe: Cello Sonata
+12	3	TJtiepwpKFw	22	11.8	https://www.youtube.com/watch?v=TJtiepwpKFw&start=22&end=33       	Jacques Ysaÿe (grandson of Eugène): “Brass Bonanza”
+12	4	lutZwgu73as	22.5	12.5	https://www.youtube.com/watch?v=lutZwgu73as&start=22&end=35       	Eugène Ysaÿe: Violin Sonata No. 4 – opening
+12	5	iEl6Nxon_Kc	154.7	10.3	https://www.youtube.com/watch?v=iEl6Nxon_Kc&start=154&end=165     	Eugène Ysaÿe: Violin Sonata No. 3, “Ballade”
+12	6	Yrtjq1ASpk4	29	9	https://www.youtube.com/watch?v=Yrtjq1ASpk4&start=29&end=38       	Eugène Ysaÿe: Violin Sonata No. 2, “Obsession” – Dies irae theme
+12	7	Yrtjq1ASpk4	0.8	6.85	https://www.youtube.com/watch?v=Yrtjq1ASpk4&start=0&end=7         	Eugène Ysaÿe: Violin Sonata No. 2, “Obsession” – opening
+						
+13	1	c3_aM_s0R1U	113.15	11.5	https://www.youtube.com/watch?v=c3_aM_s0R1U&start=113&end=124     	
+13	2	c3_aM_s0R1U	457.4	13.5	https://www.youtube.com/watch?v=c3_aM_s0R1U&start=457&end=470     	
+13	3	c3_aM_s0R1U	60	12	https://www.youtube.com/watch?v=c3_aM_s0R1U&start=60&end=72       	theme that sounds like “I've been working on the railroad”
+13	4	c3_aM_s0R1U	475	11.8	https://www.youtube.com/watch?v=c3_aM_s0R1U&start=475&end=486     	
+13	5	c3_aM_s0R1U	0.3	13	https://www.youtube.com/watch?v=c3_aM_s0R1U&start=0&end=13        	opening
+13	6	c3_aM_s0R1U	278.45	10.5	https://www.youtube.com/watch?v=c3_aM_s0R1U&start=278&end=288     	the famous melody
+13	7	c3_aM_s0R1U	253.3	10.7	https://www.youtube.com/watch?v=c3_aM_s0R1U&start=253&end=264     	the other famous melody
+						
+14	1	GH972-mTB3I	7	16.5	https://www.youtube.com/watch?v=GH972-mTB3I&start=7&end=23        	“Barn av Regnbuen” by Lillebjørn Nilsen; cover of Seeger's song “My Rainbow Race”
+14	2	MLUaV02Eo5s	28	13	https://www.youtube.com/watch?v=MLUaV02Eo5s&start=28&end=41       	“Jusqu'à La Ceinture” by Graham Allwright (cover of Seeger's “Waist Deep in the Big Muddy”)
+14	3	u6JhTSzZXzg	8	10	https://www.youtube.com/watch?v=u6JhTSzZXzg&start=8&end=18        	”Bells of Rhymney” cover by The Byrds
+14	4	W4ga_M5Zdn4	24	15	https://www.youtube.com/watch?v=W4ga_M5Zdn4&start=24&end=39       	The Byrds cover of “Turn! Turn! Turn!”
+14	5	YIoF-Q6yGpk	11.8	13.7	https://www.youtube.com/watch?v=YIoF-Q6yGpk&start=11&end=25       	Marlene Dietrich cover of “Where Have All the Flowers Gone?”
+14	6	01M_J7c1ft4	8	11	https://www.youtube.com/watch?v=01M_J7c1ft4&start=8&end=19        	Peter, Paul, and Mary cover of “If I Had a Hammer”
+						
+15	1	ZMXz9lEFlJg	248.5	10.5	https://www.youtube.com/watch?v=ZMXz9lEFlJg&start=248&end=259     	Movement 2, a part near the end I like
+15	2	tk_eqKUjDXE	323	9.5	https://www.youtube.com/watch?v=tk_eqKUjDXE&start=323&end=332     	Movement 1, a piano section I really like
+15	3	tk_eqKUjDXE	75.5	18.8	https://www.youtube.com/watch?v=tk_eqKUjDXE&start=75&end=94       	Movement 1, a part where the piano isn't playing so players don't think this is a piano concerto
+15	4	ZMXz9lEFlJg	11	7.3	https://www.youtube.com/watch?v=ZMXz9lEFlJg&start=11&end=18       	Movement 2, opening
+15	5	tk_eqKUjDXE	0.3	11.5	https://www.youtube.com/watch?v=tk_eqKUjDXE&start=0&end=11        	Movement 1, opening
+15	6	3Z2Hsq_Zh2k	0.3	12.7	https://www.youtube.com/watch?v=3Z2Hsq_Zh2k&start=0&end=13        	Movement 3, opening
+						
+16	1	I1sF84FwKhI	38.5	15.5	https://www.youtube.com/watch?v=I1sF84FwKhI&start=38&end=54       	“Ich bin die fesche Lola” from Black Book
+16	2	svkK846pjgY	22	13	https://www.youtube.com/watch?v=svkK846pjgY&start=22&end=35       	Elle theme
+16	3	twhkuIWSp34	78	8	https://www.youtube.com/watch?v=twhkuIWSp34&start=78&end=86       	Showgirls theme
+16	4	CIGHCoVzqtk	32	10	https://www.youtube.com/watch?v=CIGHCoVzqtk&start=32&end=42       	Klendathu Drop from Starship Troopers
+16	5	tvHgxTubFSQ	39	11	https://www.youtube.com/watch?v=tvHgxTubFSQ&start=39&end=50       	Total Recall theme
+16	6	n4PQRpo2Wng	93	12	https://www.youtube.com/watch?v=n4PQRpo2Wng&start=93&end=105      	Robocop theme
+						
+17	1	uV4Ps8Zjytc	904	13.5	https://www.youtube.com/watch?v=uV4Ps8Zjytc&start=904&end=917     	John Tavener: The Whale: “The Swallowing”
+17	2	uV4Ps8Zjytc	1336	10	https://www.youtube.com/watch?v=uV4Ps8Zjytc&start=1336&end=1346   	John Tavener: The Whale: “In the Belly”
+17	3	8qSy-0y6DMs	8	8.3	https://www.youtube.com/watch?v=8qSy-0y6DMs&start=8&end=16        	John Cage: Litany for the Whale – opening
+17	4	1pTu4pkmtpU	125	9	https://www.youtube.com/watch?v=1pTu4pkmtpU&start=125&end=134     	Alan Hovhaness: And God Created Great Whales
+17	5	NDqBLlRqOJQ	219	15	https://www.youtube.com/watch?v=NDqBLlRqOJQ&start=219&end=234     	George Crumb: Vox Balanae: Vocalise (for the beginning of time) – imitation of whale song
+17	6	1pTu4pkmtpU	176	9	https://www.youtube.com/watch?v=1pTu4pkmtpU&start=176&end=185     	Alan Hovhaness: And God Created Great Whales – recorded whale songs
+						
+18	1	DmPMZGBBmxk	85	14	https://www.youtube.com/watch?v=DmPMZGBBmxk&start=85&end=99       	Sarabande, second theme
+18	2	wnAGUnCQ_2M	337	13.4	https://www.youtube.com/watch?v=wnAGUnCQ_2M&start=337&end=350     	Air, climax
+18	3	2SBap7zvkME	1	7	https://www.youtube.com/watch?v=2SBap7zvkME&start=1&end=8         	Rigaudon, opening theme
+18	4	GwTPfVGXY8Y	23.9	13.2	https://www.youtube.com/watch?v=GwTPfVGXY8Y&start=23&end=37       	Gavotte, opening theme
+18	5	W4t72QQXSok	13	13	https://www.youtube.com/watch?v=W4t72QQXSok&start=13&end=26       	Prelude, second theme
+18	6	W4t72QQXSok	0.4	11.6	https://www.youtube.com/watch?v=W4t72QQXSok&start=0&end=12        	Prelude, start
+						
+19	1	rWlHIi-iIV0	68	10.2	https://www.youtube.com/watch?v=rWlHIi-iIV0&start=68&end=78       	“He Ain't Got Rhythm” sung by Billie Holliday
+19	2	4nwaucW9Ha4	4	13	https://www.youtube.com/watch?v=4nwaucW9Ha4&start=4&end=17        	“Crazy Rhythm” played by Stan Getz and J. J. Johnson
+19	3	1nEO5jh_EBE	301.3	11.7	https://www.youtube.com/watch?v=1nEO5jh_EBE&start=301&end=313     	Gershwin: Variations on “I Got Rhythm”: “Chinese” variation
+19	4	IRSmEMc8vvA	68	14.5	https://www.youtube.com/watch?v=IRSmEMc8vvA&start=68&end=82       	Gershwin: “Fascinatin' Rhythm” sung by Ella Fitzgerald
+19	5	mj7p-XPc7Hk	5.5	10.5	https://www.youtube.com/watch?v=mj7p-XPc7Hk&start=5&end=16        	Gershwin: “Fascinatin' Rhythm” played by Benny Goodman
+19	6	uPRiM5JvYx8	61	9.7	https://www.youtube.com/watch?v=uPRiM5JvYx8&start=61&end=70       	Gershwin: “I Got Rhythm”
+						
+20	1	eWj7fLg0QNw	105	9	https://www.youtube.com/watch?v=eWj7fLg0QNw&start=105&end=114     	Schnittke: Gogol Suite: “The Ball”
+20	2	eXvfnhcMYQs	48	14.5	https://www.youtube.com/watch?v=eXvfnhcMYQs&start=48&end=62       	Schnittke: Gogol Suite: Overture
+20	3	COUX7mX01Io	290	11.5	https://www.youtube.com/watch?v=COUX7mX01Io&start=290&end=301     	Janáček: Taras Bulba, 3rd movement
+20	4	kovgWxcMB1U	0	13	https://www.youtube.com/watch?v=kovgWxcMB1U&start=0&end=13        	Shostakovich: The Nose: Percussion Interlude
+20	5	taqscyh4WEM	15	12	https://www.youtube.com/watch?v=taqscyh4WEM&start=15&end=27       	Mussorgsky: Sorochintsy Fair: Gopak (based on the story “Sorochintsy Fair” from Evenings on a Farm Near Dikanka)
+20	6	iCEDfZgDPS8	388	11.2	https://www.youtube.com/watch?v=iCEDfZgDPS8&start=388&end=399     	Mussorgsky: Night on Bald Mountain (based on “St. John's Eve” from Evenings on a Farm Near Dikanka)
+20	7	iCEDfZgDPS8	13.8	10.2	https://www.youtube.com/watch?v=iCEDfZgDPS8&start=13&end=24       	Mussorgsky: Night on Bald Mountain

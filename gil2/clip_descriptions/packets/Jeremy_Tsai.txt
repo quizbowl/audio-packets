@@ -1,0 +1,137 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	70EFtk3vE7M	305	8	https://www.youtube.com/watch?v=70EFtk3vE7M&start=305&end=313     	Trio Sonata in A minor
+1	2	70EFtk3vE7M	407	8	https://www.youtube.com/watch?v=70EFtk3vE7M&start=407&end=415     	Trio Sonata in A minor
+1	3	voOGVv2b0Fs	22	6	https://www.youtube.com/watch?v=voOGVv2b0Fs&start=22&end=28       	Der Herr ist mit mir
+1	4	5fmp_DQGN-8	127	8	https://www.youtube.com/watch?v=5fmp_DQGN-8&start=127&end=135     	Chaconne in E minor
+1	5	9Z4Ua7k0n7M	175	8	https://www.youtube.com/watch?v=9Z4Ua7k0n7M&start=175&end=183     	Prelude, Fugue and Chaconne in C major
+1	6	w2GoH4-Gm44	5	8	https://www.youtube.com/watch?v=w2GoH4-Gm44&start=5&end=13        	Passacaglia in D minor 
+1	7	9Z4Ua7k0n7M	14	7	https://www.youtube.com/watch?v=9Z4Ua7k0n7M&start=14&end=21       	Prelude, Fugue and Chaconne in C major
+						
+2	1	SPnSm5FA15I	154	8	https://www.youtube.com/watch?v=SPnSm5FA15I&start=154&end=162     	Veil pas de deux
+2	2	SPnSm5FA15I	87	10	https://www.youtube.com/watch?v=SPnSm5FA15I&start=87&end=97       	Veil pas de deux
+2	3	PG9Q_2RXjdY	415	8	https://www.youtube.com/watch?v=PG9Q_2RXjdY&start=415&end=423     	Pas de Deux
+2	4	R-4phC-CctQ	75	8	https://www.youtube.com/watch?v=R-4phC-CctQ&start=75&end=83       	right before Kingdom of the Shades
+2	5	PG9Q_2RXjdY	28	10	https://www.youtube.com/watch?v=PG9Q_2RXjdY&start=28&end=38       	Pas de Deux
+2	6	R-4phC-CctQ	442	9	https://www.youtube.com/watch?v=R-4phC-CctQ&start=442&end=451     	Kingdom of the Shades
+2	7	R-4phC-CctQ	151	12	https://www.youtube.com/watch?v=R-4phC-CctQ&start=151&end=163     	Kingdom of the Shades
+						
+3	1	_QY0W1vh4Lg	48	12	https://www.youtube.com/watch?v=_QY0W1vh4Lg&start=48&end=60       	Holst, "Two Eastern Pictures", 1st mvt (Spring)
+3	2	_BfmJpilvzE	285	8	https://www.youtube.com/watch?v=_BfmJpilvzE&start=285&end=293     	Piazzolla, "Estaciones Porteñas", "Primavera Porteña"
+3	3	_BfmJpilvzE	160	8	https://www.youtube.com/watch?v=_BfmJpilvzE&start=160&end=168     	Piazzolla, "Estaciones Porteñas", "Primavera Porteña"
+3	4	_BfmJpilvzE	0	7	https://www.youtube.com/watch?v=_BfmJpilvzE&start=0&end=7         	Piazzolla, "Estaciones Porteñas", "Primavera Porteña"
+3	5	kPaUtnJTMn8	553	7	https://www.youtube.com/watch?v=kPaUtnJTMn8&start=553&end=560     	Vivaldi, "Le quattro stagioni", "La primavera", 3rd mvt
+3	6	kPaUtnJTMn8	322	7	https://www.youtube.com/watch?v=kPaUtnJTMn8&start=322&end=329     	Vivaldi, "Le quattro stagioni", "La primavera", 2nd mvt
+3	7	kPaUtnJTMn8	210	9	https://www.youtube.com/watch?v=kPaUtnJTMn8&start=210&end=219     	Vivaldi, "Le quattro stagioni", "La primavera", 1st mvt
+						
+4	1	E67cbuaFuLQ	15	6	https://www.youtube.com/watch?v=E67cbuaFuLQ&start=15&end=21       	Tosca, Act III: Mario Cavaradossi? A voi (apparently that is him singing the role of the jailer)
+4	2	Gm47T1EukkE	51	6	https://www.youtube.com/watch?v=Gm47T1EukkE&start=51&end=57       	Hebrew stuff about Prokofiev
+4	3	meCVwVSPQ-k	71	12	https://www.youtube.com/watch?v=meCVwVSPQ-k&start=71&end=83       	Introduction to Pines of Rome in Fantasia 2000
+4	4	Tk2eR1epPMs	11	9	https://www.youtube.com/watch?v=Tk2eR1epPMs&start=11&end=20       	with John Denver
+4	5	5sVqGYXBVG0	58	6	https://www.youtube.com/watch?v=5sVqGYXBVG0&start=58&end=64       	John Williams, "The Chairman's Waltz" from Memoirs of a Geisha 
+4	6	DsdqGjyHapk	12	8	https://www.youtube.com/watch?v=DsdqGjyHapk&start=12&end=20       	John Williams, "Air and Simple Gifts"
+4	7	bNrVFkBDte8	16	9	https://www.youtube.com/watch?v=bNrVFkBDte8&start=16&end=25       	John Williams, theme from "Schindler's List"
+						
+5	1	I0aFHjUohqI	130	7	https://www.youtube.com/watch?v=I0aFHjUohqI&start=130&end=137     	John Murphy, "3:59 am" from the album Anonymous Rejected Filmscore
+5	2	T4ZjLplzMjc	41	8	https://www.youtube.com/watch?v=T4ZjLplzMjc&start=41&end=49       	John Murphy, "Who Are You" for Miami Vice (2006)
+5	3	lzRukzNYRAE	0	9	https://www.youtube.com/watch?v=lzRukzNYRAE&start=0&end=9         	Walter Murphy, "California Strut" 
+5	4	JHytL_cysKE	66	8	https://www.youtube.com/watch?v=JHytL_cysKE&start=66&end=74       	Walter Murphy, "Russian Dressing" 
+5	5	G1c2KpurNWo	94	7	https://www.youtube.com/watch?v=G1c2KpurNWo&start=94&end=101      	John Murphy, "Adagio in D Minor" for Sunshine (2007)
+5	6	s4BzNzIuNao	1	6	https://www.youtube.com/watch?v=s4BzNzIuNao&start=1&end=7         	Walter Murphy, theme for "Family Guy"
+5	7	4MFbn8EbB4k	30	8	https://www.youtube.com/watch?v=4MFbn8EbB4k&start=30&end=38       	Walter Murphy, "A Fifth of Beethoven" featured in Saturday Night Fever 
+5	8	ST2H8FWDvEA	110	7	https://www.youtube.com/watch?v=ST2H8FWDvEA&start=110&end=117     	John Murphy, "In the House – In a Heartbeat" for 28 Days Later (2002)
+						
+6	1	xKXGJ1m_mE4	31	6	https://www.youtube.com/watch?v=xKXGJ1m_mE4&start=31&end=37       	9th movement (used in 5th movement of his 6 Bagatelles)
+6	2	Xys1TyatU1s	30	8	https://www.youtube.com/watch?v=Xys1TyatU1s&start=30&end=38       	4th movement
+6	3	zSugkgY-tKA	68	7	https://www.youtube.com/watch?v=zSugkgY-tKA&start=68&end=75       	5th movement (used in 2nd movement of his 6 Bagatelles)
+6	4	QwFMn2rPvqc	183	6	https://www.youtube.com/watch?v=QwFMn2rPvqc&start=183&end=189     	11th movement
+6	5	sWTwqqDRwJE	31	7	https://www.youtube.com/watch?v=sWTwqqDRwJE&start=31&end=38       	7th movement (used in 3rd movement of his 6 Bagatelles)
+6	6	rVmdaeTcRAE	46	6	https://www.youtube.com/watch?v=rVmdaeTcRAE&start=46&end=52       	3rd movement (used in 1st movement of his 6 Bagatelles)
+6	7	wIDN_3EkWN8	1	6	https://www.youtube.com/watch?v=wIDN_3EkWN8&start=1&end=7         	2nd movement
+6	8	nIs3jechQ_E	83	7	https://www.youtube.com/watch?v=nIs3jechQ_E&start=83&end=90       	1st movement
+						
+7	1	o8TrJJbg7CY	61	6	https://www.youtube.com/watch?v=o8TrJJbg7CY&start=61&end=67       	Xavier Cugat, "Perfidia" used in Days of Being Wild (1990)
+7	2	eIi6ymP3fic	238	8	https://www.youtube.com/watch?v=eIi6ymP3fic&start=238&end=246     	Chyi Chin 齊秦, "Thinking About You 思慕的人" in Taiwanese as it appears in Fallen Angels (1995)
+7	3	UJ-qLvBMBxU	98	7	https://www.youtube.com/watch?v=UJ-qLvBMBxU&start=98&end=105      	Danny Chung, cover of The Turtles "Happy Together" for Happy Together (1997)
+7	4	fUMoe8U1rBc	7	6	https://www.youtube.com/watch?v=fUMoe8U1rBc&start=7&end=13        	Shigeru Umebayashi, "Polonaise" for 2046 (2004)
+7	5	2NMmgKPiAhw	73	5	https://www.youtube.com/watch?v=2NMmgKPiAhw&start=73&end=78       	Nat King Cole, "Quizas, Quizas, Quizas" used in In the Mood for Love (2000)
+7	6	TXceE8x-9GA	33	7	https://www.youtube.com/watch?v=TXceE8x-9GA&start=33&end=40       	Faye Wong, cover of The Cranberries "Dreams" in Cantonese used in Chungking Express (1994)
+7	7	IAH-0GKvIrM	1	12	https://www.youtube.com/watch?v=IAH-0GKvIrM&start=1&end=13        	The Mamas & the Papas, "California Dreamin'" as it appears in Chungking Express (1994)
+7	8	vBWCphAu8ik	12	8	https://www.youtube.com/watch?v=vBWCphAu8ik&start=12&end=20       	Shigeru Umebayashi, "Yumeji's Theme" used in In the Mood for Love (2000)
+						
+8	1	jYDM0sYfqnM	140	8	https://www.youtube.com/watch?v=jYDM0sYfqnM&start=140&end=148     	Utada Hikaru, "Sakura Drops"
+8	2	xDlEeVrd1x0	53	7	https://www.youtube.com/watch?v=xDlEeVrd1x0&start=53&end=60       	AKB48, "Sakura No Hanabiratachi" (apparently their debut single???)
+8	3	K_xTet06SUo	187	6	https://www.youtube.com/watch?v=K_xTet06SUo&start=187&end=193     	Wagakkibando cover of "Senbonzakura 千本桜" (A Thousand Cherry Blossoms) (originally a Hatsune Miku song)
+8	4	xDlEeVrd1x0	210	7	https://www.youtube.com/watch?v=xDlEeVrd1x0&start=210&end=217     	
+8	5	K_xTet06SUo	18	8	https://www.youtube.com/watch?v=K_xTet06SUo&start=18&end=26       	
+8	6	AK51LblcEOw	28	13	https://www.youtube.com/watch?v=AK51LblcEOw&start=28&end=41       	Traditional song "Sakura, Sakura"
+						
+9	1	WaFiU77kr7s	84	8	https://www.youtube.com/watch?v=WaFiU77kr7s&start=84&end=92       	Etude-Tableaux No. 5 in E-flat minor
+9	2	F1jAw67ZCIA	182	8	https://www.youtube.com/watch?v=F1jAw67ZCIA&start=182&end=190     	Etude-Tableaux No. 8 in D minor
+9	3	rQG8IeClBkw	87	9	https://www.youtube.com/watch?v=rQG8IeClBkw&start=87&end=96       	Etude-Tableaux No. 4 in D minor (personal favorite)
+9	4	WaFiU77kr7s	1	8	https://www.youtube.com/watch?v=WaFiU77kr7s&start=1&end=9         	Etude-Tableaux No. 5 in E-flat minor
+9	5	F1jAw67ZCIA	1	8	https://www.youtube.com/watch?v=F1jAw67ZCIA&start=1&end=9         	Etude-Tableaux No. 8 in D minor
+9	6	rQG8IeClBkw	11	8	https://www.youtube.com/watch?v=rQG8IeClBkw&start=11&end=19       	Etude-Tableaux No. 4 in D minor
+9	7	YOx710drHnw	130	13	https://www.youtube.com/watch?v=YOx710drHnw&start=130&end=143     	Prelude in C-sharp minor
+						
+						
+10	1	HrKcnKeS9jI	14	8	https://www.youtube.com/watch?v=HrKcnKeS9jI&start=14&end=22       	Ismail Haron "Ilham Pujangga" 
+10	4	TRt4Y6c0ql0	9	7	https://www.youtube.com/watch?v=TRt4Y6c0ql0&start=9&end=16        	JJ Lin 林俊傑 "If Only 可惜沒如果 "
+10	3	qTkVG6lWvwY	90	7	https://www.youtube.com/watch?v=qTkVG6lWvwY&start=90&end=97       	Kit Chan "Home" 
+10	2	fvlpBYS5kkQ	68	8	https://www.youtube.com/watch?v=fvlpBYS5kkQ&start=68&end=76       	The Sam Willows "Thirsty"
+10	5	tFa0uVNmIYg	0	8	https://www.youtube.com/watch?v=tFa0uVNmIYg&start=0&end=8         	JJ Lin 林俊傑 "Practice Love 修煉愛情"
+10	6	khin6n1XGiU	74	6	https://www.youtube.com/watch?v=khin6n1XGiU&start=74&end=80       	Stefanie Sun 孫燕姿 "What I Miss 我懷念的"
+10	7	Dlbg7onYu08	152	10	https://www.youtube.com/watch?v=Dlbg7onYu08&start=152&end=162     	"sounds like chinese despacito" - ophir (ft. JJ Lin)
+10	8	Fdb_O91d92M	40	8	https://www.youtube.com/watch?v=Fdb_O91d92M&start=40&end=48       	anthem
+						
+11	1	8lN_KC_XnW4	55	8	https://www.youtube.com/watch?v=8lN_KC_XnW4&start=55&end=63       	"Etoh" and "Summer Crane" sample of The Five Americans "Western Union"
+11	2	3nQHiypz6nI	18	5	https://www.youtube.com/watch?v=3nQHiypz6nI&start=18&end=23       	"Extra Kings" sample of Enoch Light "Theme From 'The Sand Pebbles'"
+11	3	NpWjNuMGh8I	203	7	https://www.youtube.com/watch?v=NpWjNuMGh8I&start=203&end=210     	"Frontier Psychiatrist"
+11	4	zehvICx-Rsg	190	8	https://www.youtube.com/watch?v=zehvICx-Rsg&start=190&end=198     	"Since I Left You" sample of Klaus Wanderlich
+11	5	XtpD0TJVdFY	23	7	https://www.youtube.com/watch?v=XtpD0TJVdFY&start=23&end=30       	"Since I Left You" sample of The Main Attraction "Everyday" 
+11	6	NpWjNuMGh8I	41	6	https://www.youtube.com/watch?v=NpWjNuMGh8I&start=41&end=47       	"Frontier Psychiatrist" sample of John Waters' movie "Polyester"
+11	7	NpWjNuMGh8I	117	8	https://www.youtube.com/watch?v=NpWjNuMGh8I&start=117&end=125     	"Frontier Psychiatrist" sample of Enoch Light "My Way of Life"
+11	8	NpWjNuMGh8I	149	4	https://www.youtube.com/watch?v=NpWjNuMGh8I&start=149&end=153     	"Frontier Psychiatrist"
+						
+12	1	U-pVz2LTakM	1470	8	https://www.youtube.com/watch?v=U-pVz2LTakM&start=1470&end=1478   	end of 4th section
+12	2	U-pVz2LTakM	1027	8	https://www.youtube.com/watch?v=U-pVz2LTakM&start=1027&end=1035   	middle of 4th section
+12	3	U-pVz2LTakM	215	8	https://www.youtube.com/watch?v=U-pVz2LTakM&start=215&end=223     	
+12	4	U-pVz2LTakM	542	8	https://www.youtube.com/watch?v=U-pVz2LTakM&start=542&end=550     	
+12	5	U-pVz2LTakM	934	10	https://www.youtube.com/watch?v=U-pVz2LTakM&start=934&end=944     	beginning of 4th 
+12	6	U-pVz2LTakM	1518	8	https://www.youtube.com/watch?v=U-pVz2LTakM&start=1518&end=1526   	beginning of 5th 
+12	7	U-pVz2LTakM	23	7	https://www.youtube.com/watch?v=U-pVz2LTakM&start=23&end=30       	beginning of 1st
+						
+13	1	xnaFPMkbvEA	11	7	https://www.youtube.com/watch?v=xnaFPMkbvEA&start=11&end=18       	Wendy Carlos "Ring Game And Escape"
+13	2	gt-1YbBQxMo	6	8	https://www.youtube.com/watch?v=gt-1YbBQxMo&start=6&end=14        	Journey "1990s Theme"
+13	3	X_zqdnl09VI	188	8	https://www.youtube.com/watch?v=X_zqdnl09VI&start=188&end=196     	Daft Punk "Adagio for Tron"
+13	4	BI4_TL0eOqg	81	7	https://www.youtube.com/watch?v=BI4_TL0eOqg&start=81&end=88       	Wendy Carlos "Ending Titles"
+13	5	MkDI0m5M06A	54	7	https://www.youtube.com/watch?v=MkDI0m5M06A&start=54&end=61       	Wendy Carlos "The Light Sailer"
+13	6	tFXYuw96d0c	46	7	https://www.youtube.com/watch?v=tFXYuw96d0c&start=46&end=53       	Daft Punk "The Grid"
+13	7	Lfrn1oGdB6o	49	6	https://www.youtube.com/watch?v=Lfrn1oGdB6o&start=49&end=55       	Daft Punk "End of Line"
+13	8	F4eccPBFEjE	32	7	https://www.youtube.com/watch?v=F4eccPBFEjE&start=32&end=39       	Daft Punk "Derezzed"
+						
+14	1	qBGxPN-JOXA	42	7	https://www.youtube.com/watch?v=qBGxPN-JOXA&start=42&end=49       	
+14	2	gqtgq-SkpRA	57	11	https://www.youtube.com/watch?v=gqtgq-SkpRA&start=57&end=68       	
+14	3	wchkYKj5n8A	85	8	https://www.youtube.com/watch?v=wchkYKj5n8A&start=85&end=93       	
+14	4	wchkYKj5n8A	23	8	https://www.youtube.com/watch?v=wchkYKj5n8A&start=23&end=31       	
+14	5	7SZo7QRlJFQ	116	8	https://www.youtube.com/watch?v=7SZo7QRlJFQ&start=116&end=124     	"Salve Regina" intro
+14	6	7SZo7QRlJFQ	486	6	https://www.youtube.com/watch?v=7SZo7QRlJFQ&start=486&end=492     	"Salve Regina" when Blanche dies
+14	7	7SZo7QRlJFQ	232	9	https://www.youtube.com/watch?v=7SZo7QRlJFQ&start=232&end=241     	"Salve Regina" full chorus w/ title
+						
+15	1	QpyBkOxs2x8	14	6	https://www.youtube.com/watch?v=QpyBkOxs2x8&start=14&end=20       	LL Cool J "Telephone" sample of "Upside Down"
+15	2	2GU-9olUfpw	54	7	https://www.youtube.com/watch?v=2GU-9olUfpw&start=54&end=61       	J Dilla "Can't You See" sample of "Can't You See It's Me"
+15	3	ecAR_zVAvUE	32	6	https://www.youtube.com/watch?v=ecAR_zVAvUE&start=32&end=38       	Lupe Fiasco "Sunshine" sample of "Friend to Friend"
+15	4	cL3yT6m6k0o	16	9	https://www.youtube.com/watch?v=cL3yT6m6k0o&start=16&end=25       	Salt-n-Pepa "Upside Down" (for Space Jam) cover of "Upside Down"
+15	5	xNO5CKZE_jc	166	7	https://www.youtube.com/watch?v=xNO5CKZE_jc&start=166&end=173     	Big Sean "Go Legend" sample from "Do You Know Where You're Going To"
+15	6	VAOUbr2HEpo	145	8	https://www.youtube.com/watch?v=VAOUbr2HEpo&start=145&end=153     	Notorious B.I.G. "Mo Money Mo Problems" sample of "I'm Coming Out"
+15	7	aQkPcPqTq4M	103	10	https://www.youtube.com/watch?v=aQkPcPqTq4M&start=103&end=113     	Macintosh Plus "リサフランク420 / 現代のコンピュー" sample of "It's Your Move"
+15	8	80Q30ebnXpU	38	9	https://www.youtube.com/watch?v=80Q30ebnXpU&start=38&end=47       	Ariana Grande "Break Your Heart Right Back" sample of "I'm Coming Out"
+						
+16		ly79WjXRhLA	10	8	https://www.youtube.com/watch?v=ly79WjXRhLA&start=10&end=18       	Restoration Ruin
+16		c77djHcrmVE	668	9	https://www.youtube.com/watch?v=c77djHcrmVE&start=668&end=677     	The Köln Concert, Pt. II A
+16		Pd_Kti6jvy8	1290	8	https://www.youtube.com/watch?v=Pd_Kti6jvy8&start=1290&end=1298   	The Köln Concert, Pt. I
+16		IMLoCIzwg4g	16	8	https://www.youtube.com/watch?v=IMLoCIzwg4g&start=16&end=24       	My Song
+16		Pd_Kti6jvy8	605	9	https://www.youtube.com/watch?v=Pd_Kti6jvy8&start=605&end=614     	The Köln Concert, Pt. I
+16		c77djHcrmVE	2	9	https://www.youtube.com/watch?v=c77djHcrmVE&start=2&end=11        	The Köln Concert, Pt. II A
+16		Pd_Kti6jvy8	127	8	https://www.youtube.com/watch?v=Pd_Kti6jvy8&start=127&end=135     	The Köln Concert, Pt. I
+16		Pd_Kti6jvy8	0	11	https://www.youtube.com/watch?v=Pd_Kti6jvy8&start=0&end=11        	The Köln Concert, Pt. I
+						

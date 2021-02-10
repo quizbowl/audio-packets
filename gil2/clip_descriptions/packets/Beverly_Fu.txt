@@ -1,0 +1,87 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	pAW0JzE9YS8	22	11	https://www.youtube.com/watch?v=pAW0JzE9YS8&start=22&end=33       	Ora a noi
+1	2	KQQTFWmSvsg	40	11.3	https://www.youtube.com/watch?v=KQQTFWmSvsg&start=40&end=51       	Ancora un passo
+1	3	25qOY9cwz88	10.4	10	https://www.youtube.com/watch?v=25qOY9cwz88&start=10&end=20       	Con onor muore
+1	4	XcQNjV-YSiM	82	12	https://www.youtube.com/watch?v=XcQNjV-YSiM&start=82&end=94       	Love duet
+1	5	cpqpvGSR3Bg	8	11	https://www.youtube.com/watch?v=cpqpvGSR3Bg&start=8&end=19        	Humming chorus
+1	6	cXfGPOHgImk	3.2	9.2	https://www.youtube.com/watch?v=cXfGPOHgImk&start=3&end=12        	Un bel di
+						
+2	1	heVYVj-dY0Y	63.8	12.6	https://www.youtube.com/watch?v=heVYVj-dY0Y&start=63&end=76       	Meditation and processional for viola and piano
+2	2	vEYyFxa3gHM	119	11	https://www.youtube.com/watch?v=vEYyFxa3gHM&start=119&end=130     	Suite Hébraïque: I. Rhapsodie
+2	3	wUDjKaRdAkU	84	9	https://www.youtube.com/watch?v=wUDjKaRdAkU&start=84&end=93       	Baal Shem: I. Vidui
+2	4	myTFlb9cfCw	7	10.4	https://www.youtube.com/watch?v=myTFlb9cfCw&start=7&end=17        	Concerto Grosso No. 1 Mvt. 1
+2	5	qdm82JZMUL4	148	11	https://www.youtube.com/watch?v=qdm82JZMUL4&start=148&end=159     	From Jewish Life: I. Prayer
+2	6	9VpVNhaYVdc	220	10	https://www.youtube.com/watch?v=9VpVNhaYVdc&start=220&end=230     	Schelomo
+2	7	2lfA7-s8p94	27	13	https://www.youtube.com/watch?v=2lfA7-s8p94&start=27&end=40       	Baal Shem: II. Nigun
+						
+3	1	NZN8Vjbvfcg	269	11	https://www.youtube.com/watch?v=NZN8Vjbvfcg&start=269&end=280     	Mvt. 2
+3	2	aC22f2buNLw	56	9	https://www.youtube.com/watch?v=aC22f2buNLw&start=56&end=65       	Mvt. 1
+3	3	aC22f2buNLw	173	13	https://www.youtube.com/watch?v=aC22f2buNLw&start=173&end=186     	Mvt. 1
+3	4	dzm1yUjaTz4	97	12	https://www.youtube.com/watch?v=dzm1yUjaTz4&start=97&end=109      	Mvt. 3
+3	5	dzm1yUjaTz4	0.8	9.3	https://www.youtube.com/watch?v=dzm1yUjaTz4&start=0&end=10        	Mvt. 3
+3	6	aC22f2buNLw	5	7.3	https://www.youtube.com/watch?v=aC22f2buNLw&start=5&end=12        	Mvt. 1
+						
+4	1	N94VRyENdGA	44.9	9.2	https://www.youtube.com/watch?v=N94VRyENdGA&start=44&end=54       	Strauss: Violin Sonata Mvt. 1
+4	2	kJxuhD5DzYs	5.8	9.5	https://www.youtube.com/watch?v=kJxuhD5DzYs&start=5&end=15        	Fauré: Violin Sonata No. 1 Mvt. 1
+4	3	mNoI0zb8ofs	72	6	https://www.youtube.com/watch?v=mNoI0zb8ofs&start=72&end=78       	Elgar: Violin Sonata Mvt. 1
+4	4	xrCViYDYkvI	0	14.2	https://www.youtube.com/watch?v=xrCViYDYkvI&start=0&end=14        	Beethoven: Kreutzer Sonata Mvt. 2
+4	5	HDnR6XT4EdU	1	12	https://www.youtube.com/watch?v=HDnR6XT4EdU&start=1&end=13        	Franck: Violin Sonata Mvt. 2
+4	6	sVYVcNt8F9k	53.7	7.6	https://www.youtube.com/watch?v=sVYVcNt8F9k&start=53&end=61       	Beethoven: Kreutzer Sonata Mvt. 1
+						
+5	1	DKBm9mKWJVU	0	11	https://www.youtube.com/watch?v=DKBm9mKWJVU&start=0&end=11        	Saariaho: L'amour de loin: Storm sequence
+5	2	H-xOOm88j7Y	94.6	10	https://www.youtube.com/watch?v=H-xOOm88j7Y&start=94&end=104      	Sibelius: Snöfrid
+5	3	9jtnxNzUjr8	115	11	https://www.youtube.com/watch?v=9jtnxNzUjr8&start=115&end=126     	Salonen: Violin Concerto Mvt. 1
+5	4	fuZY8wA4Zpo	1.4	9.8	https://www.youtube.com/watch?v=fuZY8wA4Zpo&start=1&end=11        	Rautavaara: Cantus Arcticus
+5	5	VYZduDApn_0	300	10	https://www.youtube.com/watch?v=VYZduDApn_0&start=300&end=310     	Sibelius: Violin Concerto Mvt. 2
+5	6	OzkA8NsJKx4	7.4	10	https://www.youtube.com/watch?v=OzkA8NsJKx4&start=7&end=17        	Sibelius: Violin Concerto Mvt. 1
+						
+6	1	1niD58ApbaQ	281	13.2	https://www.youtube.com/watch?v=1niD58ApbaQ&start=281&end=294     	Variaciones Concertantes (clarinet variation)
+6	2	mDlNAjeezpI	10.5	12.2	https://www.youtube.com/watch?v=mDlNAjeezpI&start=10&end=22       	String Quartet No. 1 Mvt. 1
+6	3	1z0WzqiOpFs	149.1	10	https://www.youtube.com/watch?v=1z0WzqiOpFs&start=149&end=159     	Suite de Danzas Criollas Mvt. 3
+6	4	3VaVE8p6oVI	0.7	10.3	https://www.youtube.com/watch?v=3VaVE8p6oVI&start=0&end=11        	5 Canciones populares argentinas
+6	5	gCo3kwK-jEk	3.7	10.2	https://www.youtube.com/watch?v=gCo3kwK-jEk&start=3&end=13        	Harp Concerto Mvt. 1
+6	6	DkxMPLAhLQM	8.3	13	https://www.youtube.com/watch?v=DkxMPLAhLQM&start=8&end=21        	Danzas argentinas: I. Danza del viejo boyero
+						
+7	1	yXhDbHdW6Z4	4.5	10.3	https://www.youtube.com/watch?v=yXhDbHdW6Z4&start=4&end=14        	Messiaen: Catalogue d'oiseaux Book 3: La chouette hulotte
+7	4	Tdo8Ai9THGA	25	11	https://www.youtube.com/watch?v=Tdo8Ai9THGA&start=25&end=36       	Handel: The Cuckoo and the Nightingale
+7	2	07-SgcwqX8w	2.75	10	https://www.youtube.com/watch?v=07-SgcwqX8w&start=2&end=12        	Respighi: The Birds: The Dove
+7	3	CHQ0iDXv8pQ	40	14	https://www.youtube.com/watch?v=CHQ0iDXv8pQ&start=40&end=54       	Sibelius: The Swan of Tuonela
+7	5	ph9H17_HPTE	38	12	https://www.youtube.com/watch?v=ph9H17_HPTE&start=38&end=50       	Stravinsky: Firebird: Lullaby
+7	6	UD39DV1A02s	16.7	9.6	https://www.youtube.com/watch?v=UD39DV1A02s&start=16&end=26       	Vaughan Williams: The Lark Ascending
+						
+8	1	nvSqS3FVmfM	4	10	https://www.youtube.com/watch?v=nvSqS3FVmfM&start=4&end=14        	I Need You
+8	2	QT9_tEzjtIU	0	11	https://www.youtube.com/watch?v=QT9_tEzjtIU&start=0&end=11        	Tuesday's Gone
+8	3	YwLCpLAYJpg	115	11	https://www.youtube.com/watch?v=YwLCpLAYJpg&start=115&end=126     	Gimme Three Steps
+8	4	sMmTkKz60W8	28	10	https://www.youtube.com/watch?v=sMmTkKz60W8&start=28&end=38       	Simple Man
+8	5	bGopskR5jSM	283	12	https://www.youtube.com/watch?v=bGopskR5jSM&start=283&end=295     	Free Bird
+8	6	9Cyokaj3BJU	75	11	https://www.youtube.com/watch?v=9Cyokaj3BJU&start=75&end=86       	Sweet Home Alabama
+						
+9	1	T9xPe0FaPg0	15	12	https://www.youtube.com/watch?v=T9xPe0FaPg0&start=15&end=27       	Sallinen: Sunrise Serenade
+9	2	Z-4hYbqZ0zQ	295	12.2	https://www.youtube.com/watch?v=Z-4hYbqZ0zQ&start=295&end=307     	Grofé: Grand Canyon Suite: Sunrise
+9	3	Z-4hYbqZ0zQ	31	13	https://www.youtube.com/watch?v=Z-4hYbqZ0zQ&start=31&end=44       	Grofé: Grand Canyon Suite: Sunrise
+9	4	2uDiT3uBDQU	53	11.3	https://www.youtube.com/watch?v=2uDiT3uBDQU&start=53&end=64       	Ravel: Daphnis et Chloé: Lever du jour
+9	5	Szdziw4tI9o	72	12	https://www.youtube.com/watch?v=Szdziw4tI9o&start=72&end=84       	Strauss: Also Sprach Zarathustra: I. Sunrise
+9	6	Szdziw4tI9o	19	12.5	https://www.youtube.com/watch?v=Szdziw4tI9o&start=19&end=31       	Strauss: Also Sprach Zarathustra: I. Sunrise
+						
+10	1	0EmS6480JfQ	80	9	https://www.youtube.com/watch?v=0EmS6480JfQ&start=80&end=89       	Party scene
+10	2	p21n1xorjEs	127	12	https://www.youtube.com/watch?v=p21n1xorjEs&start=127&end=139     	Black swan pas de deux
+10	3	ZLMHaIdQq_k	350	14	https://www.youtube.com/watch?v=ZLMHaIdQq_k&start=350&end=364     	White swan pas de deux (Adagio)
+10	4	QsPnZjdD3XY	116	13	https://www.youtube.com/watch?v=QsPnZjdD3XY&start=116&end=129     	Waltz
+10	5	0GsajWIF3ws	2	10.5	https://www.youtube.com/watch?v=0GsajWIF3ws&start=2&end=12        	Dance of the Cygnets
+10	6	ufu7cGMZSpc	3.5	11	https://www.youtube.com/watch?v=ufu7cGMZSpc&start=3&end=14        	Oboe theme
+						
+11	1	NZgqivymggQ	36	10.3	https://www.youtube.com/watch?v=NZgqivymggQ&start=36&end=46       	Il Combattimento Di Tancredi E Clorinda
+11	2	SyPUJwGEUgA	60	10	https://www.youtube.com/watch?v=SyPUJwGEUgA&start=60&end=70       	L'Orfeo: Tu se morta
+11	3	IiwKjNpiC_o	0.9	11.2	https://www.youtube.com/watch?v=IiwKjNpiC_o&start=0&end=12        	Vespers: Dixit Dominus
+11	4	cDzTlzHCcX0	0.3	12	https://www.youtube.com/watch?v=cDzTlzHCcX0&start=0&end=12        	L'Orfeo: Possente spirto
+11	5	e6tJWY2Vaz4	85	11	https://www.youtube.com/watch?v=e6tJWY2Vaz4&start=85&end=96       	Zefiro torno
+11	6	qm641MrwPN0	20	12	https://www.youtube.com/watch?v=qm641MrwPN0&start=20&end=32       	L'incoronazione di Poppea: Pur ti miro
+11	7	GX7fZe54zzQ	14.5	5.3	https://www.youtube.com/watch?v=GX7fZe54zzQ&start=14&end=19       	L'Orfeo: Prologue: Toccata
+						
+12	1	_EMoSCUoDZI	152	13	https://www.youtube.com/watch?v=_EMoSCUoDZI&start=152&end=165     	Tchaikovsky: Scenes from a Russian Village: Dumka
+12	2	1NF2WOoPzck	5.8	9.4	https://www.youtube.com/watch?v=1NF2WOoPzck&start=5&end=15        	Janáček: Dumka for Violin and Piano
+12	3	_EMoSCUoDZI	5	12.2	https://www.youtube.com/watch?v=_EMoSCUoDZI&start=5&end=17        	Tchaikovsky: Scenes from a Russian Village: Dumka
+12	4	fySDF7G3JXo	50.25	8.7	https://www.youtube.com/watch?v=fySDF7G3JXo&start=50&end=58       	Dvořák: Dumky Trio Mvt. 5
+12	5	WPxygZNtjgo	1.1	9.5	https://www.youtube.com/watch?v=WPxygZNtjgo&start=1&end=10        	Dvořák: Dumky Trio Mvt. 1
+12	6	SInKlybxgQw	0.7	9.5	https://www.youtube.com/watch?v=SInKlybxgQw&start=0&end=10        	Dvořák: Piano Quintet No. 2, Op. 81 Mvt. 2
+12	7	mOzNmrJ6B60	60.8	10.4	https://www.youtube.com/watch?v=mOzNmrJ6B60&start=60&end=71       	Dvořák: Dumky Trio Mvt. 5

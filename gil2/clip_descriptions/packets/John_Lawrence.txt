@@ -1,0 +1,141 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	in7Nhn1H7Zs	3	12	https://www.youtube.com/watch?v=in7Nhn1H7Zs&start=3&end=15        	Léopold Simoneau singing “Un aura amorosa” from Così fan tutte
+1	2	D3t4y977wGk	78	14	https://www.youtube.com/watch?v=D3t4y977wGk&start=78&end=92       	Ben Heppner singing “In fernem land” from Lohengrin
+1	3	MOsfE37jlu8	19	11	https://www.youtube.com/watch?v=MOsfE37jlu8&start=19&end=30       	Jon Vickers singing “Winterstürme” from Die Walküre
+1	4	SvWPM783TOE	572	10	https://www.youtube.com/watch?v=SvWPM783TOE&start=572&end=582     	Glenn Gould playing Brahms’s Piano Concerto No. 1
+1	5	TO0dUQvVd50	2.3	9	https://www.youtube.com/watch?v=TO0dUQvVd50&start=2&end=11        	Marc-André Hamelin’s Nokia Waltz
+1	6	IrJjPYi_vhM	19	8	https://www.youtube.com/watch?v=IrJjPYi_vhM&start=19&end=27       	Glenn Gould playing Prelude I to The Well-Tempered Clavier
+						
+2	1	dRFpjKKzwwU	9.6	9	https://www.youtube.com/watch?v=dRFpjKKzwwU&start=9&end=18        	“He gave them hailstones” from Israel in Egypt
+2	2	7xkIYaAkTjU	1.6	10.4	https://www.youtube.com/watch?v=7xkIYaAkTjU&start=1&end=12        	“Dead March” from Saul
+2	3	-TGKJ9MgCOQ	0.15	9	https://www.youtube.com/watch?v=-TGKJ9MgCOQ&start=0&end=9         	“Arrival of the Queen of Sheba” from Solomon
+2	4	Ok1Hqbfsn0w	15	9	https://www.youtube.com/watch?v=Ok1Hqbfsn0w&start=15&end=24       	“See the Conqu’ring Hero Comes” from Judas Maccabeus
+2	5	kjd3wztqX_c	0.6	11.4	https://www.youtube.com/watch?v=kjd3wztqX_c&start=0&end=12        	“Pifa” from Messiah
+2	6	cp5swlmFAhU	2.2	8	https://www.youtube.com/watch?v=cp5swlmFAhU&start=2&end=10        	“Hallelujah Chorus” from Messiah
+						
+3	1	kgVUipXiqOc	1118	14	https://www.youtube.com/watch?v=kgVUipXiqOc&start=1118&end=1132   	Middle section from Snow Mountain
+3	2	kgVUipXiqOc	691.2	9	https://www.youtube.com/watch?v=kgVUipXiqOc&start=691&end=700     	Looping Steps
+3	3	kgVUipXiqOc	2481	13	https://www.youtube.com/watch?v=kgVUipXiqOc&start=2481&end=2494   	Final Bowser
+3	4	kgVUipXiqOc	2296	9	https://www.youtube.com/watch?v=kgVUipXiqOc&start=2296&end=2305   	Bowser's Theme
+3	5	kgVUipXiqOc	259.4	11.6	https://www.youtube.com/watch?v=kgVUipXiqOc&start=259&end=271     	Main Theme
+3	6	kgVUipXiqOc	571.3	7.7	https://www.youtube.com/watch?v=kgVUipXiqOc&start=571&end=579     	Inside the Castle
+						
+4	1	kh7kUxreFRU	147	10	https://www.youtube.com/watch?v=kh7kUxreFRU&start=147&end=157     	Lyrical theme from the first movement of #2
+4	2	qq8hHs5Ro7g	12	8	https://www.youtube.com/watch?v=qq8hHs5Ro7g&start=12&end=20       	Finale from #2
+4	3	-SpsDsO25M0	674	13.4	https://www.youtube.com/watch?v=-SpsDsO25M0&start=674&end=687     	Tortured piano solo from the first movement of #1
+4	4	546JcYd4nJo	59	12	https://www.youtube.com/watch?v=546JcYd4nJo&start=59&end=71       	Shortly after the piano's entrance in the second movement of #1
+4	5	4q9mX8wAAhU	0.3	9	https://www.youtube.com/watch?v=4q9mX8wAAhU&start=0&end=9         	Finale of #1
+4	6	-SpsDsO25M0	9.25	15	https://www.youtube.com/watch?v=-SpsDsO25M0&start=9&end=24        	Opening of #1
+						
+5	1	dNENWJVC16M	0	9	https://www.youtube.com/watch?v=dNENWJVC16M&start=0&end=9         	Sinfonia da Requiem: II. Dies Irae
+5	2	hw-wc5HxzIg	0	12	https://www.youtube.com/watch?v=hw-wc5HxzIg&start=0&end=12        	Symphony for Cello & Orchestra: IV. Passacaglia. Andante allegro
+5	3	Y3_tvVEgveE	4.9	13	https://www.youtube.com/watch?v=Y3_tvVEgveE&start=4&end=17        	Serenade for tenor, horn & strings: Prologue
+5	4	cDLUVeNeHAA	105	7.3	https://www.youtube.com/watch?v=cDLUVeNeHAA&start=105&end=112     	War Requiem: Dies Irae - Lacrimosa dies illa
+5	5	2X7JDvTarqQ	0.7	7.2	https://www.youtube.com/watch?v=2X7JDvTarqQ&start=0&end=7         	Four Sea Interludes: IV. Storm
+5	6	GenWkFVSZXo	828	10.1	https://www.youtube.com/watch?v=GenWkFVSZXo&start=828&end=838     	The Young Person's Guide to the Orchestra
+5	7	GenWkFVSZXo	5.2	10.8	https://www.youtube.com/watch?v=GenWkFVSZXo&start=5&end=16        	The Young Person's Guide to the Orchestra
+						
+6	1	lZV69zaV2uY	221	12	https://www.youtube.com/watch?v=lZV69zaV2uY&start=221&end=233     	End of Act II
+6	2	ocO_JSTgdWc	90	11	https://www.youtube.com/watch?v=ocO_JSTgdWc&start=90&end=101      	Addio alla madre
+6	3	i8eK053YfA0	24	9	https://www.youtube.com/watch?v=i8eK053YfA0&start=24&end=33       	Il cavallo scalpita
+6	4	_XwtSe-1qRM	141	13	https://www.youtube.com/watch?v=_XwtSe-1qRM&start=141&end=154     	Regina coeli
+6	5	8FMSHRZpVPI	32.9	9.4	https://www.youtube.com/watch?v=8FMSHRZpVPI&start=32&end=42       	Voi le sapete
+6	6	ekZ187l-Vn8	93	13	https://www.youtube.com/watch?v=ekZ187l-Vn8&start=93&end=106      	Intermezzo
+						
+7	1	tTBAj--tlC0	935	11	https://www.youtube.com/watch?v=tTBAj--tlC0&start=935&end=946     	
+7	2	tTBAj--tlC0	683.5	11.8	https://www.youtube.com/watch?v=tTBAj--tlC0&start=683&end=695     	
+7	3	tTBAj--tlC0	239	12	https://www.youtube.com/watch?v=tTBAj--tlC0&start=239&end=251     	
+7	4	tTBAj--tlC0	909	8	https://www.youtube.com/watch?v=tTBAj--tlC0&start=909&end=917     	
+7	5	tTBAj--tlC0	49.6	10.2	https://www.youtube.com/watch?v=tTBAj--tlC0&start=49&end=59       	
+7	6	tTBAj--tlC0	0.3	9	https://www.youtube.com/watch?v=tTBAj--tlC0&start=0&end=9         	
+						
+8	1	JCcbnVNw950	257	12.4	https://www.youtube.com/watch?v=JCcbnVNw950&start=257&end=269     	Show People from Curtains
+8	2	vX3L_Oe07MM	44	10	https://www.youtube.com/watch?v=vX3L_Oe07MM&start=44&end=54       	Ring Them Bells from Liza with a Z
+8	3	oUiZy_mSEog	9	13.4	https://www.youtube.com/watch?v=oUiZy_mSEog&start=9&end=22        	I Don't Care Much from Cabaret
+8	4	c-zEtAuKuUY	12	11	https://www.youtube.com/watch?v=c-zEtAuKuUY&start=12&end=23       	Razzle Dazzle from Chicago
+8	5	EUrUfJW1JGk	24	10	https://www.youtube.com/watch?v=EUrUfJW1JGk&start=24&end=34       	New York, New York
+8	6	hBlB8RAJEEc	28	12	https://www.youtube.com/watch?v=hBlB8RAJEEc&start=28&end=40       	Wilkommen from Cabaret
+						
+9	1	o2QwH6Th4YI	58.7	11.3	https://www.youtube.com/watch?v=o2QwH6Th4YI&start=58&end=70       	Second part of O gemma lux
+9	2	DicJE1my1p8	7.5	9.5	https://www.youtube.com/watch?v=DicJE1my1p8&start=7&end=17        	Gloria from Missa se la face ay pale
+9	3	HNw4Z6GSoHs	1	11	https://www.youtube.com/watch?v=HNw4Z6GSoHs&start=1&end=12        	Ave Regina Coelorum
+9	4	ibSeyIbNGYA	59	13	https://www.youtube.com/watch?v=ibSeyIbNGYA&start=59&end=72       	Kyrie from Missa L'Homme Armé
+9	5	6mcxEtyEUw4	36	12	https://www.youtube.com/watch?v=6mcxEtyEUw4&start=36&end=48       	Ave Maris Stella
+9	6	hGW2HL35kqY	11.8	10.2	https://www.youtube.com/watch?v=hGW2HL35kqY&start=11&end=22       	Nuper rosarum flores opening
+						
+10	1	-MjGpsy_vCU	105	10	https://www.youtube.com/watch?v=-MjGpsy_vCU&start=105&end=115     	
+10	2	gyHSoncc6mE	327	10	https://www.youtube.com/watch?v=gyHSoncc6mE&start=327&end=337     	
+10	3	gyHSoncc6mE	53	12	https://www.youtube.com/watch?v=gyHSoncc6mE&start=53&end=65       	
+10	4	amQN86JbBxo	331	11	https://www.youtube.com/watch?v=amQN86JbBxo&start=331&end=342     	
+10	5	amQN86JbBxo	17	13	https://www.youtube.com/watch?v=amQN86JbBxo&start=17&end=30       	
+10	6	-MjGpsy_vCU	21	10	https://www.youtube.com/watch?v=-MjGpsy_vCU&start=21&end=31       	
+						
+11	1	YBCKaiK9r9E	0.4	9	https://www.youtube.com/watch?v=YBCKaiK9r9E&start=0&end=9         	Autumn in Washington Square
+11	2	V2aJI2fsOQM	1	9	https://www.youtube.com/watch?v=V2aJI2fsOQM&start=1&end=10        	Autumn Nocturne
+11	3	d61NTbWLMOE	19	11	https://www.youtube.com/watch?v=d61NTbWLMOE&start=19&end=30       	Autumn Serenade
+11	4	LVqJfSf-TTg	6	16	https://www.youtube.com/watch?v=LVqJfSf-TTg&start=6&end=22        	Early Autumn
+11	5	r1E31yVClW4	23	17	https://www.youtube.com/watch?v=r1E31yVClW4&start=23&end=40       	Autumn in New York
+11	6	Gsz3mrnIBd0	2.6	9.4	https://www.youtube.com/watch?v=Gsz3mrnIBd0&start=2&end=12        	Autumn Leaves
+						
+12	1	sMQzeUfl0k4	222.5	9.5	https://www.youtube.com/watch?v=sMQzeUfl0k4&start=222&end=232     	Dvořák: The Golden Spinning Wheel
+12	2	3ULtytH7u8c	200	12	https://www.youtube.com/watch?v=3ULtytH7u8c&start=200&end=212     	Saint-Saëns: Le Rouet d'Omphale
+12	3	sMQzeUfl0k4	66	12	https://www.youtube.com/watch?v=sMQzeUfl0k4&start=66&end=78       	Dvořák: The Golden Spinning Wheel
+12	4	3ULtytH7u8c	58	11	https://www.youtube.com/watch?v=3ULtytH7u8c&start=58&end=69       	Saint-Saëns: Le Rouet d'Omphale
+12	5	fTDIfoTnl3A	111	8	https://www.youtube.com/watch?v=fTDIfoTnl3A&start=111&end=119     	Schubert: Gretchen am Spinnrade
+12	6	fTDIfoTnl3A	0.5	9.8	https://www.youtube.com/watch?v=fTDIfoTnl3A&start=0&end=10        	Schubert: Gretchen am Spinnrade
+						
+13	1	3hWOw9J2XTI	232	10	https://www.youtube.com/watch?v=3hWOw9J2XTI&start=232&end=242     	Overtura di Ballo
+13	2	qF7qPJ-pCxw	15	12	https://www.youtube.com/watch?v=qF7qPJ-pCxw&start=15&end=27       	Overture to The Grand Duke
+13	3	1CzZNzQeyqM	28	13	https://www.youtube.com/watch?v=1CzZNzQeyqM&start=28&end=41       	Entry of the Peers from Iolanthe
+13	4	N4ooT38u92A	2	13	https://www.youtube.com/watch?v=N4ooT38u92A&start=2&end=15        	Overture to The Yeomen of the Guard
+13	5	wpcg63RVpuM	0.55	11	https://www.youtube.com/watch?v=wpcg63RVpuM&start=0&end=11        	With Cat-Like Tread from The Pirates of Penzance
+13	6	Zr79IrTpJQE	0.3	8.9	https://www.youtube.com/watch?v=Zr79IrTpJQE&start=0&end=9         	A More Humane Mikado from The Mikado
+						
+14	1	o1jd86UR8cw	0.7	9	https://www.youtube.com/watch?v=o1jd86UR8cw&start=0&end=9         	Piano Sextet in D major, Op. 110: IV. Allegro vivace
+14	2	hEQsjAVtZYY	87	11	https://www.youtube.com/watch?v=hEQsjAVtZYY&start=87&end=98       	Violin Sonata in F minor, Op. 4: I. Allegro moderato
+14	3	f4-IILDICQY	2	11	https://www.youtube.com/watch?v=f4-IILDICQY&start=2&end=13        	Piano Trio No. 2 in C minor, Op. 66: IV. Finale
+14	4	WuxU02_m_us	0.5	10.5	https://www.youtube.com/watch?v=WuxU02_m_us&start=0&end=11        	Piano Trio No. 1 in D minor, Op. 49: II. Andante con moto tranquillo
+14	5	x7ITrSfdsGY	10.8	11	https://www.youtube.com/watch?v=x7ITrSfdsGY&start=10&end=21       	Octet in E-flat major: IV. Finale
+14	6	KNgB0eelEIY	0.3	9	https://www.youtube.com/watch?v=KNgB0eelEIY&start=0&end=9         	Octet in E-flat major: III. Scherzo
+						
+15	1	Aiyycl48dL4	0	10	https://www.youtube.com/watch?v=Aiyycl48dL4&start=0&end=10        	Ballet from Brigadoon
+15	2	_u75uqXMroQ	0	9	https://www.youtube.com/watch?v=_u75uqXMroQ&start=0&end=9         	Waltzes from Fall River Legend
+15	3	2D1loAVwiMc	74	18	https://www.youtube.com/watch?v=2D1loAVwiMc&start=74&end=92       	Dream ballet from Oklahoma
+15	4	94O1pTEicEc	0	11	https://www.youtube.com/watch?v=94O1pTEicEc&start=0&end=11        	Dream ballet from Carousel
+15	5	gSMmwOqo0rY	1	9	https://www.youtube.com/watch?v=gSMmwOqo0rY&start=1&end=10        	Rodeo: Buckaroo Holiday
+15	6	6BYWW8eF8Ao	32	9	https://www.youtube.com/watch?v=6BYWW8eF8Ao&start=32&end=41       	Rodeo: Hoedown
+						
+16	1	Y3IhJBF5VK8	115.2	9	https://www.youtube.com/watch?v=Y3IhJBF5VK8&start=115&end=124     	Love duet
+16	2	jYNfTcQxKvo	68.2	11.8	https://www.youtube.com/watch?v=jYNfTcQxKvo&start=68&end=80       	L'orage s'est calmé
+16	3	q5N5qWfrMY4	100	17	https://www.youtube.com/watch?v=q5N5qWfrMY4&start=100&end=117     	Comme autrefois
+16	4	I4DsToj4Ilk	29.3	11.7	https://www.youtube.com/watch?v=I4DsToj4Ilk&start=29&end=41       	Je crois entendre encore
+16	5	hVR2hkGtKmw	389.4	15	https://www.youtube.com/watch?v=hVR2hkGtKmw&start=389&end=404     	Au fond du temple saint
+						
+17	1	6YFfBCX6860	12.8	13	https://www.youtube.com/watch?v=6YFfBCX6860&start=12&end=25       	Second Movement from Los Angeles Symphony
+17	2	n_FO_2HyOeE	0.5	7.5	https://www.youtube.com/watch?v=n_FO_2HyOeE&start=0&end=8         	Credo from Berliner Messe
+17	3	vu1BcNeebMI	13.5	11.5	https://www.youtube.com/watch?v=vu1BcNeebMI&start=13&end=25       	Tabula Rasa
+17	4	TzIZPZN5K60	10.3	12.7	https://www.youtube.com/watch?v=TzIZPZN5K60&start=10&end=23       	Für Alina
+17	5	7vdgZAJVnes	2.05	8.8	https://www.youtube.com/watch?v=7vdgZAJVnes&start=2&end=10        	Fratres
+17	6	TJ6Mzvh3XCc	15	9	https://www.youtube.com/watch?v=TJ6Mzvh3XCc&start=15&end=24       	Spiegel im Spiegel
+						
+18	1	rNeirjA65Dk	823	12	https://www.youtube.com/watch?v=rNeirjA65Dk&start=823&end=835     	
+18	2	rNeirjA65Dk	957	7	https://www.youtube.com/watch?v=rNeirjA65Dk&start=957&end=964     	
+18	3	rNeirjA65Dk	461.8	9.4	https://www.youtube.com/watch?v=rNeirjA65Dk&start=461&end=471     	
+18	4	rNeirjA65Dk	57.07	11	https://www.youtube.com/watch?v=rNeirjA65Dk&start=57&end=68       	
+18	5	rNeirjA65Dk	917.7	7.8	https://www.youtube.com/watch?v=rNeirjA65Dk&start=917&end=925     	
+18	6	rNeirjA65Dk	8	8.7	https://www.youtube.com/watch?v=rNeirjA65Dk&start=8&end=16        	
+						
+19	1	XIVLVHHelRY	414	8	https://www.youtube.com/watch?v=XIVLVHHelRY&start=414&end=422     	Jota aragonesa
+19	2	7NGdkEvLmBk	13.9	8.7	https://www.youtube.com/watch?v=7NGdkEvLmBk&start=13&end=22       	Mazurka from A Life for the Tsar
+19	3	dMOhbjD0vVk	371	10	https://www.youtube.com/watch?v=dMOhbjD0vVk&start=371&end=381     	Kamarinskaya
+19	4	sgGzqAwGA8w	1	12	https://www.youtube.com/watch?v=sgGzqAwGA8w&start=1&end=13        	Glory to Our Tsar from A Life for the Tsar
+19	5	ogUsW9C2GnY	61	13	https://www.youtube.com/watch?v=ogUsW9C2GnY&start=61&end=74       	Secondary Theme from the Overture to Ruslan and Ludmilla
+19	6	ogUsW9C2GnY	14	13	https://www.youtube.com/watch?v=ogUsW9C2GnY&start=14&end=27       	Main Theme from the Overture to Ruslan and Ludmilla
+						
+20	1	8Cefg7yg7oo	471	12	https://www.youtube.com/watch?v=8Cefg7yg7oo&start=471&end=483     	Enescu: Roumanian Rhapsody in D, Op. 11 No. 2
+20	2	WefQWBd9VKY	390	9	https://www.youtube.com/watch?v=WefQWBd9VKY&start=390&end=399     	Enescu: Roumanian Rhapsody in A, Op. 11 No. 1
+20	3	WefQWBd9VKY	100	12	https://www.youtube.com/watch?v=WefQWBd9VKY&start=100&end=112     	Enescu: Roumanian Rhapsody in A, Op. 11 No. 1
+20	4	vq3B4upv7Sg	7	11	https://www.youtube.com/watch?v=vq3B4upv7Sg&start=7&end=18        	Liszt: Hungarian Rhapsody No. 6 in D-flat major
+20	5	WQE-lcT6FNc	81	10	https://www.youtube.com/watch?v=WQE-lcT6FNc&start=81&end=91       	Liszt: Hungarian Rhapsody No. 2 in C-sharp minor
+20	6	WQE-lcT6FNc	365	10	https://www.youtube.com/watch?v=WQE-lcT6FNc&start=365&end=375     	Liszt: Hungarian Rhapsody No. 2 in C-sharp minor
+						

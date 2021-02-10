@@ -1,0 +1,93 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	m7dDE6fP0Uk	678.6	10.2	https://www.youtube.com/watch?v=m7dDE6fP0Uk&start=678&end=688     	Piano Concerto No. 1: III.
+1	2	CRiO-GMA138	465.9	9.4	https://www.youtube.com/watch?v=CRiO-GMA138&start=465&end=475     	Violin Sonata No. 2: II.
+1	3	5rfle8wSwJM	123	11	https://www.youtube.com/watch?v=5rfle8wSwJM&start=123&end=134     	Piano Sonata No. 7: III.
+1	4	SSihvfCV5a4	757.05	12	https://www.youtube.com/watch?v=SSihvfCV5a4&start=757&end=769     	Symphony No. 5: II.
+1	5	2ntRJCqQiFw	3.5	11.5	https://www.youtube.com/watch?v=2ntRJCqQiFw&start=3&end=15        	Symphony No. 1: IV.
+1	6	DUmq1cpcglQ	10	9	https://www.youtube.com/watch?v=DUmq1cpcglQ&start=10&end=19       	Romeo and Juliet: Dance of the Knights
+						
+2	1	G7SB3CgZWk0	131.7	11	https://www.youtube.com/watch?v=G7SB3CgZWk0&start=131&end=142     	Verdi: Il corsaro: Egli non riede ancora! Non so le tetre immagini
+2	2	d7kez0F0UJ4	3	11	https://www.youtube.com/watch?v=d7kez0F0UJ4&start=3&end=14        	Berlioz: Le Corsaire
+2	3	Q4NC4E5RXik	990	11	https://www.youtube.com/watch?v=Q4NC4E5RXik&start=990&end=1001    	Berlioz: Harold en Italie: Pilgrim's March
+2	4	-S9JGVylu_o	3.2	10.8	https://www.youtube.com/watch?v=-S9JGVylu_o&start=3&end=14        	Tchaikovsky: Manfred Symphony: III.
+2	5	Q4NC4E5RXik	1855.1	9	https://www.youtube.com/watch?v=Q4NC4E5RXik&start=1855&end=1864   	Berlioz: Harold en Italie: Orgy of the Brigands
+2	6	Ush1Owo5fgQ	3	9.2	https://www.youtube.com/watch?v=Ush1Owo5fgQ&start=3&end=12        	Tchaikovsky: Manfred Symphony: I.
+2	7	Q4NC4E5RXik	228.2	12	https://www.youtube.com/watch?v=Q4NC4E5RXik&start=228&end=240     	Berlioz: Harold en Italie: Harold in the Mountains (viola and harp main theme)
+						
+3	1	f9RfZmtYRs4	20.7	9.6	https://www.youtube.com/watch?v=f9RfZmtYRs4&start=20&end=30       	Soundtrack 1
+3	2	J6hCnaVS9bo	0	8	https://www.youtube.com/watch?v=J6hCnaVS9bo&start=0&end=8         	Soundtrack 2
+3	3	mx8TX6dd4Ok	8	12.6	https://www.youtube.com/watch?v=mx8TX6dd4Ok&start=8&end=20        	Soundtrack 3
+3	4	BVkWCHgOxw8	93.9	9.3	https://www.youtube.com/watch?v=BVkWCHgOxw8&start=93&end=103      	Tchaikovsky: Pathétique (funeral scene)
+3	5	p_CAdKtXLvs	325	11	https://www.youtube.com/watch?v=p_CAdKtXLvs&start=325&end=336     	Mozart: Piano Concerto No. 23: III. (performed by Maria Yudina)
+3	6	6l0bsTNsnX0	1.7	9.5	https://www.youtube.com/watch?v=6l0bsTNsnX0&start=1&end=11        	Mozart: Piano Concerto No. 23: II. (performed by Maria Yudina)
+						
+4	1	QSNu5Zh8wOE	2722	11	https://www.youtube.com/watch?v=QSNu5Zh8wOE&start=2722&end=2733   	Mahler: Symphony No. 7: IV.
+4	2	YwD7JcpRe0w	1983.4	10.2	https://www.youtube.com/watch?v=YwD7JcpRe0w&start=1983&end=1993   	Dvořák: Symphony No. 7: IV.
+4	3	YwD7JcpRe0w	43	10.3	https://www.youtube.com/watch?v=YwD7JcpRe0w&start=43&end=53       	Dvořák: Symphony No. 7: I.
+4	4	vRHZu5xoIe0	2843	11.5	https://www.youtube.com/watch?v=vRHZu5xoIe0&start=2843&end=2854   	Shostakovich: Symphony No. 7: III.
+4	5	QSNu5Zh8wOE	11	9	https://www.youtube.com/watch?v=QSNu5Zh8wOE&start=11&end=20       	Mahler: Symphony No. 7: I.
+4	6	vRHZu5xoIe0	560	11	https://www.youtube.com/watch?v=vRHZu5xoIe0&start=560&end=571     	Shostakovich: Symphony No. 7: I. (invasion theme)
+						
+5	1	8NZ3mZLSO0s	977.8	13.6	https://www.youtube.com/watch?v=8NZ3mZLSO0s&start=977&end=991     	Brahms: Intermezzo Op. 76 No. 5 in A major
+5	2	w4nnjhHe15U	489	11.2	https://www.youtube.com/watch?v=w4nnjhHe15U&start=489&end=500     	Brahms: Intermezzo Op. 117 No. 2 in B-flat minor
+5	3	eCJWm9lJQxQ	2.2	8	https://www.youtube.com/watch?v=eCJWm9lJQxQ&start=2&end=10        	Schumann: Faschingsschwank aus Wien: IV. Intermezzo
+5	4	WXnojYMsYmA	87	11	https://www.youtube.com/watch?v=WXnojYMsYmA&start=87&end=98       	Brahms: Intermezzo Op. 118 No. 1 in A minor
+5	5	7OvsVSWB4TI	10.1	10.2	https://www.youtube.com/watch?v=7OvsVSWB4TI&start=10&end=20       	Cavalleria Rusticana: Intermezzo
+5	6	WXnojYMsYmA	116.8	8.8	https://www.youtube.com/watch?v=WXnojYMsYmA&start=116&end=125     	Brahms: Intermezzo Op. 118 No. 2 in A major
+						
+6	1	ZJQiqTELwwI	683	9	https://www.youtube.com/watch?v=ZJQiqTELwwI&start=683&end=692     	Mendelssohn: Variations sérieuses
+6	2	vZTSzvcW9q8	291	10	https://www.youtube.com/watch?v=vZTSzvcW9q8&start=291&end=301     	Rachmaninoff: Variations on a Theme of Corelli
+6	3	5P8xoE4gAL0	1781	11	https://www.youtube.com/watch?v=5P8xoE4gAL0&start=1781&end=1792   	Chopin: Variations on La ci darem la mano
+6	4	5P8xoE4gAL0	1024	13	https://www.youtube.com/watch?v=5P8xoE4gAL0&start=1024&end=1037   	Chopin: Variations on La ci darem la mano
+6	5	xyhxeo6zLAM	218	7	https://www.youtube.com/watch?v=xyhxeo6zLAM&start=218&end=225     	Mozart: Variations on Ah, vous dirais-je, Maman
+6	6	Ah392lnFHxM	1.9	9	https://www.youtube.com/watch?v=Ah392lnFHxM&start=1&end=10        	Bach: Goldberg Variations
+						
+7	1	ebuYi65VwZY	173.3	13.4	https://www.youtube.com/watch?v=ebuYi65VwZY&start=173&end=186     	Prelude Chorale and Fugue
+7	2	_XrWnggqboM	24.3	11.9	https://www.youtube.com/watch?v=_XrWnggqboM&start=24&end=36       	Symphonic Variations
+7	3	uRWFjK11lfw	1696.45	10.5	https://www.youtube.com/watch?v=uRWFjK11lfw&start=1696&end=1706   	Symphony in D minor: III.
+7	4	YCp5XC2rsEM	923	11	https://www.youtube.com/watch?v=YCp5XC2rsEM&start=923&end=934     	Violin Sonata in A major: III.
+7	5	uRWFjK11lfw	184	8.2	https://www.youtube.com/watch?v=uRWFjK11lfw&start=184&end=192     	Symphony in D minor: I.
+7	6	YCp5XC2rsEM	407	11	https://www.youtube.com/watch?v=YCp5XC2rsEM&start=407&end=418     	Violin Sonata in A major: II.
+						
+8	1	GUPPI0SrAmc	3777	10	https://www.youtube.com/watch?v=GUPPI0SrAmc&start=3777&end=3787   	Offstage congregation
+8	2	GUPPI0SrAmc	7794	14	https://www.youtube.com/watch?v=GUPPI0SrAmc&start=7794&end=7808   	Interlude VI (Fog)
+8	3	GUPPI0SrAmc	3160.3	11	https://www.youtube.com/watch?v=GUPPI0SrAmc&start=3160&end=3171   	Round in The Boar
+8	4	GUPPI0SrAmc	106.1	9	https://www.youtube.com/watch?v=GUPPI0SrAmc&start=106&end=115     	Courtroom
+8	5	GUPPI0SrAmc	2193	10.2	https://www.youtube.com/watch?v=GUPPI0SrAmc&start=2193&end=2203   	Interlude II (The Storm)
+8	6	GUPPI0SrAmc	8334	11	https://www.youtube.com/watch?v=GUPPI0SrAmc&start=8334&end=8345   	Peter Grimes!
+						
+9	1	I06-fQMxxeo	251.7	9.5	https://www.youtube.com/watch?v=I06-fQMxxeo&start=251&end=261     	Sibelius: Pelléas et Mélisande Suite: II. Melisande
+9	2	tJfYOvMCjEk	368	13	https://www.youtube.com/watch?v=tJfYOvMCjEk&start=368&end=381     	Schoenberg: Pelleas und Melisande: Anfang
+9	3	_Dv3ZPDMRKU	45.3	12	https://www.youtube.com/watch?v=_Dv3ZPDMRKU&start=45&end=57       	Debussy: Pelléas et Mélisande Suite: Intro
+9	4	Lh2OC8uNV6Y	30	10	https://www.youtube.com/watch?v=Lh2OC8uNV6Y&start=30&end=40       	Fauré: Pelléas et Mélisande Suite: I. Prelude
+9	5	FfdGld1Okls	59	10	https://www.youtube.com/watch?v=FfdGld1Okls&start=59&end=69       	Debussy: Pelléas et Mélisande Act III: “Mes longs cheveux descendent”
+9	6	K-ucDjeG_XM	7.8	8	https://www.youtube.com/watch?v=K-ucDjeG_XM&start=7&end=15        	Fauré: Pelléas et Mélisande Suite: III. Sicilienne
+						
+10	1	4ny5cSEDDc4	62	8	https://www.youtube.com/watch?v=4ny5cSEDDc4&start=62&end=70       	Ah Perfido
+10	2	iOi5BFvpGCo	187	13	https://www.youtube.com/watch?v=iOi5BFvpGCo&start=187&end=200     	Cantata on the Death of Emperor Joseph II
+10	3	NlLYBzkXIrc	30	11.8	https://www.youtube.com/watch?v=NlLYBzkXIrc&start=30&end=41       	Christ on the Mount of Olives: Hallelujah
+10	4	GjXBKR4iDS8	1213	10	https://www.youtube.com/watch?v=GjXBKR4iDS8&start=1213&end=1223   	Choral Fantasy
+10	5	FNXMVzH_Dys	71	10	https://www.youtube.com/watch?v=FNXMVzH_Dys&start=71&end=81       	Missa Solemnis: Kyrie
+10	6	-kcOpyM9cBg	440	9	https://www.youtube.com/watch?v=-kcOpyM9cBg&start=440&end=449     	Symphony No. 9: IV.
+						
+11	1	_dWchGS4SeY	4.5	10.3	https://www.youtube.com/watch?v=_dWchGS4SeY&start=4&end=14        	Gliding Through my Memory
+11	2	BL0q2IZvNyY	30	9	https://www.youtube.com/watch?v=BL0q2IZvNyY&start=30&end=39       	Like a God
+11	3	xq74NnyNoDg	14	11	https://www.youtube.com/watch?v=xq74NnyNoDg&start=14&end=25       	Love Look Away
+11	4	9p5MRGQP5e4	31.1	9	https://www.youtube.com/watch?v=9p5MRGQP5e4&start=31&end=40       	A Hundred Million Miracles
+11	5	H8ScHTQ5uMs	40.5	11.8	https://www.youtube.com/watch?v=H8ScHTQ5uMs&start=40&end=52       	I Enjoy Being a Girl
+11	6	fx7G3_OyVGI	1	12	https://www.youtube.com/watch?v=fx7G3_OyVGI&start=1&end=13        	Grant Avenue
+						
+12	1	-HZ8ovW-STk	18.4	10	https://www.youtube.com/watch?v=-HZ8ovW-STk&start=18&end=28       	Salonen: L.A. Variations
+12	2	IiVW5r8J5Dk	102	10	https://www.youtube.com/watch?v=IiVW5r8J5Dk&start=102&end=112     	Lincke: Berliner Luft
+12	3	ot3g41rHFqU	1380	10	https://www.youtube.com/watch?v=ot3g41rHFqU&start=1380&end=1390   	Mozart: Symphony No. 38 in D major “Prague”: III. (finale)
+12	4	0Uv4lJsu0Jw	204	10	https://www.youtube.com/watch?v=0Uv4lJsu0Jw&start=204&end=214     	Vaughan Williams: Symphony No. 2 “A London Symphony”: I.
+12	5	N1FUw5whO-4	1.2	9	https://www.youtube.com/watch?v=N1FUw5whO-4&start=1&end=10        	Haydn: Symphony No. 104 “London”: I.
+12	6	mdve48nptNk	1	10	https://www.youtube.com/watch?v=mdve48nptNk&start=1&end=11        	Respighi: Pines of Rome
+						
+13	1	zMf9XDQBAaI	2824.8	10.6	https://www.youtube.com/watch?v=zMf9XDQBAaI&start=2824&end=2835   	Betrachte, meine Seele (Arioso)
+13	2	zMf9XDQBAaI	3539	10	https://www.youtube.com/watch?v=zMf9XDQBAaI&start=3539&end=3549   	Wir haben ein Gesetz (Chorus)
+13	3	zMf9XDQBAaI	6252	11.3	https://www.youtube.com/watch?v=zMf9XDQBAaI&start=6252&end=6263   	Ruht voll (Chorus)
+13	4	zMf9XDQBAaI	784.15	11.3	https://www.youtube.com/watch?v=zMf9XDQBAaI&start=784&end=795     	O große Lieb (Chorale)
+13	5	zMf9XDQBAaI	4876	12.5	https://www.youtube.com/watch?v=zMf9XDQBAaI&start=4876&end=4888   	Es ist vollbracht (Aria)
+13	6	zMf9XDQBAaI	650	10.2	https://www.youtube.com/watch?v=zMf9XDQBAaI&start=650&end=660     	Judas betraying Jesus (Recitative)
+						

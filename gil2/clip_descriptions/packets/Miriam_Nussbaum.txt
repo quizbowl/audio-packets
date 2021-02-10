@@ -1,0 +1,234 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	KHt4PFKiQE0	0.7	12.5	https://www.youtube.com/watch?v=KHt4PFKiQE0&start=0&end=13        	Clarinet Sonata opening
+1	2	3USIIx7-QXQ	160	16	https://www.youtube.com/watch?v=3USIIx7-QXQ&start=160&end=176     	Orient and Occident
+1	3	Ktt7s7yDGxc	20.3	13	https://www.youtube.com/watch?v=Ktt7s7yDGxc&start=20&end=33       	Christmas Oratorio
+1	4	5LOFhsksAYw	189	10.3	https://www.youtube.com/watch?v=5LOFhsksAYw&start=189&end=199     	Carnival of the Animals – Hémiones
+1	5	YyknBTm_YyM	55.2	6.8	https://www.youtube.com/watch?v=YyknBTm_YyM&start=55&end=62       	Danse Macabre
+1	6	3qrKjywjo7Q	10	11	https://www.youtube.com/watch?v=3qrKjywjo7Q&start=10&end=21       	Carnival of the Animals – The Swan
+						
+2	1	zfP29uN33L8	619.7	7.5	https://www.youtube.com/watch?v=zfP29uN33L8&start=619&end=627     	mvt 2 clarinet thing
+2	2	zfP29uN33L8	1353	5	https://www.youtube.com/watch?v=zfP29uN33L8&start=1353&end=1358   	mvt 3 woodwind dovetailing thing
+2	3	zfP29uN33L8	328	6	https://www.youtube.com/watch?v=zfP29uN33L8&start=328&end=334     	mvt 1 F♯ major section
+2	4	zfP29uN33L8	1825	9	https://www.youtube.com/watch?v=zfP29uN33L8&start=1825&end=1834   	mvt 4 C minor section
+2	5	zfP29uN33L8	787.6	12.7	https://www.youtube.com/watch?v=zfP29uN33L8&start=787&end=800     	mvt 2 flute/oboe
+2	6	zfP29uN33L8	1609.8	8.2	https://www.youtube.com/watch?v=zfP29uN33L8&start=1609&end=1618   	mvt 4 opening
+2	7	zfP29uN33L8	34	10	https://www.youtube.com/watch?v=zfP29uN33L8&start=34&end=44       	mvt 1 flute solo
+2	8	zfP29uN33L8	1640.2	10	https://www.youtube.com/watch?v=zfP29uN33L8&start=1640&end=1650   	mvt 4 cello theme
+						
+3	1	VT_Dv5VWy2A	43.35	14.6	https://www.youtube.com/watch?v=VT_Dv5VWy2A&start=43&end=57       	Price – Symphony No. 3
+3	2	3PDMKV2pdxk	1.8	20	https://www.youtube.com/watch?v=3PDMKV2pdxk&start=1&end=21        	Copland – Inscape
+3	3	W9NTlug1xgI	169	10	https://www.youtube.com/watch?v=W9NTlug1xgI&start=169&end=179     	Schuman – When Jesus Wept
+3	4	VRoXE2IOyP0	353	10	https://www.youtube.com/watch?v=VRoXE2IOyP0&start=353&end=363     	Reich – Tehillim
+3	5	CBZM_x2N_RI	241	8	https://www.youtube.com/watch?v=CBZM_x2N_RI&start=241&end=249     	Adams – Grand Pianola Music
+3	6	VEMyj-8I3pw	82	12	https://www.youtube.com/watch?v=VEMyj-8I3pw&start=82&end=94       	Copland – Fanfare for the Common Man
+						
+4	1	8UGbVAGtGVI	150	15.4	https://www.youtube.com/watch?v=8UGbVAGtGVI&start=150&end=165     	sacristan
+4	2	ImIcwpL3Yh4	111	15.3	https://www.youtube.com/watch?v=ImIcwpL3Yh4&start=111&end=126     	Io de sospiri
+4	3	hxdiJ74AL5Y	17	12.3	https://www.youtube.com/watch?v=hxdiJ74AL5Y&start=17&end=29       	E lucevan le stelle clarinet solo
+4	4	0euYKIMfV4I	155	15.4	https://www.youtube.com/watch?v=0euYKIMfV4I&start=155&end=170     	Te Deum
+4	5	FR6m8hgr0v0	24.85	5.5	https://www.youtube.com/watch?v=FR6m8hgr0v0&start=24&end=30       	Scarpia motif
+4	6	zXQvPwYYVBI	3.3	6.5	https://www.youtube.com/watch?v=zXQvPwYYVBI&start=3&end=9         	Vissi d'arte
+						
+5	1	5iG0zcR045U	200	4	https://www.youtube.com/watch?v=5iG0zcR045U&start=200&end=204     	Maestro's broken baton
+5	2	Oe-DI7n5iPA	4	15	https://www.youtube.com/watch?v=Oe-DI7n5iPA&start=4&end=19        	Miss Rhode Island
+5	3	tUd8Qs_DAZ0	5	3	https://www.youtube.com/watch?v=tUd8Qs_DAZ0&start=5&end=8         	Get Well Soon song
+5	4	yg-TqEFYcfM	14	10.6	https://www.youtube.com/watch?v=yg-TqEFYcfM&start=14&end=24       	George's answering machine
+5	5	ngcotxUZA9E	38	8	https://www.youtube.com/watch?v=ngcotxUZA9E&start=38&end=46       	Newman singing with truck on fire
+5	6	eje2Eh37DxM	31	10	https://www.youtube.com/watch?v=eje2Eh37DxM&start=31&end=41       	Rochelle Rochelle: The Musical
+5	7	_V2sBURgUBI	0.6	11.5	https://www.youtube.com/watch?v=_V2sBURgUBI&start=0&end=12        	theme song
+						
+6	1	cGPQLXPV5wE	640	7	https://www.youtube.com/watch?v=cGPQLXPV5wE&start=640&end=647     	Paleozoic
+6	2	cGPQLXPV5wE	757	11	https://www.youtube.com/watch?v=cGPQLXPV5wE&start=757&end=768     	flute cadenza (Cenozoic)
+6	3	cGPQLXPV5wE	399.2	12	https://www.youtube.com/watch?v=cGPQLXPV5wE&start=399&end=411     	seagull effect and chisel piano
+6	4	cGPQLXPV5wE	869	10	https://www.youtube.com/watch?v=cGPQLXPV5wE&start=869&end=879     	whistling with crotales
+6	5	cGPQLXPV5wE	1221.7	7	https://www.youtube.com/watch?v=cGPQLXPV5wE&start=1221&end=1228   	Nocturne
+6	6	cGPQLXPV5wE	900.25	14.8	https://www.youtube.com/watch?v=cGPQLXPV5wE&start=900&end=915     	theme
+6	7	cGPQLXPV5wE	7.45	12	https://www.youtube.com/watch?v=cGPQLXPV5wE&start=7&end=19        	opening
+						
+7	1	DYl36pxWbME	113	13.3	https://www.youtube.com/watch?v=DYl36pxWbME&start=113&end=126     	Le roi s'amuse – Gaillarde
+7	2	U8BMcPjZcUw	225	8	https://www.youtube.com/watch?v=U8BMcPjZcUw&start=225&end=233     	Sylvia – Cortège de Bacchus
+7	3	dixdXcZouZ8	4	9.4	https://www.youtube.com/watch?v=dixdXcZouZ8&start=4&end=13        	Coppélia – waltz variation
+7	4	2wxaMTc3RJE	155	8	https://www.youtube.com/watch?v=2wxaMTc3RJE&start=155&end=163     	Coppélia – Mazurka
+7	5	gMO0KFL3E58	161	15	https://www.youtube.com/watch?v=gMO0KFL3E58&start=161&end=176     	Lakmé – Bell Song
+7	6	C1ZL5AxmK_A	65.4	10.6	https://www.youtube.com/watch?v=C1ZL5AxmK_A&start=65&end=76       	Lakmé – Flower Duet
+						
+8	1	owOddl5Cqr0	13	11	https://www.youtube.com/watch?v=owOddl5Cqr0&start=13&end=24       	Marx – Romantic Concerto
+8	2	8H6abSJnTwg	0.75	7.4	https://www.youtube.com/watch?v=8H6abSJnTwg&start=0&end=8         	Howard Hanson – Symphony No. 2 (2nd mvt.)
+8	3	gljRZ-3BlcM	932.45	11	https://www.youtube.com/watch?v=gljRZ-3BlcM&start=932&end=943     	Bruckner – Symphony No. 4 (2nd mvt.)
+8	4	hGgznzG5Ygc	280	10	https://www.youtube.com/watch?v=hGgznzG5Ygc&start=280&end=290     	Hanson 1st mvt.
+8	5	pCW0vRNT4-E	284.4	9.9	https://www.youtube.com/watch?v=pCW0vRNT4-E&start=284&end=294     	Bruckner 4 – Hunt Scherzo (trio)
+8	6	gljRZ-3BlcM	92	7	https://www.youtube.com/watch?v=gljRZ-3BlcM&start=92&end=99       	Bruckner 1st mvt.
+8	7	pCW0vRNT4-E	25	4	https://www.youtube.com/watch?v=pCW0vRNT4-E&start=25&end=29       	brass thing from Hunt Scherzo
+8	8	pCW0vRNT4-E	190.4	12.3	https://www.youtube.com/watch?v=pCW0vRNT4-E&start=190&end=202     	Hunt Scherzo main motive
+						
+9	1	aDFGmiXnLjU	126.35	6	https://www.youtube.com/watch?v=aDFGmiXnLjU&start=126&end=132     	loud brass stuff
+9	2	aDFGmiXnLjU	292	6.5	https://www.youtube.com/watch?v=aDFGmiXnLjU&start=292&end=298     	strings near end
+9	3	aDFGmiXnLjU	330	9	https://www.youtube.com/watch?v=aDFGmiXnLjU&start=330&end=339     	C minor over E near end
+9	4	aDFGmiXnLjU	199	8.3	https://www.youtube.com/watch?v=aDFGmiXnLjU&start=199&end=207     	winds in thirds
+9	5	aDFGmiXnLjU	36	12	https://www.youtube.com/watch?v=aDFGmiXnLjU&start=36&end=48       	toward beginning
+9	6	aDFGmiXnLjU	95	9	https://www.youtube.com/watch?v=aDFGmiXnLjU&start=95&end=104      	horn melody
+9	7	aDFGmiXnLjU	169	7	https://www.youtube.com/watch?v=aDFGmiXnLjU&start=169&end=176     	later theme
+9	8	YIoVT1sV18w	1.7	10.3	https://www.youtube.com/watch?v=YIoVT1sV18w&start=1&end=12        	beginning
+						
+10	1	tDl3bdE3YQA	156	14	https://www.youtube.com/watch?v=tDl3bdE3YQA&start=156&end=170     	Edie Brickell – What I Am
+10	2	5SddPqhPTwk	20	6	https://www.youtube.com/watch?v=5SddPqhPTwk&start=20&end=26       	Ray Charles – Am I Blue
+10	3	5SddPqhPTwk	71	10	https://www.youtube.com/watch?v=5SddPqhPTwk&start=71&end=81       	more Am I Blue
+10	4	APF7vzg6ov8	103	11.5	https://www.youtube.com/watch?v=APF7vzg6ov8&start=103&end=114     	Where Is Love (Oliver)
+10	5	NNH0ZGAcCrE	114	12	https://www.youtube.com/watch?v=NNH0ZGAcCrE&start=114&end=126     	Who Am I (Les Mis)
+10	6	M9BNoNFKCBI	18	11.5	https://www.youtube.com/watch?v=M9BNoNFKCBI&start=18&end=29       	We Are the World
+						
+11	1	iGr7iq1YN_Y	7.4	8.7	https://www.youtube.com/watch?v=iGr7iq1YN_Y&start=7&end=16        	Psalm 24
+11	2	vvvlnnm5vxc	486	16.4	https://www.youtube.com/watch?v=vvvlnnm5vxc&start=486&end=502     	Vieille priere bouddhique (end)
+11	3	gYj3nP6l6DA	309	20	https://www.youtube.com/watch?v=gYj3nP6l6DA&start=309&end=329     	De profundis
+11	4	vvvlnnm5vxc	4	9.1	https://www.youtube.com/watch?v=vvvlnnm5vxc&start=4&end=13        	Vieille priere bouddhique (beginning)
+11	5	i4JeeXilFKo	299	10	https://www.youtube.com/watch?v=i4JeeXilFKo&start=299&end=309     	D'un matin de printemps
+11	6	eLxrA8cG2ZI	16	9	https://www.youtube.com/watch?v=eLxrA8cG2ZI&start=16&end=25       	Pie Jesu
+						
+12	1	nhLBfwhkud8	386	7	https://www.youtube.com/watch?v=nhLBfwhkud8&start=386&end=393     	Overture
+12	2	nhLBfwhkud8	237	7	https://www.youtube.com/watch?v=nhLBfwhkud8&start=237&end=244     	more overture
+12	3	nhLBfwhkud8	2	14	https://www.youtube.com/watch?v=nhLBfwhkud8&start=2&end=16        	beginning of overture
+12	4	YTfXlAxPrhY	22	12	https://www.youtube.com/watch?v=YTfXlAxPrhY&start=22&end=34       	Good morrow, good mother
+12	5	a_b01PNYV4s	198.6	14.6	https://www.youtube.com/watch?v=a_b01PNYV4s&start=198&end=213     	Private Willis
+12	6	A4KyqXhAO5c	17	12	https://www.youtube.com/watch?v=A4KyqXhAO5c&start=17&end=29       	If you go in, you're sure to win
+12	7	hZgDtWhNP6c	55	9.6	https://www.youtube.com/watch?v=hZgDtWhNP6c&start=55&end=64       	Nightmare song
+						
+13	1	QZ_EO6ADlVM	6.8	14.2	https://www.youtube.com/watch?v=QZ_EO6ADlVM&start=6&end=21        	Kreek – Requiem
+13	2	iOs3nBUJhM4	14	10	https://www.youtube.com/watch?v=iOs3nBUJhM4&start=14&end=24       	Kreek – Õnnis on inimene
+13	3	gyL9fi8He1I	20	9	https://www.youtube.com/watch?v=gyL9fi8He1I&start=20&end=29       	Naissoo – Metsa Telegramm
+13	4	sp2oxWdRMuk	25	8.2	https://www.youtube.com/watch?v=sp2oxWdRMuk&start=25&end=33       	Pärt – Cantus in memoriam Benjamin Britten
+13	5	eRwCBh1smpU	1.75	18.25	https://www.youtube.com/watch?v=eRwCBh1smpU&start=1&end=20        	Pärt – O Weisheit
+13	6	RNVoZVFpW58	12.55	6	https://www.youtube.com/watch?v=RNVoZVFpW58&start=12&end=18       	Pärt – Fratres
+						
+14	1	eKIsiaCcoJU	50	9	https://www.youtube.com/watch?v=eKIsiaCcoJU&start=50&end=59       	Asougi's theme (Dai Gyakuten Saiban)
+14	2	YstILpaevkk	0.75	6.25	https://www.youtube.com/watch?v=YstILpaevkk&start=0&end=7         	Shi-Long Lang (Investigations)
+14	3	Dne7tQB1DC8	4	6	https://www.youtube.com/watch?v=Dne7tQB1DC8&start=4&end=10        	Jake Marshall's theme (Rise from the Ashes)
+14	4	FQPoqK3yjiU	0.7	5.3	https://www.youtube.com/watch?v=FQPoqK3yjiU&start=0&end=6         	Investigations
+14	5	PmemyFRcTVs	0	12	https://www.youtube.com/watch?v=PmemyFRcTVs&start=0&end=12        	Investigations/Great Revival remix
+14	6	czAMhUZiuOE	0.5	7.6	https://www.youtube.com/watch?v=czAMhUZiuOE&start=0&end=8         	Blue Badger
+14	7	_C4yBssyoTY	0.4	7.6	https://www.youtube.com/watch?v=_C4yBssyoTY&start=0&end=8         	Turnabout Sisters
+14	8	hf_D3pK6LVI	16	6	https://www.youtube.com/watch?v=hf_D3pK6LVI&start=16&end=22       	first cross-examination theme
+14	9	wq1jknZp0ic	0.45	12	https://www.youtube.com/watch?v=wq1jknZp0ic&start=0&end=12        	Cornered
+14	10	2lQgZ52iONU	0.15	2.5	https://www.youtube.com/watch?v=2lQgZ52iONU&start=0&end=2         	Phoenix yelling “Objection”
+						
+15	1	HIe36nPIbW4	86.25	13.75	https://www.youtube.com/watch?v=HIe36nPIbW4&start=86&end=100      	Haydn – Pastoral Song
+15	2	UwFjA_aqLqc	92	12	https://www.youtube.com/watch?v=UwFjA_aqLqc&start=92&end=104      	Rodrigo – Concierto Pastoral
+15	3	bAi65Fmbn0A	900	16	https://www.youtube.com/watch?v=bAi65Fmbn0A&start=900&end=916     	Vaughan Williams – Pastoral Symphony (trumpet)
+15	4	bAi65Fmbn0A	1186	11	https://www.youtube.com/watch?v=bAi65Fmbn0A&start=1186&end=1197   	Vaughan Williams (3rd mvt.)
+15	5	687uJwlPaPw	0.55	10.7	https://www.youtube.com/watch?v=687uJwlPaPw&start=0&end=11        	Handel – Pastoral Symphony from Messiah
+15	6	p4CCU2-AFZE	1163	13.3	https://www.youtube.com/watch?v=p4CCU2-AFZE&start=1163&end=1176   	Beethoven 6 bird stuff
+15	7	p4CCU2-AFZE	0.85	4.2	https://www.youtube.com/watch?v=p4CCU2-AFZE&start=0&end=5         	Beethoven 6 (opening)
+						
+16	1	DGxZl_LpPv8	387	12	https://www.youtube.com/watch?v=DGxZl_LpPv8&start=387&end=399     	end of 4th mvt.
+16	2	xeNpX1QLIkk	149	12	https://www.youtube.com/watch?v=xeNpX1QLIkk&start=149&end=161     	middle of 3rd mvt.
+16	3	3-V4NR6Htrk	602	16	https://www.youtube.com/watch?v=3-V4NR6Htrk&start=602&end=618     	Es wehet kühl im Schatten meiner Fichten
+16	4	QL9QLxsL0X4	245	16	https://www.youtube.com/watch?v=QL9QLxsL0X4&start=245&end=261     	Dunkel ist das Leben, ist der Tod
+16	5	xeNpX1QLIkk	23	9	https://www.youtube.com/watch?v=xeNpX1QLIkk&start=23&end=32       	Mitten in dem kleinen Teiche
+16	6	QL9QLxsL0X4	19.4	9.6	https://www.youtube.com/watch?v=QL9QLxsL0X4&start=19&end=29       	opening
+						
+17	1	NiYHOpVEGFA	279	12	https://www.youtube.com/watch?v=NiYHOpVEGFA&start=279&end=291     	Griffes: horn solos
+17	2	KVAsGdIzgO0	238	8	https://www.youtube.com/watch?v=KVAsGdIzgO0&start=238&end=246     	Nielsen: tutti → timpani/trombone
+17	3	JQDTVDmbEpA	602	9	https://www.youtube.com/watch?v=JQDTVDmbEpA&start=602&end=611     	Chaminade: tutti
+17	4	NOaOqHSYRjI	26	8	https://www.youtube.com/watch?v=NOaOqHSYRjI&start=26&end=34       	Vivaldi: Goldfinch
+17	5	rF6JTI55Yr8	70	10	https://www.youtube.com/watch?v=rF6JTI55Yr8&start=70&end=80       	Mozart: exposition
+17	6	rF6JTI55Yr8	43.9	7	https://www.youtube.com/watch?v=rF6JTI55Yr8&start=43&end=50       	Mozart: opening
+17	7	rF6JTI55Yr8	356	7	https://www.youtube.com/watch?v=rF6JTI55Yr8&start=356&end=363     	Mozart: solo
+						
+18	1	Tff9mJN-ZZU	1.8	12.2	https://www.youtube.com/watch?v=Tff9mJN-ZZU&start=1&end=14        	Va tacito e nascosto (Giulio Cesare)
+18	2	9pnmqkSdqMg	110.84	11	https://www.youtube.com/watch?v=9pnmqkSdqMg&start=110&end=121     	Svegliatevi nel core (Giulio Cesare)
+18	3	8z0-qKkdFng	18	10	https://www.youtube.com/watch?v=8z0-qKkdFng&start=18&end=28       	Da tempeste (Giulio Cesare)
+18	4	XENvMGyy4J8	100	12.3	https://www.youtube.com/watch?v=XENvMGyy4J8&start=100&end=112     	Funeral scene (Akhnaten)
+18	5	SWpLZ0sJ7u4	24	10	https://www.youtube.com/watch?v=SWpLZ0sJ7u4&start=24&end=34       	Hymn to the Sun (Akhnaten)
+18	6	G-W--M_VMIY	10	11	https://www.youtube.com/watch?v=G-W--M_VMIY&start=10&end=21       	Ritorna vincitor (Aida)
+18	7	TX0qN6QEvGg	118	10	https://www.youtube.com/watch?v=TX0qN6QEvGg&start=118&end=128     	Triumphal March from Aida
+						
+19	1	jpDAbNU2k7c	5	11.5	https://www.youtube.com/watch?v=jpDAbNU2k7c&start=5&end=16        	Trio for flute, cello, and piano
+19	3	3C_3DcoDXFU	35	8	https://www.youtube.com/watch?v=3C_3DcoDXFU&start=35&end=43       	Theme from Turandot that Hindemith symphonically metamorphosed
+19	2	dnQmDsz4SZ4	1.04	14	https://www.youtube.com/watch?v=dnQmDsz4SZ4&start=1&end=15        	Der Freischütz: Kommt ein schlanker Bursch gegangen
+19	4	wD-ovH3T8WM	247.3	9.7	https://www.youtube.com/watch?v=wD-ovH3T8WM&start=247&end=257     	Hungarian Rondo
+19	5	HysUA8wx7UM	49	14	https://www.youtube.com/watch?v=HysUA8wx7UM&start=49&end=63       	Der Freischütz: Wolf's Glen – Uhui!
+19	6	OiBBFM60RiM	0.5	12	https://www.youtube.com/watch?v=OiBBFM60RiM&start=0&end=12        	Der Freischütz: Hunters' Chorus
+						
+20	1	MOeA9RMZvKE	0.7	10	https://www.youtube.com/watch?v=MOeA9RMZvKE&start=0&end=10        	Schoenberg: Scherzo
+20	2	I06-fQMxxeo	1000	8	https://www.youtube.com/watch?v=I06-fQMxxeo&start=1000&end=1008   	Sibelius: Pastorale
+20	3	lc7h0BLCBQk	6542	13	https://www.youtube.com/watch?v=lc7h0BLCBQk&start=6542&end=6555   	Debussy: Yniold with shepherd
+20	4	I06-fQMxxeo	1125	9	https://www.youtube.com/watch?v=I06-fQMxxeo&start=1125&end=1134   	Sibelius: Melisande at the Spinning Wheel
+20	5	KrrdhR6tGB8	783.7	12.6	https://www.youtube.com/watch?v=KrrdhR6tGB8&start=783&end=796     	Fauré: Death of Melisande
+20	6	bHGHNhUviZY	57.1	9	https://www.youtube.com/watch?v=bHGHNhUviZY&start=57&end=66       	Debussy: Mes longs cheveux
+20	7	KrrdhR6tGB8	539.4	10.6	https://www.youtube.com/watch?v=KrrdhR6tGB8&start=539&end=550     	Fauré: Sicilienne
+						
+21	1	U56O9VR7lPg	126.75	9.5	https://www.youtube.com/watch?v=U56O9VR7lPg&start=126&end=136     	bassoons
+21	2	U56O9VR7lPg	683	9	https://www.youtube.com/watch?v=U56O9VR7lPg&start=683&end=692     	horns
+21	3	U56O9VR7lPg	539	5	https://www.youtube.com/watch?v=U56O9VR7lPg&start=539&end=544     	D♭ major
+21	4	U56O9VR7lPg	463	6	https://www.youtube.com/watch?v=U56O9VR7lPg&start=463&end=469     	flute 16ths, etc.
+21	5	U56O9VR7lPg	712.9	7.7	https://www.youtube.com/watch?v=U56O9VR7lPg&start=712&end=720     	flute/triangle
+21	6	U56O9VR7lPg	894	10	https://www.youtube.com/watch?v=U56O9VR7lPg&start=894&end=904     	last cadenza
+21	7	U56O9VR7lPg	371	11	https://www.youtube.com/watch?v=U56O9VR7lPg&start=371&end=382     	cadenza (9/8)
+21	8	U56O9VR7lPg	929	9	https://www.youtube.com/watch?v=U56O9VR7lPg&start=929&end=938     	ending
+21	9	U56O9VR7lPg	7	8	https://www.youtube.com/watch?v=U56O9VR7lPg&start=7&end=15        	opening
+						
+22	2	NsUeywPFEgQ	783.6	9.4	https://www.youtube.com/watch?v=NsUeywPFEgQ&start=783&end=793     	La serva padrona: Stizzoso, mio stizzoso
+22	3	NsUeywPFEgQ	1983	30	https://www.youtube.com/watch?v=NsUeywPFEgQ&start=1983&end=2013   	La serva padrona: Son imbrogliato
+22	4	ufy4AGOFVAI	1829	11	https://www.youtube.com/watch?v=ufy4AGOFVAI&start=1829&end=1840   	Stabat mater: Inflammatus et accensus
+22	5	ufy4AGOFVAI	1973	20	https://www.youtube.com/watch?v=ufy4AGOFVAI&start=1973&end=1993   	Stabat mater: Quando corpus morietur
+						
+23	1	0CcFdLk6oF4	0.5	8	https://www.youtube.com/watch?v=0CcFdLk6oF4&start=0&end=8         	Octal Game (999)
+23	2	-zFOATav35U	5	9	https://www.youtube.com/watch?v=-zFOATav35U&start=5&end=14        	Healing Room (ZTD)
+23	3	ooK86eSZFCo	24	6	https://www.youtube.com/watch?v=ooK86eSZFCo&start=24&end=30       	Consternation (VLR)
+23	4	Se81-O0te-E	0	10	https://www.youtube.com/watch?v=Se81-O0te-E&start=0&end=10        	Ambidexterity/Unary Game
+23	5	9GLYF5O1gMY	48	10	https://www.youtube.com/watch?v=9GLYF5O1gMY&start=48&end=58       	Chill and Rigor (999)
+23	6	qkTmE6zyW9Y	9	10	https://www.youtube.com/watch?v=qkTmE6zyW9Y&start=9&end=19        	Demise (VLR)
+23	7	spsY11KIFDM	0.5	6	https://www.youtube.com/watch?v=spsY11KIFDM&start=0&end=6         	Digital Root (999)
+23	8	HHsHJn7lH3g	87	10	https://www.youtube.com/watch?v=HHsHJn7lH3g&start=87&end=97       	Bluebird Lamentation (ZTD)
+23	9	EjQfY47pFNs	30	8	https://www.youtube.com/watch?v=EjQfY47pFNs&start=30&end=38       	Morphogenetic Sorrow (999)
+						
+24	1	L_LQ_gLVX9s	93	18	https://www.youtube.com/watch?v=L_LQ_gLVX9s&start=93&end=111      	Queen of Spades – Uzh vecher
+24	2	-neC0564ulI	1412	11	https://www.youtube.com/watch?v=-neC0564ulI&start=1412&end=1423   	Francesca da Rimini
+24	3	-neC0564ulI	555	8	https://www.youtube.com/watch?v=-neC0564ulI&start=555&end=563     	Francesca da Rimini – clarinet solo
+24	4	yjjrY5_lEYI	6	12	https://www.youtube.com/watch?v=yjjrY5_lEYI&start=6&end=18        	The Nutcracker – Scene in a pine forest
+24	5	PLHj-eekdNU	7	11	https://www.youtube.com/watch?v=PLHj-eekdNU&start=7&end=18        	Symphony No. 4: IV.
+24	6	gejVzWwp-T8	161.3	11.7	https://www.youtube.com/watch?v=gejVzWwp-T8&start=161&end=173     	Waltz of the Snowflakes
+						
+25	1	NDR6yFspICM	98	10	https://www.youtube.com/watch?v=NDR6yFspICM&start=98&end=108      	Parade de foire (Namouna)
+25	2	eHUThlI5kZY	10	12	https://www.youtube.com/watch?v=eHUThlI5kZY&start=10&end=22       	Valse de la cigarette (Namouna)
+25	3	MxuKA4sXNkY	46	14	https://www.youtube.com/watch?v=MxuKA4sXNkY&start=46&end=60       	Vainement, ma bien aimée (Le roi d'Ys)
+25	4	f1XoHG11uyE	19	8.4	https://www.youtube.com/watch?v=f1XoHG11uyE&start=19&end=27       	Opening chorus from Le roi d'Ys
+25	5	7TnzouRZjRo	129.3	10	https://www.youtube.com/watch?v=7TnzouRZjRo&start=129&end=139     	Cello Concerto in A minor
+25	6	fxw3FYPuIzc	53	20	https://www.youtube.com/watch?v=fxw3FYPuIzc&start=53&end=73       	Symphonie espagnole
+						
+26	1	ssc3ic-s_xg	622	8	https://www.youtube.com/watch?v=ssc3ic-s_xg&start=622&end=630     	Ustvolskaya 2nd mvt.
+26	2	ssc3ic-s_xg	35	9	https://www.youtube.com/watch?v=ssc3ic-s_xg&start=35&end=44       	Ustvolskaya 1st mvt.
+26	3	ovBDDfB1s0w	957	18	https://www.youtube.com/watch?v=ovBDDfB1s0w&start=957&end=975     	RVW Dirge for 2 Veterans
+26	4	ovBDDfB1s0w	1987	7	https://www.youtube.com/watch?v=ovBDDfB1s0w&start=1987&end=1994   	RVW “Open the gates…”
+26	5	ovBDDfB1s0w	1813.5	10.5	https://www.youtube.com/watch?v=ovBDDfB1s0w&start=1813&end=1824   	RVW O man greatly beloved
+26	6	ovBDDfB1s0w	251	8.5	https://www.youtube.com/watch?v=ovBDDfB1s0w&start=251&end=259     	RVW Beat Drums
+26	7	b8a6FulyJXU	33	8.4	https://www.youtube.com/watch?v=b8a6FulyJXU&start=33&end=41       	hymn tune
+						
+27	1	i7YtSt9gYsA	178	15	https://www.youtube.com/watch?v=i7YtSt9gYsA&start=178&end=193     	Echo Sonata for 2 Unfriendly Groups of Instruments
+27	2	75ezBrU4_i8	186	6	https://www.youtube.com/watch?v=75ezBrU4_i8&start=186&end=192     	Schleptet
+27	3	eISLpzEVjt8	141	10	https://www.youtube.com/watch?v=eISLpzEVjt8&start=141&end=151     	Erotica Variations
+27	4	nLvCVRuZZgY	175	13	https://www.youtube.com/watch?v=nLvCVRuZZgY&start=175&end=188     	Iphigenia in Brooklyn
+27	5	i7YtSt9gYsA	340	10	https://www.youtube.com/watch?v=i7YtSt9gYsA&start=340&end=350     	Do you suffer from the pain
+27	6	4MOAtq91idk	153	13	https://www.youtube.com/watch?v=4MOAtq91idk&start=153&end=166     	Schickele number 1/2 tsp
+27	7	i7YtSt9gYsA	301	3	https://www.youtube.com/watch?v=i7YtSt9gYsA&start=301&end=304     	WOOF – Hoople
+						
+28	1	Y7vCuGwq85c	0.3	7	https://www.youtube.com/watch?v=Y7vCuGwq85c&start=0&end=7         	English horn solo
+28	2	HGpwrYAItHU	0.45	7	https://www.youtube.com/watch?v=HGpwrYAItHU&start=0&end=7         	brass
+28	4	IrxEy7qAMHI	176	11	https://www.youtube.com/watch?v=IrxEy7qAMHI&start=176&end=187     	the dad's carriage story
+28	5	4gMiNE8JBTI	17.55	11.945	https://www.youtube.com/watch?v=4gMiNE8JBTI&start=17&end=29       	list of names
+28	3	fufrgAQVfwA	14	16	https://www.youtube.com/watch?v=fufrgAQVfwA&start=14&end=30       	orchestral interlude before guillotine
+28	6	IrxEy7qAMHI	0.5	9	https://www.youtube.com/watch?v=IrxEy7qAMHI&start=0&end=9         	opening
+28	7	wiuFDCkFXGI	87	12.3	https://www.youtube.com/watch?v=wiuFDCkFXGI&start=87&end=99       	Salve regina/guillotine
+						
+29	1	x5DGzB0Erk0	330	11	https://www.youtube.com/watch?v=x5DGzB0Erk0&start=330&end=341     	Debussy: Rhapsody for Saxophone
+29	2	96F5CgEIIbs	479	13	https://www.youtube.com/watch?v=96F5CgEIIbs&start=479&end=492     	Brahms: Alto Rhapsody
+29	3	PgcDbhrnnuI	113	12	https://www.youtube.com/watch?v=PgcDbhrnnuI&start=113&end=125     	Debussy: Première rhapsodie
+29	4	2rEc_vksrnc	520.8	7.1	https://www.youtube.com/watch?v=2rEc_vksrnc&start=520&end=527     	Ravel: Rapsodie espagnole
+29	5	goeOUTRy2es	55	10	https://www.youtube.com/watch?v=goeOUTRy2es&start=55&end=65       	Liszt: Hungarian Rhapsody No. 2
+29	6	yTyiwtfpO8s	70	10	https://www.youtube.com/watch?v=yTyiwtfpO8s&start=70&end=80       	Rachmaninoff: Rhapsody on a Theme of Paganini
+						
+30	1	pv78iEfjJ_M	2301	23	https://www.youtube.com/watch?v=pv78iEfjJ_M&start=2301&end=2324   	4th mvt. oboe solo
+30	2	pv78iEfjJ_M	1241	16	https://www.youtube.com/watch?v=pv78iEfjJ_M&start=1241&end=1257   	1st mvt. piccolo
+30	3	pv78iEfjJ_M	2499	10	https://www.youtube.com/watch?v=pv78iEfjJ_M&start=2499&end=2509   	4th mvt. main melody
+30	4	pv78iEfjJ_M	2226	12	https://www.youtube.com/watch?v=pv78iEfjJ_M&start=2226&end=2238   	Elmira/DSCH
+30	5	pv78iEfjJ_M	1287.9	9	https://www.youtube.com/watch?v=pv78iEfjJ_M&start=1287&end=1296   	2nd mvt. opening
+						

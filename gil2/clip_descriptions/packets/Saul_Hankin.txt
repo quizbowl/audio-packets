@@ -1,0 +1,36 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	eXdO_xrPVCs	209	16	https://www.youtube.com/watch?v=eXdO_xrPVCs&start=209&end=225     	No. 6, mvt 2
+1	2	QLj_gMBqHX8	342.35	10	https://www.youtube.com/watch?v=QLj_gMBqHX8&start=342&end=352     	No. 3, mvt 2 (hahaha)
+1	3	TyCAc4B0YO0	221.3	9	https://www.youtube.com/watch?v=TyCAc4B0YO0&start=221&end=230     	No. 5, mvt 3
+1	4	rz_KFLHjquc	127	11	https://www.youtube.com/watch?v=rz_KFLHjquc&start=127&end=138     	No. 1, mvt 1
+1	5	oKxO5AX68kU	86	10	https://www.youtube.com/watch?v=oKxO5AX68kU&start=86&end=96       	No. 2, mvt 1
+1	6	pwzxm9wWLzM	3	5	https://www.youtube.com/watch?v=pwzxm9wWLzM&start=3&end=8         	No. 4, mvt 1
+						
+2	1	Azg_vNZHcX0	299	12	https://www.youtube.com/watch?v=Azg_vNZHcX0&start=299&end=311     	mvt 2
+2	2	ho3dD6Th64Q	145	13	https://www.youtube.com/watch?v=ho3dD6Th64Q&start=145&end=158     	mvt 3
+2	3	ZZHcGdFGCRM	371	9	https://www.youtube.com/watch?v=ZZHcGdFGCRM&start=371&end=380     	mvt 1
+2	4	ZZHcGdFGCRM	133	10	https://www.youtube.com/watch?v=ZZHcGdFGCRM&start=133&end=143     	mvt 1
+2	5	Azg_vNZHcX0	0	11	https://www.youtube.com/watch?v=Azg_vNZHcX0&start=0&end=11        	mvt 2
+2	6	ho3dD6Th64Q	26	5	https://www.youtube.com/watch?v=ho3dD6Th64Q&start=26&end=31       	mvt 3
+						
+3	1	1pJkPfTsEcE	124	10.5	https://www.youtube.com/watch?v=1pJkPfTsEcE&start=124&end=134     	Op. 23 No. 3
+3	2	UyxpeLh7z3s	80	12.4	https://www.youtube.com/watch?v=UyxpeLh7z3s&start=80&end=92       	Op. 23 No. 7
+3	3	MH1VaXtJq3c	45	13	https://www.youtube.com/watch?v=MH1VaXtJq3c&start=45&end=58       	Op. 23 No. 1
+3	4	R16Nd15ar5k	0.65	13	https://www.youtube.com/watch?v=R16Nd15ar5k&start=0&end=13        	Op. 23 No. 10
+3	5	RICGqS2UtmU	6	8.3	https://www.youtube.com/watch?v=RICGqS2UtmU&start=6&end=14        	Op. 23 No. 2
+3	6	wDFCCHjLzjs	49	6	https://www.youtube.com/watch?v=wDFCCHjLzjs&start=49&end=55       	Op. 23 No. 5
+						
+4	1	Wz8gpYJo2Ns	123	11	https://www.youtube.com/watch?v=Wz8gpYJo2Ns&start=123&end=134     	“No, no, Turiddu, rimani ancora”
+4	2	b6zJPBvxiGA	44	10	https://www.youtube.com/watch?v=b6zJPBvxiGA&start=44&end=54       	“Viva il vino spumeggiante”
+4	3	-zcvDh4L8A8	299	12	https://www.youtube.com/watch?v=-zcvDh4L8A8&start=299&end=311     	“Inneggiamo, il Signor non è morto”
+4	4	QgXWdwXvRo8	47	9	https://www.youtube.com/watch?v=QgXWdwXvRo8&start=47&end=56       	“Il cavallo scalpita”
+4	5	fVe-5ZKGW4o	14	10	https://www.youtube.com/watch?v=fVe-5ZKGW4o&start=14&end=24       	“O Lola ch’ai di latti la cammisa”
+4	6	9sw9efeUJng	87	8	https://www.youtube.com/watch?v=9sw9efeUJng&start=87&end=95       	“Intermezzo”
+						
+5	1	gvORjwb5icw	113	10	https://www.youtube.com/watch?v=gvORjwb5icw&start=113&end=123     	“Don’t Blame Me”
+5	2	iYkgpF6rvV0	50	10	https://www.youtube.com/watch?v=iYkgpF6rvV0&start=50&end=60       	“I’m in the Mood for Love”
+5	3	iAVKeIjrbYU	53	12	https://www.youtube.com/watch?v=iAVKeIjrbYU&start=53&end=65       	“Lovely to Look At”
+5	5	H0grl8rKUiw	38	8	https://www.youtube.com/watch?v=H0grl8rKUiw&start=38&end=46       	“On the Sunny Side of the Street”
+5	4	z2KrTvuIX-c	36	10	https://www.youtube.com/watch?v=z2KrTvuIX-c&start=36&end=46       	“Big Spender”
+5	6	dIW_Ah0wg-w	80	10	https://www.youtube.com/watch?v=dIW_Ah0wg-w&start=80&end=90       	“The Way You Look Tonight”
+						

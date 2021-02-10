@@ -1,0 +1,249 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	gcgI2UTDcXg	2609.4	9	https://www.youtube.com/watch?v=gcgI2UTDcXg&start=2609&end=2618   	La serenata del espectro
+1	2	gcgI2UTDcXg	1191	9	https://www.youtube.com/watch?v=gcgI2UTDcXg&start=1191&end=1200   	El fandango de Candil
+1	3	gcgI2UTDcXg	1832	12	https://www.youtube.com/watch?v=gcgI2UTDcXg&start=1832&end=1844   	Quejas o la maja y el ruiseñor
+1	4	gcgI2UTDcXg	2123	16	https://www.youtube.com/watch?v=gcgI2UTDcXg&start=2123&end=2139   	El amor y la muerte
+1	5	gcgI2UTDcXg	1883.5	9	https://www.youtube.com/watch?v=gcgI2UTDcXg&start=1883&end=1892   	El amor y la muerte
+1	6	gcgI2UTDcXg	67	9.4	https://www.youtube.com/watch?v=gcgI2UTDcXg&start=67&end=76       	Los requiebros
+1	7	gcgI2UTDcXg	1515.5	8	https://www.youtube.com/watch?v=gcgI2UTDcXg&start=1515&end=1523   	Quejas o la maja y el ruiseñor
+						
+2	1	PmU23XK_cZ8	25	8	https://www.youtube.com/watch?v=PmU23XK_cZ8&start=25&end=33       	The All-Night Vigil: Praise the Lord (Greek Chant, Ps. 104)
+2	2	VBNyMqCb69Y	37	14.3	https://www.youtube.com/watch?v=VBNyMqCb69Y&start=37&end=51       	Songs Op. 4: V. The harvest of sorrow
+2	3	LoI2SNzyjW4	306	13	https://www.youtube.com/watch?v=LoI2SNzyjW4&start=306&end=319     	Suite No. 2 for 2 Pianos: Waltz
+2	4	6V4-Z3fksjo	1118.3	10	https://www.youtube.com/watch?v=6V4-Z3fksjo&start=1118&end=1128   	Symphony No. 2: mvt. 2
+2	5	6V4-Z3fksjo	1737	9	https://www.youtube.com/watch?v=6V4-Z3fksjo&start=1737&end=1746   	Symphony No. 2: mvt. 3
+2	6	z0C56PPOi4k	0.4	6	https://www.youtube.com/watch?v=z0C56PPOi4k&start=0&end=6         	Rhapsody on a Theme of Paganini, Op. 43: Theme
+						
+3	1	nK4K0owmWUc	987	11	https://www.youtube.com/watch?v=nK4K0owmWUc&start=987&end=998     	Symphony No. 2: mvt. 2
+3	2	nK4K0owmWUc	0.3	11	https://www.youtube.com/watch?v=nK4K0owmWUc&start=0&end=11        	Symphony No. 2: mvt. 1
+3	3	TeKZAbFj83I	1027.5	8	https://www.youtube.com/watch?v=TeKZAbFj83I&start=1027&end=1035   	Violin Concerto in D minor: mvt. 2
+3	4	_JlGS1m1PL4	3	12	https://www.youtube.com/watch?v=_JlGS1m1PL4&start=3&end=15        	Gayaneh: Introduction
+3	5	TeKZAbFj83I	258	10	https://www.youtube.com/watch?v=TeKZAbFj83I&start=258&end=268     	Violin Concerto in D minor: mvt. 1
+3	6	TeKZAbFj83I	25	7	https://www.youtube.com/watch?v=TeKZAbFj83I&start=25&end=32       	Violin Concerto in D minor: mvt. 1
+3	7	_JlGS1m1PL4	7734	9	https://www.youtube.com/watch?v=_JlGS1m1PL4&start=7734&end=7743   	Gayaneh: Sabre Dance
+						
+4	1	2evXiwpeGkE	160	6	https://www.youtube.com/watch?v=2evXiwpeGkE&start=160&end=166     	Liszt: Waldesrauschen (Forest Murmurs), S. 145/1
+4	2	2evXiwpeGkE	41.35	11.1	https://www.youtube.com/watch?v=2evXiwpeGkE&start=41&end=52       	Liszt: Waldesrauschen (Forest Murmurs), S. 145/1
+4	3	jE3IrjtDEGc	507.4	8	https://www.youtube.com/watch?v=jE3IrjtDEGc&start=507&end=515     	Schumann: Waldszenen Op. 82: V. Freundliche Landschaft
+4	4	jE3IrjtDEGc	0.9	15	https://www.youtube.com/watch?v=jE3IrjtDEGc&start=0&end=15        	Schumann: Waldszenen Op. 82: I. Eintritt
+4	5	mdve48nptNk	610	10	https://www.youtube.com/watch?v=mdve48nptNk&start=610&end=620     	Respighi: Pines of Rome: III. I pini del Gianicolo
+4	6	mdve48nptNk	0.7	7.6	https://www.youtube.com/watch?v=mdve48nptNk&start=0&end=8         	Respighi: Pines of Rome: I. I pini di Villa Borghese
+						
+5	1	ULnCsIFfa7E	57.5	6.5	https://www.youtube.com/watch?v=ULnCsIFfa7E&start=57&end=64       	Berceuse sur le nom de Gabriel Fauré
+5	2	fynAXPALdhE	298	12	https://www.youtube.com/watch?v=fynAXPALdhE&start=298&end=310     	Sonatine: mvt. 2
+5	3	fynAXPALdhE	653	10	https://www.youtube.com/watch?v=fynAXPALdhE&start=653&end=663     	Sonatine: mvt. 3
+5	4	zUMYoWiox7s	157	12	https://www.youtube.com/watch?v=zUMYoWiox7s&start=157&end=169     	Violin Sonata No. 2 in G major: mvt. 2
+5	5	4XHjsxcmEjM	2197	11	https://www.youtube.com/watch?v=4XHjsxcmEjM&start=2197&end=2208   	Piano Concerto in G: mvt. 2
+5	6	4XHjsxcmEjM	1634.8	9	https://www.youtube.com/watch?v=4XHjsxcmEjM&start=1634&end=1643   	Piano Concerto in G: mvt. 1
+5	7	r30D3SW4OVw	10	7	https://www.youtube.com/watch?v=r30D3SW4OVw&start=10&end=17       	Boléro
+						
+6	1	1hIO4UbC0Pc	21	6	https://www.youtube.com/watch?v=1hIO4UbC0Pc&start=21&end=27       	Three Worlds: Music From Woolf Works: I. Words
+6	3	3vEuKUe4EE4	60	7	https://www.youtube.com/watch?v=3vEuKUe4EE4&start=60&end=67       	Three Worlds: Music From Woolf Works: II. In the Garden
+6	2	yShmGUlylzA	0	9	https://www.youtube.com/watch?v=yShmGUlylzA&start=0&end=9         	The Blue Notebooks: Written on the sky
+6	4	rVN1B-tUpgs	102	7	https://www.youtube.com/watch?v=rVN1B-tUpgs&start=102&end=109     	The Blue Notebooks: On the Nature of Daylight
+6	5	41IOkVjy3MM	6	7	https://www.youtube.com/watch?v=41IOkVjy3MM&start=6&end=13        	The Four Seasons Recomposed: Spring I
+6	6	AcBy-tbc2_E	37	9	https://www.youtube.com/watch?v=AcBy-tbc2_E&start=37&end=46       	The Four Seasons Recomposed: Winter I
+						
+7	1	JxBUbfRDLZI	14.5	13	https://www.youtube.com/watch?v=JxBUbfRDLZI&start=14&end=27       	mvt. 2
+7	2	JxBUbfRDLZI	236	10	https://www.youtube.com/watch?v=JxBUbfRDLZI&start=236&end=246     	mvt. 2
+7	3	E4q9RyYU8DY	12	13	https://www.youtube.com/watch?v=E4q9RyYU8DY&start=12&end=25       	mvt. 3
+7	4	E4q9RyYU8DY	268.7	8.5	https://www.youtube.com/watch?v=E4q9RyYU8DY&start=268&end=277     	mvt. 3
+7	5	D6LRyyyrDzo	351	13	https://www.youtube.com/watch?v=D6LRyyyrDzo&start=351&end=364     	mvt. 1
+7	6	D6LRyyyrDzo	9	8	https://www.youtube.com/watch?v=D6LRyyyrDzo&start=9&end=17        	mvt. 1
+						
+8	1	oBR5i9mtoI8	74	12	https://www.youtube.com/watch?v=oBR5i9mtoI8&start=74&end=86       	Takemitsu: Requiem for strings
+8	2	oBR5i9mtoI8	7	13	https://www.youtube.com/watch?v=oBR5i9mtoI8&start=7&end=20        	Takemitsu: Requiem for strings
+8	3	hJpPXNyM2Kk	1514.4	10	https://www.youtube.com/watch?v=hJpPXNyM2Kk&start=1514&end=1524   	Yoshimatsu: Piano Concerto “Memo Flora”, Op. 67: mvt. 3
+8	4	73hXRuRJDFQ	0.6	9.4	https://www.youtube.com/watch?v=73hXRuRJDFQ&start=0&end=10        	Takemitsu: Rain Tree Sketch II
+8	5	WDH_nJM3djc	52	12	https://www.youtube.com/watch?v=WDH_nJM3djc&start=52&end=64       	Hisaishi: Kikujiro: Summer
+8	6	BEtJxfhxRh8	18	13.2	https://www.youtube.com/watch?v=BEtJxfhxRh8&start=18&end=31       	Hisaishi: Spirited Away: One Summer's Day
+						
+9	1	_Hg5jaEkA3A	0.7	10.3	https://www.youtube.com/watch?v=_Hg5jaEkA3A&start=0&end=11        	Prelude, Fugue, and Variation Op. 18: Fugue, theme
+9	2	XqPe0ZagS4c	416	9	https://www.youtube.com/watch?v=XqPe0ZagS4c&start=416&end=425     	Prelude, Fugue, and Variation Op. 18: Variation, theme
+9	3	ebuYi65VwZY	21.9	9	https://www.youtube.com/watch?v=ebuYi65VwZY&start=21&end=30       	Prelude, Chorale, and Fugue: Prelude
+9	4	_XrWnggqboM	12.8	11	https://www.youtube.com/watch?v=_XrWnggqboM&start=12&end=23       	Symphonic Variations: Theme
+9	5	0nF6TobCyV4	161	13	https://www.youtube.com/watch?v=0nF6TobCyV4&start=161&end=174     	Symphony in D minor: mvt. 1
+9	6	5KWxQeAqdWo	8.7	11	https://www.youtube.com/watch?v=5KWxQeAqdWo&start=8&end=19        	Violin Sonata in A major: mvt. 1
+						
+10	1	BMf314Ougus	29	11	https://www.youtube.com/watch?v=BMf314Ougus&start=29&end=40       	Adagio in C minor for Glass Armonica, K. 617
+10	2	CUP-GdHrXEU	135	14	https://www.youtube.com/watch?v=CUP-GdHrXEU&start=135&end=149     	Die Entführung aus dem Serail: “Martern aller Arten” aria
+10	3	vhMAhuY4DA8	190	12	https://www.youtube.com/watch?v=vhMAhuY4DA8&start=190&end=202     	Mass in C minor, K. 427: Kyrie
+10	4	yX-I_2WnURA	0.5	13	https://www.youtube.com/watch?v=yX-I_2WnURA&start=0&end=13        	Requiem, K. 626: Dies Irae
+10	5	_zcPkxPHC4Y	40	12	https://www.youtube.com/watch?v=_zcPkxPHC4Y&start=40&end=52       	Die Zauberflöte: Queen of the Night Aria
+10	6	anaGzzX8P7E	3.8	6.2	https://www.youtube.com/watch?v=anaGzzX8P7E&start=3&end=10        	Symphony No. 25 in G minor, K. 183: mvt. 1
+						
+11	1	zuxPKikM0NI	2625	13	https://www.youtube.com/watch?v=zuxPKikM0NI&start=2625&end=2638   	Brahms: Piano Concerto No. 1: mvt. 3
+11	2	zuxPKikM0NI	252.7	12.3	https://www.youtube.com/watch?v=zuxPKikM0NI&start=252&end=265     	Brahms: Piano Concerto No. 1: mvt. 1
+11	3	9ZX_XCYokQo	343	14	https://www.youtube.com/watch?v=9ZX_XCYokQo&start=343&end=357     	Bach: Keyboard Concerto No. 1: mvt. 1
+11	4	z51jngtthOI	3273	9	https://www.youtube.com/watch?v=z51jngtthOI&start=3273&end=3282   	Mahler: Symphony No. 1 in D major “Titan”: mvt. 4
+11	5	oADEqBBJaaA	1.3	8.7	https://www.youtube.com/watch?v=oADEqBBJaaA&start=1&end=10        	Bizet: Carmen: Prélude
+11	6	haYuPdKZKYc	0	14	https://www.youtube.com/watch?v=haYuPdKZKYc&start=0&end=14        	Bernstein: Overture to Candide
+						
+12	1	i9JGkOQ4ivk	3	10	https://www.youtube.com/watch?v=i9JGkOQ4ivk&start=3&end=13        	Aires Andaluces
+12	2	WfdHZ-R-oU4	34	9	https://www.youtube.com/watch?v=WfdHZ-R-oU4&start=34&end=43       	Tango de la Rosa
+12	3	GqommrJu5Io	28	12	https://www.youtube.com/watch?v=GqommrJu5Io&start=28&end=40       	El Tajo
+12	4	Nr89Llj7OQA	49	11	https://www.youtube.com/watch?v=Nr89Llj7OQA&start=49&end=60       	Gitanos Trianeros
+12	5	u3VOWhBoXA8	22	11	https://www.youtube.com/watch?v=u3VOWhBoXA8&start=22&end=33       	Entre dos Aguas
+12	6	cZWO5ROq_aA	49	9	https://www.youtube.com/watch?v=cZWO5ROq_aA&start=49&end=58       	Rodrigo: Concierto de Aranjuez: mvt. 2
+						
+13	1	tzPRkq1Rqgs	238	7	https://www.youtube.com/watch?v=tzPRkq1Rqgs&start=238&end=245     	Piano Sonata No. 3, Op. 54
+13	2	tzPRkq1Rqgs	7.1	12	https://www.youtube.com/watch?v=tzPRkq1Rqgs&start=7&end=19        	Piano Sonata No. 3, Op. 54
+13	3	k6xFZSivbDQ	17	7	https://www.youtube.com/watch?v=k6xFZSivbDQ&start=17&end=24       	Pampeana No. 2 for cello and piano, Op. 21
+13	4	0wUI8mmeTLg	1.6	11	https://www.youtube.com/watch?v=0wUI8mmeTLg&start=1&end=12        	Don Rodrigo: Act I
+13	5	hT3XiVsH64g	2.1	10	https://www.youtube.com/watch?v=hT3XiVsH64g&start=2&end=12        	Piano Sonata No. 1: mvt. 1
+13	6	E6rCu2Daeyo	47	15	https://www.youtube.com/watch?v=E6rCu2Daeyo&start=47&end=62       	Danzas argentinas Op. 2: II. Danza de la moza donosa
+						
+14	1	kPRxjd2ETSo	0.9	8	https://www.youtube.com/watch?v=kPRxjd2ETSo&start=0&end=8         	Bartók: Mikrokosmos: No. 1 Six Unison Melodies (I)
+14	2	VEsMk3DAzWM	0.5	7	https://www.youtube.com/watch?v=VEsMk3DAzWM&start=0&end=7         	Bartók: Mikrokosmos: No. 153 Six Dances in Bulgarian Rhythm (VI) 3+3+2/8
+14	3	5yczXBN_ZOg	2.8	11	https://www.youtube.com/watch?v=5yczXBN_ZOg&start=2&end=13        	Bartók: Mikrokosmos: No. 146 Ostinato
+14	4	FymZsN_NiB4	1703	7	https://www.youtube.com/watch?v=FymZsN_NiB4&start=1703&end=1710   	Debussy: Étude No. 9 pour les notes répétées
+14	5	FymZsN_NiB4	15	6	https://www.youtube.com/watch?v=FymZsN_NiB4&start=15&end=21       	Debussy: Étude No. 1 pour les cinq doigts d'après Monsieur Czerny
+14	6	kxum7nOLARU	0	12	https://www.youtube.com/watch?v=kxum7nOLARU&start=0&end=12        	Czerny: The School of Velocity Op. 299 No. 1
+						
+15	1	GUDmL97m8_E	968	10	https://www.youtube.com/watch?v=GUDmL97m8_E&start=968&end=978     	Tan Dun: Water Concerto
+15	2	Ru63wJuPFIo	480	12	https://www.youtube.com/watch?v=Ru63wJuPFIo&start=480&end=492     	Chen Qigang: Five Elements
+15	3	Ru63wJuPFIo	1183	10	https://www.youtube.com/watch?v=Ru63wJuPFIo&start=1183&end=1193   	Chen Qigang: Five Elements
+15	4	pxZgPa1-kyE	915	13	https://www.youtube.com/watch?v=pxZgPa1-kyE&start=915&end=928     	Yellow River Piano Concerto: Defend the Yellow River
+15	5	pxZgPa1-kyE	1148	10	https://www.youtube.com/watch?v=pxZgPa1-kyE&start=1148&end=1158   	Yellow River Piano Concerto: Defend the Yellow River
+15	6	-XRlbqz2bo8	72	9	https://www.youtube.com/watch?v=-XRlbqz2bo8&start=72&end=81       	Butterfly Lovers' Violin Concerto
+						
+16	1	Hc3tTb1GLdo	52	12	https://www.youtube.com/watch?v=Hc3tTb1GLdo&start=52&end=64       	Mozart: Piano Sonata No. 18 in D major, K. 576 “The Hunt”
+16	2	bH-7jOxuNX8	66	9	https://www.youtube.com/watch?v=bH-7jOxuNX8&start=66&end=75       	Tchaikovsky: The Seasons, Op. 37a: IX. September - The Hunt
+16	3	yc_btdk-_d4	0.8	14.2	https://www.youtube.com/watch?v=yc_btdk-_d4&start=0&end=15        	Bach: Cantate BWV 208 “Hunting Cantata”
+16	4	Lbzlby9vsPQ	39	7	https://www.youtube.com/watch?v=Lbzlby9vsPQ&start=39&end=46       	Paganini: Caprice No. 9 in E major “The Hunt”
+16	5	vq_mybZ4hPw	29	11	https://www.youtube.com/watch?v=vq_mybZ4hPw&start=29&end=40       	Beethoven: Piano Sonata No. 18 in E-flat Major, Op. 31 No. 3 “The Hunt”: mvt. 1
+16	6	EkWKEI9XlBQ	7	9	https://www.youtube.com/watch?v=EkWKEI9XlBQ&start=7&end=16        	Beethoven: Piano Sonata No. 18 in E-flat Major, Op. 31 No. 3 “The Hunt”: mvt. 4
+						
+17	1	w9NnRjJDv2Y	20	7	https://www.youtube.com/watch?v=w9NnRjJDv2Y&start=20&end=27       	Adagio and Allegro, Op. 70: I. Adagio
+17	2	bnLq7ouk58U	263	11.8	https://www.youtube.com/watch?v=bnLq7ouk58U&start=263&end=274     	Adagio and Allegro, Op. 70: II. Allegro
+17	3	wLR9Zw61ME4	0	10	https://www.youtube.com/watch?v=wLR9Zw61ME4&start=0&end=10        	Fantasiestücke, Op. 73: No. 3, Rasch und mit Feuer
+17	4	9CZhnSoO6UI	920	9	https://www.youtube.com/watch?v=9CZhnSoO6UI&start=920&end=929     	Fünf Stücke im Volkston: V. Stark und markiert
+17	5	ShjppAMVvl0	7	10	https://www.youtube.com/watch?v=ShjppAMVvl0&start=7&end=17        	Cello Concerto in A minor, Op. 129: III. Sehr lebhaft
+17	6	Fc7zy_jCJj4	15	9	https://www.youtube.com/watch?v=Fc7zy_jCJj4&start=15&end=24       	Cello Concerto in A minor, Op. 129: I. Nicht zu schnell
+						
+18	1	FKzz5mviMLU	1	12	https://www.youtube.com/watch?v=FKzz5mviMLU&start=1&end=13        	Reich: Cello Counterpoint
+18	2	kfxC0j9mbwQ	1777	7	https://www.youtube.com/watch?v=kfxC0j9mbwQ&start=1777&end=1784   	Enescu: String Octet, Op. 7: mvt. 4
+18	3	kfxC0j9mbwQ	12	15.4	https://www.youtube.com/watch?v=kfxC0j9mbwQ&start=12&end=27       	Enescu: String Octet, Op. 7: mvt. 1
+18	4	T7R5NQadK0A	25	16	https://www.youtube.com/watch?v=T7R5NQadK0A&start=25&end=41       	Bruch: Octet in B-flat major: mvt. 1
+18	5	KrITNrgQHuE	1364.2	7.8	https://www.youtube.com/watch?v=KrITNrgQHuE&start=1364&end=1372   	Mendelssohn: String Octet in E-flat major, Op. 20: mvt. 4
+18	6	KrITNrgQHuE	205	12	https://www.youtube.com/watch?v=KrITNrgQHuE&start=205&end=217     	Mendelssohn: String Octet in E-flat major, Op. 20: mvt. 1
+						
+19	1	m2uSTZ6iAjQ	5	13	https://www.youtube.com/watch?v=m2uSTZ6iAjQ&start=5&end=18        	Two-Part Invention No. 8 in F major – arr.
+19	2	QZbEIbFAu_E	8	11	https://www.youtube.com/watch?v=QZbEIbFAu_E&start=8&end=19        	Two-Part Invention No. 13 in A minor – arr.
+19	3	Vogedtm_9Ck	824	7	https://www.youtube.com/watch?v=Vogedtm_9Ck&start=824&end=831     	Three-Part Invention No. 13 in A minor
+19	4	Vogedtm_9Ck	999.4	16.4	https://www.youtube.com/watch?v=Vogedtm_9Ck&start=999&end=1015    	Three-Part Invention No. 4 in D minor
+19	5	Vogedtm_9Ck	1.05	4.9	https://www.youtube.com/watch?v=Vogedtm_9Ck&start=1&end=5         	Three-Part Invention No. 1 in C major
+19	6	31r5ZgWeC0o	338.6	6.4	https://www.youtube.com/watch?v=31r5ZgWeC0o&start=338&end=345     	Two-Part Invention No. 4 in D minor
+						
+20	1	C6c_F_c4xGM	1994	6	https://www.youtube.com/watch?v=C6c_F_c4xGM&start=1994&end=2000   	Cádiz
+20	2	fP8sFFB8n-M	2013	8	https://www.youtube.com/watch?v=fP8sFFB8n-M&start=2013&end=2021   	Cuba
+20	3	fP8sFFB8n-M	1540	10	https://www.youtube.com/watch?v=fP8sFFB8n-M&start=1540&end=1550   	Aragón
+20	4	fP8sFFB8n-M	25	8	https://www.youtube.com/watch?v=fP8sFFB8n-M&start=25&end=33       	Granada
+20	5	fP8sFFB8n-M	634	11	https://www.youtube.com/watch?v=fP8sFFB8n-M&start=634&end=645     	Sevilla
+20	6	fP8sFFB8n-M	1110	6.5	https://www.youtube.com/watch?v=fP8sFFB8n-M&start=1110&end=1116   	Asturias
+						
+21	1	bk8rraKzGBU	3407.6	6.5	https://www.youtube.com/watch?v=bk8rraKzGBU&start=3407&end=3414   	The Night of Long Fangs
+21	2	bk8rraKzGBU	179	10	https://www.youtube.com/watch?v=bk8rraKzGBU&start=179&end=189     	Fanfares and Flowers
+21	3	BCwJuxT0gEk	7	8	https://www.youtube.com/watch?v=BCwJuxT0gEk&start=7&end=15        	Dead Man's Party
+21	4	bk8rraKzGBU	2.4	13.7	https://www.youtube.com/watch?v=bk8rraKzGBU&start=2&end=16        	Blood and Wine
+21	5	9zAP2WPWI3U	14	12	https://www.youtube.com/watch?v=9zAP2WPWI3U&start=14&end=26       	Kaer Morhen
+21	6	L74pTmqgQ9o	0	15	https://www.youtube.com/watch?v=L74pTmqgQ9o&start=0&end=15        	The Trail
+						
+22	1	PrYPqtWWB3s	4493	10	https://www.youtube.com/watch?v=PrYPqtWWB3s&start=4493&end=4503   	Nameless King
+22	2	AB6sOhQan9Y	0.25	9.75	https://www.youtube.com/watch?v=AB6sOhQan9Y&start=0&end=10        	Gwyn, Lord of Cinder
+22	3	PrYPqtWWB3s	5826	13	https://www.youtube.com/watch?v=PrYPqtWWB3s&start=5826&end=5839   	Lorian, Elder Prince / Lothric, Younger Prince
+22	4	vK0w67B4EtU	18	10	https://www.youtube.com/watch?v=vK0w67B4EtU&start=18&end=28       	Knight Artorias
+22	5	PrYPqtWWB3s	816	10	https://www.youtube.com/watch?v=PrYPqtWWB3s&start=816&end=826     	Firelink Shrine
+22	6	PrYPqtWWB3s	1	11	https://www.youtube.com/watch?v=PrYPqtWWB3s&start=1&end=12        	Dark Souls III
+						
+23	1	cw-YsJcsK-0	58	9	https://www.youtube.com/watch?v=cw-YsJcsK-0&start=58&end=67       	Ural Rowan Tree / Уральская рябинушка / 山楂树
+23	2	tyBQ_EHEpqI	44	10	https://www.youtube.com/watch?v=tyBQ_EHEpqI&start=44&end=54       	Troika
+23	3	cd4Td-3nCrI	44	13.3	https://www.youtube.com/watch?v=cd4Td-3nCrI&start=44&end=57       	Moscow Nights / Подмосковные вечера / 莫斯科郊外的晚上
+23	4	m9JtNijl5ts	103	13	https://www.youtube.com/watch?v=m9JtNijl5ts&start=103&end=116     	Song of the Volga Boatmen
+23	5	7Yl-DvkX0hY	10	15	https://www.youtube.com/watch?v=7Yl-DvkX0hY&start=10&end=25       	Katyusha / Катюша
+23	6	U06jlgpMtQs	1.25	9.75	https://www.youtube.com/watch?v=U06jlgpMtQs&start=1&end=11        	National Anthem of USSR
+						
+24	1	_XxVChXQbdo	49	7	https://www.youtube.com/watch?v=_XxVChXQbdo&start=49&end=56       	Balada Mexicana
+24	2	cD58AwG1qfI	9.5	5.5	https://www.youtube.com/watch?v=cD58AwG1qfI&start=9&end=15        	Violin Concerto: I.
+24	3	uotPTBBUUAY	0.6	12.4	https://www.youtube.com/watch?v=uotPTBBUUAY&start=0&end=13        	Cuatro danzas mexicanas: III.
+24	4	t9HUs5JfI1g	175	13	https://www.youtube.com/watch?v=t9HUs5JfI1g&start=175&end=188     	Chapultepec: I. Primavera
+24	5	6FAUF_PbOVo	73.5	11.65	https://www.youtube.com/watch?v=6FAUF_PbOVo&start=73&end=85       	Sonata Mexicana for Guitar
+24	6	jg04NtiWWwk	1.2	7.8	https://www.youtube.com/watch?v=jg04NtiWWwk&start=1&end=9         	Cuatro danzas mexicanas: I.
+24	7	1O4-RCjwal0	41	7.5	https://www.youtube.com/watch?v=1O4-RCjwal0&start=41&end=48       	Intermezzo
+24	8	Re7lnYSVYxM	0	10	https://www.youtube.com/watch?v=Re7lnYSVYxM&start=0&end=10        	Concierto del Sur: III.
+24	9	VPcp7zYSRhc	43.2	9.3	https://www.youtube.com/watch?v=VPcp7zYSRhc&start=43&end=52       	Estrellita (arr. Heifetz)
+						
+25	1	LlZuR_KQa2g	1451	9	https://www.youtube.com/watch?v=LlZuR_KQa2g&start=1451&end=1460   	Vaughan Williams: Symphony No. 8, mvt. 4
+25	2	jONVK5R20Bc	25	8	https://www.youtube.com/watch?v=jONVK5R20Bc&start=25&end=33       	Liszt: Toccata S. 197a
+25	3	1wb36-orBL0	10.4	8	https://www.youtube.com/watch?v=1wb36-orBL0&start=10&end=18       	Bach: Partita No. 6 in E minor, BWV 830: I. Toccata
+25	4	EUHobIa3TL0	328.8	9	https://www.youtube.com/watch?v=EUHobIa3TL0&start=328&end=337     	Schumann: Toccata Op. 7
+25	5	evaJehxwIIg	2.3	9.7	https://www.youtube.com/watch?v=evaJehxwIIg&start=2&end=12        	Ravel: Le tombeau de Couperin: VI. Toccata
+25	6	ho9rZjlsyYY	0.5	4.5	https://www.youtube.com/watch?v=ho9rZjlsyYY&start=0&end=5         	Bach: Toccata and Fugue in D minor, BWV 565
+						
+26	1	tZcKii9Sd-o	208.7	10.3	https://www.youtube.com/watch?v=tZcKii9Sd-o&start=208&end=219     	Fauré: Ballade Op. 19 in F-sharp major
+26	2	Tryq9a9y8Q4	127.2	10.8	https://www.youtube.com/watch?v=Tryq9a9y8Q4&start=127&end=138     	Grieg: Ballade Op. 24 in G minor
+26	3	GUycRkzxYjA	4217	12	https://www.youtube.com/watch?v=GUycRkzxYjA&start=4217&end=4229   	Brahms: 4 Ballades, Op. 10 No. 1 in D minor
+26	4	zbbNrkmwBEU	62.6	6.4	https://www.youtube.com/watch?v=zbbNrkmwBEU&start=62&end=69       	Liszt: Ballade No. 2 in B minor
+26	5	NZfNAVQ6H4o	128.8	12.2	https://www.youtube.com/watch?v=NZfNAVQ6H4o&start=128&end=141     	Chopin: Ballade No. 2 in F major, Op. 38
+26	6	nW5po_Z7YEs	43.1	8.9	https://www.youtube.com/watch?v=nW5po_Z7YEs&start=43&end=52       	Chopin: Ballade No. 1 in G minor
+						
+27	1	rUzPSFwrg0U	13	9	https://www.youtube.com/watch?v=rUzPSFwrg0U&start=13&end=22       	Askia Peace Theme
+27	2	X1yD3_EL90Y	10	12	https://www.youtube.com/watch?v=X1yD3_EL90Y&start=10&end=22       	Casimir Peace Theme
+27	3	14YHs0375tY	1.8	9	https://www.youtube.com/watch?v=14YHs0375tY&start=1&end=10        	Shaka War Theme
+27	4	pDvJ3dEukS0	24	13	https://www.youtube.com/watch?v=pDvJ3dEukS0&start=24&end=37       	Mo Li Hua
+27	5	QJ_YUJ4vXvA	0	13	https://www.youtube.com/watch?v=QJ_YUJ4vXvA&start=0&end=13        	Brave New World OST - Intro Music
+27	6	5e0Qelqp-Cc	24	11	https://www.youtube.com/watch?v=5e0Qelqp-Cc&start=24&end=35       	Title Screen (Baba Yetu)
+						
+28	1	mL4C5AMyRkQ	117	8	https://www.youtube.com/watch?v=mL4C5AMyRkQ&start=117&end=125     	Poulenc: “Napoli” Suite: II. Nocturne
+28	2	VeiPizfydXs	44	8	https://www.youtube.com/watch?v=VeiPizfydXs&start=44&end=52       	Liszt: Années de pèlerinage: Italie: Canzonetta Del Salvator Rosa
+28	3	U9x2kVzOH7Q	35.9	8.1	https://www.youtube.com/watch?v=U9x2kVzOH7Q&start=35&end=44       	Liszt: Années de pèlerinage: Venezia e Napoli: I. Gondoliera
+28	4	4pO7_IxbDsU	674.5	13.7	https://www.youtube.com/watch?v=4pO7_IxbDsU&start=674&end=688     	Mendelssohn: Symphony No. 4 “Italian”: II. Andante con moto
+28	5	Z8N01-Xh3RA	156	11	https://www.youtube.com/watch?v=Z8N01-Xh3RA&start=156&end=167     	Bach: Italian Concerto, BWV 971: III. Presto
+28	6	4pO7_IxbDsU	3.5	6.7	https://www.youtube.com/watch?v=4pO7_IxbDsU&start=3&end=10        	Mendelssohn: Symphony No. 4 “Italian”: I. Allegro vivace
+						
+29	1	XwpA-LC0nIw	61	13.3	https://www.youtube.com/watch?v=XwpA-LC0nIw&start=61&end=74       	Wach auf! Op. 103 No. 6
+29	2	wOktiPBgc-M	483	13	https://www.youtube.com/watch?v=wOktiPBgc-M&start=483&end=496     	Clarinet Concerto No. 4 in E minor, Op. 26: III. Rondo al Espagnol
+29	3	Qlbz5DPZAV4	232	12	https://www.youtube.com/watch?v=Qlbz5DPZAV4&start=232&end=244     	Clarinet Concerto No. 1 in C minor, Op. 26: I. Adagio - Allegro
+29	4	1sMwrDBEhjM	167	9.2	https://www.youtube.com/watch?v=1sMwrDBEhjM&start=167&end=176     	Violin Concerto No. 2 in D minor, Op. 2: I. Allegro moderato
+29	5	QNn7ATJMdeo	250	7.3	https://www.youtube.com/watch?v=QNn7ATJMdeo&start=250&end=257     	Violin Concerto No. 8 in A minor, Op. 47: III. Adagio - Andante
+29	6	zIJ6FEjFob4	120	8.2	https://www.youtube.com/watch?v=zIJ6FEjFob4&start=120&end=128     	Violin Concerto No. 8 in A minor, Op. 47: I. Recitative - Allegro molto
+						
+30	1	esz9F0BWXvw	513	11	https://www.youtube.com/watch?v=esz9F0BWXvw&start=513&end=524     	String Quartet No. 15 in G major, D. 887: IV. Allegro assai
+30	2	aREDWWXhBdc	101	14	https://www.youtube.com/watch?v=aREDWWXhBdc&start=101&end=115     	3 Klavierstücke, D. 946: No. 1 in E-flat minor: Allegro assai
+30	3	2cW_OUzoQGk	195	11	https://www.youtube.com/watch?v=2cW_OUzoQGk&start=195&end=206     	String Quintet in C major, D. 956, Op. 163: I. Allegro ma non troppo
+30	4	dNwAD0p4IuE	173	9	https://www.youtube.com/watch?v=dNwAD0p4IuE&start=173&end=182     	String Quartet No. 14 in D minor, D. 810 “Death And The Maiden”: II. Andante con moto
+30	5	ZH4o1-IhoSY	30	10	https://www.youtube.com/watch?v=ZH4o1-IhoSY&start=30&end=40       	String Quartet No. 14 in D minor, D. 810 “Death And The Maiden”: I. Allegro
+30	6	z24M13BnYjM	1.3	7	https://www.youtube.com/watch?v=z24M13BnYjM&start=1&end=8         	Piano Quintet in A major, D. 667 “Trout”: IV. Theme
+						
+31	1	rN7h3ILAqXo	785	9	https://www.youtube.com/watch?v=rN7h3ILAqXo&start=785&end=794     	Alla marcia funebre
+31	2	rN7h3ILAqXo	623	10.5	https://www.youtube.com/watch?v=rN7h3ILAqXo&start=623&end=633     	Piu vivo
+31	3	rN7h3ILAqXo	472	11	https://www.youtube.com/watch?v=rN7h3ILAqXo&start=472&end=483     	end of piano solo
+31	4	rN7h3ILAqXo	179	10.5	https://www.youtube.com/watch?v=rN7h3ILAqXo&start=179&end=189     	Con anima
+31	5	rN7h3ILAqXo	753	13	https://www.youtube.com/watch?v=rN7h3ILAqXo&start=753&end=766     	Appassionato
+31	6	rN7h3ILAqXo	88	13	https://www.youtube.com/watch?v=rN7h3ILAqXo&start=88&end=101      	cello introduction
+						
+32	1	oOsXVXpWHWo	30	11	https://www.youtube.com/watch?v=oOsXVXpWHWo&start=30&end=41       	Schumann: Schneeglöckchen (Snowdrop) Op. 79, No. 26
+32	2	MJZc_UAwG1o	200	10	https://www.youtube.com/watch?v=MJZc_UAwG1o&start=200&end=210     	Debussy: Preludes Book I: No. 6 Des pas sur la neige (Footsteps in the Snow)
+32	3	Tu1QaimCJkg	224	11.7	https://www.youtube.com/watch?v=Tu1QaimCJkg&start=224&end=235     	Liszt: Transcendental Etudes: No. 12 Chasse Neige (Chasing Snow)
+32	4	KqvRNBrNwtg	56	10	https://www.youtube.com/watch?v=KqvRNBrNwtg&start=56&end=66       	Tchaikovsky: The Seasons, Op. 37a: IV. April - Snowdrop
+32	5	Mndn7ogRP6o	50	9	https://www.youtube.com/watch?v=Mndn7ogRP6o&start=50&end=59       	Debussy: Children's Corner: IV. The Snow Is Dancing
+32	6	Mndn7ogRP6o	4.2	10	https://www.youtube.com/watch?v=Mndn7ogRP6o&start=4&end=14        	Debussy: Children's Corner: IV. The Snow Is Dancing
+						
+33	1	wQR6ABQ-lHA	24	8	https://www.youtube.com/watch?v=wQR6ABQ-lHA&start=24&end=32       	Prelude No. 27 in E-flat minor “Devil's Trill”
+33	2	sVmJ1YG64EU	0.2	10	https://www.youtube.com/watch?v=sVmJ1YG64EU&start=0&end=10        	Op. 28 No. 3 in G major
+33	3	zjKe_qcJ20c	0	12	https://www.youtube.com/watch?v=zjKe_qcJ20c&start=0&end=12        	Op. 28 No. 20 in C minor
+33	4	Ti7hUQKhAtY	0.2	15.1	https://www.youtube.com/watch?v=Ti7hUQKhAtY&start=0&end=15        	Op. 28 No. 24 in D minor
+33	5	J_6APTb3RNQ	128	11	https://www.youtube.com/watch?v=J_6APTb3RNQ&start=128&end=139     	Op. 28 No. 15 in D-flat major “Raindrop”
+						
+34	1	PDWK3PYZvAA	0.7	14.3	https://www.youtube.com/watch?v=PDWK3PYZvAA&start=0&end=15        	Keyboard Concerto in F major, BWV 978: I. Allegro, after Vivaldi RV 310
+34	2	BL-KzcwHDbY	314	6	https://www.youtube.com/watch?v=BL-KzcwHDbY&start=314&end=320     	Violin Concerto Op. 3 No. 6 in A minor “L'estro Armonico”
+34	3	BL-KzcwHDbY	52.8	11.3	https://www.youtube.com/watch?v=BL-KzcwHDbY&start=52&end=64       	Violin Concerto Op. 3 No. 6 in A minor “L'estro Armonico”
+34	4	JIDtt9Y0rTc	1.4	9.6	https://www.youtube.com/watch?v=JIDtt9Y0rTc&start=1&end=11        	Violin Concerto in G minor “Summer”: II. Adagio e piano – Presto e forte
+34	5	e3vOK1FdvFc	0.7	11	https://www.youtube.com/watch?v=e3vOK1FdvFc&start=0&end=11        	Violin Concerto in G minor “Summer”: III. Presto
+						
+35	1	_Ki1EQHuE6I	149	8	https://www.youtube.com/watch?v=_Ki1EQHuE6I&start=149&end=157     	Fantasy in D minor, K. 397
+35	2	jALw5NwMmXs	257	14	https://www.youtube.com/watch?v=jALw5NwMmXs&start=257&end=271     	Fantasia in C minor K. 396
+35	3	6suSHZkW70c	374.9	9.1	https://www.youtube.com/watch?v=6suSHZkW70c&start=374&end=384     	Fantasia in C minor, K. 475
+35	4	_Ki1EQHuE6I	274.2	6.8	https://www.youtube.com/watch?v=_Ki1EQHuE6I&start=274&end=281     	Fantasy in D minor, K. 397
+35	5	6suSHZkW70c	213	10	https://www.youtube.com/watch?v=6suSHZkW70c&start=213&end=223     	Fantasia in C minor, K. 475
+35	6	_Ki1EQHuE6I	46.1	8.9	https://www.youtube.com/watch?v=_Ki1EQHuE6I&start=46&end=55       	Fantasy in D minor, K. 397

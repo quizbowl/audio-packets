@@ -1,0 +1,37 @@
+Question	Clip	YouTube video ID	Start (sec)	Length (sec)	Link	Description
+1	1	ni9QLl2aW_Y	26	10.5	https://www.youtube.com/watch?v=ni9QLl2aW_Y&start=26&end=36       	Sanft Schloss Schlaf Dein Aug
+1	2	FuHjaX-yI-c	145	15	https://www.youtube.com/watch?v=FuHjaX-yI-c&start=145&end=160     	Alberich's Curse
+1	3	8ZLzSFGvA1g	135	10	https://www.youtube.com/watch?v=8ZLzSFGvA1g&start=135&end=145     	Descent into Nibelheim
+1	4	b80Jw8MuZxo	1.5	11	https://www.youtube.com/watch?v=b80Jw8MuZxo&start=1&end=12        	Entry of the Gods into Valhalla
+1	5	rjP7R0UQjGE	253.3	10	https://www.youtube.com/watch?v=rjP7R0UQjGE&start=253&end=263     	Weia! Waga! Woge, du Welle! (Rhinemaiden)
+1	6	cjkjF9OfMe0	190	12	https://www.youtube.com/watch?v=cjkjF9OfMe0&start=190&end=202     	Prelude
+						
+2	1	7rfWiaJE4mg	62.7	7	https://www.youtube.com/watch?v=7rfWiaJE4mg&start=62&end=69       	Grieg: Symphonic Dance No. 4
+2	2	LlPHNgLW5oc	0.8	12.4	https://www.youtube.com/watch?v=LlPHNgLW5oc&start=0&end=13        	Grieg: Symphonic Dance No. 2
+2	3	luYTzah6J9U	41	15.8	https://www.youtube.com/watch?v=luYTzah6J9U&start=41&end=56       	Rachmaninoff: Symphonic Dances mvt 3 opening
+2	4	nRymxDtMo4U	58.8	11.6	https://www.youtube.com/watch?v=nRymxDtMo4U&start=58&end=70       	Rachmaninoff: Symphonic Dances mvt 2 opening
+2	5	46fe9x_4HqQ	191	12.25	https://www.youtube.com/watch?v=46fe9x_4HqQ&start=191&end=203     	Rachmaninoff: Symphonic Dances mvt 1 alto sax solo
+2	6	46fe9x_4HqQ	29.2	12.3	https://www.youtube.com/watch?v=46fe9x_4HqQ&start=29&end=41       	Rachmaninoff: Symphonic Dances mvt 1 opening
+						
+3	1	HlD6g6KuX2Q	60.85	14.3	https://www.youtube.com/watch?v=HlD6g6KuX2Q&start=60&end=75       	Bach: Overture in the French Style in B minor, BWV 831: Bourree II
+3	2	lFG5Q9o7usA	59	12.8	https://www.youtube.com/watch?v=lFG5Q9o7usA&start=59&end=71       	Handel: Water Music Suite No. 1
+3	3	_poFImOvbDs	8.5	10	https://www.youtube.com/watch?v=_poFImOvbDs&start=8&end=18        	Handel: Music for the Royal Fireworks
+3	4	vvzmQq8krjk	201.1	12.6	https://www.youtube.com/watch?v=vvzmQq8krjk&start=201&end=213     	Bach: Cello Suite No. 4: Bourree II
+3	5	ok24iv3Fcxc	0.7	14.6	https://www.youtube.com/watch?v=ok24iv3Fcxc&start=0&end=15        	Bach: Cello Suite No. 3
+3	6	ZrnRL5i7CZ0	0.5	9.7	https://www.youtube.com/watch?v=ZrnRL5i7CZ0&start=0&end=10        	Bach: Lute Suite in E minor, BWV 996
+						
+4	1	X-LB0z1IzhE	3.7	12.5	https://www.youtube.com/watch?v=X-LB0z1IzhE&start=3&end=16        	Concerto in C
+4	2	Guv-6qrsYMQ	0.7	11.8	https://www.youtube.com/watch?v=Guv-6qrsYMQ&start=0&end=12        	Jazz Pizzicato
+4	3	ddCowdMce7c	0.3	11.5	https://www.youtube.com/watch?v=ddCowdMce7c&start=0&end=11        	Blue Tango
+4	4	wEuag5GRKzk	41.7	11	https://www.youtube.com/watch?v=wEuag5GRKzk&start=41&end=52       	A Trumpeter's Lullaby
+4	5	sIdqJExuFMI	20.6	11.8	https://www.youtube.com/watch?v=sIdqJExuFMI&start=20&end=32       	The Typewriter
+4	6	EDRFmn_KqfA	131	11.3	https://www.youtube.com/watch?v=EDRFmn_KqfA&start=131&end=142     	Sleigh Ride
+4	7	CrpdQngwk2g	11.5	7	https://www.youtube.com/watch?v=CrpdQngwk2g&start=11&end=18       	Syncopated Clock
+						
+5	1	Ja9qEchoByc	7.7	11	https://www.youtube.com/watch?v=Ja9qEchoByc&start=7&end=18        	Wild Summer
+5	2	-Bc-ZjuDyw4	57	10	https://www.youtube.com/watch?v=-Bc-ZjuDyw4&start=57&end=67       	Wings
+5	3	jssWmMfU8lg	0.5	9.5	https://www.youtube.com/watch?v=jssWmMfU8lg&start=0&end=10        	Petroushkates
+5	4	Auwgbosri5o	215	12.3	https://www.youtube.com/watch?v=Auwgbosri5o&start=215&end=227     	Concerto for Orchestra mvt 1
+5	5	bVocAdx5eKE	550	15	https://www.youtube.com/watch?v=bVocAdx5eKE&start=550&end=565     	Made in America
+5	6	9NXAvqzD2Cw	3.8	12	https://www.youtube.com/watch?v=9NXAvqzD2Cw&start=3&end=15        	Fanfare for the Uncommon Woman, No. 1
+						
