@@ -63,7 +63,10 @@ answers=($(grep -E '^ANSWER' answers/$dir.txt))
 BOLD=`tput bold``tput setaf 4`
 JUSTBOLD=`tput bold`
 BU=`tput bold``tput smul`
+BU=`tput smul`
 REG=`tput sgr0`
+EU=`tput rmul`
+CONCEAL=`tput setaf 0``tput setab 0`
 
 echo -en '\nCommands:\n'
 echo -e "  • Press ${BOLD}Space${REG} to play/pause a question"
@@ -79,11 +82,12 @@ for file in $dir/*.mp3; do
 
 		echo "**${questions[index]}**" | pbcopy
 		echosay "${questions[index]}"      1
-		answer=`echo ${answers[index]} | sed "s/_\([^_]*\)_/${BU}\1${REG}/g"`
+		answer=`echo ${answers[index]} | sed "s/_\([^_]*\)_/${BU}\1${EU}/g"`
 		if [ $PRINTANSWER ]; then
 			echo $answer
 		else
-			echo "<answer hidden>"
+			echo "<answer hidden> ${CONCEAL}$answer"
+			echo "${file##*/}${REG}"
 		fi
 		echo
 		mplay "$file"
@@ -109,6 +113,10 @@ for file in $dir/*.mp3; do
 
 		if [ -z $PRINTANSWER ]; then
 			echo $answer
+
+			# TODO: new 2020
+			echo
+			grep -P "^$(($index+1))\t" clip_descriptions/$dir.tsv 2>/dev/null || echo "(no clip descriptions found)"
 		fi
 
 		if [ $SAYANSWER ]; then
