@@ -33,6 +33,8 @@ Currently rehosted without explicit permission. Links to forum threads and sourc
 * [MARCATo](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24114) (2020)
 * [SOUNDTRACK](http://hsquizbowl.org/forums/viewtopic.php?f=19&t=20359) (2018)
   * Source: [All packets](http://trash.quizbowlpackets.com/2176/)
+* [Eternal Sonata](http://hsquizbowl.org/forums/viewtopic.php?f=19&t=18713) (2016)
+* [Jonathan Magin’s Festivus Audio Packet](https://hsquizbowl.org/forums/viewtopic.php?f=311&t=24733) (2020)
 * other sets may be added later
 
 The audio files have been renamed to avoid spoilers.
