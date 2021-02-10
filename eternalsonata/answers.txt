@@ -1,0 +1,476 @@
+ETERNAL SONATA
+
+SET BY ANDERSON WANG AND JASPER LEE
+
+PACKET 1
+
+1. Name the game.
+
+ANSWER: __GRAND THEFT AUTO V__ [or __GTA V__; accept __GRAND THEFT AUTO
+ONLINE__]
+
+2. Name the game.
+
+ANSWER: __SONIC THE HEDGEHOG 3__ [accept __SONIC 3__, prompt on “Sonic
+and Knuckles”, do not accept or prompt on other answers]
+
+3. Name the game genre.
+
+ANSWER: _SHMUP_ or _SHOOT ‘EM UP_ [accept horizontally or vertically
+_SCROLLING SHOOTER_; prompt on just “shooter”]
+
+4. Name the game.
+
+ANSWER: __SHADOW OF THE COLOSSUS__
+
+5. Name the game.
+
+ANSWER: __STAR FOX 64__ [accept __LYLAT WARS__, do not accept or prompt
+on partial answers]
+
+6. Name the series.
+
+ANSWER: __MORTAL KOMBAT__
+
+7. Name the series.
+
+ANSWER: _The _ELDER SCROLLS__ [accept answers that mention
+__DAGGERFALL__, __MORROWIND__, __OBLIVION__, or __SKYRIM__]
+
+8. Name the home country of the performers of these tracks.
+
+ANSWER: _ENGLAND_ [accept _U_nited _K_ingdom, Great _BRITAIN_, etc.
+etc.]
+
+9. Name the series.
+
+ANSWER: __BORDERLANDS__
+
+10. Name the original game that provides the setting for the following
+games.
+
+ANSWER: __DUNGEONS & DRAGONS__ [or __DND__; accept basically anything
+that includes it such as __ADVANCED DUNGEONS & DRAGONS__ or __DUNGEONS &
+DRAGONS 3RD EDITION__]
+
+11. Name the game these songs were written about.
+
+ANSWER: __LEAGUE OF LEGENDS__
+
+12. Name the game.
+
+ANSWER: __JOURNEY__
+
+13. Name the kind of location where you would hear these clips.
+
+ANSWER: _COURT_rooms or _TRIAL_s [accept _WITCH TRIAL_s; accept
+equivalents; prompt on “schools” or equivalent]
+
+14. Name the series. NOTE: One clip here consists of in-game dialogue,
+and the name of a main character has been censored in this clip.
+
+ANSWER: __JAK AND DAXTER__ [accept __JAK__]
+
+15. Name the game.
+
+ANSWER: __FAXANADU__
+
+16. Name the composer.
+
+ANSWER: Nobuo _UEMATSU_ [accept names in either order]
+
+17. Name the game genre.
+
+ANSWER: _T_ower _D_efense [accept any answer that contains the words
+_TOWER DEFENSE_; prompt on “first person shooter”]
+
+18. Name the series.
+
+ANSWER: __NINJA GAIDEN__
+
+19. Name the non-human animal associated with these clips.
+
+ANSWER: _RABBIT_s [or _BUNNIES_ or _HARE_s or equivalent]
+
+20. Name the series.
+
+ANSWER: __ECCO__ _the Dolphin_
+
+PACKET 2
+
+1. Name the series.
+
+ANSWER: __GRADIUS__ [prompt on “Life Force”, “Salamander”, or “Nemesis”]
+
+2. Name the game.
+
+ANSWER: _The _STANLEY PARABLE__
+
+3. Name the game.
+
+ANSWER: __DOOM__ [or _Ultimate _DOOM__]
+
+4. Name the type of landform found in the names of the locations where
+these tracks play. We're looking for an answer such as "peninsula" or
+"oxbow lake."
+
+ANSWER: _VALLEY_s [accept specific locations such as Manji _VALLEY_,
+_VALLEY_ of Repose, Vegetable _VALLEY_, _VALLEY_ of Avalar, Celestial
+_VALLEY_, Teehee _VALLEY_, or Gerudo _VALLEY_]
+
+5. Name the game.
+
+ANSWER: _Logical Journey of the _ZOOMBINIS__
+
+6. Name the series.
+
+ANSWER: __ROLLERCOASTER TYCOON__
+
+7. Name the developer.
+
+ANSWER: _PLATINUM_Games
+
+8. Name the composer.
+
+ANSWER: Grant _KIRKHOPE_
+
+9. Name the game.
+
+ANSWER: __METROID PRIME__
+
+10. Name the type of activity associated with these games.
+
+ANSWER: _RACING_ [accept specific types like kart _RACING_ or car
+_RACING_; prompt on "driving"; prompt on "jetskiing"]
+
+11. Name the game.
+
+ANSWER: __BIOSHOCK INFINITE__ [do not accept or prompt on partial
+answer]
+
+12. Name the civilization associated with these clips.
+
+ANSWER: Ancient _GREECE_
+
+13. Name the game.
+
+ANSWER: __TETRIS__ (for the Game Boy)
+
+14. Name the game.
+
+ANSWER: __BRAID__
+
+15. Name the type of location where you would hear these tracks.
+
+ANSWER: _FOREST_s [or _WOODS_; do not accept "jungle"]
+
+16. Name the console that these games were all originally made for.
+
+ANSWER: Sega _DREAMCAST_
+
+17. Name the series.
+
+ANSWER: __DONKEY KONG COUNTRY__ [prompt on “Donkey Kong”; accept
+__DONKEY KONG LAND__]
+
+18. Name the game.
+
+ANSWER: __UNDERTALE__
+
+19. Name the game.
+
+ANSWER: __PARAPPA THE RAPPER__
+
+20. Name the protagonist of these games.
+
+ANSWER: _BATMAN_ [or Bruce _WAYNE_; or the _DARK KNIGHT_]
+
+PACKET 3
+
+1. Name the sport.
+
+ANSWER: _BOXING_
+
+2. Name the game genre.
+
+ANSWER: _PUZZLE_s [prompt on “mobile games” or equivalent]
+
+3. Name the series.
+
+ANSWER: __POKÉMON__
+
+4. Name the game.
+
+ANSWER: __BATTLETOADS__
+
+5. Name the series.
+
+ANSWER: __GOLDEN SUN__
+
+6. Name the kind of animal.
+
+ANSWER: _CHOCOBO_s [accept more specific answers like _BLACK CHOCOBO_]
+
+7. Name the developing company.
+
+ANSWER: _VALVE_ Corporation
+
+8. Name the city where you would hear these clips.
+
+ANSWER: _HONG KONG_ [prompt on “Wan Chai”; prompt on “Kowloon (City)”]
+
+9. Name the game.
+
+ANSWER: __DUCKTALES__
+
+10. Name the game these tracks first appeared in.
+
+ANSWER: __FALLOUT 3__
+
+11. Name the game.
+
+ANSWER: __MINECRAFT__
+
+12. Name the developing company.
+
+ANSWER: _BLIZZARD_ Entertainment [accept _SILICON & SYNAPSE_]
+
+13. Name the composer.
+
+ANSWER: Jake _KAUFMAN_ [accept _VIRT_]
+
+14. Name the game.
+
+ANSWER: __SUPER MARIO BROS. 3__ [accept __MARIO 3__, __MARIO BROS. 3__,
+or __SUPER MARIO ADVANCE 4__; do not accept or prompt on any other
+answer]
+
+15. Name the type of creature featured in these games.
+
+ANSWER: _ZOMBIE_s
+
+16. Name the game.
+
+ANSWER: __BANJO-KAZOOIE__
+
+17. Name the game.
+
+ANSWER: __BIONIC COMMANDO__ [accept __HITLER’S REVIVAL: Top Secret__
+though no one will say that]
+
+18. Name the character.
+
+ANSWER: _RYU_
+
+19. Name the game.
+
+ANSWER: _The _WITCHER 3_: Wild Hunt_
+
+20. Name the series.
+
+ANSWER: __TOUHOU__ _Project_
+
+PACKET 4
+
+1. Name the series.
+
+ANSWER: __ASSASSIN'S CREED__
+
+2. Name the series.
+
+ANSWER: __Teenage Mutant Ninja Turtles__
+
+3. Name the game.
+
+ANSWER: __TALES OF SYMPHONIA__
+
+4. Name the console that these games were all originally made for.
+
+ANSWER: Philips _CD-I_
+
+5. Name the last word in the titles of these games.
+
+ANSWER: _GO_
+
+6. Name the situation when these clips play.
+
+ANSWER: _GAME OVER_ screen [prompt on "continue screen;" prompt on
+answers describing "death" or word forms that don't include what's
+underlined]
+
+7. Name the specific time period associated with these clips
+(description acceptable).
+
+ANSWER: _PREHISTORY_ [accept _65 MILLION BC_; accept the _EARLIEST_ time
+in __CHRONO TRIGGER__ or equivalents; prompt on just “the past” or “the
+time with dinosaurs”]
+
+8. Name the composer.
+
+ANSWER: Koji _KONDO_ [accept names in either order]
+
+9. Name the game.
+
+ANSWER: __VVVVVV__ [accept anything involving the letter _V_ basically]
+
+10. Name the developing company.
+
+ANSWER: _BUNGIE_, Inc.
+
+11. Name the home country of the developers of these games.
+
+ANSWER: _JAPAN_
+
+12. Name the game.
+
+ANSWER: _The Legend of Zelda: _MAJORA'S MASK__
+
+13. Name the game.
+
+ANSWER: __SUPER MARIO GALAXY__
+
+14. Name the kind of location where you would hear these clips.
+
+ANSWER: _OPERA HOUSE_s
+
+15. Name the game.
+
+ANSWER: __OKAMI__
+
+16. Name the species associated with these clips.
+
+ANSWER: _TERRAN_s [or _HUMAN_s; or equivalents]
+
+17. Name the game.
+
+ANSWER: __NIGHTS INTO DREAMS…__ [prompt on “Nights”, do not accept
+“Nights: Journey of Dreams”]
+
+18. Name the series.
+
+ANSWER: __CASTLEVANIA__
+
+19. Name the series.
+
+ANSWER: __Dance Dance Revolution__ [accept __STEPMANIA__]
+
+20. Name the city in which these tracks play.
+
+ANSWER: The _CITADEL_ (from the Mass Effect series) [if someone answers
+"Presidium," "Wards," or "Shepard's Apartment," reverse prompt by asking
+them where those are located]
+
+PACKET 5
+
+1. Name the home country of the composers of these tracks.
+
+ANSWER: _FRANCE_
+
+2. Name the game.
+
+ANSWER: __World Of Warcraft__ [accept expansions like _World of
+Warcraft: The _BURNING CRUSADE__; do not accept or prompt on just
+“Warcraft”]
+
+3. Name the common substance in the titles of these games.
+
+ANSWER: _RAIN_
+
+4. Name the series.
+
+ANSWER: __DIG DUG__
+
+5. Name the composer.
+
+ANSWER: Kazumi _TOTAKA_ [accept names in either order]
+
+6. Name the game.
+
+ANSWER: __PORTAL 2__ [do not accept or prompt on partial answer]
+
+7. Name the game.
+
+ANSWER: __METAL GEAR SOLID__ [or __METAL GEAR SOLID: TWIN SNAKES__; do
+not accept or prompt on partial answers]
+
+8. Name the album (description acceptable).
+
+ANSWER: __VOICES OF THE LIFESTREAM__ [accept the _OCREMIX_ tribute album
+for __FINAL FANTASY VII__; accept _OCR_ or _OVERCLOCKED REMIX_ in place
+of OCRemix; prompt on answers that mention _Final Fantasy VII_ and some
+notion of _remix_ing but not OCRemix specifically; obviously do not
+accept just “Final Fantasy VII soundtrack”]
+
+9. Name the game genre.
+
+ANSWER: collectible _CARD_ games [accept _CCG_s, prompt on “strategy”]
+
+10. Name the game.
+
+ANSWER: __KATAMARI DAMACY__
+
+11. Name the kind of location where you would hear these clips.
+
+ANSWER: _TOWER_s [accept more specific answers like _BATTLE TOWER_;
+prompt on “cemetery” or equivalent]
+
+12. Name the game.
+
+ANSWER: __HOTLINE MIAMI__
+
+13. Name the game.
+
+ANSWER: __KIRBY SUPER STAR__ [accept __KIRBY SUPER STAR ULTRA__; accept
+__KIRBY’S FUN PAK__ apparently]
+
+14. Name the game.
+
+ANSWER: __SILENT HILL 2__ [do not accept or prompt on partial answers]
+
+15. Name the series.
+
+ANSWER: _Professor _LAYTON__
+
+16. Name the game.
+
+ANSWER: __BRAVELY DEFAULT__
+
+17. Name the game.
+
+ANSWER: __MEGA MAN 2__ [or __ROCKMAN 2__, do not accept or prompt on
+partial answers]
+
+18. Name the character associated with these tracks.
+
+ANSWER: _VERGIL_ [or _NELO ANGELO_; or _NERO ANGELO_; do not accept
+"Nero"]
+
+19. Name the game. NOTE: One of the clips is taken from a “making of”
+video.
+
+ANSWER: __RED DEAD REDEMPTION__ [do not accept or prompt on partial
+answers]
+
+20. Name the game.
+
+ANSWER: __SUPER SMASH BROS.__ [accept __SUPER SMASH BROTHERS__, accept
+__SMASH 64__, prompt on partial answer, don’t accept any answer with
+“Melee” or “Brawl” in it]
+
+TIEBREAKERS
+
+1. Name the game.
+
+ANSWER: _Star Wars: _KNIGHTS OF THE OLD REPUBLIC__ [or _KOTOR_; prompt
+on "Star Wars"]
+
+2. Name the kind of building where you would hear the following.
+
+ANSWER: _POKÉMON LAB_oratories [accept any answer that mentions both
+_POKÉMON_ and some sort of _RESEARCH BUILDING_; prompt on partial
+answer; accept more specific answers indicating the owner of the lab
+such as Professor _OAK’S LAB_oratory]
+
+3. Name the type of setting for these games.
+
+ANSWER: haunted _MANSION_s [prompt on "houses"]

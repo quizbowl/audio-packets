@@ -1,11 +1,7 @@
 .DS_Store
 discord/
-muse/
-muses/
-eddie/
-eternalsonata/
 scoresheet/
-il*/play_il_packet.bash*
+*/play_il_packet.bash*
 gil*/stitch/snippets/
 gil*/stitch/dl/
 il4-old/

@@ -1,0 +1,3 @@
+The .mp3 files labelled 1.mp3 through 35.mp3 contain each question. "muses-spoilerfree.txt" contains only questions, whereas "muses.pdf" contains both questions and answers. "survey.pdf" is a copy of the survey handed out at the event. "scoresheet.xlsx" includes the scoresheet used at the event, the survey results, and a list of the pieces used in each question.
+
+If you plan on playing the set for yourself, I recommend leaving the audio files in the zip file, as extraction will reveal the answers.

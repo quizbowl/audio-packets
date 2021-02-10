@@ -1,0 +1,82 @@
+1. Name the sport.
+
+ANSWER: BOXING
+
+2. Name the game genre.
+
+ANSWER: PUZZLEs [prompt on “mobile games” or equivalent]
+
+3. Name the series.
+
+ANSWER: POKÉMON
+
+4. Name the game.
+
+ANSWER: BATTLETOADS
+
+5. Name the series.
+
+ANSWER: GOLDEN SUN
+
+6. Name the kind of animal.
+
+ANSWER: CHOCOBOs [accept more specific answers like BLACK CHOCOBO]
+
+7. Name the developing company.
+
+ANSWER: VALVE Corporation
+
+8. Name the city where you would hear these clips.
+
+ANSWER: HONG KONG [prompt on “Wan Chai”; prompt on “Kowloon (City)”]
+
+9. Name the game.
+
+ANSWER: DUCKTALES
+
+10. Name the game these tracks first appeared in.
+
+ANSWER: FALLOUT 3
+
+11. Name the game.
+
+ANSWER: MINECRAFT
+
+12. Name the developing company.
+
+ANSWER: BLIZZARD Entertainment [accept SILICON & SYNAPSE]
+
+13. Name the composer.
+
+ANSWER: Jake KAUFMAN [accept VIRT]
+
+14. Name the game.
+
+ANSWER: SUPER MARIO BROS. 3 [accept MARIO 3, MARIO BROS. 3,
+or SUPER MARIO ADVANCE 4; do not accept or prompt on any other
+answer]
+
+15. Name the type of creature featured in these games.
+
+ANSWER: ZOMBIEs
+
+16. Name the game.
+
+ANSWER: BANJO-KAZOOIE
+
+17. Name the game.
+
+ANSWER: BIONIC COMMANDO [accept HITLER’S REVIVAL: Top Secret
+though no one will say that]
+
+18. Name the character.
+
+ANSWER: RYU
+
+19. Name the game.
+
+ANSWER: The WITCHER 3: Wild Hunt
+
+20. Name the series.
+
+ANSWER: TOUHOU Project

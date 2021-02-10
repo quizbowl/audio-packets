@@ -1,0 +1,121 @@
+Muses
+Muses is an audio quizbowl set written at the difficulty of a regular-minus high school set. Muses
+consists of a single round of thirty-five tossup questions and zero bonuses. All questions are 60 seconds
+in length and consist of five or more audio clips of varying lengths. Muses is the sequel to Muse, which
+was first played as a side event at Triton Spring IV at the University of California, San Diego.
+
+Correctness Guidelines
+A. An answer that provides extraneous information shall be considered correct so long as all extraneous
+information is also correct.
+ex.
+If the answer is Daft Punk and the audio clip being played is the song “Get Lucky”:
+○ “Get Lucky” on Random Access Memories by Daft Punk
+× “Get Lucky” on Homework by Daft Punk
+B. Unique answer lines shall not be repeated; laterally equivalent answer lines (i.e. answer lines which
+contain common links) may be repeated indefinitely.
+ex.
+The following answer lines may all appear in a single round:
+○ “Bad Romance”
+○ Lady Gaga
+○ “Born This Way”
+○ New York City
+○ The Fame
+○ extended plays by Lady Gaga
+C. All questions will ask to name either the composer (this includes jazz composers), work (this includes
+films), type of work, type of work and composer (e.g. symphonies by Justin Bieber), nationality of the
+composers (e.g. Zimbabwe), or type of work and number (e.g. first symphonies).
+D. Questions on works or work types require the name or type of the work as a whole, rather than the
+name or type of a single movement or section (e.g. Beethoven’s ninth not “Ode to Joy”).
+
+Questions and Answers
+1. Name the composer.
+ANSWER: Claude Debussy (or Achille-Claude Debussy)
+2. Name the type of work and composer.
+ANSWER: symphonies by Wolfgang Amadeus Mozart (or symphonies by Johannes Chrysostomus
+Wolfgangus Theophilus Mozart)
+3. Name the work.
+ANSWER: Messiah (or HWV 56)
+4. Name the composer.
+ANSWER: Joseph Haydn (or Franz Joseph Haydn)
+
+5. Name the composer.
+ANSWER: Franz Liszt (or Liszt Ferenc)
+6. Name the type of work.
+ANSWER: preludes (or praeludium)
+7. Name the composer.
+ANSWER: Aaron Copland
+8. Name the composer.
+ANSWER: Johannes Brahms
+9. Name the composer.
+ANSWER: Gioachino Rossini (or Gioachino Antonio Rossini)
+10. Name the nationality of the composers.
+ANSWER: United States of America (accept either underlined part; or U.S.A.)
+11. Name the work.
+ANSWER: The Magic Flute (or Die Zauberflöte; or K. 620)
+12. Name the composer.
+ANSWER: Edvard Grieg (or Edvard Hagerup Grieg)
+13. Name the type of work.
+ANSWER: tone poems (or symphonic poems; do not accept “symphonies”)
+14. Name the composer.
+ANSWER: George Frideric Handel
+15. Name the work.
+ANSWER: Schindler's List
+16. Name the composer.
+ANSWER: Franz Schubert (or Franz Peter Schubert)
+17. Name the composer.
+ANSWER: Wolfgang Amadeus Mozart (or Johannes Chrysostomus Wolfgangus Theophilus Mozart)
+18. Name the composer.
+ANSWER: J.S. Bach (or Johann Sebastian Bach; do not accept “J.C. Bach”; do not accept “Johann
+Christian Bach”)
+19. Name the nationality of the composers.
+ANSWER: United Kingdom (or U.K.; or Britain; or United Kingdom of Great Britain and Northern Ireland;
+accept England; do not accept “Scotland”; do not accept “Alba”; do not accept “Wales”; do not accept
+“Cymru”; do not accept “Northern Ireland”; do not accept “Tuaisceart Éireann”)
+
+20. Name the type of work and composer.
+ANSWER: symphonies by Ludwig van Beethoven
+21. Name the composer.
+ANSWER: Camille Saint-Saëns (or Charles-Camille Saint-Saëns)
+22. Name the work.
+ANSWER: The Valkyrie (or Die Walküre; or WWV86B; prompt on “The Ring of the Nibelung”; prompt on
+“Der Ring des Nibelungen”; prompt on “The Ring”; prompt on “Der Ring”; prompt on “The Ring cycle”;
+prompt on “Der Ring cycle”; prompt on “WWV86”)
+23. Name the composer.
+ANSWER: Miles Davis (or Miles Dewey Davis III)
+24. Name the nationality of the composers.
+ANSWER: Russia (or Russian Federation; or Rossiya; or Rossiyskaya Federatsiya; accept Soviet Union;
+accept Sovetskij Soyuz; accept U.S.S.R.; accept S.S.S.R.; accept Union of Soviet Socialist Republics;
+accept Soyuz Sovetskikh Sotsialisticheskikh Respublik)
+25. Name the work.
+ANSWER: The Lion King (do not accept “The Lion King 1½”; do not accept “The Lion King II: Simba’s
+Pride”)
+26. Name the type of work and composer.
+ANSWER: piano sonatas by Wolfgang Amadeus Mozart (or piano sonatas by Johannes Chrysostomus
+Wolfgangus Theophilus Mozart; prompt on “sonatas by Wolfgang Amadeus Mozart”; prompt on
+“sonatas by Johannes Chrysostomus Wolfgangus Theophilus Mozart”)
+27. Name the composer.
+ANSWER: Nikolai Rimsky-Korsakov (or Nikolai Andreyevich Rimsky-Korsakov)
+28. Name the nationality of the composers.
+ANSWER: France (or French Republic; or République française)
+29. Name the type of work and number.
+ANSWER: fifth symphonies (or Symphonies No. 5)
+30. Name the composer.
+ANSWER: Antonín Dvořák (or Antonín Leopold Dvořák)
+31. Name the work.
+ANSWER: Spring (or La Primavera; or RV 269; or Op. 8, No. 1 by Antonio Lucio Vivaldi; prompt on “The
+Four Seasons”; prompt on “Le quattro stagioni”; prompt on “The Contest Between Harmony and
+Invention”; prompt on “Il cimento dell'armonia e dell'inventione”; prompt on “Op. 8”; prompt on “Op. 8,
+No. 1”; prompt on “Op. 8 by Antonio Lucio Vivaldi”)
+32. Name the composer.
+ANSWER: Felix Mendelssohn (or Jakob Ludwig Felix Mendelssohn Bartholdy)
+
+33. Name the composer.
+ANSWER: Ludwig van Beethoven
+34. Name the work.
+ANSWER: Rhapsody in Blue
+35. Name the work.
+ANSWER: The Nutcracker (or Shchelkunchik; or Casse-Noisette; or Op. 71 by Pyotr Ilyich Tchaikovsky; or
+TH 14; accept The Nutcracker Suite; accept Op. 71a by Pyotr Ilyich Tchaikovsky; accept TH 35; prompt
+on “Op. 71”; prompt on “Op. 71a”)
+
+

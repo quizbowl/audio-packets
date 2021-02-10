@@ -1,0 +1,27 @@
+ANSWER: Antonio (Lucio) _VIVALDI_
+ANSWER: Johann Sebastian _BACH_
+ANSWER: _The _PLANETS__, Op. 32 (or _OP. 32_ by Gustav (Theodore) _HOLST_, or _OP. 32_ by Gustavus Theodore von _HOLST_; prompt on partial answer)
+ANSWER: Peter Ilyich _TCHAIKOVSKY_ or Pyotr Ilyich _TCHAIKOVSKY_
+ANSWER: _SYMPHONY NO. 9_ in D minor, Op. 125 by Ludwig van _BEETHOVEN_ (or _OP. 125_ by Ludwig van _BEETHOVEN_, or __CHORAL SYMPHONY__; prompt on partial answer)
+ANSWER: _SYMPHONIES_ by (Franz) Joseph _HAYDN_ (prompt on partial answer)
+ANSWER: Wolfgang Amadeus _MOZART_ (or Johannes Chrysostomus Wolfgangus Theophilus _MOZART_)
+ANSWER: George Frideric _HANDEL_ (or Georg Friedrich _HÄNDEL_)
+ANSWER: _ÉTUDE_s
+ANSWER: Republic of _AUSTRIA_ (or Republik _ÖSTERREICH_)
+ANSWER: Frédéric (François) _CHOPIN_ (or Fryderyk (Franciszek) _SZOPEN_)
+ANSWER: Sergei (Vasilievich) _RACHMANINOFF_
+ANSWER: _PIANO SONATA NO. 14_ in C-sharp minor "Quasi una fantasia", Op. 27, No. 2 by Ludwig van _BEETHOVEN_ (or _OP. 27, NO. 2_ by Ludwig van _BEETHOVEN_, or __MOONLIGHT SONATA__; prompt on partial answer; prompt on “Quasi una fantasia”)
+ANSWER: Nikolai (Andreyevich) _RIMSKY-KORSAKOV_
+ANSWER: _SYMPHONY NO. 9_ in E minor, _From the New World_, Op. 95, B. 178 by Antonin (Leopold) _DVOŘÁK_ (or _OP. 95_ by Antonin (Leopold) _DVOŘÁK_, or __FROM THE NEW WORLD__, or _B. 178_, or _NEW WORLD SYMPHONY_; prompt on partial answer)
+ANSWER: Johannes _BRAHMS_
+ANSWER: _REQUIEM_ mass (do not accept “mass”)
+ANSWER: _FRANCE_ (or _FRENCH REPUBLIC_ or _RÉPUBLIQUE FRANÇAISE_)
+ANSWER: Edward (William) _ELGAR_
+ANSWER: _RHAPSODY IN BLUE_
+ANSWER: (Jakob Ludwig) Felix _MENDELSSOHN_ (Bartholdy)
+ANSWER: _UNITED STATES_ of _AMERICA_ or _U.S._A (accept any underlined portion)
+ANSWER: __PEER GYNT__, Op. 23 (or _OP. 23_ by Edvard (Hagerup) _GRIEG_; accept _SUITE NO. 1_, Op. 46 by Edvard (Hagerup) _GRIEG_, or _OP. 46_ by Edvard (Hagerup) _GRIEG_; accept _SUITE NO. 2_, Op. 55 by Edvard (Hagerup) _GRIEG_, or _OP. 55_ by Edvard (Hagerup) _GRIEG_)
+ANSWER: _PIANO SONATAS_ by Ludwig van _BEETHOVEN_ (prompt on partial answer)
+ANSWER: _SYMPHONIES_ by Wolfgang Amadeus _MOZART_ (or _SYMPHONIES_ by Johannes Chrysostomus Wolfgangus Theophilus _MOZART_; prompt on partial answer)
+ANSWER: Gioachino (Antonio) _ROSSINI_
+ANSWER: _RUSSIA_ (or _RUSSIAN FEDERATION_, or _ROSSIYA_, or _ROSSIYSKAYA FEDERATSIYA_)
