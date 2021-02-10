@@ -1,0 +1,63 @@
+Imaginary Landscape No. 5
+Round 5
+
+1. Name the piece.
+ANSWER: _Pastoral_ Symphony [or _Symphony No. 6_ by Ludwig van _Beethoven_]
+
+2. Name the composer.
+ANSWER: Max _Richter_
+
+3. Name the composer.
+ANSWER: Franz (Peter) _Schubert_
+
+4. Name the common city in which these works are set.
+ANSWER: _New York City_ [or _NYC_; anti-prompt on "Washington Heights", "Brooklyn", and other specific locations]
+
+5. Name the opera.
+ANSWER: _Tristan und Isolde_
+
+6. Name the piece.
+ANSWER: _Violin Concerto_ by Pyotr Ilyich _Tchaikovsky_
+
+7. Name the common object that appears in the titles of these songs.
+ANSWER: a _gun_ [accept machine _gun_]
+
+8. Name the work.
+ANSWER: The _Firebird_ [or L'_Oiseau de feu_]
+
+9. Name the singer-songwriter.
+ANSWER: David _Bowie_ [or David Robert _Jones_]
+
+10. Name the bandleader.
+ANSWER: Charles _Mingus_ (Jr.)
+
+11. Name the piece.
+ANSWER: _Enigma Variations_ [or _Variations on an Original Theme_ or _Elgar_'s _Op. 36_]
+
+12. Name the common event that appears in the titles of these pieces. For a piece with multiple movements, give the title of the overall work.
+ANSWER: _carnival_
+
+13. Name the country of origin of the composers of these works.
+ANSWER: _Russia_ [accept _Soviet Union_ or _USSR_]
+
+14. Name the composer.
+ANSWER: Giovanni (Pierluigi da) _Palestrina_
+
+15. Name the composer.
+ANSWER: (Josef) Anton _Bruckner_
+
+16. Name the composer.
+ANSWER: Franz _Liszt_ [or _Liszt_ Ferenc]
+
+17. Name the country of origin of the composers of these works.
+ANSWER: _France_ [or _French_ Republic or _République française_]
+
+18. Name the opera.
+ANSWER: _Lucia di Lammermoor_
+
+19. Name the country of origin of the composers of these works.
+ANSWER: _England_ [prompt on “UK” or "(Great) Britain" or “United Kingdom of Great Britain and Northern Ireland”]
+
+20. Name the genre.
+ANSWER: _variations_
+
