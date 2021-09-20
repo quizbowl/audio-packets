@@ -30,6 +30,11 @@ Currently rehosted without explicit permission. Links to forum threads and sourc
 * [Imaginary Landscape No. 5](https://hsquizbowl.org/forums/viewtopic.php?t=21583) (2019)
 * [Guerilla Imaginary Landscape 1](http://hsquizbowl.org/forums/viewtopic.php?f=8&t=21409) (2018)
 * [Guerilla Imaginary Landscape 2](http://hsquizbowl.org/forums/viewtopic.php?f=8&t=21409&p=357792#p357792) (2019)
+* [MARCATo](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24114) (2020)
+PAveMEnT
+Festivus Pop/Rap Audio Packets https://hsquizbowl.org/forums/viewtopic.php?f=311&t=24734
+MIKE
+LIBERACE
 * [SOUNDTRACK](http://hsquizbowl.org/forums/viewtopic.php?f=19&t=20359) (2018)
   * Source: [All packets](http://trash.quizbowlpackets.com/2176/)
 * [Eternal Sonata](http://hsquizbowl.org/forums/viewtopic.php?f=19&t=18713) (2016)
@@ -42,7 +47,7 @@ The original answerline documents are included, and have also been converted to 
 
 ### Script
 
-A bash script is included to make playing the packets easier (either by yourself, or in a group).
+A bash script (`play_il_packet.bash`) is included to make playing the packets easier (either by yourself, or in a group).
 It merely reads each question prompt out loud before playing the corresponding audio file, and goes through a single directory in order.
 
 This section assumes that you already know how to use a command line interface to change the directory and run a simple program.
@@ -53,6 +58,12 @@ To play packet 1 from Imaginary Landscape No. 1, for example:
 ```
 cd il1
 ../play_il_packet.bash 1
+```
+
+You can skip to a certain question (in case you quit by mistake). For example, to start playing packet 1 from question 6:
+
+```
+../play_il_packet.bash 1 6
 ```
 
 The script is controlled by the following commands:
@@ -71,11 +82,32 @@ The script can be configured by enabling the following flags:
 The script has the following requirements:
 
 * `say`: text-to-speech Mac built-in, for speaking the question prompts and answers
-* `mplayer`: open-source media player, for playing the audio files
+* `mplayer`: open-source media player, for playing the audio files (can install via [homebrew](https://brew.sh/))
+
+To determine the audio device ID, you can run a command such as `mplayer -ao coreaudio:device_id=help path/to/some/music.mp3`.
+
+### File structure
+
+The script expects the folders and packets to be formatted in a certain way. See examples in this repository.
+
+For each packet, there must be a folder of audio questions (`1/01.mp3`, `1/02.mp3`, etc.), a text file of prompts (`prompts/1.txt`) containing one line for each question (starting with `1. `, `2. `, etc.), and a text file of answers (containing one line for each answer (starting with `ANSWER: `). Thus, a question set `foo` with 2 packets of 3 questions each should have the following structure:
+
+```
+foo/1/01.mp3
+foo/1/02.mp3
+foo/1/03.mp3
+foo/2/01.mp3
+foo/2/02.mp3
+foo/2/03.mp3
+foo/answers/1.txt
+foo/answers/2.txt
+foo/prompts/1.txt
+foo/prompts/2.txt
+```
 
 ---
 
-## How to download
+## How to download questions
 
 The options are listed with the most recommended one first.
 
@@ -101,6 +133,10 @@ Search `how to play music through mic` on Google for more information on this to
 ### Mac
 
 Install [Soundflower](https://rogueamoeba.com/freebies/soundflower/) (a Mac extension for interapplication audio routing) and use `Soundflower (2ch)` as the virtual device. Change the media player output to `Soundflower (2ch)` and the Discord input to `Soundflower (2ch)`.
+
+Example settings for the Multi-Output Device (in the native Mac utility Audio MIDI Setup):
+
+<img src="audio-midi-settings.png" width="743" />
 
 ### Windows
 
