@@ -30,11 +30,6 @@ Currently rehosted without explicit permission. Links to forum threads and sourc
 * [Imaginary Landscape No. 5](https://hsquizbowl.org/forums/viewtopic.php?t=21583) (2019)
 * [Guerilla Imaginary Landscape 1](http://hsquizbowl.org/forums/viewtopic.php?f=8&t=21409) (2018)
 * [Guerilla Imaginary Landscape 2](http://hsquizbowl.org/forums/viewtopic.php?f=8&t=21409&p=357792#p357792) (2019)
-* [MARCATo](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24114) (2020)
-PAveMEnT
-Festivus Pop/Rap Audio Packets https://hsquizbowl.org/forums/viewtopic.php?f=311&t=24734
-MIKE
-LIBERACE
 * [SOUNDTRACK](http://hsquizbowl.org/forums/viewtopic.php?f=19&t=20359) (2018)
   * Source: [All packets](http://trash.quizbowlpackets.com/2176/)
 * [Eternal Sonata](http://hsquizbowl.org/forums/viewtopic.php?f=19&t=18713) (2016)
