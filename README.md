@@ -1,8 +1,13 @@
 ## Audio packets
 
+The audio files have been renamed to avoid spoilers.
+
+The original answerline documents are included, and have also been converted to plain text.
+
 ### Contents
 
-Currently rehosted without explicit permission. Links to forum threads and sources (which may not work anymore):
+Some sets currently rehosted without explicit permission.
+Links to forum threads and sources (which may not work anymore):
 
 * [Imaginary Landscape No. 1](http://hsquizbowl.org/forums/viewtopic.php?f=21&t=11623&p=219113#p219113) (2011)
   * Source:
@@ -35,11 +40,26 @@ Currently rehosted without explicit permission. Links to forum threads and sourc
 * [SOUNDTRACK 2](https://hsquizbowl.org/forums/viewtopic.php?t=26431) (2022)
 * [Eternal Sonata](http://hsquizbowl.org/forums/viewtopic.php?f=19&t=18713) (2016)
 * [Jonathan Magin’s Festivus Audio Packet](https://hsquizbowl.org/forums/viewtopic.php?f=311&t=24733) (2020)
-* other sets may be added later
+* others may be added later
 
-The audio files have been renamed to avoid spoilers.
+### Audio packets not archived here
 
-The original answerline documents are included, and have also been converted to plain text.
+Not an exhaustive list of all audio packets ever made, but hopefully useful:
+
+* [MARCATo](https://www.hsquizbowl.org/forums/viewtopic.php?t=24114) (2020)†
+* [PAveMEnT](https://www.hsquizbowl.org/forums/viewtopic.php?t=24401) (2020)†
+* [LIBERACE](https://www.hsquizbowl.org/forums/viewtopic.php?t=24822) (2021)†
+* [MIKE](https://www.hsquizbowl.org/forums/viewtopic.php?t=24628) (2021)†
+* [PAveMEnT II](https://www.hsquizbowl.org/forums/viewtopic.php?t=25868) (2021)†
+* [PAveMEnT Tapes Second Reading](https://www.hsquizbowl.org/forums/viewtopic.php?t=25642) (2021)
+* [Dede Allen](https://www.hsquizbowl.org/forums/viewtopic.php?t=25292) (2021)†
+* [PAveMEnT 3](https://hsquizbowl.org/forums/viewtopic.php?t=26401) (2022)
+  * Source: [GitHub repository](https://github.com/vcpavao/PAveMEnT3)
+* [DAN NI](https://www.hsquizbowl.org/forums/viewtopic.php?t=26578) (2022)
+* others may be added later
+
+† Defunct; formerly available exclusively via Qblitz before it shut down in October 2023.
+Unclear ownership or hosting rights at this point.
 
 ### Script
 
