@@ -58,8 +58,13 @@ Not an exhaustive list of all audio packets ever made, but hopefully useful:
 * [DAN NI](https://www.hsquizbowl.org/forums/viewtopic.php?t=26578) (2022)
 * others may be added later
 
-† Defunct; formerly available exclusively via Qblitz before it shut down in October 2023.
+† Defunct; formerly available exclusively via Qblitz before it shut down at some point before October 2023.
 Unclear ownership or hosting rights at this point.
+
+Upcoming (as of November 2023):
+
+* [World Music Audio Set](https://hsquizbowl.org/forums/viewtopic.php?t=26653)
+* [MEKONS](https://hsquizbowl.org/forums/viewtopic.php?t=27532)
 
 ### Script
 
