@@ -47,24 +47,27 @@ Links to forum threads and sources (which may not work anymore):
 Not an exhaustive list of all audio packets ever made, but hopefully useful:
 
 * [MARCATo](https://www.hsquizbowl.org/forums/viewtopic.php?t=24114) (2020)†
-* [PAveMEnT](https://www.hsquizbowl.org/forums/viewtopic.php?t=24401) (2020)†
+* [PAveMEnT](https://www.hsquizbowl.org/forums/viewtopic.php?t=24401) (2020)
+* [PAveMEnT II](https://www.hsquizbowl.org/forums/viewtopic.php?t=25868) (2021)
+* [PAveMEnT III](https://hsquizbowl.org/forums/viewtopic.php?t=26401) (2022)
+  * Source: [GitHub repository](https://github.com/vcpavao/Pavement-Music-Tournaments)
 * [LIBERACE](https://www.hsquizbowl.org/forums/viewtopic.php?t=24822) (2021)†
 * [MIKE](https://www.hsquizbowl.org/forums/viewtopic.php?t=24628) (2021)†
-* [PAveMEnT II](https://www.hsquizbowl.org/forums/viewtopic.php?t=25868) (2021)†
 * [PAveMEnT Tapes Second Reading](https://www.hsquizbowl.org/forums/viewtopic.php?t=25642) (2021)
 * [Dede Allen](https://www.hsquizbowl.org/forums/viewtopic.php?t=25292) (2021)†
-* [PAveMEnT 3](https://hsquizbowl.org/forums/viewtopic.php?t=26401) (2022)
-  * Source: [GitHub repository](https://github.com/vcpavao/PAveMEnT3)
+  * Source: [Google Drive](https://drive.google.com/file/d/1NzVsvb7AYayoAkPhr5OXdWKmo7AR2B0s/)
+* [Dede Allen 2](https://hsquizbowl.org/forums/viewtopic.php?t=27046) (2024)
 * [DAN NI](https://www.hsquizbowl.org/forums/viewtopic.php?t=26578) (2022)
+* [MEKONS](https://hsquizbowl.org/forums/viewtopic.php?t=27532) (2023)
+* [World Music Audio Set](https://hsquizbowl.org/forums/viewtopic.php?t=26653) (2023)
+* [Rhythm Heaven](https://hsquizbowl.org/forums/viewtopic.php?t=25660) (2023)
+  * Source: [Google Drive](https://drive.google.com/file/d/1PwV16Pv-QXtlUR44wsSU7oSBCA9_P-eC/)
+* [PSALM](https://hsquizbowl.org/forums/viewtopic.php?t=29326) (2025)
+* [Soundtracks for the Blind](https://hsquizbowl.org/forums/viewtopic.php?t=29163) (2025)
 * others may be added later
 
 † Defunct; formerly available exclusively via Qblitz before it shut down at some point before October 2023.
 Unclear ownership or hosting rights at this point.
-
-Upcoming (as of November 2023):
-
-* [World Music Audio Set](https://hsquizbowl.org/forums/viewtopic.php?t=26653)
-* [MEKONS](https://hsquizbowl.org/forums/viewtopic.php?t=27532)
 
 ### Script
 
